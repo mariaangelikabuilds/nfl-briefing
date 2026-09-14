@@ -9,7 +9,7 @@ const TEAM_ID = "4";
 const TEAM_ABBR = "CIN";
 const PRE_WINDOW_MS = 48 * 3600 * 1000;
 const STATE_PATH = "data/state.json";
-const PAGE_PATH = "public/index.html";
+const PAGE_PATH = "docs/index.html";
 const UA = { "User-Agent": "Mozilla/5.0 (briefing; personal, twice daily)" };
 
 async function fetchJson(url) {
@@ -215,7 +215,7 @@ async function main() {
     written_at: mustWrite ? now.toISOString() : state.written_at,
   };
 
-  await mkdir("public", { recursive: true });
+  await mkdir("docs", { recursive: true });
   await mkdir("data", { recursive: true });
   await writeFile(PAGE_PATH, renderPage({ now, next: withPerth(next), last: withPerth(last), division, briefing, writtenAt: nextState.written_at, season, teamAbbr: TEAM_ABBR }));
   await writeFile(STATE_PATH, JSON.stringify(nextState, null, 2) + "\n");
