@@ -1,0 +1,7 @@
+{
+  "framework": null,
+  "outputDirectory": "public",
+  "buildCommand": null,
+  "installCommand": null,
+  "github": { "silent": true }
+}

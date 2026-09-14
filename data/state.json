@@ -1,0 +1,45 @@
+{
+  "finals": [
+    "401872656",
+    "401872657",
+    "401872658",
+    "401872659",
+    "401872660",
+    "401872661",
+    "401872922",
+    "401872923",
+    "401872924",
+    "401872925",
+    "401872926",
+    "401872927",
+    "401872928",
+    "401872929",
+    "401872930"
+  ],
+  "briefing": {
+    "pregame": null,
+    "pregame_for": "401872934",
+    "postgame": {
+      "what_decided_it": "Cincinnati beat Tampa Bay 33-27 at home. The defence was the story. Per ESPN's recap, the Bengals forced four turnovers and scored one defensive touchdown.",
+      "standouts": [
+        "Joe Burrow: 25/35, 254 yards, 1 TD, 1 INT. Before the game he said it was \"put up or shut up time\" in an ESPN clip.",
+        "Mike Gesicki led the receivers with 5 catches for 78 yards and a touchdown.",
+        "Chase Brown carried 16 times for 56 yards and a score."
+      ],
+      "division_meaning": "The AFC North is tight. Baltimore, Cincinnati and Pittsburgh are all 1-0, Cleveland is 0-1. Baltimore leads on points difference at +18, Pittsburgh +7, Cincinnati +6.",
+      "question_for_banjo": "The headlines all credit the new defensive signings for this win. Did the defence actually look different to him, or was it just a messy day from Tampa Bay?"
+    },
+    "postgame_for": "401872925",
+    "league": {
+      "lines": [
+        " Chicago hammered Carolina 59-37, the wildest scoreline of the week. Bryce Young threw for 361 yards and 3 TDs in a loss.",
+        "Baltimore rolled Indianapolis 41-23. Derrick Henry ran 24 times for 144 yards and 3 TDs. They host New Orleans next, favoured by 8.5.",
+        "Buffalo beat Houston 36-31 on a late Josh Allen touchdown pass. Houston is Cincinnati's next opponent, and they open as 3-point favourites.",
+        "Denver at Kansas City is still to come, Tue 15 Sept 8:15 am Perth, with Kansas City favoured by 2.5 and a total of 43.5.",
+        "Detroit edged New Orleans 31-30 in overtime, then travel to Buffalo on Fri 18 Sept 8:15 am Perth. Buffalo -3.5, total 53.5.",
+        "Jaxson Dart threw 3 TDs as the Giants beat Dallas 28-20. The Giants' win-trolling of Dallas topped an ESPN Week 1 roundup."
+      ]
+    }
+  },
+  "written_at": "2026-09-14T12:20:27.714Z"
+}

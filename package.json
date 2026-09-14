@@ -1,0 +1,12 @@
+{
+  "name": "nfl-briefing",
+  "version": "1.0.0",
+  "scripts": {},
+  "license": "UNLICENSED",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.125.0",
+    "zod": "^4.6.5"
+  }
+}
