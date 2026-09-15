@@ -77,6 +77,7 @@ function divisionBlock(division, teamAbbr) {
 }
 
 function leagueBlock(league) {
+  if (!league?.lines?.length) return "";
   return `<section class="card"><h2>Around the league</h2><ul>${league.lines.map((l) => `<li>${esc(l)}</li>`).join("")}</ul></section>`;
 }
 

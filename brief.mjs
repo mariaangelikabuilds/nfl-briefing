@@ -207,23 +207,27 @@ function withPerth(g) {
 
 async function askClaude(facts) {
   const client = new Anthropic();
-  const res = await client.messages.create({
-    model: "claude-opus-5",
-    max_tokens: 16000,
-    system: SYSTEM,
-    messages: [{ role: "user", content: JSON.stringify(facts) }],
-    output_config: { format: zodOutputFormat(Briefing), effort: "medium" },
-  });
-  console.log(`claude stop=${res.stop_reason} in=${res.usage.input_tokens} out=${res.usage.output_tokens}`);
-  if (res.stop_reason === "refusal") throw new Error("model refused the briefing request");
-  if (res.stop_reason === "max_tokens") throw new Error("briefing truncated at max_tokens");
-  const text = res.content.filter((b) => b.type === "text").map((b) => b.text).join("");
-  const parsed = Briefing.safeParse(JSON.parse(text));
-  if (!parsed.success) {
+  const messages = [{ role: "user", content: JSON.stringify(facts) }];
+  for (let attempt = 1; attempt <= 2; attempt += 1) {
+    const res = await client.messages.create({
+      model: "claude-opus-5",
+      max_tokens: 16000,
+      system: SYSTEM,
+      messages,
+      output_config: { format: zodOutputFormat(Briefing), effort: "medium" },
+    });
+    console.log(`claude attempt ${attempt} stop=${res.stop_reason} in=${res.usage.input_tokens} out=${res.usage.output_tokens}`);
+    if (res.stop_reason === "refusal") throw new Error("model refused the briefing request");
+    if (res.stop_reason === "max_tokens") throw new Error("briefing truncated at max_tokens");
+    const text = res.content.filter((b) => b.type === "text").map((b) => b.text).join("");
+    const parsed = Briefing.safeParse(JSON.parse(text));
+    if (parsed.success) return parsed.data;
+    const issues = parsed.error.issues.map((i) => i.path.join(".") + " " + i.message).join("; ");
     await writeFile("data/last-raw.txt", text);
-    throw new Error(`briefing failed validation, raw saved to data/last-raw.txt: ${parsed.error.issues.map((i) => i.path.join(".") + " " + i.message).join("; ")}`);
+    if (attempt === 2) throw new Error(`briefing failed validation twice: ${issues}`);
+    console.log(`retrying, previous answer failed validation: ${issues}`);
+    messages.push({ role: "assistant", content: text }, { role: "user", content: `That answer failed validation: ${issues}. Return the complete object. The league lines are required every time, three to six of them, drawn from league_games and the news in the facts.` });
   }
-  return parsed.data;
 }
 
 async function main() {
@@ -254,7 +258,8 @@ async function main() {
     league_games: season.filter((g) => g.week === currentWeek || g.week === currentWeek - 1).filter((g) => !involves(g)).map(withPerth),
   };
 
-  const fresh = mustWrite ? await askClaude(facts) : null;
+  let modelError = null;
+  const fresh = mustWrite ? await askClaude(facts).catch((err) => { modelError = err; return null; }) : null;
   const kept = state.briefing ?? {};
   const briefing = fresh
     ? {
@@ -264,12 +269,13 @@ async function main() {
         postgame_for: last?.id ?? null,
         league: fresh.league,
       }
-    : kept;
+    : { league: { lines: [] }, ...kept };
 
   const nextState = {
-    finals,
+    finals: modelError ? state.finals ?? [] : finals,
     briefing,
-    written_at: mustWrite ? now.toISOString() : state.written_at,
+    written_at: fresh ? now.toISOString() : state.written_at ?? now.toISOString(),
+    last_error: modelError ? { at: now.toISOString(), message: modelError.message } : null,
   };
 
   await mkdir("docs", { recursive: true });
@@ -278,7 +284,11 @@ async function main() {
   await writeFile(PAGE_PATH, renderPage({ now, next: withPerth(next), last: withPerth(last), division, conference, box, news: { bengals: bengalsNews, opponent: opponentNews, opponentName }, week: currentWeek, briefing, writtenAt: nextState.written_at, season, teamAbbr: TEAM_ABBR }));
   await writeFile(STATE_PATH, JSON.stringify(nextState, null, 2) + "\n");
   await writeFile("data/last-facts.json", JSON.stringify(facts, null, 2) + "\n");
-  console.log(`${mustWrite ? "wrote" : "kept"} briefing; pre=${preDue} post=${postDue} newFinals=${newFinals}; next=${next?.detail ?? "none"}; last=${last?.detail ?? "none"}`);
+  console.log(`${fresh ? "wrote" : "kept"} briefing; pre=${preDue} post=${postDue} newFinals=${newFinals}; next=${next?.detail ?? "none"}; last=${last?.detail ?? "none"}`);
+  if (modelError) {
+    console.error(`::error::model call failed, page refreshed with the previous write-up: ${modelError.message}`);
+    process.exit(1);
+  }
 }
 
 main().catch((err) => {

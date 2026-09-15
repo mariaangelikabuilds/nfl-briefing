@@ -1,5 +1,4 @@
 node_modules/
 .env
 .vercel/
-
-.vercel
+data/last-raw.txt

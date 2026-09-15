@@ -1,5 +1,5 @@
 {
-  "now_perth": "Tue, 15 Sept, 6:08 pm",
+  "now_perth": "Tue, 15 Sept, 6:10 pm",
   "bengals_next": {
     "id": "401872934",
     "week": 2,
@@ -281,6 +281,12 @@
   },
   "news_bengals": [
     {
+      "headline": "Cashing in: Bengals rookie Howell impacts pass rush",
+      "summary": "Howell believes the SEC made him ready for moments such as Sunday, when he had four QB pressures in the Bengals' win.",
+      "published": "2026-09-15T10:00:02Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49944548/cincinnati-bengals-cashius-howell-impact"
+    },
+    {
       "headline": "How active NFL players continue to redefine all-time sack list",
       "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
       "published": "2026-09-14T14:35:46Z",
@@ -321,12 +327,6 @@
       "summary": "— Coach Zac Taylor and the Cincinnati Bengals talked all offseason about how their defensive acquisitions would have a huge impact.",
       "published": "2026-09-13T22:39:46Z",
       "url": "http://www.espn.com/nfl/recap?gameId=401872925"
-    },
-    {
-      "headline": "Tampa Bay Buccaneers vs. Cincinnati Bengals: Game Highlights",
-      "summary": "\n",
-      "published": "2026-09-13T20:21:46Z",
-      "url": "https://www.espn.com/video/clip/_/id/49931827/game-highlights"
     }
   ],
   "news_opponent": [

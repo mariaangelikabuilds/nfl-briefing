@@ -26,9 +26,11 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       - name: commit the page
+        if: always()
         run: |
           git config user.name "briefing bot"
           git config user.email "briefing-bot@users.noreply.github.com"
           git add docs data
+          git diff --cached --quiet && echo "nothing to commit" && exit 0
           git commit -m "brief: $(date -u +%Y-%m-%dT%H:%MZ)"
           git push
