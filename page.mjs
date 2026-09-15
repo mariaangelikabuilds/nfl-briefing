@@ -1,3 +1,7 @@
+import { slateBlock, standingsBlock, boxscoreBlock, headlinesBlock, LIVE_SCRIPT } from "./sections.mjs";
+
+const AU_TV = "In Perth: every game on NFL Game Pass; at least six a week on ESPN via Kayo, Foxtel or Disney+; Seven shows three Sunday games (Monday morning here) and Thursday night free on 7mate and 7plus.";
+
 const esc = (s) => String(s ?? "").trim().replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
 function scoreline(g, teamAbbr) {
@@ -22,21 +26,27 @@ function matchupLine(g, teamAbbr) {
 
 function nextBlock(next, pregame, teamAbbr) {
   if (!next) return `<section class="card"><h2>Next game</h2><p>No Bengals game left on the schedule.</p></section>`;
+  const ml = next.moneyline && (next.moneyline.away || next.moneyline.home) ? `, moneyline ${esc(next.away.abbr)} ${esc(next.moneyline.away)} / ${esc(next.home.abbr)} ${esc(next.moneyline.home)}` : "";
+  const weather = next.weather ? `${esc(next.weather.text)}${next.weather.tempC != null ? `, ${next.weather.tempC}°C` : ""}` : "";
   const facts = [
-    `<dt>Kickoff</dt><dd>${esc(next.kickoff_perth)} Perth</dd>`,
-    next.line ? `<dt>Line</dt><dd>${esc(next.line)}${next.overUnder ? `, total ${esc(next.overUnder)}` : ""}</dd>` : "",
+    `<dt>Kickoff</dt><dd>${esc(next.kickoff_perth)} Perth${next.timeValid ? ` <span class="countdown" id="countdown" data-kick="${esc(next.kickoff)}"></span>` : ""}</dd>`,
+    next.line ? `<dt>Line</dt><dd>${esc(next.line)}${next.overUnder ? `, total ${esc(next.overUnder)}` : ""}${ml}</dd>` : "",
     next.venue ? `<dt>Where</dt><dd>${esc(next.venue)}${next.city ? `, ${esc(next.city)}` : ""}</dd>` : "",
-    next.tv.length ? `<dt>TV (US)</dt><dd>${esc(next.tv.join(", "))}</dd>` : "",
+    weather ? `<dt>Weather</dt><dd>${weather}</dd>` : "",
+    next.tv.length ? `<dt>US TV</dt><dd>${esc(next.tv.join(", "))}</dd>` : "",
   ].join("");
   const body = pregame
     ? `<p class="lead">${esc(pregame.matchup_read)}</p>
        <ul>${pregame.storylines.map((s) => `<li>${esc(s)}</li>`).join("")}</ul>
-       <h3>Ask him</h3>
-       <ol>${pregame.questions_for_banjo.map((q) => `<li>${esc(q)}</li>`).join("")}</ol>`
-    : `<p class="muted">Briefing lands within two days of kickoff.</p>`;
+       <h3>Watch for</h3>
+       <ol>${pregame.watch_for.map((q) => `<li>${esc(q)}</li>`).join("")}</ol>
+       <h3>The call</h3>
+       <p class="q">${esc(pregame.the_call)}</p>`
+    : `<p class="muted">The preview lands within two days of kickoff.</p>`;
   return `<section class="card">
     <h2>Next: ${esc(matchupLine(next, teamAbbr))}</h2>
     <dl class="facts">${facts}</dl>
+    <p class="tv">${esc(AU_TV)}</p>
     ${body}
   </section>`;
 }
@@ -48,8 +58,8 @@ function lastBlock(last, postgame, teamAbbr) {
     ? `<p class="lead">${esc(postgame.what_decided_it)}</p>
        <ul>${postgame.standouts.map((s) => `<li>${esc(s)}</li>`).join("")}</ul>
        <p>${esc(postgame.division_meaning)}</p>
-       <h3>Ask him</h3>
-       <p class="q">${esc(postgame.question_for_banjo)}</p>`
+       <h3>The take</h3>
+       <p class="q">${esc(postgame.the_take)}</p>`
     : `<p class="muted">Recap lands on the next run.</p>`;
   return `<section class="card">
     <h2>Last: ${esc(scoreline(last, teamAbbr))}</h2>
@@ -84,7 +94,7 @@ function scheduleBlock(season, teamAbbr) {
 const perth = (d) =>
   new Intl.DateTimeFormat("en-AU", { timeZone: "Australia/Perth", weekday: "short", day: "numeric", month: "short", hour: "numeric", minute: "2-digit", hour12: true }).format(new Date(d));
 
-export function renderPage({ now, next, last, division, briefing, writtenAt, season, teamAbbr }) {
+export function renderPage({ now, next, last, division, conference, box, news, week, briefing, writtenAt, season, teamAbbr }) {
   const perthDay = (d) => new Intl.DateTimeFormat("en-AU", { timeZone: "Australia/Perth", weekday: "short", day: "numeric", month: "short" }).format(new Date(d));
   const seasonPerth = season.map((g) => ({ ...g, kickoff_perth: g.timeValid ? perth(g.kickoff) : `${perthDay(g.kickoff)}, time TBD` }));
   return `<!doctype html>
@@ -92,6 +102,7 @@ export function renderPage({ now, next, last, division, briefing, writtenAt, sea
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-title" content="Bengals">
 <meta name="robots" content="noindex">
 <title>Bengals briefing</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -122,6 +133,22 @@ export function renderPage({ now, next, last, division, briefing, writtenAt, sea
   td:last-child { text-align: right; white-space: nowrap; }
   tr.me td { color: var(--orange); font-weight: 600; }
   tr.done td { color: var(--muted); }
+  .for { margin: 2px 0 0; color: var(--muted); font-size: 14px; }
+  .countdown { color: var(--orange); font-weight: 600; margin-left: 6px; }
+  .tv { color: var(--muted); font-size: 14px; margin: -6px 0 16px; }
+  table.slate td:nth-child(2) { text-align: right; font-weight: 600; white-space: nowrap; }
+  table.slate tr.live td:nth-child(2), table.slate tr.live td:nth-child(3) { color: var(--orange); }
+  table.slate .away, table.slate .home { font-weight: 600; }
+  table.box th { font-weight: 400; color: var(--muted); text-align: center; padding: 8px 6px; border-bottom: 1px solid var(--line); font-size: 14px; }
+  table.box thead th { font-weight: 700; color: var(--paper); font-family: "Bricolage Grotesque", sans-serif; font-size: 18px; }
+  table.box td { text-align: center; font-weight: 600; width: 30%; }
+  table.box td:last-child { text-align: center; }
+  ul.lines { list-style: none; padding: 0; margin: 0 0 8px; font-size: 15px; }
+  ul.lines li { margin: 4px 0; }
+  ul.news { list-style: none; padding: 0; margin: 0; }
+  ul.news li { margin: 0 0 14px; }
+  ul.news a { font-weight: 600; text-decoration: none; border-bottom: 1px solid var(--orange); }
+  ul.news span { display: block; color: var(--muted); font-size: 14px; margin-top: 2px; }
   footer { color: var(--muted); font-size: 13px; margin-top: 40px; }
   a { color: inherit; }
 </style>
@@ -129,16 +156,20 @@ export function renderPage({ now, next, last, division, briefing, writtenAt, sea
 <body>
 <main>
   <header>
-    <h1>Bengals briefing</h1>
+    <div><h1>Bengals briefing</h1><p class="for">for Banjo</p></div>
     <time datetime="${esc(now.toISOString())}">checked ${esc(perth(now))} Perth</time>
   </header>
   ${nextBlock(next, briefing.pregame, teamAbbr)}
   ${lastBlock(last, briefing.postgame, teamAbbr)}
-  ${divisionBlock(division, teamAbbr)}
+  ${boxscoreBlock(box, teamAbbr)}
+  ${slateBlock(seasonPerth.filter((g) => g.week === week), week, teamAbbr)}
+  ${standingsBlock(conference, teamAbbr)}
+  ${headlinesBlock(news.bengals, news.opponent, news.opponentName)}
   ${leagueBlock(briefing.league)}
   ${scheduleBlock(seasonPerth, teamAbbr)}
-  <footer>Briefing written ${esc(perth(writtenAt))} Perth. Scores and schedule from ESPN's public feeds; times in Perth (AWST). Written for Angel, twice a day.</footer>
+  <footer>Briefing written ${esc(perth(writtenAt))} Perth. Scores, schedule, odds and stats from ESPN's public feeds; times in Perth (AWST). Written for Banjo, twice a day.</footer>
 </main>
+<script>${LIVE_SCRIPT}</script>
 </body>
 </html>
 `;

@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-title" content="Bengals">
 <meta name="robots" content="noindex">
 <title>Bengals briefing</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -33,6 +34,22 @@
   td:last-child { text-align: right; white-space: nowrap; }
   tr.me td { color: var(--orange); font-weight: 600; }
   tr.done td { color: var(--muted); }
+  .for { margin: 2px 0 0; color: var(--muted); font-size: 14px; }
+  .countdown { color: var(--orange); font-weight: 600; margin-left: 6px; }
+  .tv { color: var(--muted); font-size: 14px; margin: -6px 0 16px; }
+  table.slate td:nth-child(2) { text-align: right; font-weight: 600; white-space: nowrap; }
+  table.slate tr.live td:nth-child(2), table.slate tr.live td:nth-child(3) { color: var(--orange); }
+  table.slate .away, table.slate .home { font-weight: 600; }
+  table.box th { font-weight: 400; color: var(--muted); text-align: center; padding: 8px 6px; border-bottom: 1px solid var(--line); font-size: 14px; }
+  table.box thead th { font-weight: 700; color: var(--paper); font-family: "Bricolage Grotesque", sans-serif; font-size: 18px; }
+  table.box td { text-align: center; font-weight: 600; width: 30%; }
+  table.box td:last-child { text-align: center; }
+  ul.lines { list-style: none; padding: 0; margin: 0 0 8px; font-size: 15px; }
+  ul.lines li { margin: 4px 0; }
+  ul.news { list-style: none; padding: 0; margin: 0; }
+  ul.news li { margin: 0 0 14px; }
+  ul.news a { font-weight: 600; text-decoration: none; border-bottom: 1px solid var(--orange); }
+  ul.news span { display: block; color: var(--muted); font-size: 14px; margin-top: 2px; }
   footer { color: var(--muted); font-size: 13px; margin-top: 40px; }
   a { color: inherit; }
 </style>
@@ -40,28 +57,102 @@
 <body>
 <main>
   <header>
-    <h1>Bengals briefing</h1>
-    <time datetime="2026-09-14T12:24:53.421Z">checked Mon, 14 Sept, 8:24 pm Perth</time>
+    <div><h1>Bengals briefing</h1><p class="for">for Banjo</p></div>
+    <time datetime="2026-09-15T10:05:57.757Z">checked Tue, 15 Sept, 6:05 pm Perth</time>
   </header>
   <section class="card">
     <h2>Next: at Houston Texans (0-1)</h2>
-    <dl class="facts"><dt>Kickoff</dt><dd>Mon, 21 Sept, 1:00 am Perth</dd><dt>Line</dt><dd>HOU -3, total 46.5</dd><dt>Where</dt><dd>Reliant Stadium, Houston</dd></dl>
-    <p class="muted">Briefing lands within two days of kickoff.</p>
+    <dl class="facts"><dt>Kickoff</dt><dd>Mon, 21 Sept, 1:00 am Perth <span class="countdown" id="countdown" data-kick="2026-09-20T17:00Z"></span></dd><dt>Line</dt><dd>HOU -3, total 46.5, moneyline CIN +124 / HOU -148</dd><dt>Where</dt><dd>Reliant Stadium, Houston</dd><dt>Weather</dt><dd>Mostly sunny, 32°C</dd><dt>US TV</dt><dd>CBS</dd></dl>
+    <p class="tv">In Perth: every game on NFL Game Pass; at least six a week on ESPN via Kayo, Foxtel or Disney+; Seven shows three Sunday games (Monday morning here) and Thursday night free on 7mate and 7plus.</p>
+    <p class="muted">The preview lands within two days of kickoff.</p>
   </section>
   <section class="card">
     <h2>Last: CIN 33 beat TB 27</h2>
     <p class="when">Week 1, Mon, 14 Sept, 1:00 am Perth</p>
     <ul class="leaders"><li><b>Joe Burrow</b> 25/35, 254 YDS, 1 TD, 1 INT</li><li><b>Chase Brown</b> 16 CAR, 56 YDS, 1 TD</li><li><b>Mike Gesicki</b> 5 REC, 78 YDS, 1 TD</li></ul>
-    <p class="lead">Cincinnati beat Tampa Bay 33-27 at home. The defence was the story. Per ESPN's recap, the Bengals forced four turnovers and scored one defensive touchdown.</p>
-       <ul><li>Joe Burrow: 25/35, 254 yards, 1 TD, 1 INT. Before the game he said it was &quot;put up or shut up time&quot; in an ESPN clip.</li><li>Mike Gesicki led the receivers with 5 catches for 78 yards and a touchdown.</li><li>Chase Brown carried 16 times for 56 yards and a score.</li></ul>
-       <p>The AFC North is tight. Baltimore, Cincinnati and Pittsburgh are all 1-0, Cleveland is 0-1. Baltimore leads on points difference at +18, Pittsburgh +7, Cincinnati +6.</p>
-       <h3>Ask him</h3>
-       <p class="q">The headlines all credit the new defensive signings for this win. Did the defence actually look different to him, or was it just a messy day from Tampa Bay?</p>
+    <p class="lead">Turnovers. Tampa lost four fumbles and Cincinnati scored a defensive touchdown. The Bengals also won the possession battle 31:25 to 28:35 and went 8-14 on third down.</p>
+       <ul><li>Joe Burrow: 25/35, 254 yds, 1 TD, 1 INT. Efficient, not spectacular, 6.8 yards per pass.</li><li>Mike Gesicki: 5 rec, 78 yds, 1 TD. Team high in receiving.</li><li>Chase Brown: 16 car, 56 yds, 1 TD in a 106-yard rushing day.</li></ul>
+       <p>Three-way tie at the top. Baltimore 1-0 at +18, Cincinnati 1-0 at +6, Pittsburgh 1-0 at +7. Cleveland is 0-1 at -24 after losing 34-10 at Jacksonville.</p>
+       <h3>The take</h3>
+       <p class="q">Four forced fumbles is not a repeatable plan. Cincinnati only out-gained Tampa 351 to 282 and went 2-5 in the red zone. Clean that up or Houston is a problem.</p>
   </section>
-  <section class="card"><h2>AFC North</h2><table><tbody><tr><td>Baltimore Ravens</td><td>1-0</td><td>W1</td></tr><tr class="me"><td>Cincinnati Bengals</td><td>1-0</td><td>W1</td></tr><tr><td>Pittsburgh Steelers</td><td>1-0</td><td>W1</td></tr><tr><td>Cleveland Browns</td><td>0-1</td><td>L1</td></tr></tbody></table></section>
-  <section class="card"><h2>Around the league</h2><ul><li>Chicago hammered Carolina 59-37, the wildest scoreline of the week. Bryce Young threw for 361 yards and 3 TDs in a loss.</li><li>Baltimore rolled Indianapolis 41-23. Derrick Henry ran 24 times for 144 yards and 3 TDs. They host New Orleans next, favoured by 8.5.</li><li>Buffalo beat Houston 36-31 on a late Josh Allen touchdown pass. Houston is Cincinnati's next opponent, and they open as 3-point favourites.</li><li>Denver at Kansas City is still to come, Tue 15 Sept 8:15 am Perth, with Kansas City favoured by 2.5 and a total of 43.5.</li><li>Detroit edged New Orleans 31-30 in overtime, then travel to Buffalo on Fri 18 Sept 8:15 am Perth. Buffalo -3.5, total 53.5.</li><li>Jaxson Dart threw 3 TDs as the Giants beat Dallas 28-20. The Giants' win-trolling of Dallas topped an ESPN Week 1 roundup.</li></ul></section>
-  <section class="card"><h2>Bengals season</h2><table><tbody><tr class="done"><td>1</td><td>vs Tampa Bay Buccaneers (0-1)</td><td>W 33-27</td></tr><tr class=""><td>2</td><td>at Houston Texans (0-1)</td><td>Mon, 21 Sept, 1:00 am</td></tr><tr class=""><td>3</td><td>at Pittsburgh Steelers (1-0)</td><td>Mon, 28 Sept, 1:00 am</td></tr><tr class=""><td>4</td><td>vs Jacksonville Jaguars (1-0)</td><td>Mon, 5 Oct, 1:00 am</td></tr><tr class=""><td>5</td><td>at Miami Dolphins (0-1)</td><td>Mon, 12 Oct, 1:00 am</td></tr><tr class=""><td>7</td><td>at Baltimore Ravens (1-0)</td><td>Mon, 26 Oct, 1:00 am</td></tr><tr class=""><td>8</td><td>vs Tennessee Titans (0-1)</td><td>Mon, 2 Nov, 2:00 am</td></tr><tr class=""><td>9</td><td>at Atlanta Falcons (0-1)</td><td>Sun, 8 Nov, 10:30 pm</td></tr><tr class=""><td>10</td><td>vs Pittsburgh Steelers (1-0)</td><td>Mon, 16 Nov, 9:20 am</td></tr><tr class=""><td>11</td><td>at Washington Commanders (0-1)</td><td>Tue, 24 Nov, 9:15 am</td></tr><tr class=""><td>12</td><td>vs New Orleans Saints (0-1)</td><td>Mon, 30 Nov, 2:00 am</td></tr><tr class=""><td>13</td><td>at Cleveland Browns (0-1)</td><td>Mon, 7 Dec, 2:00 am</td></tr><tr class=""><td>14</td><td>vs Kansas City Chiefs (0-0)</td><td>Mon, 14 Dec, 5:25 am</td></tr><tr class=""><td>15</td><td>at Carolina Panthers (0-1)</td><td>Mon, 21 Dec, 2:00 am</td></tr><tr class=""><td>16</td><td>at Indianapolis Colts (0-1)</td><td>Sun, 27 Dec, time TBD</td></tr><tr class=""><td>17</td><td>vs Baltimore Ravens (1-0)</td><td>Fri, 1 Jan, 9:15 am</td></tr><tr class=""><td>18</td><td>vs Cleveland Browns (0-1)</td><td>Sun, 10 Jan, time TBD</td></tr></tbody></table></section>
-  <footer>Briefing written Mon, 14 Sept, 8:20 pm Perth. Scores and schedule from ESPN's public feeds; times in Perth (AWST). Written for Angel, twice a day.</footer>
+  <section class="card"><h2>Box score</h2>
+    <table class="box"><thead><tr><th>TB</th><th></th><th>CIN</th></tr></thead><tbody><tr><td>282</td><th scope="row">Total yards</th><td>351</td></tr><tr><td>193</td><th scope="row">Passing yards</th><td>245</td></tr><tr><td>89</td><th scope="row">Rushing yards</th><td>106</td></tr><tr><td>19</td><th scope="row">First downs</th><td>26</td></tr><tr><td>5-10</td><th scope="row">Third downs</th><td>8-14</td></tr><tr><td>4</td><th scope="row">Turnovers</th><td>1</td></tr><tr><td>4-23</td><th scope="row">Sacked</th><td>1-9</td></tr><tr><td>8-39</td><th scope="row">Penalties</th><td>7-47</td></tr><tr><td>28:35</td><th scope="row">Possession</th><td>31:25</td></tr></tbody></table>
+    <h3>Passing</h3><ul class="lines"><li><b>Joe Burrow</b> 25/35, 254 yds, 1 TD, 1 INT</li></ul><h3>Rushing</h3><ul class="lines"><li><b>Chase Brown</b> 16 car, 56 yds, 1 TD</li><li><b>Samaje Perine</b> 5 car, 20 yds, 0 TD</li><li><b>Joe Burrow</b> 5 car, 20 yds, 0 TD</li></ul><h3>Receiving</h3><ul class="lines"><li><b>Mike Gesicki</b> 5 rec, 78 yds, 1 TD</li><li><b>Tee Higgins</b> 3 rec, 59 yds, 0 TD</li><li><b>Samaje Perine</b> 3 rec, 30 yds, 0 TD</li></ul>
+  </section>
+  <section class="card" id="slate" data-week="2">
+    <h2>Week 2 slate</h2>
+    <p class="when">Every game this week, Perth time. Scores refresh when you open the page on game day.</p>
+    <table class="slate"><tbody><tr data-id="401872932">
+        <td><span class="away">DET</span> at <span class="home">BUF</span></td>
+        <td class="score">BUF -4.5</td>
+        <td class="status">Fri 8:15 am</td></tr><tr data-id="401872933">
+        <td><span class="away">CAR</span> at <span class="home">ATL</span></td>
+        <td class="score">CAR -1.5</td>
+        <td class="status">Mon 1:00 am</td></tr><tr data-id="401872937">
+        <td><span class="away">MIN</span> at <span class="home">CHI</span></td>
+        <td class="score">CHI -5.5</td>
+        <td class="status">Mon 1:00 am</td></tr><tr data-id="401872939">
+        <td><span class="away">PHI</span> at <span class="home">TEN</span></td>
+        <td class="score">PHI -7</td>
+        <td class="status">Mon 1:00 am</td></tr><tr data-id="401872946">
+        <td><span class="away">PIT</span> at <span class="home">NE</span></td>
+        <td class="score">NE -5.5</td>
+        <td class="status">Mon 1:00 am</td></tr><tr data-id="401872936">
+        <td><span class="away">GB</span> at <span class="home">NYJ</span></td>
+        <td class="score">GB -4.5</td>
+        <td class="status">Mon 1:00 am</td></tr><tr data-id="401872935">
+        <td><span class="away">CLE</span> at <span class="home">TB</span></td>
+        <td class="score">TB -8.5</td>
+        <td class="status">Mon 1:00 am</td></tr><tr data-id="401872938">
+        <td><span class="away">NO</span> at <span class="home">BAL</span></td>
+        <td class="score">BAL -8.5</td>
+        <td class="status">Mon 1:00 am</td></tr><tr data-id="401872934" class="me">
+        <td><span class="away">CIN</span> at <span class="home">HOU</span></td>
+        <td class="score">HOU -3</td>
+        <td class="status">Mon 1:00 am</td></tr><tr data-id="401872940">
+        <td><span class="away">JAX</span> at <span class="home">DEN</span></td>
+        <td class="score">DEN -2.5</td>
+        <td class="status">Mon 4:05 am</td></tr><tr data-id="401872941">
+        <td><span class="away">LV</span> at <span class="home">LAC</span></td>
+        <td class="score">LAC -7</td>
+        <td class="status">Mon 4:05 am</td></tr><tr data-id="401872944">
+        <td><span class="away">WSH</span> at <span class="home">DAL</span></td>
+        <td class="score">DAL -3.5</td>
+        <td class="status">Mon 4:25 am</td></tr><tr data-id="401872943">
+        <td><span class="away">SEA</span> at <span class="home">ARI</span></td>
+        <td class="score">SEA -4.5</td>
+        <td class="status">Mon 4:25 am</td></tr><tr data-id="401872942">
+        <td><span class="away">MIA</span> at <span class="home">SF</span></td>
+        <td class="score">SF -13.5</td>
+        <td class="status">Mon 4:25 am</td></tr><tr data-id="401872945">
+        <td><span class="away">IND</span> at <span class="home">KC</span></td>
+        <td class="score">KC -6.5</td>
+        <td class="status">Mon 8:20 am</td></tr><tr data-id="401872947">
+        <td><span class="away">NYG</span> at <span class="home">LAR</span></td>
+        <td class="score">LAR -7</td>
+        <td class="status">Tue 8:15 am</td></tr></tbody></table>
+  </section>
+  <section class="card"><h2>American Football Conference</h2><h3>AFC East</h3><table><tbody><tr><td>Buffalo Bills</td><td>1-0</td><td>W1</td><td>+5</td></tr><tr><td>New York Jets</td><td>1-0</td><td>W1</td><td>+13</td></tr><tr><td>Miami Dolphins</td><td>0-1</td><td>L1</td><td>-14</td></tr><tr><td>New England Patriots</td><td>0-1</td><td>L1</td><td>-3</td></tr></tbody></table><h3>AFC North</h3><table><tbody><tr><td>Baltimore Ravens</td><td>1-0</td><td>W1</td><td>+18</td></tr><tr class="me"><td>Cincinnati Bengals</td><td>1-0</td><td>W1</td><td>+6</td></tr><tr><td>Pittsburgh Steelers</td><td>1-0</td><td>W1</td><td>+7</td></tr><tr><td>Cleveland Browns</td><td>0-1</td><td>L1</td><td>-24</td></tr></tbody></table><h3>AFC South</h3><table><tbody><tr><td>Jacksonville Jaguars</td><td>1-0</td><td>W1</td><td>+24</td></tr><tr><td>Houston Texans</td><td>0-1</td><td>L1</td><td>-5</td></tr><tr><td>Indianapolis Colts</td><td>0-1</td><td>L1</td><td>-18</td></tr><tr><td>Tennessee Titans</td><td>0-1</td><td>L1</td><td>-13</td></tr></tbody></table><h3>AFC West</h3><table><tbody><tr><td>Kansas City Chiefs</td><td>1-0</td><td>W1</td><td>+21</td></tr><tr><td>Las Vegas Raiders</td><td>1-0</td><td>W1</td><td>+14</td></tr><tr><td>Denver Broncos</td><td>0-1</td><td>L1</td><td>-21</td></tr><tr><td>Los Angeles Chargers</td><td>0-1</td><td>L1</td><td>-12</td></tr></tbody></table></section>
+  <section class="card"><h2>Headlines</h2><ul class="news"><li><a href="https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald" rel="noopener">How active NFL players continue to redefine all-time sack list</a><span>Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.</span></li><li><a href="https://www.espn.com/video/clip/_/id/49936874/bengals-defense-comes-big-win-buccaneers" rel="noopener">Bengals defense comes up big in win over Buccaneers</a><span>Ben Baby reports on the Bengals' defense showing out in their Week 1 win over the Buccaneers.</span></li><li><a href="https://www.espn.com/nfl/story/_/id/49871987/week-1-sunday-games-takeaways-questions-2026" rel="noopener">NFL Week 1: Takeaways, questions, fantasy spin for Sunday games</a><span>Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 1.</span></li><li><a href="https://www.espn.com/nfl/story/_/id/49881465/week-1-highlights-best-plays-touchdowns-2026" rel="noopener">Week 1 NFL highlights: Best plays, moments, touchdowns, more</a><span>Check out the best of the best from Week 1 around the NFL, including highlight-reel touchdowns and must-see plays.</span></li><li><a href="https://www.espn.com/nfl/story/_/id/49895823/nfl-week-1-fashionable-arrivals" rel="noopener">NFL Week 1's best arrivals, led by Kenneth Walker III and Mahomes</a><span>From Spiderman to a Navy nod, players around the NFL brought the heat ahead of their Week 1 matchups.</span></li><li><a href="https://www.espn.com/nfl/story/_/id/49934248/lawrence-bengals-other-defensive-additions-key-win-vs-bucs" rel="noopener">Lawrence, Bengals' other defensive additions key win vs. Bucs</a><span>The Bengals forced four turnovers and scored one defensive touchdown in Sunday's win over the Buccaneers.</span></li></ul><h3>Houston Texans</h3><ul class="news"><li><a href="https://www.espn.com/nfl/story/_/id/49942037/texans-lb-henry-tootoo-miss-some-shoulder-injury" rel="noopener">Texans LB Henry To'oTo'o to miss some time with shoulder injury</a><span>Texans starting LB Henry To'oTo'o suffered a shoulder injury in Sunday's season opener and will miss some time, coach DeMeco Ryans said Monday.</span></li><li><a href="https://www.espn.com/video/clip/_/id/49940747/why-texans-defense-live-standard" rel="noopener">Why the Texans' defense didn't live up to standard</a><span>DJ Bien-Aime explains why the Texans' defense fell short of their standard in the team's loss to the Bills.</span></li><li><a href="https://www.espn.com/video/clip/_/id/49940425/josh-allen-bills-made-statement-win-texans" rel="noopener">Stephen A.: Josh Allen, Bills made a statement with win over Texans</a><span>Stephen A.: Josh Allen, Bills made a statement with win over Texans</span></li></ul></section>
+  <section class="card"><h2>Around the league</h2><ul><li>Baltimore made the loudest statement of Week 1, 41-23 at Indianapolis. Derrick Henry 24 car, 144 yds, 3 TD and Lamar Jackson 324 yards on 17/25.</li><li>Bears 59, Panthers 37 in Charlotte. Bryce Young threw for 361 and 3 TD and still lost by 22.</li><li>Thursday kicks off Week 2 with Detroit at Buffalo, Fri 18 Sept 8:15 am Perth. BUF -4.5, total 53.5, thunderstorms forecast.</li><li>Kansas City handled Denver 31-10 on Monday night, Kenneth Walker III going 23 car, 173 yds, 1 TD. Colts visit Arrowhead next, KC -6.5.</li><li>San Francisco is a 13.5-point home favourite over Miami, the biggest spread on the Week 2 board.</li><li>Detroit needed overtime to beat New Orleans 31-30 despite Chris Olave going 10 rec, 182 yds.</li></ul></section>
+  <section class="card"><h2>Bengals season</h2><table><tbody><tr class="done"><td>1</td><td>vs Tampa Bay Buccaneers (0-1)</td><td>W 33-27</td></tr><tr class=""><td>2</td><td>at Houston Texans (0-1)</td><td>Mon, 21 Sept, 1:00 am</td></tr><tr class=""><td>3</td><td>at Pittsburgh Steelers (1-0)</td><td>Mon, 28 Sept, 1:00 am</td></tr><tr class=""><td>4</td><td>vs Jacksonville Jaguars (1-0)</td><td>Mon, 5 Oct, 1:00 am</td></tr><tr class=""><td>5</td><td>at Miami Dolphins (0-1)</td><td>Mon, 12 Oct, 1:00 am</td></tr><tr class=""><td>7</td><td>at Baltimore Ravens (1-0)</td><td>Mon, 26 Oct, 1:00 am</td></tr><tr class=""><td>8</td><td>vs Tennessee Titans (0-1)</td><td>Mon, 2 Nov, 2:00 am</td></tr><tr class=""><td>9</td><td>at Atlanta Falcons (0-1)</td><td>Sun, 8 Nov, 10:30 pm</td></tr><tr class=""><td>10</td><td>vs Pittsburgh Steelers (1-0)</td><td>Mon, 16 Nov, 9:20 am</td></tr><tr class=""><td>11</td><td>at Washington Commanders (0-1)</td><td>Tue, 24 Nov, 9:15 am</td></tr><tr class=""><td>12</td><td>vs New Orleans Saints (0-1)</td><td>Mon, 30 Nov, 2:00 am</td></tr><tr class=""><td>13</td><td>at Cleveland Browns (0-1)</td><td>Mon, 7 Dec, 2:00 am</td></tr><tr class=""><td>14</td><td>vs Kansas City Chiefs (1-0)</td><td>Mon, 14 Dec, 5:25 am</td></tr><tr class=""><td>15</td><td>at Carolina Panthers (0-1)</td><td>Mon, 21 Dec, 2:00 am</td></tr><tr class=""><td>16</td><td>at Indianapolis Colts (0-1)</td><td>Sun, 27 Dec, time TBD</td></tr><tr class=""><td>17</td><td>vs Baltimore Ravens (1-0)</td><td>Fri, 1 Jan, 9:15 am</td></tr><tr class=""><td>18</td><td>vs Cleveland Browns (0-1)</td><td>Sun, 10 Jan, time TBD</td></tr></tbody></table></section>
+  <footer>Briefing written Tue, 15 Sept, 6:05 pm Perth. Scores, schedule, odds and stats from ESPN's public feeds; times in Perth (AWST). Written for Banjo, twice a day.</footer>
 </main>
+<script>
+(function(){
+  var slate=document.getElementById('slate'); if(!slate) return;
+  var week=slate.dataset.week;
+  var fmt=function(iso){return new Intl.DateTimeFormat('en-AU',{timeZone:'Australia/Perth',weekday:'short',hour:'numeric',minute:'2-digit',hour12:true}).format(new Date(iso)).replace(',','')};
+  var apply=function(games){games.forEach(function(g){var c=g.competitions[0];var row=slate.querySelector('tr[data-id="'+g.id+'"]');if(!row)return;var away=c.competitors.find(function(x){return x.homeAway==='away'});var home=c.competitors.find(function(x){return x.homeAway==='home'});var st=c.status.type;var live=st.state==='in';row.classList.toggle('live',live);if(st.state!=='pre'){row.querySelector('.score').textContent=away.score+' : '+home.score;row.querySelector('.status').textContent=st.completed?'Final':(c.status.displayClock+' Q'+c.status.period)}else if(c.timeValid!==false){row.querySelector('.status').textContent=fmt(g.date)}});var note=document.getElementById('slate-note');if(note)note.textContent='Scores refreshed '+new Intl.DateTimeFormat('en-AU',{timeZone:'Australia/Perth',hour:'numeric',minute:'2-digit',hour12:true}).format(new Date())+' Perth.'};
+  var flat=function(s){return Object.keys(s).reduce(function(a,k){return a.concat(s[k].games)},[])};
+  fetch('https://cdn.espn.com/core/nfl/schedule?xhr=1&year=2026&week='+week).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){return flat(j.content.schedule)})
+    .catch(function(){return fetch('https://the-slate-psi.vercel.app/api/week?week='+week).then(function(r){return r.json()}).then(flat)})
+    .then(apply).catch(function(){});
+  var cd=document.getElementById('countdown'); if(!cd) return;
+  var kick=new Date(cd.dataset.kick).getTime();
+  var tick=function(){var d=kick-Date.now();if(d<=0){cd.textContent='kicked off';return}var m=Math.floor(d/60000),days=Math.floor(m/1440),h=Math.floor(m%1440/60),mm=m%60;cd.textContent='kicks off in '+(days?days+'d ':'')+h+'h '+mm+'m'};
+  tick(); setInterval(tick,60000);
+})();</script>
 </body>
 </html>

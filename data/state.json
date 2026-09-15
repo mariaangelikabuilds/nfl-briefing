@@ -14,32 +14,33 @@
     "401872927",
     "401872928",
     "401872929",
-    "401872930"
+    "401872930",
+    "401872931"
   ],
   "briefing": {
     "pregame": null,
     "pregame_for": "401872934",
     "postgame": {
-      "what_decided_it": "Cincinnati beat Tampa Bay 33-27 at home. The defence was the story. Per ESPN's recap, the Bengals forced four turnovers and scored one defensive touchdown.",
+      "what_decided_it": "Turnovers. Tampa lost four fumbles and Cincinnati scored a defensive touchdown. The Bengals also won the possession battle 31:25 to 28:35 and went 8-14 on third down.",
       "standouts": [
-        "Joe Burrow: 25/35, 254 yards, 1 TD, 1 INT. Before the game he said it was \"put up or shut up time\" in an ESPN clip.",
-        "Mike Gesicki led the receivers with 5 catches for 78 yards and a touchdown.",
-        "Chase Brown carried 16 times for 56 yards and a score."
+        "Joe Burrow: 25/35, 254 yds, 1 TD, 1 INT. Efficient, not spectacular, 6.8 yards per pass.",
+        "Mike Gesicki: 5 rec, 78 yds, 1 TD. Team high in receiving.",
+        "Chase Brown: 16 car, 56 yds, 1 TD in a 106-yard rushing day."
       ],
-      "division_meaning": "The AFC North is tight. Baltimore, Cincinnati and Pittsburgh are all 1-0, Cleveland is 0-1. Baltimore leads on points difference at +18, Pittsburgh +7, Cincinnati +6.",
-      "question_for_banjo": "The headlines all credit the new defensive signings for this win. Did the defence actually look different to him, or was it just a messy day from Tampa Bay?"
+      "division_meaning": "Three-way tie at the top. Baltimore 1-0 at +18, Cincinnati 1-0 at +6, Pittsburgh 1-0 at +7. Cleveland is 0-1 at -24 after losing 34-10 at Jacksonville.",
+      "the_take": "Four forced fumbles is not a repeatable plan. Cincinnati only out-gained Tampa 351 to 282 and went 2-5 in the red zone. Clean that up or Houston is a problem."
     },
     "postgame_for": "401872925",
     "league": {
       "lines": [
-        " Chicago hammered Carolina 59-37, the wildest scoreline of the week. Bryce Young threw for 361 yards and 3 TDs in a loss.",
-        "Baltimore rolled Indianapolis 41-23. Derrick Henry ran 24 times for 144 yards and 3 TDs. They host New Orleans next, favoured by 8.5.",
-        "Buffalo beat Houston 36-31 on a late Josh Allen touchdown pass. Houston is Cincinnati's next opponent, and they open as 3-point favourites.",
-        "Denver at Kansas City is still to come, Tue 15 Sept 8:15 am Perth, with Kansas City favoured by 2.5 and a total of 43.5.",
-        "Detroit edged New Orleans 31-30 in overtime, then travel to Buffalo on Fri 18 Sept 8:15 am Perth. Buffalo -3.5, total 53.5.",
-        "Jaxson Dart threw 3 TDs as the Giants beat Dallas 28-20. The Giants' win-trolling of Dallas topped an ESPN Week 1 roundup."
+        "Baltimore made the loudest statement of Week 1, 41-23 at Indianapolis. Derrick Henry 24 car, 144 yds, 3 TD and Lamar Jackson 324 yards on 17/25.",
+        "Bears 59, Panthers 37 in Charlotte. Bryce Young threw for 361 and 3 TD and still lost by 22.",
+        "Thursday kicks off Week 2 with Detroit at Buffalo, Fri 18 Sept 8:15 am Perth. BUF -4.5, total 53.5, thunderstorms forecast.",
+        "Kansas City handled Denver 31-10 on Monday night, Kenneth Walker III going 23 car, 173 yds, 1 TD. Colts visit Arrowhead next, KC -6.5.",
+        "San Francisco is a 13.5-point home favourite over Miami, the biggest spread on the Week 2 board.",
+        "Detroit needed overtime to beat New Orleans 31-30 despite Chris Olave going 10 rec, 182 yds."
       ]
     }
   },
-  "written_at": "2026-09-14T12:20:27.714Z"
+  "written_at": "2026-09-15T10:05:39.352Z"
 }

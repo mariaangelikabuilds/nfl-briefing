@@ -48,12 +48,17 @@ function compactGame(g) {
     player: l.leaders?.[0]?.athlete?.displayName ?? null,
     team: l.leaders?.[0]?.team?.abbreviation ?? null,
   }));
+  const odds = comp.odds?.[0];
+  const w = g.weather;
   return {
     id: g.id,
     week: g.week,
     kickoff: g.date,
     timeValid: comp.timeValid !== false,
-    state: comp.status.type.name,
+    state: comp.status.type.state,
+    clock: comp.status.type.state === "in" ? `${comp.status.displayClock ?? ""} Q${comp.status.period ?? ""}` : null,
+    weather: w ? { text: w.displayValue, tempF: w.temperature ?? w.highTemperature ?? null, tempC: Number.isFinite(w.temperature ?? w.highTemperature) ? Math.round(((w.temperature ?? w.highTemperature) - 32) * 5 / 9) : null } : null,
+    moneyline: odds?.moneyline ? { away: odds.moneyline.away?.close?.odds ?? null, home: odds.moneyline.home?.close?.odds ?? null } : null,
     detail: comp.status.type.shortDetail,
     final: Boolean(comp.status.type.completed),
     home: team(side("home")),
@@ -62,7 +67,7 @@ function compactGame(g) {
     overUnder: comp.odds?.[0]?.overUnder ?? null,
     venue: comp.venue?.fullName ?? null,
     city: comp.venue?.address?.city ?? null,
-    tv: (comp.broadcasts ?? []).map((b) => b.media?.shortName).filter(Boolean),
+    tv: [...new Set([...(comp.broadcasts ?? []).flatMap((b) => b.names ?? [b.media?.shortName]), ...(comp.geoBroadcasts ?? []).map((b) => b.media?.shortName)].filter(Boolean))],
     leaders: comp.status.type.completed ? leaders : [],
   };
 }
@@ -88,6 +93,51 @@ async function fetchDivision() {
   };
 }
 
+async function fetchConference() {
+  const json = await fetchJson("https://cdn.espn.com/core/nfl/standings?xhr=1");
+  const conf = json.content.standings.groups.find((c) => c.groups.some((d) => d.standings.entries.some((e) => e.team.id === TEAM_ID)));
+  const stat = (e, name) => e.stats.find((s) => s.name === name)?.displayValue ?? null;
+  return {
+    name: conf.name,
+    groups: conf.groups.map((d) => ({
+      name: d.name,
+      rows: d.standings.entries.map((e) => ({
+        abbr: e.team.abbreviation,
+        name: e.team.displayName,
+        wins: stat(e, "wins"),
+        losses: stat(e, "losses"),
+        ties: stat(e, "ties"),
+        streak: stat(e, "streak"),
+        diff: stat(e, "differential") ?? stat(e, "pointDifferential"),
+      })),
+    })),
+  };
+}
+
+const PLAYER_LINE = {
+  passing: (st) => `${st[0]}, ${st[1]} yds, ${st[3]} TD, ${st[4]} INT`,
+  rushing: (st) => `${st[0]} car, ${st[1]} yds, ${st[3]} TD`,
+  receiving: (st) => `${st[0]} rec, ${st[1]} yds, ${st[3]} TD`,
+};
+
+async function fetchBoxscore(gameId) {
+  const json = await fetchJson(`https://cdn.espn.com/core/nfl/boxscore?xhr=1&gameId=${gameId}`);
+  const box = json.gamepackageJSON?.boxscore;
+  if (!box?.teams?.length) return null;
+  const teams = box.teams.map((t) => ({ abbr: t.team.abbreviation, stats: Object.fromEntries(t.statistics.map((s) => [s.name, s.displayValue])) }));
+  const players = Object.fromEntries(
+    (box.players ?? []).map((side) => [
+      side.team.abbreviation,
+      Object.fromEntries(
+        side.statistics
+          .filter((cat) => PLAYER_LINE[cat.name])
+          .map((cat) => [cat.name, cat.athletes.slice(0, 3).map((a) => ({ name: a.athlete.displayName, line: PLAYER_LINE[cat.name](a.stats) }))])
+      ),
+    ])
+  );
+  return { teams, players };
+}
+
 async function fetchNews(teamId) {
   const json = await fetchJson(`https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/news?team=${teamId}&limit=8`);
   return (json.articles ?? []).map((a) => ({
@@ -103,7 +153,8 @@ const Briefing = z.object({
     .object({
       matchup_read: z.string(),
       storylines: z.array(z.string()).min(1).max(4),
-      questions_for_banjo: z.array(z.string()).min(2).max(3),
+      watch_for: z.array(z.string()).min(2).max(3),
+      the_call: z.string(),
     })
     .nullable(),
   postgame: z
@@ -111,18 +162,19 @@ const Briefing = z.object({
       what_decided_it: z.string(),
       standouts: z.array(z.string()).min(1).max(3),
       division_meaning: z.string(),
-      question_for_banjo: z.string(),
+      the_take: z.string(),
     })
     .nullable(),
   league: z.object({ lines: z.array(z.string()).min(3).max(6) }),
 });
 
-const SYSTEM = `You write a private twice-daily NFL briefing for Angel. She is in Perth, does not follow football closely, and is dating Banjo, a Cincinnati Bengals fan. She reads this so she can talk with him about the games with real footing.
+const SYSTEM = `You write a private twice-daily Cincinnati Bengals briefing for Banjo. He lives in Perth, follows the NFL closely, and knows the game, so skip the basics and talk to him like a sharp beat writer sharing notes before and after each game.
 
 Rules.
 Every statement must trace to a field in the facts JSON you are given. If the facts do not support a claim, leave it out. Never invent injuries, quotes, or motives. If a news headline is the only source, attribute it as a headline.
-Write like a sharp friend explaining the sport, plain words, no hype. Short sentences. No em dashes. Do not use the words robust, comprehensive, seamless, elevate, unlock, delve, leverage, or landscape.
-Questions for Banjo are real questions she can ask him, phrased so she does not have to defend a claim. Prefer questions about what he expects, worries about, or noticed.
+Plain words, no hype, no filler. Short sentences. No em dashes. Do not use the words robust, comprehensive, seamless, elevate, unlock, delve, leverage, or landscape.
+Pregame: matchup_read is the shape of the game in two or three sentences. storylines come from the news and records. watch_for is two or three concrete things to keep an eye on during the game. the_call is one committed prediction with a reason, stated as an opinion he can argue with.
+Postgame: what_decided_it is the honest read of why it went the way it went. standouts name players with their actual lines. division_meaning is the AFC North picture. the_take is one opinion worth a text message, grounded in the facts.
 Kickoff times in the facts are already converted to Perth time. Use them as given. A kickoff marked "time not set yet" has no confirmed time; say so rather than guessing.
 Every number you write (scores, yards, records, lines, totals) must appear in the facts exactly. Do not round, add, or infer numbers.
 The league lines are about the rest of the league; the Bengals game is covered elsewhere on the page, so do not repeat it.
@@ -179,11 +231,15 @@ async function main() {
   const state = JSON.parse(await readFile(STATE_PATH, "utf8").catch(() => "{}"));
   const season = (await fetchSeason()).map(compactGame);
   const division = await fetchDivision();
+  const conference = await fetchConference();
   const { next, last, preDue, postDue, finals, newFinals } = needs(season, state, now);
   const weekOf = (g) => season.filter((x) => x.week === g.week && !involves(x));
   const currentWeek = (next ?? last)?.week ?? 1;
 
   const mustWrite = preDue || postDue || newFinals || !state.briefing;
+  const box = last ? await fetchBoxscore(last.id).catch(() => null) : null;
+  const opponentNews = next ? await fetchNews(next.home.id === TEAM_ID ? next.away.id : next.home.id).catch(() => []) : [];
+  const bengalsNews = await fetchNews(TEAM_ID).catch(() => []);
   const facts = {
     now_perth: perth(now.toISOString()),
     bengals_next: withPerth(next),
@@ -191,8 +247,9 @@ async function main() {
     write_pregame: preDue,
     write_postgame: postDue,
     division,
-    news_bengals: await fetchNews(TEAM_ID).catch(() => []),
-    news_opponent: next ? await fetchNews(next.home.id === TEAM_ID ? next.away.id : next.home.id).catch(() => []) : [],
+    last_game_boxscore: box,
+    news_bengals: bengalsNews,
+    news_opponent: opponentNews,
     league_week: currentWeek,
     league_games: season.filter((g) => g.week === currentWeek || g.week === currentWeek - 1).filter((g) => !involves(g)).map(withPerth),
   };
@@ -217,7 +274,8 @@ async function main() {
 
   await mkdir("docs", { recursive: true });
   await mkdir("data", { recursive: true });
-  await writeFile(PAGE_PATH, renderPage({ now, next: withPerth(next), last: withPerth(last), division, briefing, writtenAt: nextState.written_at, season, teamAbbr: TEAM_ABBR }));
+  const opponentName = next ? (next.home.id === TEAM_ID ? next.away.name : next.home.name) : "";
+  await writeFile(PAGE_PATH, renderPage({ now, next: withPerth(next), last: withPerth(last), division, conference, box, news: { bengals: bengalsNews, opponent: opponentNews, opponentName }, week: currentWeek, briefing, writtenAt: nextState.written_at, season, teamAbbr: TEAM_ABBR }));
   await writeFile(STATE_PATH, JSON.stringify(nextState, null, 2) + "\n");
   await writeFile("data/last-facts.json", JSON.stringify(facts, null, 2) + "\n");
   console.log(`${mustWrite ? "wrote" : "kept"} briefing; pre=${preDue} post=${postDue} newFinals=${newFinals}; next=${next?.detail ?? "none"}; last=${last?.detail ?? "none"}`);
