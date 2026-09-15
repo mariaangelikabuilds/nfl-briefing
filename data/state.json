@@ -18,6 +18,16 @@
     "401872931"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        ": Detroit at Buffalo opens Week 2 on Friday 8:15am Perth, BUF -4.5, total 53.5, thunderstorms forecast. Both 1-0 after the Lions edged New Orleans 31-30 in OT.",
+        "Baltimore looks the AFC North measuring stick after 41-23 at Indianapolis. Lamar Jackson 17/25, 324 yds, Derrick Henry 24 car, 144 yds, 3 TD. Next up Saints at home, BAL -8.5.",
+        "Chicago put 59 on Carolina in a 59-37 game, then hosts Minnesota as a 5.5-point favourite. Vikings beat Green Bay 39-22. Total 49.5.",
+        "Pittsburgh won 20-13 over Atlanta but is a 5.5-point road dog at New England in Week 2. Rain, total 42.5. Market is not buying the Steelers yet.",
+        "Kansas City handled Denver 31-10, Kenneth Walker III 23 car, 173 yds, 1 TD. Colts visit Arrowhead Sunday night, KC -6.5.",
+        "San Francisco is SF -13.5 at home against Miami after beating the Rams 27-7 in Melbourne. Raiders beat Miami 27-13 in Week 1."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401872934",
     "postgame": {
@@ -30,17 +40,7 @@
       "division_meaning": "Three-way tie at the top. Baltimore 1-0 at +18, Cincinnati 1-0 at +6, Pittsburgh 1-0 at +7. Cleveland is 0-1 at -24 after losing 34-10 at Jacksonville.",
       "the_take": "Four forced fumbles is not a repeatable plan. Cincinnati only out-gained Tampa 351 to 282 and went 2-5 in the red zone. Clean that up or Houston is a problem."
     },
-    "postgame_for": "401872925",
-    "league": {
-      "lines": [
-        ": Detroit at Buffalo opens Week 2 on Friday 8:15am Perth, BUF -4.5, total 53.5, thunderstorms forecast. Both 1-0 after the Lions edged New Orleans 31-30 in OT.",
-        "Baltimore looks the AFC North measuring stick after 41-23 at Indianapolis. Lamar Jackson 17/25, 324 yds, Derrick Henry 24 car, 144 yds, 3 TD. Next up Saints at home, BAL -8.5.",
-        "Chicago put 59 on Carolina in a 59-37 game, then hosts Minnesota as a 5.5-point favourite. Vikings beat Green Bay 39-22. Total 49.5.",
-        "Pittsburgh won 20-13 over Atlanta but is a 5.5-point road dog at New England in Week 2. Rain, total 42.5. Market is not buying the Steelers yet.",
-        "Kansas City handled Denver 31-10, Kenneth Walker III 23 car, 173 yds, 1 TD. Colts visit Arrowhead Sunday night, KC -6.5.",
-        "San Francisco is SF -13.5 at home against Miami after beating the Rams 27-7 in Melbourne. Raiders beat Miami 27-13 in Week 1."
-      ]
-    }
+    "postgame_for": "401872925"
   },
   "written_at": "2026-09-15T10:10:31.584Z",
   "last_error": null
