@@ -1,5 +1,5 @@
 {
-  "now_perth": "Tue, 15 Sept, 6:11 pm",
+  "now_perth": "Wed, 16 Sept, 12:40 am",
   "bengals_next": {
     "id": "401872934",
     "week": 2,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Mostly sunny",
-      "tempF": 89,
+      "tempF": 90,
       "tempC": 32
     },
     "moneyline": {
-      "away": "+124",
-      "home": "-148"
+      "away": "+120",
+      "home": "-142"
     },
     "detail": "9/20 - 1:00 PM EDT",
     "final": false,
@@ -34,7 +34,7 @@
       "winner": null,
       "record": "1-0"
     },
-    "line": "HOU -3",
+    "line": "HOU -2.5",
     "overUnder": 46.5,
     "venue": "Reliant Stadium",
     "city": "Houston",
@@ -281,9 +281,27 @@
   },
   "news_bengals": [
     {
+      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-09-15T10:39:09Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
+      "headline": "Seven things Solak thinks entering NFL Week 2",
+      "summary": "Will the Titans score any points against the Eagles? Can Ben Johnson solve Brian Flores' Vikings defense? Get ready for Week 2 with seven takes.",
+      "published": "2026-09-15T16:01:33Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49940280/week-2-seven-things-solak-thinks-bears-vikings-bills-lions"
+    },
+    {
+      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 2",
+      "summary": "How do all 32 NFL teams stack up ahead of Week 2? Plus, we picked out the top newcomers from each roster.",
+      "published": "2026-09-15T14:26:42Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49881711/power-rankings-week-2-all-teams-top-newcomers-debuts"
+    },
+    {
       "headline": "Cashing in: Bengals rookie Howell impacts pass rush",
       "summary": "Howell believes the SEC made him ready for moments such as Sunday, when he had four QB pressures in the Bengals' win.",
-      "published": "2026-09-15T10:00:02Z",
+      "published": "2026-09-15T13:11:14Z",
       "url": "https://www.espn.com/nfl/story/_/id/49944548/cincinnati-bengals-cashius-howell-impact"
     },
     {
@@ -309,24 +327,6 @@
       "summary": "Check out the best of the best from Week 1 around the NFL, including highlight-reel touchdowns and must-see plays.",
       "published": "2026-09-14T03:52:42Z",
       "url": "https://www.espn.com/nfl/story/_/id/49881465/week-1-highlights-best-plays-touchdowns-2026"
-    },
-    {
-      "headline": "NFL Week 1's best arrivals, led by Kenneth Walker III and Mahomes",
-      "summary": "From Spiderman to a Navy nod, players around the NFL brought the heat ahead of their Week 1 matchups.",
-      "published": "2026-09-14T22:38:08Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49895823/nfl-week-1-fashionable-arrivals"
-    },
-    {
-      "headline": "Lawrence, Bengals' other defensive additions key win vs. Bucs",
-      "summary": "The Bengals forced four turnovers and scored one defensive touchdown in Sunday's win over the Buccaneers.",
-      "published": "2026-09-13T23:44:53Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49934248/lawrence-bengals-other-defensive-additions-key-win-vs-bucs"
-    },
-    {
-      "headline": "Bengals force 4 turnovers, Burrow throws for TD in 33-27 win over the Buccaneers",
-      "summary": "— Coach Zac Taylor and the Cincinnati Bengals talked all offseason about how their defensive acquisitions would have a huge impact.",
-      "published": "2026-09-13T22:39:46Z",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872925"
     }
   ],
   "news_opponent": [
@@ -1235,8 +1235,8 @@
         "tempC": 23
       },
       "moneyline": {
-        "away": "+170",
-        "home": "-205"
+        "away": "+180",
+        "home": "-218"
       },
       "detail": "9/17 - 8:15 PM EDT",
       "final": false,
@@ -1274,13 +1274,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 87,
-        "tempC": 31
+        "text": "Mostly cloudy",
+        "tempF": 84,
+        "tempC": 29
       },
       "moneyline": {
-        "away": "-125",
-        "home": "+105"
+        "away": "-148",
+        "home": "+124"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1300,7 +1300,7 @@
         "winner": null,
         "record": "0-1"
       },
-      "line": "CAR -1.5",
+      "line": "CAR -2.5",
       "overUnder": 43.5,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
@@ -1318,13 +1318,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 71,
-        "tempC": 22
+        "text": "Cloudy",
+        "tempF": 69,
+        "tempC": 21
       },
       "moneyline": {
-        "away": "+195",
-        "home": "-238"
+        "away": "+185",
+        "home": "-225"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1345,7 +1345,7 @@
         "record": "1-0"
       },
       "line": "CHI -5.5",
-      "overUnder": 49.5,
+      "overUnder": 48.5,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [
@@ -1362,9 +1362,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 93,
-        "tempC": 34
+        "text": "Partly sunny",
+        "tempF": 96,
+        "tempC": 36
       },
       "moneyline": {
         "away": "-305",
@@ -1407,7 +1407,7 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 61,
+        "tempF": 60,
         "tempC": 16
       },
       "moneyline": {
@@ -1433,7 +1433,7 @@
         "record": "1-0"
       },
       "line": "NE -5.5",
-      "overUnder": 42.5,
+      "overUnder": 41.5,
       "venue": "Gillette Stadium",
       "city": "Foxborough",
       "tv": [
@@ -1451,8 +1451,8 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 75,
-        "tempC": 24
+        "tempF": 71,
+        "tempC": 22
       },
       "moneyline": {
         "away": "-205",
@@ -1495,12 +1495,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 86,
-        "tempC": 30
+        "tempF": 85,
+        "tempC": 29
       },
       "moneyline": {
-        "away": "+285",
-        "home": "-360"
+        "away": "+320",
+        "home": "-410"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1538,13 +1538,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
+        "text": "Cloudy",
         "tempF": 79,
         "tempC": 26
       },
       "moneyline": {
-        "away": "+285",
-        "home": "-360"
+        "away": "+320",
+        "home": "-410"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1583,7 +1583,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 73,
+        "tempF": 74,
         "tempC": 23
       },
       "moneyline": {
@@ -1609,7 +1609,7 @@
         "record": "1-0"
       },
       "line": "DEN -2.5",
-      "overUnder": 44.5,
+      "overUnder": 43.5,
       "venue": "Empower Field at Mile High",
       "city": "Denver",
       "tv": [
@@ -1627,12 +1627,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 77,
-        "tempC": 25
+        "tempF": 78,
+        "tempC": 26
       },
       "moneyline": {
-        "away": "+245",
-        "home": "-305"
+        "away": "+250",
+        "home": "-310"
       },
       "detail": "9/20 - 4:05 PM EDT",
       "final": false,
@@ -1671,12 +1671,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 97,
-        "tempC": 36
+        "tempF": 98,
+        "tempC": 37
       },
       "moneyline": {
-        "away": "+185",
-        "home": "-225"
+        "away": "+180",
+        "home": "-218"
       },
       "detail": "9/20 - 4:25 PM EDT",
       "final": false,
@@ -1714,8 +1714,8 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 97,
+        "text": "Partly sunny",
+        "tempF": 96,
         "tempC": 36
       },
       "moneyline": {
@@ -1758,7 +1758,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
+        "text": "Partly sunny",
         "tempF": 71,
         "tempC": 22
       },
@@ -1784,7 +1784,7 @@
         "winner": null,
         "record": "0-1"
       },
-      "line": "SF -13.5",
+      "line": "SF -12.5",
       "overUnder": 45.5,
       "venue": "Levi's Stadium",
       "city": "Santa Clara",
@@ -1803,12 +1803,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 72,
-        "tempC": 22
+        "tempF": 76,
+        "tempC": 24
       },
       "moneyline": {
-        "away": "+250",
-        "home": "-310"
+        "away": "+245",
+        "home": "-305"
       },
       "detail": "9/20 - 8:20 PM EDT",
       "final": false,
@@ -1846,9 +1846,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 77,
-        "tempC": 25
+        "text": "Mostly sunny",
+        "tempF": 75,
+        "tempC": 24
       },
       "moneyline": {
         "away": "+280",
