@@ -1,5 +1,5 @@
 {
-  "now_perth": "Wed, 16 Sept, 12:16 pm",
+  "now_perth": "Thu, 17 Sept, 12:34 am",
   "bengals_next": {
     "id": "401872934",
     "week": 2,
@@ -8,13 +8,13 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Mostly sunny",
-      "tempF": 89,
+      "text": "Intermittent clouds",
+      "tempF": 90,
       "tempC": 32
     },
     "moneyline": {
-      "away": "+120",
-      "home": "-142"
+      "away": "+124",
+      "home": "-148"
     },
     "detail": "9/20 - 1:00 PM EDT",
     "final": false,
@@ -34,7 +34,7 @@
       "winner": null,
       "record": "1-0"
     },
-    "line": "HOU -2.5",
+    "line": "HOU -3",
     "overUnder": 46.5,
     "venue": "Reliant Stadium",
     "city": "Houston",
@@ -331,6 +331,24 @@
   ],
   "news_opponent": [
     {
+      "headline": "NFL Week 2 latest intel, buzz questions, news, fantasy tips",
+      "summary": "What's the latest for three teams dealing with QB injuries? What are we hearing on the Rams and Chargers after bad losses? And which Week 1 debuts stood out?",
+      "published": "2026-09-16T14:45:43Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49941231/week-2-buzz-fantasy-predictions-graziano-fowler-2026"
+    },
+    {
+      "headline": "Could David Montgomery be key to unlock Texans' offense?",
+      "summary": "Houston scored its most points in a season opener since coach DeMeco Ryans took over.",
+      "published": "2026-09-16T11:53:03Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49949962/houston-texans-david-montgomery-rb-three-touchdowns-debut"
+    },
+    {
+      "headline": "Texans sign LB Kenneth Murray to practice squad",
+      "summary": "The Texans signed former first-round pick Kenneth Murray to their practice squad Tuesday in the wake of starting linebacker Henry To'oTo'o landing on injured reserve.",
+      "published": "2026-09-16T10:37:00Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49953603/texans-sign-kenneth-murray-practice-squad-henry-tootoo-injured-reserve"
+    },
+    {
       "headline": "2027 NFL draft order projections for Round 1, top pick, more",
       "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
       "published": "2026-09-15T10:39:09Z",
@@ -359,24 +377,6 @@
       "summary": "DJ Bien-Aime explains why the Texans' defense fell short of their standard in the team's loss to the Bills.",
       "published": "2026-09-14T15:47:36Z",
       "url": "https://www.espn.com/video/clip/_/id/49940747/why-texans-defense-live-standard"
-    },
-    {
-      "headline": "Stephen A.: Josh Allen, Bills made a statement with win over Texans",
-      "summary": "Stephen A.: Josh Allen, Bills made a statement with win over Texans",
-      "published": "2026-09-14T16:39:58Z",
-      "url": "https://www.espn.com/video/clip/_/id/49940425/josh-allen-bills-made-statement-win-texans"
-    },
-    {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
-      "published": "2026-09-14T14:35:46Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
-    },
-    {
-      "headline": "NFL Week 1: Takeaways, questions, fantasy spin for Sunday games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 1.",
-      "published": "2026-09-14T16:19:36Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49871987/week-1-sunday-games-takeaways-questions-2026"
     }
   ],
   "league_week": 2,
@@ -1231,12 +1231,12 @@
       "clock": null,
       "weather": {
         "text": "Thunderstorms",
-        "tempF": 73,
+        "tempF": 74,
         "tempC": 23
       },
       "moneyline": {
-        "away": "+180",
-        "home": "-218"
+        "away": "+190",
+        "home": "-230"
       },
       "detail": "9/17 - 8:15 PM EDT",
       "final": false,
@@ -1274,9 +1274,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 85,
-        "tempC": 29
+        "text": "Intermittent clouds",
+        "tempF": 81,
+        "tempC": 27
       },
       "moneyline": {
         "away": "-135",
@@ -1319,12 +1319,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "+185",
-        "home": "-225"
+        "away": "+180",
+        "home": "-218"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1362,13 +1362,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
+        "text": "Mostly sunny",
         "tempF": 92,
         "tempC": 33
       },
       "moneyline": {
-        "away": "-310",
-        "home": "+250"
+        "away": "-325",
+        "home": "+260"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1407,8 +1407,8 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 62,
-        "tempC": 17
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": {
         "away": "+180",
@@ -1432,7 +1432,7 @@
         "winner": null,
         "record": "1-0"
       },
-      "line": "NE -4.5",
+      "line": "NE -5.5",
       "overUnder": 41.5,
       "venue": "Gillette Stadium",
       "city": "Foxborough",
@@ -1451,8 +1451,8 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 72,
-        "tempC": 22
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
         "away": "-205",
@@ -1495,7 +1495,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 88,
+        "tempF": 87,
         "tempC": 31
       },
       "moneyline": {
@@ -1539,12 +1539,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 80,
-        "tempC": 27
+        "tempF": 78,
+        "tempC": 26
       },
       "moneyline": {
-        "away": "+320",
-        "home": "-410"
+        "away": "+310",
+        "home": "-395"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1564,8 +1564,8 @@
         "winner": null,
         "record": "0-1"
       },
-      "line": "BAL -7.5",
-      "overUnder": 47.5,
+      "line": "BAL -8.5",
+      "overUnder": 46.5,
       "venue": "M&T Bank Stadium",
       "city": "Baltimore",
       "tv": [
@@ -1582,13 +1582,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 75,
-        "tempC": 24
+        "text": "Partly sunny",
+        "tempF": 73,
+        "tempC": 23
       },
       "moneyline": {
-        "away": "+130",
-        "home": "-155"
+        "away": "+124",
+        "home": "-148"
       },
       "detail": "9/20 - 4:05 PM EDT",
       "final": false,
@@ -1608,7 +1608,7 @@
         "winner": null,
         "record": "1-0"
       },
-      "line": "DEN -3",
+      "line": "DEN -2.5",
       "overUnder": 45.5,
       "venue": "Empower Field at Mile High",
       "city": "Denver",
@@ -1627,12 +1627,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 78,
-        "tempC": 26
+        "tempF": 77,
+        "tempC": 25
       },
       "moneyline": {
-        "away": "+240",
-        "home": "-298"
+        "away": "+235",
+        "home": "-290"
       },
       "detail": "9/20 - 4:05 PM EDT",
       "final": false,
@@ -1670,13 +1670,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 98,
-        "tempC": 37
+        "text": "Partly sunny",
+        "tempF": 97,
+        "tempC": 36
       },
       "moneyline": {
-        "away": "+180",
-        "home": "-218"
+        "away": "+185",
+        "home": "-225"
       },
       "detail": "9/20 - 4:25 PM EDT",
       "final": false,
@@ -1758,9 +1758,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 73,
-        "tempC": 23
+        "text": "Mostly cloudy",
+        "tempF": 70,
+        "tempC": 21
       },
       "moneyline": {
         "away": "+625",
@@ -1802,9 +1802,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 75,
-        "tempC": 24
+        "text": "Intermittent clouds",
+        "tempF": 73,
+        "tempC": 23
       },
       "moneyline": {
         "away": "+230",
@@ -1846,7 +1846,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
+        "text": "Intermittent clouds",
         "tempF": 75,
         "tempC": 24
       },
