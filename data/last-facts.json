@@ -1,5 +1,5 @@
 {
-  "now_perth": "Thu, 17 Sept, 12:23 pm",
+  "now_perth": "Fri, 18 Sept, 12:39 am",
   "bengals_next": {
     "id": "401872934",
     "week": 2,
@@ -9,7 +9,7 @@
     "clock": null,
     "weather": {
       "text": "Intermittent clouds",
-      "tempF": 89,
+      "tempF": 90,
       "tempC": 32
     },
     "moneyline": {
@@ -281,6 +281,18 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
+      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
+      "published": "2026-09-17T13:04:48Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms"
+    },
+    {
+      "headline": "Compton on Burrow's back tightness: 'I would be afraid' as a Bengals fan",
+      "summary": "Compton on Burrow's back tightness: 'I would be afraid' as a Bengals fan",
+      "published": "2026-09-17T12:52:07Z",
+      "url": "https://www.espn.com/video/clip/_/id/49963965/afraid-bengals-fan"
+    },
+    {
       "headline": "Joe Burrow expects to play despite back tightness",
       "summary": "Ben Baby reports Joe Burrow was limited Wednesday with back tightness but expects to play against Houston.",
       "published": "2026-09-17T00:14:58Z",
@@ -315,21 +327,33 @@
       "summary": "Howell believes the SEC made him ready for moments such as Sunday, when he had four QB pressures in the Bengals' win.",
       "published": "2026-09-15T13:11:14Z",
       "url": "https://www.espn.com/nfl/story/_/id/49944548/cincinnati-bengals-cashius-howell-impact"
-    },
-    {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
-      "published": "2026-09-14T14:35:46Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
-    },
-    {
-      "headline": "Bengals defense comes up big in win over Buccaneers",
-      "summary": "Ben Baby reports on the Bengals' defense showing out in their Week 1 win over the Buccaneers.",
-      "published": "2026-09-14T04:04:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/49936874/bengals-defense-comes-big-win-buccaneers"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "Schefter: Nico Collins in jeopardy of missing Texans' Week 2 game",
+      "summary": "Schefter: Nico Collins in jeopardy of missing Texans' Week 2 game",
+      "published": "2026-09-17T13:15:41Z",
+      "url": "https://www.espn.com/video/clip/_/id/49964218/nico-collins-jeopardy-missing-texans-week-2-game"
+    },
+    {
+      "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
+      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
+      "published": "2026-09-17T13:04:48Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms"
+    },
+    {
+      "headline": "Source: Texans' Nico Collins (hamstring) uncertain for Week 2",
+      "summary": "Texans star wide receiver Nico Collins suffered a hamstring injury during Wednesday's practice and is uncertain to play in Week 2 against the Bengals, a source told ESPN.",
+      "published": "2026-09-17T13:16:44Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49964107/source-texans-nico-collins-hamstring-uncertain-week-2"
+    },
+    {
+      "headline": "C.J. Stroud not worried about Andre Johnson's comments",
+      "summary": "DJ Bien-Aime breaks down C.J. Stroud's reaction to Andre Johnson calling out his body language.",
+      "published": "2026-09-17T04:55:53Z",
+      "url": "https://www.espn.com/video/clip/_/id/49962356/cj-stroud-not-worried-andre-johnson-comments"
+    },
     {
       "headline": "Kyrie offers to pay Al-Shaair's fine for tribute to Hind Rajab",
       "summary": "Kyrie Irving offered to pay Texans LB Azeez Al-Shaair's $11,941 fine for having the name of a Palestinian girl killed in Gaza in 2024 written on his eye black during a game.",
@@ -353,30 +377,6 @@
       "summary": "What's the latest for three teams dealing with QB injuries? What are we hearing on the Rams and Chargers after bad losses? And which Week 1 debuts stood out?",
       "published": "2026-09-16T16:21:36Z",
       "url": "https://www.espn.com/nfl/story/_/id/49941231/week-2-buzz-fantasy-predictions-graziano-fowler-2026"
-    },
-    {
-      "headline": "Could David Montgomery be key to unlock Texans' offense?",
-      "summary": "Houston scored its most points in a season opener since coach DeMeco Ryans took over.",
-      "published": "2026-09-16T11:53:03Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49949962/houston-texans-david-montgomery-rb-three-touchdowns-debut"
-    },
-    {
-      "headline": "Texans sign LB Kenneth Murray to practice squad",
-      "summary": "The Texans signed former first-round pick Kenneth Murray to their practice squad Tuesday in the wake of starting linebacker Henry To'oTo'o landing on injured reserve.",
-      "published": "2026-09-16T10:37:00Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49953603/texans-sign-kenneth-murray-practice-squad-henry-tootoo-injured-reserve"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-09-15T10:39:09Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "Seven things Solak thinks entering NFL Week 2",
-      "summary": "Will the Titans score any points against the Eagles? Can Ben Johnson solve Brian Flores' Vikings defense? Get ready for Week 2 with seven takes.",
-      "published": "2026-09-15T16:01:33Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49940280/week-2-seven-things-solak-thinks-bears-vikings-bills-lions"
     }
   ],
   "league_week": 2,
@@ -1230,13 +1230,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Thunderstorms",
-        "tempF": 75,
-        "tempC": 24
+        "text": "6",
+        "tempF": 73,
+        "tempC": 23
       },
       "moneyline": {
-        "away": "+195",
-        "home": "-238"
+        "away": "+205",
+        "home": "-250"
       },
       "detail": "9/17 - 8:15 PM EDT",
       "final": false,
@@ -1256,7 +1256,7 @@
         "winner": null,
         "record": "1-0"
       },
-      "line": "BUF -4.5",
+      "line": "BUF -5.5",
       "overUnder": 54.5,
       "venue": "Highmark Stadium",
       "city": "Orchard Park",
@@ -1274,8 +1274,8 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 83,
+        "text": "Cloudy",
+        "tempF": 82,
         "tempC": 28
       },
       "moneyline": {
@@ -1323,8 +1323,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "+170",
-        "home": "-205"
+        "away": "+164",
+        "home": "-198"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1345,7 +1345,7 @@
         "record": "1-0"
       },
       "line": "CHI -4.5",
-      "overUnder": 48.5,
+      "overUnder": 47.5,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [
@@ -1363,12 +1363,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 92,
-        "tempC": 33
+        "tempF": 93,
+        "tempC": 34
       },
       "moneyline": {
-        "away": "-325",
-        "home": "+260"
+        "away": "-310",
+        "home": "+250"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1406,9 +1406,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
-        "tempF": 59,
-        "tempC": 15
+        "text": "Cloudy",
+        "tempF": 62,
+        "tempC": 17
       },
       "moneyline": {
         "away": "+180",
@@ -1451,8 +1451,8 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 68,
-        "tempC": 20
+        "tempF": 69,
+        "tempC": 21
       },
       "moneyline": {
         "away": "-192",
@@ -1494,13 +1494,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
+        "text": "Mostly cloudy",
         "tempF": 88,
         "tempC": 31
       },
       "moneyline": {
-        "away": "+340",
-        "home": "-440"
+        "away": "+350",
+        "home": "-455"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1538,7 +1538,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Mostly cloudy",
         "tempF": 79,
         "tempC": 26
       },
@@ -1582,9 +1582,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 73,
-        "tempC": 23
+        "text": "Intermittent clouds",
+        "tempF": 76,
+        "tempC": 24
       },
       "moneyline": {
         "away": "+124",
@@ -1627,8 +1627,8 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 78,
-        "tempC": 26
+        "tempF": 76,
+        "tempC": 24
       },
       "moneyline": {
         "away": "+245",
@@ -1671,8 +1671,8 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 98,
-        "tempC": 37
+        "tempF": 97,
+        "tempC": 36
       },
       "moneyline": {
         "away": "+180",
@@ -1714,9 +1714,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 98,
-        "tempC": 37
+        "text": "Mostly sunny",
+        "tempF": 96,
+        "tempC": 36
       },
       "moneyline": {
         "away": "-218",
@@ -1741,7 +1741,7 @@
         "record": "1-0"
       },
       "line": "SEA -3.5",
-      "overUnder": 40.5,
+      "overUnder": 41.5,
       "venue": "State Farm Stadium",
       "city": "Glendale",
       "tv": [
@@ -1759,12 +1759,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 72,
-        "tempC": 22
+        "tempF": 70,
+        "tempC": 21
       },
       "moneyline": {
-        "away": "+625",
-        "home": "-950"
+        "away": "+600",
+        "home": "-900"
       },
       "detail": "9/20 - 4:25 PM EDT",
       "final": false,
@@ -1802,13 +1802,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 71,
+        "text": "Cloudy",
+        "tempF": 72,
         "tempC": 22
       },
       "moneyline": {
-        "away": "+230",
-        "home": "-285"
+        "away": "+235",
+        "home": "-290"
       },
       "detail": "9/20 - 8:20 PM EDT",
       "final": false,
@@ -1846,13 +1846,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 75,
-        "tempC": 24
+        "text": "Mostly sunny",
+        "tempF": 74,
+        "tempC": 23
       },
       "moneyline": {
-        "away": "+280",
-        "home": "-355"
+        "away": "+285",
+        "home": "-360"
       },
       "detail": "9/21 - 8:15 PM EDT",
       "final": false,
@@ -1873,7 +1873,7 @@
         "record": "1-0"
       },
       "line": "LAR -7",
-      "overUnder": 47.5,
+      "overUnder": 48.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
       "tv": [
