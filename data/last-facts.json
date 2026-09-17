@@ -1,5 +1,5 @@
 {
-  "now_perth": "Thu, 17 Sept, 12:34 am",
+  "now_perth": "Thu, 17 Sept, 12:23 pm",
   "bengals_next": {
     "id": "401872934",
     "week": 2,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Intermittent clouds",
-      "tempF": 90,
+      "tempF": 89,
       "tempC": 32
     },
     "moneyline": {
-      "away": "+124",
-      "home": "-148"
+      "away": "+120",
+      "home": "-142"
     },
     "detail": "9/20 - 1:00 PM EDT",
     "final": false,
@@ -34,7 +34,7 @@
       "winner": null,
       "record": "1-0"
     },
-    "line": "HOU -3",
+    "line": "HOU -2.5",
     "overUnder": 46.5,
     "venue": "Reliant Stadium",
     "city": "Houston",
@@ -281,6 +281,18 @@
   },
   "news_bengals": [
     {
+      "headline": "Joe Burrow expects to play despite back tightness",
+      "summary": "Ben Baby reports Joe Burrow was limited Wednesday with back tightness but expects to play against Houston.",
+      "published": "2026-09-17T00:14:58Z",
+      "url": "https://www.espn.com/video/clip/_/id/49961089/joe-burrow-expects-play-back-tightness"
+    },
+    {
+      "headline": "Bengals' Burrow: 'Ridiculous' that tight back would keep me out",
+      "summary": "Bengals quarterback Joe Burrow said Wednesday that he is dealing with back tightness but expects to play Sunday at the Houston Texans.",
+      "published": "2026-09-16T21:35:42Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49960153/bengals-joe-burrow-says-expects-play-tight-back"
+    },
+    {
       "headline": "2027 NFL draft order projections for Round 1, top pick, more",
       "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
       "published": "2026-09-15T10:39:09Z",
@@ -315,25 +327,31 @@
       "summary": "Ben Baby reports on the Bengals' defense showing out in their Week 1 win over the Buccaneers.",
       "published": "2026-09-14T04:04:13Z",
       "url": "https://www.espn.com/video/clip/_/id/49936874/bengals-defense-comes-big-win-buccaneers"
-    },
-    {
-      "headline": "NFL Week 1: Takeaways, questions, fantasy spin for Sunday games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 1.",
-      "published": "2026-09-14T16:19:36Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49871987/week-1-sunday-games-takeaways-questions-2026"
-    },
-    {
-      "headline": "Week 1 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Check out the best of the best from Week 1 around the NFL, including highlight-reel touchdowns and must-see plays.",
-      "published": "2026-09-14T03:52:42Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49881465/week-1-highlights-best-plays-touchdowns-2026"
     }
   ],
   "news_opponent": [
     {
+      "headline": "Kyrie offers to pay Al-Shaair's fine for tribute to Hind Rajab",
+      "summary": "Kyrie Irving offered to pay Texans LB Azeez Al-Shaair's $11,941 fine for having the name of a Palestinian girl killed in Gaza in 2024 written on his eye black during a game.",
+      "published": "2026-09-17T02:38:35Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49961834/kyrie-offers-pay-al-shaair-fine-tribute-hind-rajab"
+    },
+    {
+      "headline": "Texans' C.J. Stroud dismisses Andre Johnson criticism",
+      "summary": "C.J. Stroud took the high road when asked Wednesday about comments Andre Johnson made questioning the quarterback's body language.",
+      "published": "2026-09-17T02:33:17Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49960907/texans-cj-stroud-dismisses-andre-johnson-criticism"
+    },
+    {
+      "headline": "Bengals' Burrow: 'Ridiculous' that tight back would keep me out",
+      "summary": "Bengals quarterback Joe Burrow said Wednesday that he is dealing with back tightness but expects to play Sunday at the Houston Texans.",
+      "published": "2026-09-16T21:35:42Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49960153/bengals-joe-burrow-says-expects-play-tight-back"
+    },
+    {
       "headline": "NFL Week 2 latest intel, buzz questions, news, fantasy tips",
       "summary": "What's the latest for three teams dealing with QB injuries? What are we hearing on the Rams and Chargers after bad losses? And which Week 1 debuts stood out?",
-      "published": "2026-09-16T14:45:43Z",
+      "published": "2026-09-16T16:21:36Z",
       "url": "https://www.espn.com/nfl/story/_/id/49941231/week-2-buzz-fantasy-predictions-graziano-fowler-2026"
     },
     {
@@ -359,24 +377,6 @@
       "summary": "Will the Titans score any points against the Eagles? Can Ben Johnson solve Brian Flores' Vikings defense? Get ready for Week 2 with seven takes.",
       "published": "2026-09-15T16:01:33Z",
       "url": "https://www.espn.com/nfl/story/_/id/49940280/week-2-seven-things-solak-thinks-bears-vikings-bills-lions"
-    },
-    {
-      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 2",
-      "summary": "How do all 32 NFL teams stack up ahead of Week 2? Plus, we picked out the top newcomers from each roster.",
-      "published": "2026-09-15T14:26:42Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49881711/power-rankings-week-2-all-teams-top-newcomers-debuts"
-    },
-    {
-      "headline": "Texans LB Henry To'oTo'o to miss some time with shoulder injury",
-      "summary": "Texans starting LB Henry To'oTo'o suffered a shoulder injury in Sunday's season opener and will miss some time, coach DeMeco Ryans said Monday.",
-      "published": "2026-09-14T19:16:01Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49942037/texans-lb-henry-tootoo-miss-some-shoulder-injury"
-    },
-    {
-      "headline": "Why the Texans' defense didn't live up to standard",
-      "summary": "DJ Bien-Aime explains why the Texans' defense fell short of their standard in the team's loss to the Bills.",
-      "published": "2026-09-14T15:47:36Z",
-      "url": "https://www.espn.com/video/clip/_/id/49940747/why-texans-defense-live-standard"
     }
   ],
   "league_week": 2,
@@ -1231,12 +1231,12 @@
       "clock": null,
       "weather": {
         "text": "Thunderstorms",
-        "tempF": 74,
-        "tempC": 23
+        "tempF": 75,
+        "tempC": 24
       },
       "moneyline": {
-        "away": "+190",
-        "home": "-230"
+        "away": "+195",
+        "home": "-238"
       },
       "detail": "9/17 - 8:15 PM EDT",
       "final": false,
@@ -1275,12 +1275,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 81,
-        "tempC": 27
+        "tempF": 83,
+        "tempC": 28
       },
       "moneyline": {
-        "away": "-135",
-        "home": "+114"
+        "away": "-155",
+        "home": "+130"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1319,12 +1319,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 67,
+        "tempF": 66,
         "tempC": 19
       },
       "moneyline": {
-        "away": "+180",
-        "home": "-218"
+        "away": "+170",
+        "home": "-205"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1344,8 +1344,8 @@
         "winner": null,
         "record": "1-0"
       },
-      "line": "CHI -5.5",
-      "overUnder": 47.5,
+      "line": "CHI -4.5",
+      "overUnder": 48.5,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [
@@ -1407,8 +1407,8 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 60,
-        "tempC": 16
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
         "away": "+180",
@@ -1455,8 +1455,8 @@
         "tempC": 20
       },
       "moneyline": {
-        "away": "-205",
-        "home": "+170"
+        "away": "-192",
+        "home": "+160"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1476,7 +1476,7 @@
         "winner": null,
         "record": "0-1"
       },
-      "line": "GB -4.5",
+      "line": "GB -3.5",
       "overUnder": 44.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
@@ -1495,12 +1495,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 87,
+        "tempF": 88,
         "tempC": 31
       },
       "moneyline": {
-        "away": "+310",
-        "home": "-395"
+        "away": "+340",
+        "home": "-440"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1539,12 +1539,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 78,
+        "tempF": 79,
         "tempC": 26
       },
       "moneyline": {
-        "away": "+310",
-        "home": "-395"
+        "away": "+300",
+        "home": "-380"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1627,12 +1627,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 77,
-        "tempC": 25
+        "tempF": 78,
+        "tempC": 26
       },
       "moneyline": {
-        "away": "+235",
-        "home": "-290"
+        "away": "+245",
+        "home": "-305"
       },
       "detail": "9/20 - 4:05 PM EDT",
       "final": false,
@@ -1671,12 +1671,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 97,
-        "tempC": 36
+        "tempF": 98,
+        "tempC": 37
       },
       "moneyline": {
-        "away": "+185",
-        "home": "-225"
+        "away": "+180",
+        "home": "-218"
       },
       "detail": "9/20 - 4:25 PM EDT",
       "final": false,
@@ -1715,12 +1715,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 97,
-        "tempC": 36
+        "tempF": 98,
+        "tempC": 37
       },
       "moneyline": {
-        "away": "-205",
-        "home": "+170"
+        "away": "-218",
+        "home": "+180"
       },
       "detail": "9/20 - 4:25 PM EDT",
       "final": false,
@@ -1759,8 +1759,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 70,
-        "tempC": 21
+        "tempF": 72,
+        "tempC": 22
       },
       "moneyline": {
         "away": "+625",
@@ -1785,7 +1785,7 @@
         "record": "0-1"
       },
       "line": "SF -13.5",
-      "overUnder": 45.5,
+      "overUnder": 44.5,
       "venue": "Levi's Stadium",
       "city": "Santa Clara",
       "tv": [
@@ -1803,8 +1803,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 73,
-        "tempC": 23
+        "tempF": 71,
+        "tempC": 22
       },
       "moneyline": {
         "away": "+230",
