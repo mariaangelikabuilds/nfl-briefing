@@ -19,6 +19,16 @@
     "401872932"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Bills are 2-0 after 41-31 over Detroit on Thursday. Jared Goff went 26/38, 327 yds, 4 TD in the loss, and James Cook III ran 21 for 135 and a score.",
+        "Baltimore hosts New Orleans as BAL -7.5, total 46.5, Mon 1:00 am Perth. The Ravens opened 41-23 at Indy behind Derrick Henry's 24 car, 144 yds, 3 TD.",
+        "Pittsburgh visits New England as the underdog: NE -5.5, total 41.5. The Steelers beat Atlanta 20-13 in Week 1.",
+        "Cleveland is 0-1 after 34-10 at Jacksonville and now draws Tampa Bay as TB -8.5, total 41.5.",
+        "Chicago, off a 59-37 win at Carolina, hosts Minnesota as CHI -4.5 with a 48.5 total. Both are 1-0.",
+        "Sunday night is Colts at Chiefs, KC -6.5, total 46.5, Mon 8:20 am Perth. Kansas City handled Denver 31-10 in the opener."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401872934",
     "postgame": {
@@ -31,17 +41,7 @@
       "division_meaning": "Three-way tie at the top. Baltimore 1-0 at +18, Cincinnati 1-0 at +6, Pittsburgh 1-0 at +7. Cleveland is 0-1 at -24 after losing 34-10 at Jacksonville.",
       "the_take": "Four forced fumbles is not a repeatable plan. Cincinnati only out-gained Tampa 351 to 282 and went 2-5 in the red zone. Clean that up or Houston is a problem."
     },
-    "postgame_for": "401872925",
-    "league": {
-      "lines": [
-        "Bills are 2-0 after 41-31 over Detroit on Thursday. Jared Goff went 26/38, 327 yds, 4 TD in the loss, and James Cook III ran 21 for 135 and a score.",
-        "Baltimore hosts New Orleans as BAL -7.5, total 46.5, Mon 1:00 am Perth. The Ravens opened 41-23 at Indy behind Derrick Henry's 24 car, 144 yds, 3 TD.",
-        "Pittsburgh visits New England as the underdog: NE -5.5, total 41.5. The Steelers beat Atlanta 20-13 in Week 1.",
-        "Cleveland is 0-1 after 34-10 at Jacksonville and now draws Tampa Bay as TB -8.5, total 41.5.",
-        "Chicago, off a 59-37 win at Carolina, hosts Minnesota as CHI -4.5 with a 48.5 total. Both are 1-0.",
-        "Sunday night is Colts at Chiefs, KC -6.5, total 46.5, Mon 8:20 am Perth. Kansas City handled Denver 31-10 in the opener."
-      ]
-    }
+    "postgame_for": "401872925"
   },
   "written_at": "2026-09-18T04:06:58.554Z",
   "last_error": null
