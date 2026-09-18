@@ -1,5 +1,5 @@
 {
-  "now_perth": "Fri, 18 Sept, 12:39 am",
+  "now_perth": "Fri, 18 Sept, 12:06 pm",
   "bengals_next": {
     "id": "401872934",
     "week": 2,
@@ -281,9 +281,15 @@
   },
   "news_bengals": [
     {
+      "headline": "Will Anderson calls Texans’ loss to Bills a 'wake-up call' for the defense ahead of Bengals visit",
+      "summary": "— Houston Texans defensive end Will Anderson said giving up 36 points in a season-opening loss to the Bills wasn’t a reason to get mad but instead should be a catalyst to improve.",
+      "published": "2026-09-17T19:59:29Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872934"
+    },
+    {
       "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
       "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
-      "published": "2026-09-17T13:04:48Z",
+      "published": "2026-09-18T01:56:46Z",
       "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms"
     },
     {
@@ -321,15 +327,21 @@
       "summary": "How do all 32 NFL teams stack up ahead of Week 2? Plus, we picked out the top newcomers from each roster.",
       "published": "2026-09-15T14:26:42Z",
       "url": "https://www.espn.com/nfl/story/_/id/49881711/power-rankings-week-2-all-teams-top-newcomers-debuts"
-    },
-    {
-      "headline": "Cashing in: Bengals rookie Howell impacts pass rush",
-      "summary": "Howell believes the SEC made him ready for moments such as Sunday, when he had four QB pressures in the Bengals' win.",
-      "published": "2026-09-15T13:11:14Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49944548/cincinnati-bengals-cashius-howell-impact"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "Will Anderson calls Texans’ loss to Bills a 'wake-up call' for the defense ahead of Bengals visit",
+      "summary": "— Houston Texans defensive end Will Anderson said giving up 36 points in a season-opening loss to the Bills wasn’t a reason to get mad but instead should be a catalyst to improve.",
+      "published": "2026-09-17T19:59:29Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872934"
+    },
+    {
+      "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
+      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
+      "published": "2026-09-18T01:56:46Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms"
+    },
     {
       "headline": "Schefter: Nico Collins in jeopardy of missing Texans' Week 2 game",
       "summary": "Schefter: Nico Collins in jeopardy of missing Texans' Week 2 game",
@@ -337,15 +349,9 @@
       "url": "https://www.espn.com/video/clip/_/id/49964218/nico-collins-jeopardy-missing-texans-week-2-game"
     },
     {
-      "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
-      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
-      "published": "2026-09-17T13:04:48Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms"
-    },
-    {
       "headline": "Source: Texans' Nico Collins (hamstring) uncertain for Week 2",
       "summary": "Texans star wide receiver Nico Collins suffered a hamstring injury during Wednesday's practice and is uncertain to play in Week 2 against the Bengals, a source told ESPN.",
-      "published": "2026-09-17T13:16:44Z",
+      "published": "2026-09-17T21:05:06Z",
       "url": "https://www.espn.com/nfl/story/_/id/49964107/source-texans-nico-collins-hamstring-uncertain-week-2"
     },
     {
@@ -371,12 +377,6 @@
       "summary": "Bengals quarterback Joe Burrow said Wednesday that he is dealing with back tightness but expects to play Sunday at the Houston Texans.",
       "published": "2026-09-16T21:35:42Z",
       "url": "https://www.espn.com/nfl/story/_/id/49960153/bengals-joe-burrow-says-expects-play-tight-back"
-    },
-    {
-      "headline": "NFL Week 2 latest intel, buzz questions, news, fantasy tips",
-      "summary": "What's the latest for three teams dealing with QB injuries? What are we hearing on the Rams and Chargers after bad losses? And which Week 1 debuts stood out?",
-      "published": "2026-09-16T16:21:36Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49941231/week-2-buzz-fantasy-predictions-graziano-fowler-2026"
     }
   ],
   "league_week": 2,
@@ -1227,43 +1227,55 @@
       "week": 2,
       "kickoff": "2026-09-18T00:15Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "6",
-        "tempF": 73,
-        "tempC": 23
-      },
-      "moneyline": {
-        "away": "+205",
-        "home": "-250"
-      },
-      "detail": "9/17 - 8:15 PM EDT",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "2",
         "abbr": "BUF",
         "name": "Buffalo Bills",
-        "score": null,
-        "winner": null,
-        "record": "1-0"
+        "score": 41,
+        "winner": true,
+        "record": "2-0"
       },
       "away": {
         "id": "8",
         "abbr": "DET",
         "name": "Detroit Lions",
-        "score": null,
-        "winner": null,
-        "record": "1-0"
+        "score": 31,
+        "winner": false,
+        "record": "1-1"
       },
-      "line": "BUF -5.5",
-      "overUnder": 54.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Highmark Stadium",
       "city": "Orchard Park",
       "tv": [
         "Prime Video"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "26/38, 327 YDS, 4 TD",
+          "player": "Jared Goff",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "21 CAR, 135 YDS, 1 TD",
+          "player": "James Cook III",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "9 REC, 142 YDS, 2 TD",
+          "player": "Amon-Ra St. Brown",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Fri, 18 Sept, 8:15 am"
     },
     {
@@ -1275,8 +1287,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 82,
-        "tempC": 28
+        "tempF": 85,
+        "tempC": 29
       },
       "moneyline": {
         "away": "-155",
@@ -1345,7 +1357,7 @@
         "record": "1-0"
       },
       "line": "CHI -4.5",
-      "overUnder": 47.5,
+      "overUnder": 48.5,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [
@@ -1407,7 +1419,7 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 62,
+        "tempF": 63,
         "tempC": 17
       },
       "moneyline": {
@@ -1451,12 +1463,12 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 69,
-        "tempC": 21
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "-192",
-        "home": "+160"
+        "away": "-198",
+        "home": "+164"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1539,12 +1551,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 79,
-        "tempC": 26
+        "tempF": 77,
+        "tempC": 25
       },
       "moneyline": {
-        "away": "+300",
-        "home": "-380"
+        "away": "+310",
+        "home": "-395"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1564,7 +1576,7 @@
         "winner": null,
         "record": "0-1"
       },
-      "line": "BAL -8.5",
+      "line": "BAL -7.5",
       "overUnder": 46.5,
       "venue": "M&T Bank Stadium",
       "city": "Baltimore",
@@ -1583,8 +1595,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 76,
-        "tempC": 24
+        "tempF": 73,
+        "tempC": 23
       },
       "moneyline": {
         "away": "+124",
@@ -1627,8 +1639,8 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 76,
-        "tempC": 24
+        "tempF": 77,
+        "tempC": 25
       },
       "moneyline": {
         "away": "+245",
@@ -1696,7 +1708,7 @@
         "winner": null,
         "record": "0-1"
       },
-      "line": "DAL -4.5",
+      "line": "DAL -3.5",
       "overUnder": 50.5,
       "venue": "AT&T Stadium",
       "city": "Arlington",
@@ -1715,7 +1727,7 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 96,
+        "tempF": 97,
         "tempC": 36
       },
       "moneyline": {
@@ -1741,7 +1753,7 @@
         "record": "1-0"
       },
       "line": "SEA -3.5",
-      "overUnder": 41.5,
+      "overUnder": 40.5,
       "venue": "State Farm Stadium",
       "city": "Glendale",
       "tv": [
@@ -1759,7 +1771,7 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 70,
+        "tempF": 69,
         "tempC": 21
       },
       "moneyline": {
@@ -1803,7 +1815,7 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 72,
+        "tempF": 71,
         "tempC": 22
       },
       "moneyline": {
@@ -1847,12 +1859,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 74,
-        "tempC": 23
+        "tempF": 76,
+        "tempC": 24
       },
       "moneyline": {
-        "away": "+285",
-        "home": "-360"
+        "away": "+295",
+        "home": "-375"
       },
       "detail": "9/21 - 8:15 PM EDT",
       "final": false,
