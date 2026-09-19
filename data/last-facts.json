@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 19 Sept, 12:03 pm",
+  "now_perth": "Sat, 19 Sept, 11:41 pm",
   "bengals_next": {
     "id": "401872934",
     "week": 2,
@@ -100,7 +100,7 @@
     ],
     "kickoff_perth": "Mon, 14 Sept, 1:00 am"
   },
-  "write_pregame": true,
+  "write_pregame": false,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -281,6 +281,12 @@
   },
   "news_bengals": [
     {
+      "headline": "Hot reads for Bengals' Week 2 matchup against the Texans",
+      "summary": "Ben Baby details what Joe Burrow and the Bengals must do to be successful against the Texans in Week 2.",
+      "published": "2026-09-19T03:42:03Z",
+      "url": "https://www.espn.com/video/clip/_/id/49976820/hot-reads-bengals-week-2-matchup-texans"
+    },
+    {
       "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
       "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
       "published": "2026-09-18T21:14:48Z",
@@ -321,12 +327,6 @@
       "summary": "Ben Baby reports Joe Burrow was limited Wednesday with back tightness but expects to play against Houston.",
       "published": "2026-09-17T00:14:58Z",
       "url": "https://www.espn.com/video/clip/_/id/49961089/joe-burrow-expects-play-back-tightness"
-    },
-    {
-      "headline": "Bengals' Burrow: 'Ridiculous' that tight back would keep me out",
-      "summary": "Bengals quarterback Joe Burrow said Wednesday that he is dealing with back tightness but expects to play Sunday at the Houston Texans.",
-      "published": "2026-09-16T21:35:42Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49960153/bengals-joe-burrow-says-expects-play-tight-back"
     }
   ],
   "news_opponent": [
@@ -1287,12 +1287,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 84,
-        "tempC": 29
+        "tempF": 83,
+        "tempC": 28
       },
       "moneyline": {
-        "away": "-148",
-        "home": "+124"
+        "away": "-155",
+        "home": "+130"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1330,13 +1330,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 66,
-        "tempC": 19
+        "text": "Thunderstorms",
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+170",
-        "home": "-205"
+        "away": "+180",
+        "home": "-218"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1357,7 +1357,7 @@
         "record": "1-0"
       },
       "line": "CHI -4.5",
-      "overUnder": 48.5,
+      "overUnder": 47.5,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [
@@ -1419,12 +1419,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+180",
-        "home": "-218"
+        "away": "+185",
+        "home": "-225"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1467,8 +1467,8 @@
         "tempC": 21
       },
       "moneyline": {
-        "away": "-205",
-        "home": "+170"
+        "away": "-198",
+        "home": "+164"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1507,8 +1507,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 90,
-        "tempC": 32
+        "tempF": 87,
+        "tempC": 31
       },
       "moneyline": {
         "away": "+350",
@@ -1550,8 +1550,8 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 79,
+        "text": "Mostly cloudy",
+        "tempF": 78,
         "tempC": 26
       },
       "moneyline": {
@@ -1643,8 +1643,8 @@
         "tempC": 25
       },
       "moneyline": {
-        "away": "+240",
-        "home": "-298"
+        "away": "+245",
+        "home": "-305"
       },
       "detail": "9/20 - 4:05 PM EDT",
       "final": false,
@@ -1682,9 +1682,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 98,
-        "tempC": 37
+        "text": "Intermittent clouds",
+        "tempF": 97,
+        "tempC": 36
       },
       "moneyline": {
         "away": "+180",
@@ -1731,8 +1731,8 @@
         "tempC": 36
       },
       "moneyline": {
-        "away": "-218",
-        "home": "+180"
+        "away": "-205",
+        "home": "+170"
       },
       "detail": "9/20 - 4:25 PM EDT",
       "final": false,
@@ -1770,13 +1770,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 72,
+        "text": "Intermittent clouds",
+        "tempF": 71,
         "tempC": 22
       },
       "moneyline": {
-        "away": "+600",
-        "home": "-900"
+        "away": "+625",
+        "home": "-950"
       },
       "detail": "9/20 - 4:25 PM EDT",
       "final": false,
@@ -1815,12 +1815,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 71,
-        "tempC": 22
+        "tempF": 69,
+        "tempC": 21
       },
       "moneyline": {
-        "away": "+235",
-        "home": "-290"
+        "away": "+225",
+        "home": "-278"
       },
       "detail": "9/20 - 8:20 PM EDT",
       "final": false,
@@ -1840,7 +1840,7 @@
         "winner": null,
         "record": "0-1"
       },
-      "line": "KC -6.5",
+      "line": "KC -6",
       "overUnder": 46.5,
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
