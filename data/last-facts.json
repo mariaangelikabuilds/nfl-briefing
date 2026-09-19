@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 19 Sept, 12:10 am",
+  "now_perth": "Sat, 19 Sept, 12:03 pm",
   "bengals_next": {
     "id": "401872934",
     "week": 2,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Intermittent clouds",
-      "tempF": 89,
+      "tempF": 90,
       "tempC": 32
     },
     "moneyline": {
-      "away": "+120",
-      "home": "-142"
+      "away": "+114",
+      "home": "-135"
     },
     "detail": "9/20 - 1:00 PM EDT",
     "final": false,
@@ -35,7 +35,7 @@
       "record": "1-0"
     },
     "line": "HOU -2.5",
-    "overUnder": 46.5,
+    "overUnder": 45.5,
     "venue": "Reliant Stadium",
     "city": "Houston",
     "tv": [
@@ -100,7 +100,7 @@
     ],
     "kickoff_perth": "Mon, 14 Sept, 1:00 am"
   },
-  "write_pregame": false,
+  "write_pregame": true,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -281,15 +281,27 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
+      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
+      "published": "2026-09-18T21:14:48Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms"
+    },
+    {
+      "headline": "QB Burrow good to go, DE Stewart set for Bengals debut vs. Texans",
+      "summary": "Bengals QB Joe Burrow (back) was a full participant at Friday's practice and is set to start in Sunday's road affair against the Texans.",
+      "published": "2026-09-18T21:16:18Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49974212/qb-burrow-good-go-de-stewart-set-bengals-debut-vs-texans"
+    },
+    {
       "headline": "NFL Week 2 betting guide: Top plays for Sunday afternoon's games",
       "summary": "Our experts dive into the odds and player props for Week 2 and offer their betting tips and favorite plays.",
-      "published": "2026-09-18T10:49:02Z",
+      "published": "2026-09-18T21:27:21Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/49965524/week-2-nfl-odds-spreads-lines-props-best-bets-sunday-football-games"
     },
     {
       "headline": "NFL Week 2 picks, predictions, schedule, odds, fantasy tips",
       "summary": "Minnesota vs. Chicago? Trevor Lawrence vs. Bo Nix? There are more games left in Week 2, and we have picks, predictions, key stats, watchability ratings and more.",
-      "published": "2026-09-18T10:48:10Z",
+      "published": "2026-09-18T17:06:02Z",
       "url": "https://www.espn.com/nfl/story/_/id/49957149/week-2-picks-predictions-schedule-fantasy-odds-2026"
     },
     {
@@ -297,12 +309,6 @@
       "summary": "— Houston Texans defensive end Will Anderson said giving up 36 points in a season-opening loss to the Bills wasn’t a reason to get mad but instead should be a catalyst to improve.",
       "published": "2026-09-17T19:59:29Z",
       "url": "http://www.espn.com/nfl/preview?gameId=401872934"
-    },
-    {
-      "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
-      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
-      "published": "2026-09-18T02:53:02Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms"
     },
     {
       "headline": "Compton on Burrow's back tightness: 'I would be afraid' as a Bengals fan",
@@ -321,19 +327,25 @@
       "summary": "Bengals quarterback Joe Burrow said Wednesday that he is dealing with back tightness but expects to play Sunday at the Houston Texans.",
       "published": "2026-09-16T21:35:42Z",
       "url": "https://www.espn.com/nfl/story/_/id/49960153/bengals-joe-burrow-says-expects-play-tight-back"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-09-15T10:39:09Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
     }
   ],
   "news_opponent": [
     {
+      "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
+      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
+      "published": "2026-09-18T21:14:48Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms"
+    },
+    {
+      "headline": "Texans rule WR Nico Collins out vs. Bengals with hamstring injury",
+      "summary": "The Texans have ruled star wide receiver Nico Collins out for Sunday's matchup against the Bengals due to a hamstring injury.",
+      "published": "2026-09-18T22:11:10Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49975040/texans-rule-wr-nico-collins-vs-bengals-hamstring-injury"
+    },
+    {
       "headline": "NFL Week 2 betting guide: Top plays for Sunday afternoon's games",
       "summary": "Our experts dive into the odds and player props for Week 2 and offer their betting tips and favorite plays.",
-      "published": "2026-09-18T13:26:43Z",
+      "published": "2026-09-18T21:27:21Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/49965524/week-2-nfl-odds-spreads-lines-props-best-bets-sunday-football-games"
     },
     {
@@ -341,12 +353,6 @@
       "summary": "— Houston Texans defensive end Will Anderson said giving up 36 points in a season-opening loss to the Bills wasn’t a reason to get mad but instead should be a catalyst to improve.",
       "published": "2026-09-17T19:59:29Z",
       "url": "http://www.espn.com/nfl/preview?gameId=401872934"
-    },
-    {
-      "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
-      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
-      "published": "2026-09-18T02:53:02Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms"
     },
     {
       "headline": "Schefter: Nico Collins in jeopardy of missing Texans' Week 2 game",
@@ -371,12 +377,6 @@
       "summary": "Kyrie Irving offered to pay Texans LB Azeez Al-Shaair's $11,941 fine for having the name of a Palestinian girl killed in Gaza in 2024 written on his eye black during a game.",
       "published": "2026-09-17T02:38:35Z",
       "url": "https://www.espn.com/nfl/story/_/id/49961834/kyrie-offers-pay-al-shaair-fine-tribute-hind-rajab"
-    },
-    {
-      "headline": "Texans' C.J. Stroud dismisses Andre Johnson criticism",
-      "summary": "C.J. Stroud took the high road when asked Wednesday about comments Andre Johnson made questioning the quarterback's body language.",
-      "published": "2026-09-17T02:33:17Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49960907/texans-cj-stroud-dismisses-andre-johnson-criticism"
     }
   ],
   "league_week": 2,
@@ -1291,8 +1291,8 @@
         "tempC": 29
       },
       "moneyline": {
-        "away": "-162",
-        "home": "+136"
+        "away": "-148",
+        "home": "+124"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1331,8 +1331,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 65,
-        "tempC": 18
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
         "away": "+170",
@@ -1357,7 +1357,7 @@
         "record": "1-0"
       },
       "line": "CHI -4.5",
-      "overUnder": 47.5,
+      "overUnder": 48.5,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [
@@ -1375,12 +1375,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 92,
+        "tempF": 91,
         "tempC": 33
       },
       "moneyline": {
-        "away": "-310",
-        "home": "+250"
+        "away": "-325",
+        "home": "+260"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1463,12 +1463,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 70,
+        "tempF": 69,
         "tempC": 21
       },
       "moneyline": {
-        "away": "-198",
-        "home": "+164"
+        "away": "-205",
+        "home": "+170"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1551,7 +1551,7 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 78,
+        "tempF": 79,
         "tempC": 26
       },
       "moneyline": {
@@ -1576,7 +1576,7 @@
         "winner": null,
         "record": "0-1"
       },
-      "line": "BAL -7.5",
+      "line": "BAL -8.5",
       "overUnder": 46.5,
       "venue": "M&T Bank Stadium",
       "city": "Baltimore",
@@ -1643,8 +1643,8 @@
         "tempC": 25
       },
       "moneyline": {
-        "away": "+245",
-        "home": "-305"
+        "away": "+240",
+        "home": "-298"
       },
       "detail": "9/20 - 4:05 PM EDT",
       "final": false,
@@ -1683,8 +1683,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 97,
-        "tempC": 36
+        "tempF": 98,
+        "tempC": 37
       },
       "moneyline": {
         "away": "+180",
@@ -1727,7 +1727,7 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 96,
+        "tempF": 97,
         "tempC": 36
       },
       "moneyline": {
@@ -1771,7 +1771,7 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 71,
+        "tempF": 72,
         "tempC": 22
       },
       "moneyline": {
@@ -1796,7 +1796,7 @@
         "winner": null,
         "record": "0-1"
       },
-      "line": "SF -12.5",
+      "line": "SF -13.5",
       "overUnder": 44.5,
       "venue": "Levi's Stadium",
       "city": "Santa Clara",
@@ -1815,12 +1815,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 70,
-        "tempC": 21
+        "tempF": 71,
+        "tempC": 22
       },
       "moneyline": {
-        "away": "+230",
-        "home": "-285"
+        "away": "+235",
+        "home": "-290"
       },
       "detail": "9/20 - 8:20 PM EDT",
       "final": false,
@@ -1863,8 +1863,8 @@
         "tempC": 24
       },
       "moneyline": {
-        "away": "+295",
-        "home": "-375"
+        "away": "+280",
+        "home": "-355"
       },
       "detail": "9/21 - 8:15 PM EDT",
       "final": false,
