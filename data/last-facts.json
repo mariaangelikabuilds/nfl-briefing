@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 19 Sept, 11:41 pm",
+  "now_perth": "Sun, 20 Sept, 12:22 pm",
   "bengals_next": {
     "id": "401872934",
     "week": 2,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Intermittent clouds",
-      "tempF": 90,
+      "tempF": 89,
       "tempC": 32
     },
     "moneyline": {
-      "away": "+114",
-      "home": "-135"
+      "away": "+120",
+      "home": "-142"
     },
     "detail": "9/20 - 1:00 PM EDT",
     "final": false,
@@ -281,16 +281,22 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
+      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
+      "published": "2026-09-19T22:59:37Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms"
+    },
+    {
+      "headline": "NFL Week 2 predictions: Upsets, fantasy sleepers, stat lines",
+      "summary": "Will Ashton Jeanty pile up the scrimmage yards? Could the Bengals upset the Texans? And can George Pickens find the end zone?",
+      "published": "2026-09-19T16:16:31Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49951327/week-2-predictions-upsets-fantasy-sleepers-stats-2026"
+    },
+    {
       "headline": "Hot reads for Bengals' Week 2 matchup against the Texans",
       "summary": "Ben Baby details what Joe Burrow and the Bengals must do to be successful against the Texans in Week 2.",
       "published": "2026-09-19T03:42:03Z",
       "url": "https://www.espn.com/video/clip/_/id/49976820/hot-reads-bengals-week-2-matchup-texans"
-    },
-    {
-      "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
-      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
-      "published": "2026-09-18T21:14:48Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms"
     },
     {
       "headline": "QB Burrow good to go, DE Stewart set for Bengals debut vs. Texans",
@@ -305,6 +311,12 @@
       "url": "https://www.espn.com/espn/betting/story/_/id/49965524/week-2-nfl-odds-spreads-lines-props-best-bets-sunday-football-games"
     },
     {
+      "headline": "Ranking all 32 backup NFL quarterbacks for the 2026 season",
+      "summary": "We stacked the best No. 2 quarterbacks across the league, including Mac Jones and even a few backups who have already been forced to play in 2026.",
+      "published": "2026-09-19T23:52:32Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49941540/top-backup-quarterback-rankings-all-teams-2026"
+    },
+    {
       "headline": "NFL Week 2 picks, predictions, schedule, odds, fantasy tips",
       "summary": "Minnesota vs. Chicago? Trevor Lawrence vs. Bo Nix? There are more games left in Week 2, and we have picks, predictions, key stats, watchability ratings and more.",
       "published": "2026-09-18T17:06:02Z",
@@ -315,25 +327,13 @@
       "summary": "— Houston Texans defensive end Will Anderson said giving up 36 points in a season-opening loss to the Bills wasn’t a reason to get mad but instead should be a catalyst to improve.",
       "published": "2026-09-17T19:59:29Z",
       "url": "http://www.espn.com/nfl/preview?gameId=401872934"
-    },
-    {
-      "headline": "Compton on Burrow's back tightness: 'I would be afraid' as a Bengals fan",
-      "summary": "Compton on Burrow's back tightness: 'I would be afraid' as a Bengals fan",
-      "published": "2026-09-17T12:52:07Z",
-      "url": "https://www.espn.com/video/clip/_/id/49963965/afraid-bengals-fan"
-    },
-    {
-      "headline": "Joe Burrow expects to play despite back tightness",
-      "summary": "Ben Baby reports Joe Burrow was limited Wednesday with back tightness but expects to play against Houston.",
-      "published": "2026-09-17T00:14:58Z",
-      "url": "https://www.espn.com/video/clip/_/id/49961089/joe-burrow-expects-play-back-tightness"
     }
   ],
   "news_opponent": [
     {
       "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
       "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
-      "published": "2026-09-18T21:14:48Z",
+      "published": "2026-09-19T22:59:37Z",
       "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms"
     },
     {
@@ -355,12 +355,6 @@
       "url": "http://www.espn.com/nfl/preview?gameId=401872934"
     },
     {
-      "headline": "Schefter: Nico Collins in jeopardy of missing Texans' Week 2 game",
-      "summary": "Schefter: Nico Collins in jeopardy of missing Texans' Week 2 game",
-      "published": "2026-09-17T13:15:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/49964218/nico-collins-jeopardy-missing-texans-week-2-game"
-    },
-    {
       "headline": "Source: Texans' Nico Collins (hamstring) uncertain for Week 2",
       "summary": "Texans star wide receiver Nico Collins suffered a hamstring injury during Wednesday's practice and is uncertain to play in Week 2 against the Bengals, a source told ESPN.",
       "published": "2026-09-17T21:05:06Z",
@@ -377,6 +371,12 @@
       "summary": "Kyrie Irving offered to pay Texans LB Azeez Al-Shaair's $11,941 fine for having the name of a Palestinian girl killed in Gaza in 2024 written on his eye black during a game.",
       "published": "2026-09-17T02:38:35Z",
       "url": "https://www.espn.com/nfl/story/_/id/49961834/kyrie-offers-pay-al-shaair-fine-tribute-hind-rajab"
+    },
+    {
+      "headline": "Texans' C.J. Stroud dismisses Andre Johnson criticism",
+      "summary": "C.J. Stroud took the high road when asked Wednesday about comments Andre Johnson made questioning the quarterback's body language.",
+      "published": "2026-09-17T02:33:17Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49960907/texans-cj-stroud-dismisses-andre-johnson-criticism"
     }
   ],
   "league_week": 2,
@@ -1287,7 +1287,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 83,
+        "tempF": 82,
         "tempC": 28
       },
       "moneyline": {
@@ -1331,8 +1331,8 @@
       "clock": null,
       "weather": {
         "text": "Thunderstorms",
-        "tempF": 65,
-        "tempC": 18
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
         "away": "+180",
@@ -1419,12 +1419,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 62,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "+185",
-        "home": "-225"
+        "away": "+190",
+        "home": "-230"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1463,12 +1463,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 69,
-        "tempC": 21
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "-198",
-        "home": "+164"
+        "away": "-185",
+        "home": "+154"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1511,8 +1511,8 @@
         "tempC": 31
       },
       "moneyline": {
-        "away": "+350",
-        "home": "-455"
+        "away": "+340",
+        "home": "-440"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1532,7 +1532,7 @@
         "winner": null,
         "record": "0-1"
       },
-      "line": "TB -8.5",
+      "line": "TB -7.5",
       "overUnder": 41.5,
       "venue": "Raymond James Stadium",
       "city": "Tampa",
@@ -1551,12 +1551,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 78,
-        "tempC": 26
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
-        "away": "+310",
-        "home": "-395"
+        "away": "+300",
+        "home": "-380"
       },
       "detail": "9/20 - 1:00 PM EDT",
       "final": false,
@@ -1577,7 +1577,7 @@
         "record": "0-1"
       },
       "line": "BAL -8.5",
-      "overUnder": 46.5,
+      "overUnder": 45.5,
       "venue": "M&T Bank Stadium",
       "city": "Baltimore",
       "tv": [
@@ -1599,8 +1599,8 @@
         "tempC": 22
       },
       "moneyline": {
-        "away": "+124",
-        "home": "-148"
+        "away": "+130",
+        "home": "-155"
       },
       "detail": "9/20 - 4:05 PM EDT",
       "final": false,
@@ -1620,7 +1620,7 @@
         "winner": null,
         "record": "1-0"
       },
-      "line": "DEN -2.5",
+      "line": "DEN -3",
       "overUnder": 45.5,
       "venue": "Empower Field at Mile High",
       "city": "Denver",
@@ -1638,13 +1638,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
+        "text": "Mostly cloudy",
         "tempF": 77,
         "tempC": 25
       },
       "moneyline": {
-        "away": "+245",
-        "home": "-305"
+        "away": "+250",
+        "home": "-310"
       },
       "detail": "9/20 - 4:05 PM EDT",
       "final": false,
@@ -1683,8 +1683,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 97,
-        "tempC": 36
+        "tempF": 95,
+        "tempC": 35
       },
       "moneyline": {
         "away": "+180",
@@ -1770,9 +1770,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 71,
-        "tempC": 22
+        "text": "Cloudy",
+        "tempF": 70,
+        "tempC": 21
       },
       "moneyline": {
         "away": "+625",
@@ -1815,12 +1815,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 69,
-        "tempC": 21
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "+225",
-        "home": "-278"
+        "away": "+220",
+        "home": "-270"
       },
       "detail": "9/20 - 8:20 PM EDT",
       "final": false,
@@ -1859,12 +1859,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 76,
+        "tempF": 75,
         "tempC": 24
       },
       "moneyline": {
-        "away": "+280",
-        "home": "-355"
+        "away": "+250",
+        "home": "-310"
       },
       "detail": "9/21 - 8:15 PM EDT",
       "final": false,
@@ -1885,7 +1885,7 @@
         "record": "1-0"
       },
       "line": "LAR -7",
-      "overUnder": 48.5,
+      "overUnder": 47.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
       "tv": [
