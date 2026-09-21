@@ -1,5 +1,5 @@
 {
-  "now_perth": "Mon, 21 Sept, 12:21 pm",
+  "now_perth": "Tue, 22 Sept, 2:05 am",
   "bengals_next": {
     "id": "401872950",
     "week": 3,
@@ -8,13 +8,13 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Partly sunny",
+      "text": "Intermittent clouds",
       "tempF": 65,
       "tempC": 18
     },
     "moneyline": {
-      "away": "-192",
-      "home": "+160"
+      "away": "-185",
+      "home": "+154"
     },
     "detail": "9/27 - 1:00 PM EDT",
     "final": false,
@@ -35,7 +35,7 @@
       "record": "2-0"
     },
     "line": "CIN -3.5",
-    "overUnder": 43.5,
+    "overUnder": 42.5,
     "venue": "Acrisure Stadium",
     "city": "Pittsburgh",
     "tv": [
@@ -101,7 +101,7 @@
     "kickoff_perth": "Mon, 21 Sept, 1:00 am"
   },
   "write_pregame": false,
-  "write_postgame": true,
+  "write_postgame": false,
   "division": {
     "name": "AFC North",
     "rows": [
@@ -285,10 +285,40 @@
   },
   "news_bengals": [
     {
+      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
+      "published": "2026-09-21T15:35:55Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
+    },
+    {
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
+      "published": "2026-09-21T15:13:16Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-09-21T10:00:40Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
+      "headline": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
+      "published": "2026-09-21T15:16:31Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026"
+    },
+    {
       "headline": "Week 2 NFL highlights: Best plays, moments, touchdowns, more",
       "summary": "Check out top Week 2 plays, with Dak Prescott, Jacoby Brissett and Justin Herbert in action.",
-      "published": "2026-09-21T03:04:23Z",
+      "published": "2026-09-21T04:04:09Z",
       "url": "https://www.espn.com/nfl/story/_/id/49984903/week-2-highlights-best-plays-touchdowns-2026"
+    },
+    {
+      "headline": "Big-time catches headline the top plays of Week 2 of NFL",
+      "summary": "Big-time catches headline the top plays of Week 2 of NFL",
+      "published": "2026-09-21T10:51:25Z",
+      "url": "https://www.espn.com/video/clip/_/id/49995840/big-catches-headline-top-plays-week-2-nfl"
     },
     {
       "headline": "Two numbers show why the Bengals' defense could be legit",
@@ -301,85 +331,55 @@
       "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
       "published": "2026-09-21T01:17:18Z",
       "url": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals"
-    },
-    {
-      "headline": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
-      "published": "2026-09-21T02:17:11Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026"
-    },
-    {
-      "headline": "What are the longest field goals in NFL history?",
-      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "published": "2026-09-20T23:43:18Z",
-      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history"
-    },
-    {
-      "headline": "Cincinnati Bengals vs. Houston Texans: Game Highlights",
-      "summary": "Cincinnati Bengals vs. Houston Texans: Game Highlights",
-      "published": "2026-09-20T22:37:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/49992225/game-highlights"
-    },
-    {
-      "headline": "Ja'Marr Chase scores 2 TDs on passes from Joe Burrow to lead the Bengals past the Texans 20-6",
-      "summary": "— Ja'Marr Chase reminded everyone of just how good he can be on Sunday after the five-time Pro Bowler was a non-factor in Cincinnati's season-opening win.",
-      "published": "2026-09-20T22:24:29Z",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872934"
-    },
-    {
-      "headline": "Who are the top 10 players without a Super Bowl ring?",
-      "summary": "Introducing our Super Bowl Top 10s. First, we rank the best players who never won a championship, beginning with Dan Marino.",
-      "published": "2026-09-20T17:17:41Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49972360/top-10-players-super-bowl-ring"
     }
   ],
   "news_opponent": [
     {
-      "headline": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
-      "published": "2026-09-20T23:31:27Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026"
+      "headline": "NFL Week 3 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 3.",
+      "published": "2026-09-21T16:51:40Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49995686/2026-nfl-week-3-schedule-odds-betting-point-spreads-totals"
     },
     {
-      "headline": "NFL Week 2's best arrivals, led by Travis Kelce and Patrick Mahomes",
-      "summary": "Rounding up all top pregame and tunnel arrivals from around the league.",
-      "published": "2026-09-20T23:19:07Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals"
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
+      "published": "2026-09-21T17:10:23Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-09-21T10:00:40Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
+      "headline": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
+      "published": "2026-09-21T15:16:31Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026"
     },
     {
       "headline": "Week 2 NFL highlights: Best plays, moments, touchdowns, more",
       "summary": "Check out top Week 2 plays, with Dak Prescott, Jacoby Brissett and Justin Herbert in action.",
-      "published": "2026-09-20T23:09:23Z",
+      "published": "2026-09-21T04:04:09Z",
       "url": "https://www.espn.com/nfl/story/_/id/49984903/week-2-highlights-best-plays-touchdowns-2026"
     },
     {
-      "headline": "Judging the biggest overreactions to NFL Week 2 games",
-      "summary": "Will Aaron Rodgers stay QB1 all season? Is anything different for the Eagles' offense? And could the Lions miss the postseason again? We're judging Week 2 overreactions.",
-      "published": "2026-09-20T23:26:13Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49990224/week-2-overreactions-2026-graziano-rodgers-eagles"
+      "headline": "Mike McCarthy shoulders blame for loss to Patriots",
+      "summary": "Brooke Pryor reports on the Steelers not panicking on offense after only one touchdown in first two games.",
+      "published": "2026-09-21T02:52:18Z",
+      "url": "https://www.espn.com/video/clip/_/id/49995732/mike-mccarthy-shoulders-blame-loss-patriots"
     },
     {
-      "headline": "McCarthy takes blame for Steelers' offensive struggles in loss",
-      "summary": "Steelers coach Mike McCarthy shouldered the blame Sunday in the wake of his offense's clunky, uninspired performance in a loss to the Patriots.",
-      "published": "2026-09-20T23:12:23Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49993456/mccarthy-takes-blame-steelers-offensive-struggles-loss"
-    },
-    {
-      "headline": "Pittsburgh Steelers vs. New England Patriots: Game Highlights",
-      "summary": "Pittsburgh Steelers vs. New England Patriots: Game Highlights",
-      "published": "2026-09-20T22:37:43Z",
-      "url": "https://www.espn.com/video/clip/_/id/49992172/game-highlights"
-    },
-    {
-      "headline": "TreVeyon Henderson runs for a TD and the Patriots pummel Aaron Rodgers in a 20-3 win over Steelers",
-      "summary": "— The New England Patriots have yet to find much of the offensive rhythm that propelled their Super Bowl run last season. The defense was there to pick up the pieces against the ",
-      "published": "2026-09-20T21:14:31Z",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872946"
+      "headline": "NFL Week 2's best arrivals, led by Travis Kelce and Patrick Mahomes",
+      "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
+      "published": "2026-09-21T01:17:18Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals"
     },
     {
       "headline": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
       "summary": "The Steelers QB, who is entering his 22nd season in the league, is chasing records, and ESPN will be chronicling his \"last rodeo.\"",
-      "published": "2026-09-20T17:15:40Z",
+      "published": "2026-09-21T01:11:23Z",
       "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones"
     }
   ],
@@ -1182,8 +1182,8 @@
         "tempC": 23
       },
       "moneyline": {
-        "away": "+245",
-        "home": "-305"
+        "away": "+240",
+        "home": "-298"
       },
       "detail": "9/21 - 8:15 PM EDT",
       "final": false,
@@ -1203,7 +1203,7 @@
         "winner": null,
         "record": "1-0"
       },
-      "line": "LAR -7",
+      "line": "LAR -6.5",
       "overUnder": 47.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
@@ -1227,8 +1227,8 @@
         "tempC": 14
       },
       "moneyline": {
-        "away": "+260",
-        "home": "-325"
+        "away": "+270",
+        "home": "-340"
       },
       "detail": "9/24 - 8:15 PM EDT",
       "final": false,
@@ -1249,7 +1249,7 @@
         "record": "0-2"
       },
       "line": "GB -7",
-      "overUnder": 44.5,
+      "overUnder": 43.5,
       "venue": "Lambeau Field",
       "city": "Green Bay",
       "tv": [
@@ -1267,8 +1267,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+270",
-        "home": "-340"
+        "away": "+250",
+        "home": "-310"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1306,13 +1306,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 67,
-        "tempC": 19
+        "text": "Intermittent clouds",
+        "tempF": 69,
+        "tempC": 21
       },
       "moneyline": {
-        "away": "-162",
-        "home": "+136"
+        "away": "-155",
+        "home": "+130"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1333,7 +1333,7 @@
         "record": "1-1"
       },
       "line": "CAR -3",
-      "overUnder": 40.5,
+      "overUnder": 42.5,
       "venue": "Huntington Bank Field",
       "city": "Cleveland",
       "tv": [
@@ -1350,13 +1350,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 68,
-        "tempC": 20
+        "text": "Intermittent clouds",
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "+235",
-        "home": "-290"
+        "away": "+225",
+        "home": "-278"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1394,13 +1394,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 68,
-        "tempC": 20
+        "text": "Mostly sunny",
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "-125",
-        "home": "+105"
+        "away": "-155",
+        "home": "+130"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1420,7 +1420,7 @@
         "winner": null,
         "record": "0-2"
       },
-      "line": "HOU -1.5",
+      "line": "HOU -3",
       "overUnder": 43.5,
       "venue": "Lucas Oil Stadium",
       "city": "Indianapolis",
@@ -1438,13 +1438,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
+        "text": "Intermittent clouds",
         "tempF": 83,
         "tempC": 28
       },
       "moneyline": {
-        "away": "-600",
-        "home": "+440"
+        "away": "-800",
+        "home": "+550"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1464,8 +1464,8 @@
         "winner": null,
         "record": "2-0"
       },
-      "line": "KC -10",
-      "overUnder": 44.5,
+      "line": "KC -11.5",
+      "overUnder": 45.5,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
       "tv": [
@@ -1482,13 +1482,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 68,
-        "tempC": 20
+        "text": "Cloudy",
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "+215",
-        "home": "-265"
+        "away": "+225",
+        "home": "-278"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1526,13 +1526,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Hazy sunshine",
-        "tempF": 68,
-        "tempC": 20
+        "text": "Mostly cloudy",
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "-250",
-        "home": "+205"
+        "away": "-290",
+        "home": "+235"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1552,8 +1552,8 @@
         "winner": null,
         "record": "2-0"
       },
-      "line": "SEA -6",
-      "overUnder": 40.5,
+      "line": "SEA -6.5",
+      "overUnder": 39.5,
       "venue": "Northwest Stadium",
       "city": "Landover",
       "tv": [
@@ -1570,13 +1570,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 80,
-        "tempC": 27
+        "text": "Intermittent clouds",
+        "tempF": 78,
+        "tempC": 26
       },
       "moneyline": {
-        "away": "+124",
-        "home": "-148"
+        "away": "+130",
+        "home": "-155"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1596,8 +1596,8 @@
         "winner": null,
         "record": "1-1"
       },
-      "line": "JAX -2.5",
-      "overUnder": 44.5,
+      "line": "JAX -3",
+      "overUnder": 45.5,
       "venue": "EverBank Stadium",
       "city": "Jacksonville",
       "tv": [
@@ -1614,13 +1614,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Hazy sunshine",
-        "tempF": 72,
+        "text": "Sunny",
+        "tempF": 71,
         "tempC": 22
       },
       "moneyline": {
-        "away": "+350",
-        "home": "-455"
+        "away": "+360",
+        "home": "-470"
       },
       "detail": "9/27 - 4:05 PM EDT",
       "final": false,
@@ -1641,7 +1641,7 @@
         "record": "1-1"
       },
       "line": "SF -8.5",
-      "overUnder": 48.5,
+      "overUnder": 47.5,
       "venue": "Levi's Stadium",
       "city": "Santa Clara",
       "tv": [
@@ -1658,13 +1658,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
+        "text": "Mostly cloudy",
         "tempF": 88,
         "tempC": 31
       },
       "moneyline": {
-        "away": "-142",
-        "home": "+120"
+        "away": "-130",
+        "home": "+110"
       },
       "detail": "9/27 - 4:05 PM EDT",
       "final": false,
@@ -1684,8 +1684,8 @@
         "winner": null,
         "record": "2-0"
       },
-      "line": "MIN -2.5",
-      "overUnder": 43.5,
+      "line": "MIN -1.5",
+      "overUnder": 42.5,
       "venue": "Raymond James Stadium",
       "city": "Tampa",
       "tv": [
@@ -1703,8 +1703,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "-148",
-        "home": "+124"
+        "away": "-155",
+        "home": "+130"
       },
       "detail": "9/27 - 4:25 PM EDT",
       "final": false,
@@ -1725,7 +1725,7 @@
         "record": "1-1"
       },
       "line": "BAL -3",
-      "overUnder": 51.5,
+      "overUnder": 52.5,
       "venue": "Maracanã Stadium",
       "city": "Rio De Janeiro",
       "tv": [
@@ -1742,13 +1742,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 89,
+        "text": "Partly sunny",
+        "tempF": 90,
         "tempC": 32
       },
       "moneyline": {
-        "away": "+150",
-        "home": "-180"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "9/27 - 4:25 PM EDT",
       "final": false,
@@ -1768,8 +1768,8 @@
         "winner": null,
         "record": "2-0"
       },
-      "line": "NO -3.5",
-      "overUnder": 44.5,
+      "line": "NO -3",
+      "overUnder": 43.5,
       "venue": "Caesars Superdome",
       "city": "New Orleans",
       "tv": [
@@ -1787,8 +1787,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 77,
-        "tempC": 25
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
         "away": "-135",
@@ -1835,8 +1835,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "-205",
-        "home": "+170"
+        "away": "-185",
+        "home": "+154"
       },
       "detail": "9/28 - 8:15 PM EDT",
       "final": false,
@@ -1856,7 +1856,7 @@
         "winner": null,
         "record": "2-0"
       },
-      "line": "PHI -4.5",
+      "line": "PHI -3.5",
       "overUnder": 44.5,
       "venue": "Soldier Field",
       "city": "Chicago",

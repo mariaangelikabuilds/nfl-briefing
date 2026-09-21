@@ -33,6 +33,16 @@
     "401872946"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Kansas City survived Indianapolis 33-30 in OT. Mahomes 32/47, 382 yds, 3 TD. The Colts are 0-2.",
+        "Buffalo beat Detroit 41-31 despite Jared Goff going 26/38 for 327 and 4 TD. Bills 2-0, hosting the Chargers as BUF -7, total 50.5.",
+        "Pittsburgh managed 3 points at New England. Mike McCarthy took the blame for the offense, per ESPN.",
+        "Baltimore and Dallas play Week 3 at Maracana Stadium in Rio, BAL -3, total 51.5. Kickoff Mon, 28 Sept, 4:25 am Perth.",
+        "Carolina hammered Atlanta 34-3 behind Bryce Young's 23/36, 287 yds, 3 TD. They are favoured at Cleveland, CAR -3.",
+        "Rams and Giants close Week 2 on Tue, 22 Sept, 8:15 am Perth. LAR -7, total 47.5."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401872950",
     "postgame": {
@@ -45,17 +55,7 @@
       "division_meaning": "Bengals are 2-0 and alone on top at +20. Baltimore lost 24-17 to New Orleans, Pittsburgh lost 20-3 at New England, Cleveland beat Tampa 23-19. All three sit 1-1.",
       "the_take": "Houston out-gained them 374 to 267 and Cincinnati still won by 14 without a turnover either way. An ESPN video headline says two numbers show the defense could be legit. I buy it."
     },
-    "postgame_for": "401872934",
-    "league": {
-      "lines": [
-        "Kansas City survived Indianapolis 33-30 in OT. Mahomes 32/47, 382 yds, 3 TD. The Colts are 0-2.",
-        "Buffalo beat Detroit 41-31 despite Jared Goff going 26/38 for 327 and 4 TD. Bills 2-0, hosting the Chargers as BUF -7, total 50.5.",
-        "Pittsburgh managed 3 points at New England. Mike McCarthy took the blame for the offense, per ESPN.",
-        "Baltimore and Dallas play Week 3 at Maracana Stadium in Rio, BAL -3, total 51.5. Kickoff Mon, 28 Sept, 4:25 am Perth.",
-        "Carolina hammered Atlanta 34-3 behind Bryce Young's 23/36, 287 yds, 3 TD. They are favoured at Cleveland, CAR -3.",
-        "Rams and Giants close Week 2 on Tue, 22 Sept, 8:15 am Perth. LAR -7, total 47.5."
-      ]
-    }
+    "postgame_for": "401872934"
   },
   "written_at": "2026-09-21T04:21:05.193Z",
   "last_error": null
