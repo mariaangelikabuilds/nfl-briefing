@@ -16,47 +16,47 @@
     "401872929",
     "401872930",
     "401872931",
-    "401872932"
+    "401872932",
+    "401872933",
+    "401872934",
+    "401872935",
+    "401872936",
+    "401872937",
+    "401872938",
+    "401872939",
+    "401872940",
+    "401872941",
+    "401872942",
+    "401872943",
+    "401872944",
+    "401872945",
+    "401872946"
   ],
   "briefing": {
+    "pregame": null,
+    "pregame_for": "401872950",
+    "postgame": {
+      "what_decided_it": "Cincinnati won the red zone and nothing else mattered. Houston went 0-4 inside the 20 and 0-4 on fourth down. The Bengals went 1-1 in the red zone and took 20-6.",
+      "standouts": [
+        "Ja'Marr Chase: 7 rec, 75 yds, 2 TD after being a non-factor in the opener, per the ESPN recap.",
+        "Joe Burrow: 20/31, 207 yds, 2 TD, 0 INT. Only 5.1 yards per pass, but no turnovers and five sacks taken.",
+        "Chase Brown: 20 car, 80 yds. Tee Higgins added 5 rec for 95 yds."
+      ],
+      "division_meaning": "Bengals are 2-0 and alone on top at +20. Baltimore lost 24-17 to New Orleans, Pittsburgh lost 20-3 at New England, Cleveland beat Tampa 23-19. All three sit 1-1.",
+      "the_take": "Houston out-gained them 374 to 267 and Cincinnati still won by 14 without a turnover either way. An ESPN video headline says two numbers show the defense could be legit. I buy it."
+    },
+    "postgame_for": "401872934",
     "league": {
       "lines": [
-        "Buffalo is 2-0 after 41-31 over Detroit on Thursday. Goff threw 26/38, 327 yards, 4 TD in a loss, which tells you how the Bills defence played.",
-        "Baltimore hosts New Orleans at BAL -8.5, total 46.5. Derrick Henry had 24 carries, 144 yards, 3 TD in the 41-23 win at Indy.",
-        "Pittsburgh is at New England and is the underdog at NE -5.5 despite being 1-0 after beating Atlanta 20-13.",
-        "Cleveland is 0-1 with a -24 differential after 34-10 at Jacksonville, and now goes to Tampa as an 8.5-point dog.",
-        "Chicago hosts Minnesota at CHI -4.5 after putting 59 on Carolina. Both teams are 1-0.",
-        "Miami at San Francisco is the week's biggest line, SF -13.5, after the Niners beat the Rams 27-7 in Melbourne."
+        "Kansas City survived Indianapolis 33-30 in OT. Mahomes 32/47, 382 yds, 3 TD. The Colts are 0-2.",
+        "Buffalo beat Detroit 41-31 despite Jared Goff going 26/38 for 327 and 4 TD. Bills 2-0, hosting the Chargers as BUF -7, total 50.5.",
+        "Pittsburgh managed 3 points at New England. Mike McCarthy took the blame for the offense, per ESPN.",
+        "Baltimore and Dallas play Week 3 at Maracana Stadium in Rio, BAL -3, total 51.5. Kickoff Mon, 28 Sept, 4:25 am Perth.",
+        "Carolina hammered Atlanta 34-3 behind Bryce Young's 23/36, 287 yds, 3 TD. They are favoured at Cleveland, CAR -3.",
+        "Rams and Giants close Week 2 on Tue, 22 Sept, 8:15 am Perth. LAR -7, total 47.5."
       ]
-    },
-    "pregame": {
-      "matchup_read": "Bengals go to Reliant Stadium as 1-0 road dogs, HOU -2.5, total 45.5, 1:00 am Monday Perth on CBS. Houston is 0-1 after losing 36-31 to Buffalo. Warm one, intermittent clouds, 32C.",
-      "storylines": [
-        "Burrow was a full participant Friday after back tightness and is set to start, per ESPN. He called it ridiculous that a tight back would keep him out.",
-        "Texans ruled out Nico Collins with a hamstring injury, so Houston is short its top receiver.",
-        "Will Anderson called the 36-point Week 1 loss to Buffalo a wake-up call for the Houston defense ahead of this visit.",
-        "Bengals sit 1-0 with a +6 differential, behind Baltimore (+18) and Pittsburgh (+7) in the North on tiebreak noise."
-      ],
-      "watch_for": [
-        "Burrow's mobility. He ran 5 times for 20 yards against Tampa, so watch whether the back lets him move off script.",
-        "Mike Gesicki after 5 rec, 78 yds, 1 TD in Week 1. Houston without Collins may play more middle-field coverage.",
-        "Cincinnati's run game. 27 carries for 106 yards, 3.9 per attempt, is thin for a game in the 90s."
-      ],
-      "the_call": "Take the Bengals plus the 2.5 and I'd put them outright. Cincinnati won the turnover battle 4-1 last week and Houston is playing without Collins."
-    },
-    "pregame_for": "401872934",
-    "postgame": {
-      "what_decided_it": "Turnovers. Tampa lost four fumbles and Cincinnati scored a defensive touchdown. The Bengals also won the possession battle 31:25 to 28:35 and went 8-14 on third down.",
-      "standouts": [
-        "Joe Burrow: 25/35, 254 yds, 1 TD, 1 INT. Efficient, not spectacular, 6.8 yards per pass.",
-        "Mike Gesicki: 5 rec, 78 yds, 1 TD. Team high in receiving.",
-        "Chase Brown: 16 car, 56 yds, 1 TD in a 106-yard rushing day."
-      ],
-      "division_meaning": "Three-way tie at the top. Baltimore 1-0 at +18, Cincinnati 1-0 at +6, Pittsburgh 1-0 at +7. Cleveland is 0-1 at -24 after losing 34-10 at Jacksonville.",
-      "the_take": "Four forced fumbles is not a repeatable plan. Cincinnati only out-gained Tampa 351 to 282 and went 2-5 in the red zone. Clean that up or Houston is a problem."
-    },
-    "postgame_for": "401872925"
+    }
   },
-  "written_at": "2026-09-19T04:03:57.818Z",
+  "written_at": "2026-09-21T04:21:05.193Z",
   "last_error": null
 }
