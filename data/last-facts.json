@@ -1,5 +1,5 @@
 {
-  "now_perth": "Tue, 22 Sept, 12:16 pm",
+  "now_perth": "Wed, 23 Sept, 12:40 am",
   "bengals_next": {
     "id": "401872950",
     "week": 3,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": {
       "text": "Intermittent clouds",
-      "tempF": 70,
-      "tempC": 21
+      "tempF": 68,
+      "tempC": 20
     },
     "moneyline": {
       "away": "-185",
@@ -81,7 +81,7 @@
     "leaders": [
       {
         "stat": "passingYards",
-        "line": "30/55, 353 PYDS",
+        "line": "30/55, 353 YDS",
         "player": "C.J. Stroud",
         "team": null
       },
@@ -285,6 +285,18 @@
   },
   "news_bengals": [
     {
+      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 3",
+      "summary": "How do all 32 NFL teams stack up ahead of Week 3? Plus, what we know for sure about the starting QBs around the league.",
+      "published": "2026-09-22T10:25:07Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49998616/nfl-power-rankings-week-3-teams-quarterbacks-stats"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-09-22T10:31:39Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
       "headline": "NFL Week 2's best arrivals, led by Aaron Donald and Jaxson Dart",
       "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
       "published": "2026-09-22T00:07:19Z",
@@ -309,12 +321,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     },
     {
-      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-09-21T10:00:40Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
       "headline": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
       "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
       "published": "2026-09-21T15:16:31Z",
@@ -325,19 +331,13 @@
       "summary": "Check out top Week 2 plays, with Dak Prescott, Jacoby Brissett and Justin Herbert in action.",
       "published": "2026-09-21T04:04:09Z",
       "url": "https://www.espn.com/nfl/story/_/id/49984903/week-2-highlights-best-plays-touchdowns-2026"
-    },
-    {
-      "headline": "Big-time catches headline the top plays of Week 2 of NFL",
-      "summary": "Big-time catches headline the top plays of Week 2 of NFL",
-      "published": "2026-09-21T10:51:25Z",
-      "url": "https://www.espn.com/video/clip/_/id/49995840/big-catches-headline-top-plays-week-2-nfl"
     }
   ],
   "news_opponent": [
     {
       "headline": "NFL Week 2's best arrivals, led by Aaron Donald and Jaxson Dart",
       "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
-      "published": "2026-09-21T23:51:15Z",
+      "published": "2026-09-22T00:07:19Z",
       "url": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals"
     },
     {
@@ -1038,7 +1038,7 @@
       "leaders": [
         {
           "stat": "passingYards",
-          "line": "19/26, 235 PYDS, 3 TD",
+          "line": "19/26, 235 YDS, 3 TD",
           "player": "Drew Lock",
           "team": null
         },
@@ -1234,13 +1234,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 59,
-        "tempC": 15
+        "text": "Cloudy",
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": {
-        "away": "+240",
-        "home": "-298"
+        "away": "+235",
+        "home": "-290"
       },
       "detail": "9/24 - 8:15 PM EDT",
       "final": false,
@@ -1260,7 +1260,7 @@
         "winner": null,
         "record": "0-2"
       },
-      "line": "GB -6.5",
+      "line": "GB -6",
       "overUnder": 43.5,
       "venue": "Lambeau Field",
       "city": "Green Bay",
@@ -1279,8 +1279,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+260",
-        "home": "-325"
+        "away": "+270",
+        "home": "-340"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1318,13 +1318,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 70,
-        "tempC": 21
+        "text": "Mostly sunny",
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "-155",
-        "home": "+130"
+        "away": "-148",
+        "home": "+124"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1363,12 +1363,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 70,
-        "tempC": 21
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "+240",
-        "home": "-298"
+        "away": "+245",
+        "home": "-305"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1406,7 +1406,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
+        "text": "Intermittent clouds",
         "tempF": 64,
         "tempC": 18
       },
@@ -1450,9 +1450,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 87,
-        "tempC": 31
+        "text": "Mostly sunny",
+        "tempF": 84,
+        "tempC": 29
       },
       "moneyline": {
         "away": "-850",
@@ -1499,8 +1499,8 @@
         "tempC": 20
       },
       "moneyline": {
-        "away": "+215",
-        "home": "-265"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1520,8 +1520,8 @@
         "winner": null,
         "record": "0-2"
       },
-      "line": "NYG -6",
-      "overUnder": 42.5,
+      "line": "NYG -3.5",
+      "overUnder": 40.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
@@ -1538,13 +1538,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 72,
+        "text": "Partly sunny",
+        "tempF": 71,
         "tempC": 22
       },
       "moneyline": {
-        "away": "-298",
-        "home": "+240"
+        "away": "-305",
+        "home": "+245"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1582,13 +1582,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 83,
-        "tempC": 28
+        "text": "Sunny",
+        "tempF": 81,
+        "tempC": 27
       },
       "moneyline": {
-        "away": "+136",
-        "home": "-162"
+        "away": "+140",
+        "home": "-166"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1626,13 +1626,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 73,
-        "tempC": 23
+        "text": "Mostly sunny",
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "+350",
-        "home": "-455"
+        "away": "+370",
+        "home": "-485"
       },
       "detail": "9/27 - 4:05 PM EDT",
       "final": false,
@@ -1670,13 +1670,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 88,
+        "text": "Sunny",
+        "tempF": 87,
         "tempC": 31
       },
       "moneyline": {
-        "away": "-122",
-        "home": "+102"
+        "away": "-120",
+        "home": "+100"
       },
       "detail": "9/27 - 4:05 PM EDT",
       "final": false,
@@ -1754,7 +1754,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
+        "text": "Mostly sunny",
         "tempF": 90,
         "tempC": 32
       },
@@ -1798,13 +1798,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 80,
-        "tempC": 27
+        "text": "Partly sunny",
+        "tempF": 83,
+        "tempC": 28
       },
       "moneyline": {
-        "away": "-130",
-        "home": "+110"
+        "away": "-135",
+        "home": "+114"
       },
       "detail": "9/27 - 8:20 PM EDT",
       "final": false,
@@ -1842,7 +1842,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Clear",
+        "text": "Mostly clear",
         "tempF": 66,
         "tempC": 19
       },
@@ -1868,8 +1868,8 @@
         "winner": null,
         "record": "2-0"
       },
-      "line": "PHI -3",
-      "overUnder": 44.5,
+      "line": "PHI -3.5",
+      "overUnder": 43.5,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [

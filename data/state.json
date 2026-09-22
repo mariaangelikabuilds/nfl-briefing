@@ -34,6 +34,16 @@
     "401872947"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        " Ravens vs Cowboys in Rio, Mon 4:25am Perth, BAL -3 with a 52.5 total. Baltimore is 1-1 after losing 17-24 at home to New Orleans, Dallas hung 37 on Washington.",
+        "Chiefs are KC -11.5 at Miami, 45.5 total, after a 33-30 overtime win over Indianapolis. Mahomes went 32/47, 382 yards, 3 TD.",
+        "Browns host Carolina as home underdogs at CAR -2.5. Cleveland won 23-19 at Tampa, Carolina buried Atlanta 34-3 behind Bryce Young's 287 and 3 TD.",
+        "Bills -7 over the 0-2 Chargers, 50.5 total, highest of the slate. Buffalo beat Detroit 41-31 on Thursday.",
+        "Eagles -3 at Chicago on Tuesday 8:15am Perth. Philadelphia is 2-0 despite Hurts throwing 2 INT in the 24-20 win at Tennessee.",
+        "Packers -6.5 host Atlanta Friday 8:15am Perth. Green Bay needed overtime to get past the Jets 20-17."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401872950",
     "postgame": {
@@ -46,17 +56,7 @@
       "division_meaning": "Bengals are 2-0 and alone on top at +20. Baltimore lost 24-17 to New Orleans, Pittsburgh lost 20-3 at New England, Cleveland beat Tampa 23-19. All three sit 1-1.",
       "the_take": "Houston out-gained them 374 to 267 and Cincinnati still won by 14 without a turnover either way. An ESPN video headline says two numbers show the defense could be legit. I buy it."
     },
-    "postgame_for": "401872934",
-    "league": {
-      "lines": [
-        " Ravens vs Cowboys in Rio, Mon 4:25am Perth, BAL -3 with a 52.5 total. Baltimore is 1-1 after losing 17-24 at home to New Orleans, Dallas hung 37 on Washington.",
-        "Chiefs are KC -11.5 at Miami, 45.5 total, after a 33-30 overtime win over Indianapolis. Mahomes went 32/47, 382 yards, 3 TD.",
-        "Browns host Carolina as home underdogs at CAR -2.5. Cleveland won 23-19 at Tampa, Carolina buried Atlanta 34-3 behind Bryce Young's 287 and 3 TD.",
-        "Bills -7 over the 0-2 Chargers, 50.5 total, highest of the slate. Buffalo beat Detroit 41-31 on Thursday.",
-        "Eagles -3 at Chicago on Tuesday 8:15am Perth. Philadelphia is 2-0 despite Hurts throwing 2 INT in the 24-20 win at Tennessee.",
-        "Packers -6.5 host Atlanta Friday 8:15am Perth. Green Bay needed overtime to get past the Jets 20-17."
-      ]
-    }
+    "postgame_for": "401872934"
   },
   "written_at": "2026-09-22T04:16:06.928Z",
   "last_error": null
