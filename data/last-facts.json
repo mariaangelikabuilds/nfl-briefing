@@ -1,5 +1,5 @@
 {
-  "now_perth": "Tue, 22 Sept, 2:05 am",
+  "now_perth": "Tue, 22 Sept, 12:16 pm",
   "bengals_next": {
     "id": "401872950",
     "week": 3,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": {
       "text": "Intermittent clouds",
-      "tempF": 65,
-      "tempC": 18
+      "tempF": 70,
+      "tempC": 21
     },
     "moneyline": {
       "away": "-185",
@@ -81,7 +81,7 @@
     "leaders": [
       {
         "stat": "passingYards",
-        "line": "30/55, 353 YDS",
+        "line": "30/55, 353 PYDS",
         "player": "C.J. Stroud",
         "team": null
       },
@@ -285,6 +285,18 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 2's best arrivals, led by Aaron Donald and Jaxson Dart",
+      "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
+      "published": "2026-09-22T00:07:19Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals"
+    },
+    {
+      "headline": "NFL Week 3 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 3.",
+      "published": "2026-09-21T16:51:40Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49995686/2026-nfl-week-3-schedule-odds-betting-point-spreads-totals"
+    },
+    {
       "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
       "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
       "published": "2026-09-21T15:35:55Z",
@@ -293,7 +305,7 @@
     {
       "headline": "How active NFL players continue to redefine all-time sack list",
       "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
-      "published": "2026-09-21T15:13:16Z",
+      "published": "2026-09-21T17:10:23Z",
       "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     },
     {
@@ -319,21 +331,15 @@
       "summary": "Big-time catches headline the top plays of Week 2 of NFL",
       "published": "2026-09-21T10:51:25Z",
       "url": "https://www.espn.com/video/clip/_/id/49995840/big-catches-headline-top-plays-week-2-nfl"
-    },
-    {
-      "headline": "Two numbers show why the Bengals' defense could be legit",
-      "summary": "Ben Baby breaks down the Bengals' impressive defensive performance in their Week 2 win over the Texans.",
-      "published": "2026-09-21T02:21:37Z",
-      "url": "https://www.espn.com/video/clip/_/id/49995567/two-numbers-show-why-bengals-defense-legit"
-    },
-    {
-      "headline": "NFL Week 2's best arrivals, led by Travis Kelce and Patrick Mahomes",
-      "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
-      "published": "2026-09-21T01:17:18Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "NFL Week 2's best arrivals, led by Aaron Donald and Jaxson Dart",
+      "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
+      "published": "2026-09-21T23:51:15Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals"
+    },
     {
       "headline": "NFL Week 3 betting: Odds, lines and totals for every game",
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 3.",
@@ -369,12 +375,6 @@
       "summary": "Brooke Pryor reports on the Steelers not panicking on offense after only one touchdown in first two games.",
       "published": "2026-09-21T02:52:18Z",
       "url": "https://www.espn.com/video/clip/_/id/49995732/mike-mccarthy-shoulders-blame-loss-patriots"
-    },
-    {
-      "headline": "NFL Week 2's best arrivals, led by Travis Kelce and Patrick Mahomes",
-      "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
-      "published": "2026-09-21T01:17:18Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals"
     },
     {
       "headline": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
@@ -1038,7 +1038,7 @@
       "leaders": [
         {
           "stat": "passingYards",
-          "line": "19/26, 235 YDS, 3 TD",
+          "line": "19/26, 235 PYDS, 3 TD",
           "player": "Drew Lock",
           "team": null
         },
@@ -1174,44 +1174,56 @@
       "week": 2,
       "kickoff": "2026-09-22T00:15Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Mostly sunny",
-        "tempF": 74,
-        "tempC": 23
-      },
-      "moneyline": {
-        "away": "+240",
-        "home": "-298"
-      },
-      "detail": "9/21 - 8:15 PM EDT",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "14",
         "abbr": "LAR",
         "name": "Los Angeles Rams",
-        "score": null,
-        "winner": null,
-        "record": "0-1"
+        "score": 28,
+        "winner": true,
+        "record": "1-1"
       },
       "away": {
         "id": "19",
         "abbr": "NYG",
         "name": "New York Giants",
-        "score": null,
-        "winner": null,
-        "record": "1-0"
+        "score": 6,
+        "winner": false,
+        "record": "1-1"
       },
-      "line": "LAR -6.5",
-      "overUnder": 47.5,
+      "line": null,
+      "overUnder": null,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
       "tv": [
         "ESPN",
         "ABC"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "22/31, 327 YDS, 4 TD, 1 INT",
+          "player": "Matthew Stafford",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "12 CAR, 85 YDS",
+          "player": "Kyren Williams",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "8 REC, 195 YDS, 2 TD",
+          "player": "Davante Adams",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Tue, 22 Sept, 8:15 am"
     },
     {
@@ -1223,12 +1235,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 58,
-        "tempC": 14
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
-        "away": "+270",
-        "home": "-340"
+        "away": "+240",
+        "home": "-298"
       },
       "detail": "9/24 - 8:15 PM EDT",
       "final": false,
@@ -1248,7 +1260,7 @@
         "winner": null,
         "record": "0-2"
       },
-      "line": "GB -7",
+      "line": "GB -6.5",
       "overUnder": 43.5,
       "venue": "Lambeau Field",
       "city": "Green Bay",
@@ -1267,8 +1279,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+250",
-        "home": "-310"
+        "away": "+260",
+        "home": "-325"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1307,7 +1319,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 69,
+        "tempF": 70,
         "tempC": 21
       },
       "moneyline": {
@@ -1332,7 +1344,7 @@
         "winner": null,
         "record": "1-1"
       },
-      "line": "CAR -3",
+      "line": "CAR -2.5",
       "overUnder": 42.5,
       "venue": "Huntington Bank Field",
       "city": "Cleveland",
@@ -1351,12 +1363,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 70,
+        "tempC": 21
       },
       "moneyline": {
-        "away": "+225",
-        "home": "-278"
+        "away": "+240",
+        "home": "-298"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1395,12 +1407,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "-155",
-        "home": "+130"
+        "away": "-142",
+        "home": "+120"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1420,7 +1432,7 @@
         "winner": null,
         "record": "0-2"
       },
-      "line": "HOU -3",
+      "line": "HOU -2.5",
       "overUnder": 43.5,
       "venue": "Lucas Oil Stadium",
       "city": "Indianapolis",
@@ -1439,12 +1451,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 83,
-        "tempC": 28
+        "tempF": 87,
+        "tempC": 31
       },
       "moneyline": {
-        "away": "-800",
-        "home": "+550"
+        "away": "-850",
+        "home": "+575"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1483,12 +1495,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "+225",
-        "home": "-278"
+        "away": "+215",
+        "home": "-265"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1498,7 +1510,7 @@
         "name": "New York Giants",
         "score": null,
         "winner": null,
-        "record": "1-0"
+        "record": "1-1"
       },
       "away": {
         "id": "10",
@@ -1509,7 +1521,7 @@
         "record": "0-2"
       },
       "line": "NYG -6",
-      "overUnder": 43.5,
+      "overUnder": 42.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
@@ -1527,12 +1539,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 72,
+        "tempC": 22
       },
       "moneyline": {
-        "away": "-290",
-        "home": "+235"
+        "away": "-298",
+        "home": "+240"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1552,8 +1564,8 @@
         "winner": null,
         "record": "2-0"
       },
-      "line": "SEA -6.5",
-      "overUnder": 39.5,
+      "line": "SEA -7",
+      "overUnder": 40.5,
       "venue": "Northwest Stadium",
       "city": "Landover",
       "tv": [
@@ -1571,12 +1583,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 78,
-        "tempC": 26
+        "tempF": 83,
+        "tempC": 28
       },
       "moneyline": {
-        "away": "+130",
-        "home": "-155"
+        "away": "+136",
+        "home": "-162"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1615,12 +1627,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 71,
-        "tempC": 22
+        "tempF": 73,
+        "tempC": 23
       },
       "moneyline": {
-        "away": "+360",
-        "home": "-470"
+        "away": "+350",
+        "home": "-455"
       },
       "detail": "9/27 - 4:05 PM EDT",
       "final": false,
@@ -1663,8 +1675,8 @@
         "tempC": 31
       },
       "moneyline": {
-        "away": "-130",
-        "home": "+110"
+        "away": "-122",
+        "home": "+102"
       },
       "detail": "9/27 - 4:05 PM EDT",
       "final": false,
@@ -1791,8 +1803,8 @@
         "tempC": 27
       },
       "moneyline": {
-        "away": "-135",
-        "home": "+114"
+        "away": "-130",
+        "home": "+110"
       },
       "detail": "9/27 - 8:20 PM EDT",
       "final": false,
@@ -1810,7 +1822,7 @@
         "name": "Los Angeles Rams",
         "score": null,
         "winner": null,
-        "record": "0-1"
+        "record": "1-1"
       },
       "line": "LAR -2.5",
       "overUnder": 45.5,
@@ -1835,8 +1847,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "-185",
-        "home": "+154"
+        "away": "-175",
+        "home": "+145"
       },
       "detail": "9/28 - 8:15 PM EDT",
       "final": false,
@@ -1856,7 +1868,7 @@
         "winner": null,
         "record": "2-0"
       },
-      "line": "PHI -3.5",
+      "line": "PHI -3",
       "overUnder": 44.5,
       "venue": "Soldier Field",
       "city": "Chicago",
