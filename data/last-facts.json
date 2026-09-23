@@ -1,5 +1,5 @@
 {
-  "now_perth": "Wed, 23 Sept, 12:13 pm",
+  "now_perth": "Thu, 24 Sept, 12:33 am",
   "bengals_next": {
     "id": "401872950",
     "week": 3,
@@ -8,7 +8,7 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Intermittent clouds",
+      "text": "Partly sunny",
       "tempF": 68,
       "tempC": 20
     },
@@ -285,6 +285,18 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 3 latest intel, buzz questions, news, fantasy tips",
+      "summary": "What now for the Giants with Jaxson Dart out? What's the buzz on Patrick Mahomes through two games? Are running back depth charts firming up in Tampa and Carolina?",
+      "published": "2026-09-23T14:01:02Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50005797/week-3-buzz-fantasy-predictions-graziano-fowler-2026"
+    },
+    {
+      "headline": "Evaluating surprise early-season trends for 32 NFL teams",
+      "summary": "T.J. Watt is dominant again? The Packers can't run the ball? Drew Lock is fourth in QBR? Let's figure out which early stats and trends have staying power and which are a mirage.",
+      "published": "2026-09-23T12:30:35Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49998629/evaluating-32-nfl-team-surprise-trends-2026-first-two-weeks-real-mirage"
+    },
+    {
       "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
       "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
       "published": "2026-09-22T18:33:41Z",
@@ -319,21 +331,15 @@
       "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
       "published": "2026-09-22T00:07:19Z",
       "url": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals"
-    },
-    {
-      "headline": "NFL Week 3 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 3.",
-      "published": "2026-09-22T20:59:25Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49995686/2026-nfl-week-3-schedule-odds-betting-point-spreads-totals"
-    },
-    {
-      "headline": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
-      "published": "2026-09-21T15:16:31Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "Evaluating surprise early-season trends for 32 NFL teams",
+      "summary": "T.J. Watt is dominant again? The Packers can't run the ball? Drew Lock is fourth in QBR? Let's figure out which early stats and trends have staying power and which are a mirage.",
+      "published": "2026-09-23T10:00:18Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49998629/evaluating-32-nfl-team-surprise-trends-2026-first-two-weeks-real-mirage"
+    },
     {
       "headline": "How active NFL players continue to redefine all-time sack list",
       "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
@@ -375,12 +381,6 @@
       "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
       "published": "2026-09-21T15:16:31Z",
       "url": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026"
-    },
-    {
-      "headline": "Week 2 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Check out top Week 2 plays, with Dak Prescott, Jacoby Brissett and Justin Herbert in action.",
-      "published": "2026-09-21T04:04:09Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49984903/week-2-highlights-best-plays-touchdowns-2026"
     }
   ],
   "league_week": 3,
@@ -1234,13 +1234,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 60,
+        "text": "Intermittent clouds",
+        "tempF": 61,
         "tempC": 16
       },
       "moneyline": {
-        "away": "+220",
-        "home": "-270"
+        "away": "+215",
+        "home": "-265"
       },
       "detail": "9/24 - 8:15 PM EDT",
       "final": false,
@@ -1261,7 +1261,7 @@
         "record": "0-2"
       },
       "line": "GB -5.5",
-      "overUnder": 43.5,
+      "overUnder": 42.5,
       "venue": "Lambeau Field",
       "city": "Green Bay",
       "tv": [
@@ -1277,7 +1277,11 @@
       "timeValid": true,
       "state": "pre",
       "clock": null,
-      "weather": null,
+      "weather": {
+        "text": "Partly sunny",
+        "tempF": 67,
+        "tempC": 19
+      },
       "moneyline": {
         "away": "+275",
         "home": "-345"
@@ -1318,9 +1322,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 67,
-        "tempC": 19
+        "text": "Intermittent clouds",
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
         "away": "-148",
@@ -1367,8 +1371,8 @@
         "tempC": 21
       },
       "moneyline": {
-        "away": "+240",
-        "home": "-298"
+        "away": "+245",
+        "home": "-305"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1406,9 +1410,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 68,
-        "tempC": 20
+        "text": "Mostly cloudy",
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
         "away": "-148",
@@ -1450,7 +1454,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
+        "text": "Partly sunny",
         "tempF": 85,
         "tempC": 29
       },
@@ -1477,7 +1481,7 @@
         "record": "2-0"
       },
       "line": "KC -11.5",
-      "overUnder": 45.5,
+      "overUnder": 46.5,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
       "tv": [
@@ -1495,8 +1499,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
         "away": "+114",
@@ -1539,8 +1543,8 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 72,
-        "tempC": 22
+        "tempF": 70,
+        "tempC": 21
       },
       "moneyline": {
         "away": "-298",
@@ -1582,9 +1586,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 82,
-        "tempC": 28
+        "text": "Mostly sunny",
+        "tempF": 81,
+        "tempC": 27
       },
       "moneyline": {
         "away": "+130",
@@ -1626,13 +1630,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 72,
+        "text": "Mostly cloudy",
+        "tempF": 71,
         "tempC": 22
       },
       "moneyline": {
-        "away": "+370",
-        "home": "-485"
+        "away": "+350",
+        "home": "-455"
       },
       "detail": "9/27 - 4:05 PM EDT",
       "final": false,
@@ -1670,9 +1674,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 87,
-        "tempC": 31
+        "text": "Hazy sunshine",
+        "tempF": 86,
+        "tempC": 30
       },
       "moneyline": {
         "away": "-120",
@@ -1754,7 +1758,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
+        "text": "Partly sunny",
         "tempF": 90,
         "tempC": 32
       },
@@ -1781,7 +1785,7 @@
         "record": "2-0"
       },
       "line": "NO -3",
-      "overUnder": 43.5,
+      "overUnder": 44.5,
       "venue": "Caesars Superdome",
       "city": "New Orleans",
       "tv": [
@@ -1799,8 +1803,8 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 82,
-        "tempC": 28
+        "tempF": 81,
+        "tempC": 27
       },
       "moneyline": {
         "away": "-142",
@@ -1842,7 +1846,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly clear",
+        "text": "Partly cloudy",
         "tempF": 67,
         "tempC": 19
       },
