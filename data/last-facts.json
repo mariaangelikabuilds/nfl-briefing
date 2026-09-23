@@ -1,5 +1,5 @@
 {
-  "now_perth": "Wed, 23 Sept, 12:40 am",
+  "now_perth": "Wed, 23 Sept, 12:13 pm",
   "bengals_next": {
     "id": "401872950",
     "week": 3,
@@ -13,8 +13,8 @@
       "tempC": 20
     },
     "moneyline": {
-      "away": "-185",
-      "home": "+154"
+      "away": "-192",
+      "home": "+160"
     },
     "detail": "9/27 - 1:00 PM EDT",
     "final": false,
@@ -285,9 +285,27 @@
   },
   "news_bengals": [
     {
+      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
+      "published": "2026-09-22T18:33:41Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
+    },
+    {
+      "headline": "Zac Taylor praises Dexter Lawrence's impact on Bengals",
+      "summary": "Zac Taylor praises Dexter Lawrence's impact on Bengals",
+      "published": "2026-09-22T16:57:21Z",
+      "url": "https://www.espn.com/video/clip/_/id/50006470/zac-taylor-praises-dexter-lawrence-impact-bengals"
+    },
+    {
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
+      "published": "2026-09-22T15:32:23Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
+    },
+    {
       "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 3",
       "summary": "How do all 32 NFL teams stack up ahead of Week 3? Plus, what we know for sure about the starting QBs around the league.",
-      "published": "2026-09-22T10:25:07Z",
+      "published": "2026-09-22T16:21:13Z",
       "url": "https://www.espn.com/nfl/story/_/id/49998616/nfl-power-rankings-week-3-teams-quarterbacks-stats"
     },
     {
@@ -305,35 +323,41 @@
     {
       "headline": "NFL Week 3 betting: Odds, lines and totals for every game",
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 3.",
-      "published": "2026-09-21T16:51:40Z",
+      "published": "2026-09-22T20:59:25Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/49995686/2026-nfl-week-3-schedule-odds-betting-point-spreads-totals"
-    },
-    {
-      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
-      "published": "2026-09-21T15:35:55Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
-    },
-    {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
-      "published": "2026-09-21T17:10:23Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     },
     {
       "headline": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
       "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
       "published": "2026-09-21T15:16:31Z",
       "url": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026"
-    },
-    {
-      "headline": "Week 2 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Check out top Week 2 plays, with Dak Prescott, Jacoby Brissett and Justin Herbert in action.",
-      "published": "2026-09-21T04:04:09Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49984903/week-2-highlights-best-plays-touchdowns-2026"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
+      "published": "2026-09-22T15:32:23Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
+    },
+    {
+      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 3",
+      "summary": "How do all 32 NFL teams stack up ahead of Week 3? Plus, what we know for sure about the starting QBs around the league.",
+      "published": "2026-09-22T16:21:13Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49998616/nfl-power-rankings-week-3-teams-quarterbacks-stats"
+    },
+    {
+      "headline": "Why there's hope Pittsburgh Steelers' O-line can improve",
+      "summary": "Pittsburgh's young group has struggled to find consistency, but with adjustments, there's still time to improve.",
+      "published": "2026-09-22T13:44:12Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50001930/why-hope-pittsburgh-steelers-offensive-line-improve-2026"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-09-22T10:31:39Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
     {
       "headline": "NFL Week 2's best arrivals, led by Aaron Donald and Jaxson Dart",
       "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
@@ -343,20 +367,8 @@
     {
       "headline": "NFL Week 3 betting: Odds, lines and totals for every game",
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 3.",
-      "published": "2026-09-21T16:51:40Z",
+      "published": "2026-09-22T20:59:25Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/49995686/2026-nfl-week-3-schedule-odds-betting-point-spreads-totals"
-    },
-    {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
-      "published": "2026-09-21T17:10:23Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-09-21T10:00:40Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
     },
     {
       "headline": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
@@ -369,18 +381,6 @@
       "summary": "Check out top Week 2 plays, with Dak Prescott, Jacoby Brissett and Justin Herbert in action.",
       "published": "2026-09-21T04:04:09Z",
       "url": "https://www.espn.com/nfl/story/_/id/49984903/week-2-highlights-best-plays-touchdowns-2026"
-    },
-    {
-      "headline": "Mike McCarthy shoulders blame for loss to Patriots",
-      "summary": "Brooke Pryor reports on the Steelers not panicking on offense after only one touchdown in first two games.",
-      "published": "2026-09-21T02:52:18Z",
-      "url": "https://www.espn.com/video/clip/_/id/49995732/mike-mccarthy-shoulders-blame-loss-patriots"
-    },
-    {
-      "headline": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
-      "summary": "The Steelers QB, who is entering his 22nd season in the league, is chasing records, and ESPN will be chronicling his \"last rodeo.\"",
-      "published": "2026-09-21T01:11:23Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones"
     }
   ],
   "league_week": 3,
@@ -1239,8 +1239,8 @@
         "tempC": 16
       },
       "moneyline": {
-        "away": "+235",
-        "home": "-290"
+        "away": "+220",
+        "home": "-270"
       },
       "detail": "9/24 - 8:15 PM EDT",
       "final": false,
@@ -1260,7 +1260,7 @@
         "winner": null,
         "record": "0-2"
       },
-      "line": "GB -6",
+      "line": "GB -5.5",
       "overUnder": 43.5,
       "venue": "Lambeau Field",
       "city": "Green Bay",
@@ -1279,8 +1279,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+270",
-        "home": "-340"
+        "away": "+275",
+        "home": "-345"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1363,12 +1363,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 68,
-        "tempC": 20
+        "tempF": 69,
+        "tempC": 21
       },
       "moneyline": {
-        "away": "+245",
-        "home": "-305"
+        "away": "+240",
+        "home": "-298"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1389,7 +1389,7 @@
         "record": "1-1"
       },
       "line": "DET -6.5",
-      "overUnder": 48.5,
+      "overUnder": 47.5,
       "venue": "Ford Field",
       "city": "Detroit",
       "tv": [
@@ -1407,12 +1407,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "-142",
-        "home": "+120"
+        "away": "-148",
+        "home": "+124"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1432,8 +1432,8 @@
         "winner": null,
         "record": "0-2"
       },
-      "line": "HOU -2.5",
-      "overUnder": 43.5,
+      "line": "HOU -3",
+      "overUnder": 42.5,
       "venue": "Lucas Oil Stadium",
       "city": "Indianapolis",
       "tv": [
@@ -1451,12 +1451,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 84,
+        "tempF": 85,
         "tempC": 29
       },
       "moneyline": {
-        "away": "-850",
-        "home": "+575"
+        "away": "-900",
+        "home": "+600"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1495,12 +1495,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 68,
-        "tempC": 20
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "+145",
-        "home": "-175"
+        "away": "+114",
+        "home": "-135"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1520,8 +1520,8 @@
         "winner": null,
         "record": "0-2"
       },
-      "line": "NYG -3.5",
-      "overUnder": 40.5,
+      "line": "NYG -2.5",
+      "overUnder": 39.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
@@ -1539,12 +1539,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 71,
+        "tempF": 72,
         "tempC": 22
       },
       "moneyline": {
-        "away": "-305",
-        "home": "+245"
+        "away": "-298",
+        "home": "+240"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1583,12 +1583,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 81,
-        "tempC": 27
+        "tempF": 82,
+        "tempC": 28
       },
       "moneyline": {
-        "away": "+140",
-        "home": "-166"
+        "away": "+130",
+        "home": "-155"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1627,8 +1627,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 68,
-        "tempC": 20
+        "tempF": 72,
+        "tempC": 22
       },
       "moneyline": {
         "away": "+370",
@@ -1715,8 +1715,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "-155",
-        "home": "+130"
+        "away": "-180",
+        "home": "+150"
       },
       "detail": "9/27 - 4:25 PM EDT",
       "final": false,
@@ -1736,7 +1736,7 @@
         "winner": null,
         "record": "1-1"
       },
-      "line": "BAL -3",
+      "line": "BAL -3.5",
       "overUnder": 52.5,
       "venue": "Maracanã Stadium",
       "city": "Rio De Janeiro",
@@ -1759,8 +1759,8 @@
         "tempC": 32
       },
       "moneyline": {
-        "away": "+145",
-        "home": "-175"
+        "away": "+154",
+        "home": "-185"
       },
       "detail": "9/27 - 4:25 PM EDT",
       "final": false,
@@ -1799,12 +1799,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 83,
+        "tempF": 82,
         "tempC": 28
       },
       "moneyline": {
-        "away": "-135",
-        "home": "+114"
+        "away": "-142",
+        "home": "+120"
       },
       "detail": "9/27 - 8:20 PM EDT",
       "final": false,
@@ -1843,12 +1843,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly clear",
-        "tempF": 66,
+        "tempF": 67,
         "tempC": 19
       },
       "moneyline": {
-        "away": "-175",
-        "home": "+145"
+        "away": "-225",
+        "home": "+185"
       },
       "detail": "9/28 - 8:15 PM EDT",
       "final": false,
@@ -1868,8 +1868,8 @@
         "winner": null,
         "record": "2-0"
       },
-      "line": "PHI -3.5",
-      "overUnder": 43.5,
+      "line": "PHI -4.5",
+      "overUnder": 41.5,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [
