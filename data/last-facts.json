@@ -1,5 +1,5 @@
 {
-  "now_perth": "Thu, 24 Sept, 12:33 am",
+  "now_perth": "Thu, 24 Sept, 12:09 pm",
   "bengals_next": {
     "id": "401872950",
     "week": 3,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": {
       "text": "Partly sunny",
-      "tempF": 68,
-      "tempC": 20
+      "tempF": 69,
+      "tempC": 21
     },
     "moneyline": {
       "away": "-192",
@@ -285,6 +285,12 @@
   },
   "news_bengals": [
     {
+      "headline": "Sources: Bengals' Andrei Iosivas expected to miss 4-6 weeks",
+      "summary": "Bengals wide receiver Andrei Iosivas is expected to miss four to six weeks because of a thumb injury, sources told ESPN.",
+      "published": "2026-09-23T18:13:47Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50014294/sources-bengals-andrei-iosivas-expected-miss-4-6-weeks"
+    },
+    {
       "headline": "NFL Week 3 latest intel, buzz questions, news, fantasy tips",
       "summary": "What now for the Giants with Jaxson Dart out? What's the buzz on Patrick Mahomes through two games? Are running back depth charts firming up in Tampa and Carolina?",
       "published": "2026-09-23T14:01:02Z",
@@ -293,7 +299,7 @@
     {
       "headline": "Evaluating surprise early-season trends for 32 NFL teams",
       "summary": "T.J. Watt is dominant again? The Packers can't run the ball? Drew Lock is fourth in QBR? Let's figure out which early stats and trends have staying power and which are a mirage.",
-      "published": "2026-09-23T12:30:35Z",
+      "published": "2026-09-23T15:08:14Z",
       "url": "https://www.espn.com/nfl/story/_/id/49998629/evaluating-32-nfl-team-surprise-trends-2026-first-two-weeks-real-mirage"
     },
     {
@@ -325,19 +331,19 @@
       "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
       "published": "2026-09-22T10:31:39Z",
       "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "NFL Week 2's best arrivals, led by Aaron Donald and Jaxson Dart",
-      "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
-      "published": "2026-09-22T00:07:19Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals"
     }
   ],
   "news_opponent": [
     {
+      "headline": "Former NFL star Antonio Brown to accept plea deal, avoid prison",
+      "summary": "Former NFL star Antonio Brown will accept a plea deal in his second-degree attempted murder case, resulting in probation, his attorney said.",
+      "published": "2026-09-23T18:13:07Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50014068/former-nfl-star-antonio-brown-accept-plea-deal-avoid-prison"
+    },
+    {
       "headline": "Evaluating surprise early-season trends for 32 NFL teams",
       "summary": "T.J. Watt is dominant again? The Packers can't run the ball? Drew Lock is fourth in QBR? Let's figure out which early stats and trends have staying power and which are a mirage.",
-      "published": "2026-09-23T10:00:18Z",
+      "published": "2026-09-23T15:08:14Z",
       "url": "https://www.espn.com/nfl/story/_/id/49998629/evaluating-32-nfl-team-surprise-trends-2026-first-two-weeks-real-mirage"
     },
     {
@@ -373,14 +379,8 @@
     {
       "headline": "NFL Week 3 betting: Odds, lines and totals for every game",
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 3.",
-      "published": "2026-09-22T20:59:25Z",
+      "published": "2026-09-23T20:58:25Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/49995686/2026-nfl-week-3-schedule-odds-betting-point-spreads-totals"
-    },
-    {
-      "headline": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
-      "published": "2026-09-21T15:16:31Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026"
     }
   ],
   "league_week": 3,
@@ -1239,8 +1239,8 @@
         "tempC": 16
       },
       "moneyline": {
-        "away": "+215",
-        "home": "-265"
+        "away": "+200",
+        "home": "-245"
       },
       "detail": "9/24 - 8:15 PM EDT",
       "final": false,
@@ -1278,7 +1278,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
+        "text": "Intermittent clouds",
         "tempF": 67,
         "tempC": 19
       },
@@ -1323,8 +1323,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 68,
-        "tempC": 20
+        "tempF": 69,
+        "tempC": 21
       },
       "moneyline": {
         "away": "-148",
@@ -1366,8 +1366,8 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 69,
+        "text": "Mostly sunny",
+        "tempF": 70,
         "tempC": 21
       },
       "moneyline": {
@@ -1410,13 +1410,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 67,
-        "tempC": 19
+        "text": "Mostly sunny",
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "-148",
-        "home": "+124"
+        "away": "-142",
+        "home": "+120"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1436,7 +1436,7 @@
         "winner": null,
         "record": "0-2"
       },
-      "line": "HOU -3",
+      "line": "HOU -2.5",
       "overUnder": 42.5,
       "venue": "Lucas Oil Stadium",
       "city": "Indianapolis",
@@ -1459,8 +1459,8 @@
         "tempC": 29
       },
       "moneyline": {
-        "away": "-900",
-        "home": "+600"
+        "away": "-650",
+        "home": "+470"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1480,7 +1480,7 @@
         "winner": null,
         "record": "2-0"
       },
-      "line": "KC -11.5",
+      "line": "KC -10.5",
       "overUnder": 46.5,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
@@ -1498,13 +1498,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 68,
-        "tempC": 20
+        "text": "Rain",
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "+114",
-        "home": "-135"
+        "away": "+120",
+        "home": "-142"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1543,12 +1543,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 70,
+        "tempF": 69,
         "tempC": 21
       },
       "moneyline": {
-        "away": "-298",
-        "home": "+240"
+        "away": "-345",
+        "home": "+275"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1586,9 +1586,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 81,
-        "tempC": 27
+        "text": "Partly sunny",
+        "tempF": 83,
+        "tempC": 28
       },
       "moneyline": {
         "away": "+130",
@@ -1675,12 +1675,12 @@
       "clock": null,
       "weather": {
         "text": "Hazy sunshine",
-        "tempF": 86,
-        "tempC": 30
+        "tempF": 88,
+        "tempC": 31
       },
       "moneyline": {
-        "away": "-120",
-        "home": "+100"
+        "away": "-122",
+        "home": "+102"
       },
       "detail": "9/27 - 4:05 PM EDT",
       "final": false,
@@ -1785,7 +1785,7 @@
         "record": "2-0"
       },
       "line": "NO -3",
-      "overUnder": 44.5,
+      "overUnder": 43.5,
       "venue": "Caesars Superdome",
       "city": "New Orleans",
       "tv": [
@@ -1802,13 +1802,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 81,
-        "tempC": 27
+        "text": "Mostly cloudy",
+        "tempF": 82,
+        "tempC": 28
       },
       "moneyline": {
-        "away": "-142",
-        "home": "+120"
+        "away": "-135",
+        "home": "+114"
       },
       "detail": "9/27 - 8:20 PM EDT",
       "final": false,
@@ -1829,7 +1829,7 @@
         "record": "1-1"
       },
       "line": "LAR -2.5",
-      "overUnder": 45.5,
+      "overUnder": 44.5,
       "venue": "Empower Field at Mile High",
       "city": "Denver",
       "tv": [
@@ -1847,7 +1847,7 @@
       "clock": null,
       "weather": {
         "text": "Partly cloudy",
-        "tempF": 67,
+        "tempF": 66,
         "tempC": 19
       },
       "moneyline": {
