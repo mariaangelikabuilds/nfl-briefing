@@ -1,5 +1,5 @@
 {
-  "now_perth": "Fri, 25 Sept, 12:53 am",
+  "now_perth": "Fri, 25 Sept, 12:22 pm",
   "bengals_next": {
     "id": "401872950",
     "week": 3,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": {
       "text": "Intermittent clouds",
-      "tempF": 69,
-      "tempC": 21
+      "tempF": 67,
+      "tempC": 19
     },
     "moneyline": {
       "away": "-185",
@@ -124,15 +124,6 @@
         "diff": "+11"
       },
       {
-        "abbr": "CLE",
-        "name": "Cleveland Browns",
-        "wins": "1",
-        "losses": "1",
-        "ties": "0",
-        "streak": "W1",
-        "diff": "-20"
-      },
-      {
         "abbr": "PIT",
         "name": "Pittsburgh Steelers",
         "wins": "1",
@@ -140,6 +131,15 @@
         "ties": "0",
         "streak": "L1",
         "diff": "-10"
+      },
+      {
+        "abbr": "CLE",
+        "name": "Cleveland Browns",
+        "wins": "1",
+        "losses": "1",
+        "ties": "0",
+        "streak": "W1",
+        "diff": "-20"
       }
     ]
   },
@@ -285,6 +285,24 @@
   },
   "news_bengals": [
     {
+      "headline": "Chase, Higgins unhappy with fines from NFL",
+      "summary": "Ben Baby explains why Ja'Marr Chase and Tee Higgins dispute the NFL's interpretation of the celebration that earned them a fine.",
+      "published": "2026-09-25T01:45:46Z",
+      "url": "https://www.espn.com/video/clip/_/id/50024454/chase-higgins-unhappy-fines-nfl"
+    },
+    {
+      "headline": "Steelers will try to shrug off their uneven start as Joe Burrow and the unbeaten Bengals visit",
+      "summary": "— Aaron Rodgers says he isn't worried about the Pittsburgh Steelers' resolve.",
+      "published": "2026-09-24T19:42:29Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872950"
+    },
+    {
+      "headline": "NFL Week 3 uniforms: Colts to wear 'Anvil Strike,' Bills debut 'Nickel City'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 3, led by the new NFL Rivalries look from the Indianapolis Colts.",
+      "published": "2026-09-24T22:38:08Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50008808/nfl-week-3-uniforms"
+    },
+    {
       "headline": "Sources: Bengals' Andrei Iosivas expected to miss 4-6 weeks",
       "summary": "Bengals wide receiver Andrei Iosivas is expected to miss four to six weeks because of a thumb injury, sources told ESPN.",
       "published": "2026-09-23T18:13:47Z",
@@ -313,27 +331,33 @@
       "summary": "Zac Taylor praises Dexter Lawrence's impact on Bengals",
       "published": "2026-09-22T16:57:21Z",
       "url": "https://www.espn.com/video/clip/_/id/50006470/zac-taylor-praises-dexter-lawrence-impact-bengals"
-    },
-    {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
-      "published": "2026-09-22T15:32:23Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
-    },
-    {
-      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 3",
-      "summary": "How do all 32 NFL teams stack up ahead of Week 3? Plus, what we know for sure about the starting QBs around the league.",
-      "published": "2026-09-22T16:21:13Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49998616/nfl-power-rankings-week-3-teams-quarterbacks-stats"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-09-22T10:31:39Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "When will Joey Porter Jr. return to the Steelers?",
+      "summary": "Brooke Pryor details the timeline for Joey Porter Jr. to return from injury.",
+      "published": "2026-09-24T23:04:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/50023698/when-joey-porter-jr-return-steelers"
+    },
+    {
+      "headline": "Joey Porter says he'll play for Steelers in '26 but when TBD",
+      "summary": "Steelers cornerback Joey Porter Jr. said he is \"definitely\" going to play this season, but the exact date of his return to the field is still up in the air.",
+      "published": "2026-09-24T20:48:16Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50022488/joey-porter-says-play-steelers-26-tbd"
+    },
+    {
+      "headline": "Steelers will try to shrug off their uneven start as Joe Burrow and the unbeaten Bengals visit",
+      "summary": "— Aaron Rodgers says he isn't worried about the Pittsburgh Steelers' resolve.",
+      "published": "2026-09-24T19:42:29Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872950"
+    },
+    {
+      "headline": "NFL Week 3 uniforms: Colts to wear 'Anvil Strike,' Bills debut 'Nickel City'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 3, led by the new NFL Rivalries look from the Indianapolis Colts.",
+      "published": "2026-09-25T02:20:30Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50008808/nfl-week-3-uniforms"
+    },
     {
       "headline": "Former NFL star Antonio Brown to accept plea deal, avoid prison",
       "summary": "Former NFL star Antonio Brown will accept a plea deal in his second-degree attempted murder case, resulting in probation, his attorney said.",
@@ -357,30 +381,6 @@
       "summary": "How do all 32 NFL teams stack up ahead of Week 3? Plus, what we know for sure about the starting QBs around the league.",
       "published": "2026-09-22T16:21:13Z",
       "url": "https://www.espn.com/nfl/story/_/id/49998616/nfl-power-rankings-week-3-teams-quarterbacks-stats"
-    },
-    {
-      "headline": "Why there's hope Pittsburgh Steelers' O-line can improve",
-      "summary": "Pittsburgh's young group has struggled to find consistency, but with adjustments, there's still time to improve.",
-      "published": "2026-09-22T13:44:12Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50001930/why-hope-pittsburgh-steelers-offensive-line-improve-2026"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-09-22T10:31:39Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "NFL Week 2's best arrivals, led by Aaron Donald and Jaxson Dart",
-      "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
-      "published": "2026-09-22T00:07:19Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals"
-    },
-    {
-      "headline": "NFL Week 3 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 3.",
-      "published": "2026-09-23T20:58:25Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49995686/2026-nfl-week-3-schedule-odds-betting-point-spreads-totals"
     }
   ],
   "league_week": 3,
@@ -1231,43 +1231,55 @@
       "week": 3,
       "kickoff": "2026-09-25T00:15Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Partly cloudy",
-        "tempF": 63,
-        "tempC": 17
-      },
-      "moneyline": {
-        "away": "+200",
-        "home": "-245"
-      },
-      "detail": "9/24 - 8:15 PM EDT",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "9",
         "abbr": "GB",
         "name": "Green Bay Packers",
-        "score": null,
-        "winner": null,
-        "record": "1-1"
+        "score": 14,
+        "winner": false,
+        "record": "1-2"
       },
       "away": {
         "id": "1",
         "abbr": "ATL",
         "name": "Atlanta Falcons",
-        "score": null,
-        "winner": null,
-        "record": "0-2"
+        "score": 35,
+        "winner": true,
+        "record": "1-2"
       },
-      "line": "GB -4.5",
-      "overUnder": 42.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Lambeau Field",
       "city": "Green Bay",
       "tv": [
         "Prime Video"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "28/53, 312 YDS, 2 TD, 1 INT",
+          "player": "Jordan Love",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "29 CAR, 194 YDS, 2 TD",
+          "player": "Bijan Robinson",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "9 REC, 194 YDS",
+          "player": "Drake London",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Fri, 25 Sept, 8:15 am"
     },
     {
@@ -1283,8 +1295,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "+275",
-        "home": "-345"
+        "away": "+260",
+        "home": "-325"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1367,7 +1379,7 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 70,
+        "tempF": 69,
         "tempC": 21
       },
       "moneyline": {
@@ -1455,8 +1467,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 85,
-        "tempC": 29
+        "tempF": 86,
+        "tempC": 30
       },
       "moneyline": {
         "away": "-650",
@@ -1498,13 +1510,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Rain",
         "tempF": 61,
         "tempC": 16
       },
       "moneyline": {
-        "away": "+114",
-        "home": "-135"
+        "away": "+110",
+        "home": "-130"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1547,8 +1559,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "-340",
-        "home": "+270"
+        "away": "-355",
+        "home": "+280"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1568,7 +1580,7 @@
         "winner": null,
         "record": "2-0"
       },
-      "line": "SEA -7",
+      "line": "SEA -7.5",
       "overUnder": 40.5,
       "venue": "Northwest Stadium",
       "city": "Landover",
@@ -1631,8 +1643,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 71,
-        "tempC": 22
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
         "away": "+350",
@@ -1675,7 +1687,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 88,
+        "tempF": 87,
         "tempC": 31
       },
       "moneyline": {
@@ -1741,7 +1753,7 @@
         "record": "1-1"
       },
       "line": "BAL -3.5",
-      "overUnder": 52.5,
+      "overUnder": 53.5,
       "venue": "Maracanã Stadium",
       "city": "Rio De Janeiro",
       "tv": [
@@ -1803,12 +1815,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 80,
-        "tempC": 27
+        "tempF": 82,
+        "tempC": 28
       },
       "moneyline": {
-        "away": "-135",
-        "home": "+114"
+        "away": "-130",
+        "home": "+110"
       },
       "detail": "9/27 - 8:20 PM EDT",
       "final": false,
@@ -1847,8 +1859,8 @@
       "clock": null,
       "weather": {
         "text": "Clear",
-        "tempF": 65,
-        "tempC": 18
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
         "away": "-225",
