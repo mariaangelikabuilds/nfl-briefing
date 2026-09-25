@@ -35,6 +35,16 @@
     "401872948"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        " Ravens are the Week 3 curiosity: BAL -3.5 against Dallas at Maracanã Stadium in Rio, total 53.5, Mon 4:25 am Perth. Baltimore is 1-1 after losing 17-24 at home to New Orleans.",
+        "Atlanta opened Week 3 by hammering Green Bay 35-14 at Lambeau. Bijan Robinson went 29 car, 194 yds, 2 TD and Drake London had 9 rec, 194 yds. Both teams now 1-2.",
+        "Cleveland hosts Carolina at 1:00 am Mon Perth with the Panthers favoured on the road, CAR -2.5, total 42.5. Browns are 1-1 after a 23-19 win in Tampa.",
+        "Chiefs are double-digit road favourites in Miami, KC -10.5, total 45.5. Kansas City is 2-0 after a 33-30 overtime win over Indianapolis, Mahomes 32/47, 382 yds, 3 TD.",
+        "Bills -7 at home against the 0-2 Chargers, total 50.5. Buffalo is 2-0 after beating Detroit 41-31.",
+        "Eagles close the week Tuesday 8:15 am Perth at Chicago, PHI -4.5, total 41.5, after a 24-20 win in Tennessee."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401872950",
     "postgame": {
@@ -47,17 +57,7 @@
       "division_meaning": "Bengals are 2-0 and alone on top at +20. Baltimore lost 24-17 to New Orleans, Pittsburgh lost 20-3 at New England, Cleveland beat Tampa 23-19. All three sit 1-1.",
       "the_take": "Houston out-gained them 374 to 267 and Cincinnati still won by 14 without a turnover either way. An ESPN video headline says two numbers show the defense could be legit. I buy it."
     },
-    "postgame_for": "401872934",
-    "league": {
-      "lines": [
-        " Ravens are the Week 3 curiosity: BAL -3.5 against Dallas at Maracanã Stadium in Rio, total 53.5, Mon 4:25 am Perth. Baltimore is 1-1 after losing 17-24 at home to New Orleans.",
-        "Atlanta opened Week 3 by hammering Green Bay 35-14 at Lambeau. Bijan Robinson went 29 car, 194 yds, 2 TD and Drake London had 9 rec, 194 yds. Both teams now 1-2.",
-        "Cleveland hosts Carolina at 1:00 am Mon Perth with the Panthers favoured on the road, CAR -2.5, total 42.5. Browns are 1-1 after a 23-19 win in Tampa.",
-        "Chiefs are double-digit road favourites in Miami, KC -10.5, total 45.5. Kansas City is 2-0 after a 33-30 overtime win over Indianapolis, Mahomes 32/47, 382 yds, 3 TD.",
-        "Bills -7 at home against the 0-2 Chargers, total 50.5. Buffalo is 2-0 after beating Detroit 41-31.",
-        "Eagles close the week Tuesday 8:15 am Perth at Chicago, PHI -4.5, total 41.5, after a 24-20 win in Tennessee."
-      ]
-    }
+    "postgame_for": "401872934"
   },
   "written_at": "2026-09-25T04:22:39.751Z",
   "last_error": null
