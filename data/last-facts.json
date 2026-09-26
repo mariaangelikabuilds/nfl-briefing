@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 26 Sept, 12:56 am",
+  "now_perth": "Sat, 26 Sept, 12:26 pm",
   "bengals_next": {
     "id": "401872950",
     "week": 3,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Intermittent clouds",
-      "tempF": 69,
-      "tempC": 21
+      "tempF": 68,
+      "tempC": 20
     },
     "moneyline": {
-      "away": "-175",
-      "home": "+145"
+      "away": "-185",
+      "home": "+154"
     },
     "detail": "9/27 - 1:00 PM EDT",
     "final": false,
@@ -100,7 +100,7 @@
     ],
     "kickoff_perth": "Mon, 21 Sept, 1:00 am"
   },
-  "write_pregame": false,
+  "write_pregame": true,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -285,6 +285,30 @@
   },
   "news_bengals": [
     {
+      "headline": "Previewing Bengals' Week 3 matchup vs. Steelers",
+      "summary": "Ben Baby reports on what the Bengals need to watch out for ahead of their matchup against the Steelers.",
+      "published": "2026-09-25T19:16:49Z",
+      "url": "https://www.espn.com/video/clip/_/id/50028724/previewing-bengals-week-3-matchup-vs-steelers"
+    },
+    {
+      "headline": "NFL Week 3 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 3.",
+      "published": "2026-09-25T16:05:29Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49995686/2026-nfl-week-3-schedule-odds-betting-point-spreads-totals"
+    },
+    {
+      "headline": "Predicting the next five Super Bowl champions",
+      "summary": "Ben Solak had some fun and did the impossible -- picked Super Bowl winners for the 2026 to 2030 seasons. And there are some surprises ...",
+      "published": "2026-09-25T14:41:37Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50022570/next-five-super-bowl-winners-2027-prediction-solak"
+    },
+    {
+      "headline": "NFL Week 3 picks, predictions, schedule, odds, fantasy tips",
+      "summary": "Jalen Hurts against Chicago? Aaron Glenn back in Detroit? Dak vs. Lamar? There are 15 more games in Week 3, and we have picks, predictions, key stats and more.",
+      "published": "2026-09-26T00:32:29Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50014420/week-3-picks-predictions-schedule-fantasy-odds-2026"
+    },
+    {
       "headline": "Chase, Higgins unhappy with fines from NFL",
       "summary": "Ben Baby explains why Ja'Marr Chase and Tee Higgins dispute the NFL's interpretation of the celebration that earned them a fine.",
       "published": "2026-09-25T01:45:46Z",
@@ -299,7 +323,7 @@
     {
       "headline": "NFL Week 3 uniforms: Colts to wear 'Anvil Strike,' Bills debut 'Nickel City'",
       "summary": "Here's a look at what each NFL team is wearing in Week 3, led by the new NFL Rivalries look from the Indianapolis Colts.",
-      "published": "2026-09-25T02:20:30Z",
+      "published": "2026-09-25T20:04:00Z",
       "url": "https://www.espn.com/nfl/story/_/id/50008808/nfl-week-3-uniforms"
     },
     {
@@ -307,43 +331,19 @@
       "summary": "Bengals wide receiver Andrei Iosivas is expected to miss four to six weeks because of a thumb injury, sources told ESPN.",
       "published": "2026-09-23T18:13:47Z",
       "url": "https://www.espn.com/nfl/story/_/id/50014294/sources-bengals-andrei-iosivas-expected-miss-4-6-weeks"
-    },
-    {
-      "headline": "NFL Week 3 latest intel, buzz questions, news, fantasy tips",
-      "summary": "What now for the Giants with Jaxson Dart out? What's the buzz on Patrick Mahomes through two games? Are running back depth charts firming up in Tampa and Carolina?",
-      "published": "2026-09-23T14:01:02Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50005797/week-3-buzz-fantasy-predictions-graziano-fowler-2026"
-    },
-    {
-      "headline": "Evaluating surprise early-season trends for 32 NFL teams",
-      "summary": "T.J. Watt is dominant again? The Packers can't run the ball? Drew Lock is fourth in QBR? Let's figure out which early stats and trends have staying power and which are a mirage.",
-      "published": "2026-09-23T15:08:14Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49998629/evaluating-32-nfl-team-surprise-trends-2026-first-two-weeks-real-mirage"
-    },
-    {
-      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
-      "published": "2026-09-22T18:33:41Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
-    },
-    {
-      "headline": "Zac Taylor praises Dexter Lawrence's impact on Bengals",
-      "summary": "Zac Taylor praises Dexter Lawrence's impact on Bengals",
-      "published": "2026-09-22T16:57:21Z",
-      "url": "https://www.espn.com/video/clip/_/id/50006470/zac-taylor-praises-dexter-lawrence-impact-bengals"
     }
   ],
   "news_opponent": [
     {
       "headline": "NFL Week 3 betting: Odds, lines and totals for every game",
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 3.",
-      "published": "2026-09-25T14:23:56Z",
+      "published": "2026-09-25T16:05:29Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/49995686/2026-nfl-week-3-schedule-odds-betting-point-spreads-totals"
     },
     {
       "headline": "NFL Week 3 picks, predictions, schedule, odds, fantasy tips",
       "summary": "Jalen Hurts against Chicago? Aaron Glenn back in Detroit? Dak vs. Lamar? There are 15 more games in Week 3, and we have picks, predictions, key stats and more.",
-      "published": "2026-09-25T14:47:42Z",
+      "published": "2026-09-26T00:32:29Z",
       "url": "https://www.espn.com/nfl/story/_/id/50014420/week-3-picks-predictions-schedule-fantasy-odds-2026"
     },
     {
@@ -367,7 +367,7 @@
     {
       "headline": "NFL Week 3 uniforms: Colts to wear 'Anvil Strike,' Bills debut 'Nickel City'",
       "summary": "Here's a look at what each NFL team is wearing in Week 3, led by the new NFL Rivalries look from the Indianapolis Colts.",
-      "published": "2026-09-25T02:20:30Z",
+      "published": "2026-09-25T20:04:00Z",
       "url": "https://www.espn.com/nfl/story/_/id/50008808/nfl-week-3-uniforms"
     },
     {
@@ -1291,12 +1291,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+270",
-        "home": "-340"
+        "away": "+275",
+        "home": "-345"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1335,12 +1335,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 69,
-        "tempC": 21
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "-148",
-        "home": "+124"
+        "away": "-142",
+        "home": "+120"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1379,7 +1379,7 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 69,
+        "tempF": 70,
         "tempC": 21
       },
       "moneyline": {
@@ -1405,7 +1405,7 @@
         "record": "1-1"
       },
       "line": "DET -6.5",
-      "overUnder": 47.5,
+      "overUnder": 48.5,
       "venue": "Ford Field",
       "city": "Detroit",
       "tv": [
@@ -1467,12 +1467,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 85,
-        "tempC": 29
+        "tempF": 86,
+        "tempC": 30
       },
       "moneyline": {
-        "away": "-575",
-        "home": "+425"
+        "away": "-650",
+        "home": "+470"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1492,7 +1492,7 @@
         "winner": null,
         "record": "2-0"
       },
-      "line": "KC -10.5",
+      "line": "KC -10",
       "overUnder": 45.5,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
@@ -1555,12 +1555,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "-355",
-        "home": "+280"
+        "away": "-395",
+        "home": "+310"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1625,7 +1625,7 @@
         "record": "1-1"
       },
       "line": "JAX -3",
-      "overUnder": 45.5,
+      "overUnder": 46.5,
       "venue": "EverBank Stadium",
       "city": "Jacksonville",
       "tv": [
@@ -1647,8 +1647,8 @@
         "tempC": 21
       },
       "moneyline": {
-        "away": "+340",
-        "home": "-440"
+        "away": "+350",
+        "home": "-455"
       },
       "detail": "9/27 - 4:05 PM EDT",
       "final": false,
@@ -1731,8 +1731,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "-175",
-        "home": "+145"
+        "away": "-166",
+        "home": "+140"
       },
       "detail": "9/27 - 4:25 PM EDT",
       "final": false,
@@ -1815,12 +1815,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 79,
+        "tempF": 78,
         "tempC": 26
       },
       "moneyline": {
-        "away": "-135",
-        "home": "+114"
+        "away": "-130",
+        "home": "+110"
       },
       "detail": "9/27 - 8:20 PM EDT",
       "final": false,
@@ -1841,7 +1841,7 @@
         "record": "1-1"
       },
       "line": "LAR -2.5",
-      "overUnder": 43.5,
+      "overUnder": 44.5,
       "venue": "Empower Field at Mile High",
       "city": "Denver",
       "tv": [
@@ -1863,8 +1863,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-238",
+        "home": "+195"
       },
       "detail": "9/28 - 8:15 PM EDT",
       "final": false,
