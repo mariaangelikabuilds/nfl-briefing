@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 26 Sept, 12:26 pm",
+  "now_perth": "Sun, 27 Sept, 12:08 am",
   "bengals_next": {
     "id": "401872950",
     "week": 3,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": {
       "text": "Intermittent clouds",
-      "tempF": 68,
-      "tempC": 20
+      "tempF": 70,
+      "tempC": 21
     },
     "moneyline": {
       "away": "-185",
@@ -100,7 +100,7 @@
     ],
     "kickoff_perth": "Mon, 21 Sept, 1:00 am"
   },
-  "write_pregame": true,
+  "write_pregame": false,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -1290,9 +1290,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 65,
-        "tempC": 18
+        "text": "Partly sunny w/ showers",
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
         "away": "+275",
@@ -1379,7 +1379,7 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 70,
+        "tempF": 69,
         "tempC": 21
       },
       "moneyline": {
@@ -1466,13 +1466,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
+        "text": "Mostly sunny",
         "tempF": 86,
         "tempC": 30
       },
       "moneyline": {
-        "away": "-650",
-        "home": "+470"
+        "away": "-625",
+        "home": "+455"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1510,7 +1510,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Rain",
         "tempF": 62,
         "tempC": 17
       },
@@ -1537,7 +1537,7 @@
         "record": "0-2"
       },
       "line": "NYG -2.5",
-      "overUnder": 38.5,
+      "overUnder": 37.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
@@ -1555,7 +1555,7 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 64,
+        "tempF": 65,
         "tempC": 18
       },
       "moneyline": {
@@ -1642,13 +1642,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
+        "text": "Partly sunny",
         "tempF": 69,
         "tempC": 21
       },
       "moneyline": {
-        "away": "+350",
-        "home": "-455"
+        "away": "+340",
+        "home": "-440"
       },
       "detail": "9/27 - 4:05 PM EDT",
       "final": false,
@@ -1687,7 +1687,7 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 85,
+        "tempF": 84,
         "tempC": 29
       },
       "moneyline": {
@@ -1814,8 +1814,8 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 78,
+        "text": "Cloudy",
+        "tempF": 79,
         "tempC": 26
       },
       "moneyline": {
@@ -1858,9 +1858,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Clear",
-        "tempF": 66,
-        "tempC": 19
+        "text": "Mostly clear",
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
         "away": "-238",

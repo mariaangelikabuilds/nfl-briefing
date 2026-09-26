@@ -35,6 +35,16 @@
     "401872948"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Ravens and Cowboys play in Rio at Maracana, 4:25 am Perth Monday. Baltimore -3.5 with a 53.5 total, the fattest number on the board. Baltimore is 1-1 after losing 17-24 to New Orleans.",
+        "Atlanta already banked Week 3, 35-14 at Lambeau on Thursday. Bijan Robinson 29 carries for 194 yards and 2 TDs, Drake London 9 for 194.",
+        "Kansas City is -10 at Miami after a 33-30 overtime win over Indianapolis. Mahomes went 32/47 for 382 and 3 TDs in that one.",
+        "Carolina at Cleveland matters for the division floor. Panthers favoured -2.5 on the road at 42.5 after Cleveland won 23-19 in Tampa.",
+        "Buffalo -7 at home against 0-2 Los Angeles, total 50.5. The Bills beat Detroit 41-31 in Week 2.",
+        "Eagles -4.5 at Chicago Tuesday 8:15 am Perth closes the week. Philadelphia is 2-0 despite Hurts throwing two picks against Tennessee."
+      ]
+    },
     "pregame": {
       "matchup_read": "Bengals 2-0 into Acrisure at 1:00 am Perth Monday, laying CIN -3.5 with a 42.5 total. Pittsburgh is 1-1 off a 20-3 loss at New England. Low-scoring shape, and Cincinnati's defense just held Houston to 6.",
       "storylines": [
@@ -61,17 +71,7 @@
       "division_meaning": "Bengals are 2-0 and alone on top at +20. Baltimore lost 24-17 to New Orleans, Pittsburgh lost 20-3 at New England, Cleveland beat Tampa 23-19. All three sit 1-1.",
       "the_take": "Houston out-gained them 374 to 267 and Cincinnati still won by 14 without a turnover either way. An ESPN video headline says two numbers show the defense could be legit. I buy it."
     },
-    "postgame_for": "401872934",
-    "league": {
-      "lines": [
-        "Ravens and Cowboys play in Rio at Maracana, 4:25 am Perth Monday. Baltimore -3.5 with a 53.5 total, the fattest number on the board. Baltimore is 1-1 after losing 17-24 to New Orleans.",
-        "Atlanta already banked Week 3, 35-14 at Lambeau on Thursday. Bijan Robinson 29 carries for 194 yards and 2 TDs, Drake London 9 for 194.",
-        "Kansas City is -10 at Miami after a 33-30 overtime win over Indianapolis. Mahomes went 32/47 for 382 and 3 TDs in that one.",
-        "Carolina at Cleveland matters for the division floor. Panthers favoured -2.5 on the road at 42.5 after Cleveland won 23-19 in Tampa.",
-        "Buffalo -7 at home against 0-2 Los Angeles, total 50.5. The Bills beat Detroit 41-31 in Week 2.",
-        "Eagles -4.5 at Chicago Tuesday 8:15 am Perth closes the week. Philadelphia is 2-0 despite Hurts throwing two picks against Tennessee."
-      ]
-    }
+    "postgame_for": "401872934"
   },
   "written_at": "2026-09-26T04:26:43.133Z",
   "last_error": null
