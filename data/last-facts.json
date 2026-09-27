@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sun, 27 Sept, 12:44 pm",
+  "now_perth": "Mon, 28 Sept, 12:44 am",
   "bengals_next": {
     "id": "401872950",
     "week": 3,
@@ -13,8 +13,8 @@
       "tempC": 21
     },
     "moneyline": {
-      "away": "-185",
-      "home": "+154"
+      "away": "-180",
+      "home": "+150"
     },
     "detail": "9/27 - 1:00 PM EDT",
     "final": false,
@@ -1290,13 +1290,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Showers",
-        "tempF": 67,
+        "text": "1",
+        "tempF": 66,
         "tempC": 19
       },
       "moneyline": {
-        "away": "+270",
-        "home": "-340"
+        "away": "+260",
+        "home": "-325"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1334,7 +1334,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
+        "text": "Sunny",
         "tempF": 68,
         "tempC": 20
       },
@@ -1360,8 +1360,8 @@
         "winner": null,
         "record": "1-1"
       },
-      "line": "CAR -1.5",
-      "overUnder": 42.5,
+      "line": "CAR -2.5",
+      "overUnder": 41.5,
       "venue": "Huntington Bank Field",
       "city": "Cleveland",
       "tv": [
@@ -1379,12 +1379,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 69,
-        "tempC": 21
+        "tempF": 73,
+        "tempC": 23
       },
       "moneyline": {
-        "away": "+245",
-        "home": "-305"
+        "away": "+260",
+        "home": "-325"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1404,8 +1404,8 @@
         "winner": null,
         "record": "1-1"
       },
-      "line": "DET -6.5",
-      "overUnder": 48.5,
+      "line": "DET -7",
+      "overUnder": 49.5,
       "venue": "Ford Field",
       "city": "Detroit",
       "tv": [
@@ -1423,8 +1423,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 68,
-        "tempC": 20
+        "tempF": 70,
+        "tempC": 21
       },
       "moneyline": {
         "away": "-125",
@@ -1449,7 +1449,7 @@
         "record": "0-2"
       },
       "line": "HOU -1.5",
-      "overUnder": 42.5,
+      "overUnder": 41.5,
       "venue": "Lucas Oil Stadium",
       "city": "Indianapolis",
       "tv": [
@@ -1467,12 +1467,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 86,
-        "tempC": 30
+        "tempF": 87,
+        "tempC": 31
       },
       "moneyline": {
-        "away": "-575",
-        "home": "+425"
+        "away": "-600",
+        "home": "+440"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1510,7 +1510,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
+        "text": "Showers",
         "tempF": 64,
         "tempC": 18
       },
@@ -1554,13 +1554,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Rain",
         "tempF": 63,
         "tempC": 17
       },
       "moneyline": {
-        "away": "-395",
-        "home": "+310"
+        "away": "-410",
+        "home": "+320"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1599,12 +1599,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 82,
-        "tempC": 28
+        "tempF": 84,
+        "tempC": 29
       },
       "moneyline": {
-        "away": "+130",
-        "home": "-155"
+        "away": "+136",
+        "home": "-162"
       },
       "detail": "9/27 - 1:00 PM EDT",
       "final": false,
@@ -1625,7 +1625,7 @@
         "record": "1-1"
       },
       "line": "JAX -3",
-      "overUnder": 45.5,
+      "overUnder": 46.5,
       "venue": "EverBank Stadium",
       "city": "Jacksonville",
       "tv": [
@@ -1642,7 +1642,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
+        "text": "Mostly cloudy",
         "tempF": 70,
         "tempC": 21
       },
@@ -1669,7 +1669,7 @@
         "record": "1-1"
       },
       "line": "SF -7.5",
-      "overUnder": 47.5,
+      "overUnder": 48.5,
       "venue": "Levi's Stadium",
       "city": "Santa Clara",
       "tv": [
@@ -1691,8 +1691,8 @@
         "tempC": 29
       },
       "moneyline": {
-        "away": "-118",
-        "home": "-102"
+        "away": "-120",
+        "home": "+100"
       },
       "detail": "9/27 - 4:05 PM EDT",
       "final": false,
@@ -1731,8 +1731,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "-170",
-        "home": "+142"
+        "away": "-166",
+        "home": "+140"
       },
       "detail": "9/27 - 4:25 PM EDT",
       "final": false,
@@ -1752,7 +1752,7 @@
         "winner": null,
         "record": "1-1"
       },
-      "line": "BAL -3.5",
+      "line": "BAL -3",
       "overUnder": 53.5,
       "venue": "Maracanã Stadium",
       "city": "Rio De Janeiro",
@@ -1775,8 +1775,8 @@
         "tempC": 32
       },
       "moneyline": {
-        "away": "+164",
-        "home": "-198"
+        "away": "+160",
+        "home": "-192"
       },
       "detail": "9/27 - 4:25 PM EDT",
       "final": false,
@@ -1815,8 +1815,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 79,
-        "tempC": 26
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
         "away": "-130",
@@ -1840,8 +1840,8 @@
         "winner": null,
         "record": "1-1"
       },
-      "line": "LAR -2.5",
-      "overUnder": 43.5,
+      "line": "LAR -1.5",
+      "overUnder": 44.5,
       "venue": "Empower Field at Mile High",
       "city": "Denver",
       "tv": [
@@ -1858,13 +1858,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly clear",
-        "tempF": 65,
+        "text": "Clear",
+        "tempF": 64,
         "tempC": 18
       },
       "moneyline": {
-        "away": "-198",
-        "home": "+164"
+        "away": "-218",
+        "home": "+180"
       },
       "detail": "9/28 - 8:15 PM EDT",
       "final": false,
@@ -1884,8 +1884,8 @@
         "winner": null,
         "record": "2-0"
       },
-      "line": "PHI -3.5",
-      "overUnder": 42.5,
+      "line": "PHI -4.5",
+      "overUnder": 41.5,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [
