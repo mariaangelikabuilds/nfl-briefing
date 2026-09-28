@@ -32,47 +32,47 @@
     "401872945",
     "401872946",
     "401872947",
-    "401872948"
+    "401872948",
+    "401872949",
+    "401872950",
+    "401872951",
+    "401872952",
+    "401872953",
+    "401872954",
+    "401872955",
+    "401872956",
+    "401872957",
+    "401872958",
+    "401872959",
+    "401872960",
+    "401872961",
+    "401872962"
   ],
   "briefing": {
+    "pregame": null,
+    "pregame_for": "401872969",
+    "postgame": {
+      "what_decided_it": "Two lost fumbles and no answer for the run. Pittsburgh ran 23 times for 138 yards at 6.0 a carry, won total yards 411 to 352, and Boswell's late kick settled it 30-27.",
+      "standouts": [
+        "Joe Burrow: 28/37, 282 yds, 3 TD, 0 INT. Clean sheet through the air and still a loss.",
+        "Ja'Marr Chase: 9 rec, 98 yds, 1 TD. Tee Higgins added 6 rec, 90 yds, 1 TD.",
+        "Jaylen Warren: 17 car, 127 yds, plus 3 rec for 49. He set the tone for Pittsburgh."
+      ],
+      "division_meaning": "Everyone is 2-1. Cincinnati sits third on tiebreak order despite the best point differential at +17, ahead of BAL +14, PIT -7, CLE -17. Only Cincinnati is on a losing streak.",
+      "the_take": "Burrow gave you three touchdowns and zero picks and it still went sideways. Two fumbles lost and 138 rushing yards allowed is the whole story. Ben Baby's headline said it: miscues proved costly."
+    },
+    "postgame_for": "401872950",
     "league": {
       "lines": [
-        "Ravens and Cowboys play in Rio at Maracana, 4:25 am Perth Monday. Baltimore -3.5 with a 53.5 total, the fattest number on the board. Baltimore is 1-1 after losing 17-24 to New Orleans.",
-        "Atlanta already banked Week 3, 35-14 at Lambeau on Thursday. Bijan Robinson 29 carries for 194 yards and 2 TDs, Drake London 9 for 194.",
-        "Kansas City is -10 at Miami after a 33-30 overtime win over Indianapolis. Mahomes went 32/47 for 382 and 3 TDs in that one.",
-        "Carolina at Cleveland matters for the division floor. Panthers favoured -2.5 on the road at 42.5 after Cleveland won 23-19 in Tampa.",
-        "Buffalo -7 at home against 0-2 Los Angeles, total 50.5. The Bills beat Detroit 41-31 in Week 2.",
-        "Eagles -4.5 at Chicago Tuesday 8:15 am Perth closes the week. Philadelphia is 2-0 despite Hurts throwing two picks against Tennessee."
+        "Steelers at Browns on Friday 8:15 am Perth opens Week 4 in the North. PIT -2.5, total 38.5, on Prime Video.",
+        "Three 3-0 teams are on show: Buffalo, Minnesota and the Raiders, who host Kansas City with KC -5.5 and a 47.5 total.",
+        "Baltimore beat Dallas 34-31 in Rio and now hosts winless Tennessee as an 11.5-point favourite.",
+        "Jacksonville, Cincinnati's Week 4 opponent, hammered New England 35-6 behind three Trevor Lawrence touchdown passes.",
+        "San Francisco is 3-0 after a 36-30 win over Arizona and hosts Denver as a 3-point favourite Monday 4:25 am Perth.",
+        "Houston, Miami, Tampa Bay and the Chargers are all 0-3 heading into Week 4."
       ]
-    },
-    "pregame": {
-      "matchup_read": "Bengals 2-0 into Acrisure at 1:00 am Perth Monday, laying CIN -3.5 with a 42.5 total. Pittsburgh is 1-1 off a 20-3 loss at New England. Low-scoring shape, and Cincinnati's defense just held Houston to 6.",
-      "storylines": [
-        "Cincinnati's Week 2 win was defense first: Houston went 0-4 in the red zone and 0-4 on fourth down while piling up 374 yards.",
-        "ESPN reports Andrei Iosivas is expected to miss four to six weeks with a thumb injury, thinning the receiver room behind Chase and Higgins.",
-        "Per ESPN, Chase and Higgins are unhappy with NFL fines over a celebration and dispute the league's reading of it.",
-        "Headline from the game preview: Aaron Rodgers says he isn't worried about the Steelers' resolve after an uneven start. Joey Porter Jr.'s return date is still TBD."
-      ],
-      "watch_for": [
-        "Burrow's protection. He was sacked five times for 25 yards in Houston and the offense managed 4.5 yards per play.",
-        "Third down. Cincinnati went 5-15 in Week 2 and took 12 penalties for 78 yards. That does not travel well to Pittsburgh.",
-        "Chase Brown's workload. Twenty carries for 80 yards last week, 3.7 a pop, with the passing game short a body."
-      ],
-      "the_call": "Bengals win but do not cover the 3.5. Take the under 42.5 too. Two defenses, a Steelers team that just scored 3, and a Cincinnati offense averaging 267 yards is not a shootout."
-    },
-    "pregame_for": "401872950",
-    "postgame": {
-      "what_decided_it": "Cincinnati won the red zone and nothing else mattered. Houston went 0-4 inside the 20 and 0-4 on fourth down. The Bengals went 1-1 in the red zone and took 20-6.",
-      "standouts": [
-        "Ja'Marr Chase: 7 rec, 75 yds, 2 TD after being a non-factor in the opener, per the ESPN recap.",
-        "Joe Burrow: 20/31, 207 yds, 2 TD, 0 INT. Only 5.1 yards per pass, but no turnovers and five sacks taken.",
-        "Chase Brown: 20 car, 80 yds. Tee Higgins added 5 rec for 95 yds."
-      ],
-      "division_meaning": "Bengals are 2-0 and alone on top at +20. Baltimore lost 24-17 to New Orleans, Pittsburgh lost 20-3 at New England, Cleveland beat Tampa 23-19. All three sit 1-1.",
-      "the_take": "Houston out-gained them 374 to 267 and Cincinnati still won by 14 without a turnover either way. An ESPN video headline says two numbers show the defense could be legit. I buy it."
-    },
-    "postgame_for": "401872934"
+    }
   },
-  "written_at": "2026-09-26T04:26:43.133Z",
+  "written_at": "2026-09-28T04:46:35.345Z",
   "last_error": null
 }
