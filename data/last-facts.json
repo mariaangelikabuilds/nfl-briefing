@@ -1,5 +1,5 @@
 {
-  "now_perth": "Mon, 28 Sept, 12:46 pm",
+  "now_perth": "Tue, 29 Sept, 3:29 am",
   "bengals_next": {
     "id": "401872969",
     "week": 4,
@@ -8,13 +8,13 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Rain",
-      "tempF": 66,
-      "tempC": 19
+      "text": "Mostly cloudy",
+      "tempF": 69,
+      "tempC": 21
     },
     "moneyline": {
-      "away": "+114",
-      "home": "-135"
+      "away": "+130",
+      "home": "-155"
     },
     "detail": "10/4 - 1:00 PM EDT",
     "final": false,
@@ -34,8 +34,8 @@
       "winner": null,
       "record": "2-1"
     },
-    "line": "CIN -2.5",
-    "overUnder": 50.5,
+    "line": "CIN -3",
+    "overUnder": 51.5,
     "venue": "Paycor Stadium",
     "city": "Cincinnati",
     "tv": [
@@ -101,7 +101,7 @@
     "kickoff_perth": "Mon, 28 Sept, 1:00 am"
   },
   "write_pregame": false,
-  "write_postgame": true,
+  "write_postgame": false,
   "division": {
     "name": "AFC North",
     "rows": [
@@ -281,59 +281,95 @@
   },
   "news_bengals": [
     {
-      "headline": "Top NFL plays from Week 3",
-      "summary": "Top NFL plays from Week 3",
-      "published": "2026-09-28T04:15:23Z",
-      "url": "https://www.espn.com/video/clip/_/id/50049811/top-nfl-plays-week-3"
+      "headline": "Stephen A.: Bengals defense is still a problem",
+      "summary": "Stephen A.: Bengals defense is still a problem",
+      "published": "2026-09-28T15:04:02Z",
+      "url": "https://www.espn.com/video/clip/_/id/50052198/bengals-defense-problem"
     },
     {
-      "headline": "What are the longest field goals in NFL history?",
-      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "published": "2026-09-28T03:57:33Z",
-      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history"
+      "headline": "NFL Week 4 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
+      "published": "2026-09-28T15:04:05Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals"
     },
     {
-      "headline": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Sunday of Week 3 has seen 13 games played, with Lamar Jackson, Jahmyr Gibbs and Sam Darnold having big stat days.",
-      "published": "2026-09-28T03:56:42Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more"
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "published": "2026-09-28T14:59:56Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
+    },
+    {
+      "headline": "Early bets for NFL Week 4: Four games that drew our attention once odds came out",
+      "summary": "Which Week 4 lines offered immediate value once odds came out? Here are four early bets we like.",
+      "published": "2026-09-28T14:45:10Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50028021/nfl-week-4-betting-odds-props-early-picks-predictions-first-bet"
+    },
+    {
+      "headline": "Joe Burrow, Bengals can't 'close it out' against Steelers",
+      "summary": "Special teams gaffes and a Burrow fumble late in the fourth sealed Cincinnati's outcome.",
+      "published": "2026-09-28T10:00:02Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50048227/joe-burrow-cincinnati-bengals-cant-close-steelers"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-09-28T10:00:39Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
     },
     {
       "headline": "NFL Week 3: Takeaways, questions, fantasy spin for Sunday's games",
       "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 3.",
-      "published": "2026-09-28T03:06:58Z",
+      "published": "2026-09-28T04:51:47Z",
       "url": "https://www.espn.com/nfl/story/_/id/50043408/week-3-sunday-games-takeaways-questions-2026"
     },
     {
-      "headline": "Miscues proved costly for Bengals",
-      "summary": "Ben Baby breaks down the miscues that cost the Bengals in their loss to the Steelers in Week 3.",
-      "published": "2026-09-28T02:34:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/50049447/miscues-proved-costly-bengals"
-    },
-    {
-      "headline": "Ravens' jab at Cowboys after win in Rio leads Week 3 trolls",
-      "summary": "The Baltimore Ravens followed up their last-second victory over the Dallas Cowboys with a petty post.",
-      "published": "2026-09-28T01:02:10Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50046373/nfl-week-3-trolls-2026"
-    },
-    {
-      "headline": "Cincinnati Bengals vs. Pittsburgh Steelers: Game Highlights",
-      "summary": "Cincinnati Bengals vs. Pittsburgh Steelers: Game Highlights",
-      "published": "2026-09-27T20:41:23Z",
-      "url": "https://www.espn.com/video/clip/_/id/50045555/game-highlights"
-    },
-    {
-      "headline": "Aaron Rodgers outduels Joe Burrow as the Steelers edge the Bengals 30-27 on a late Boswell kick",
-      "summary": "— Mike McCarthy and Aaron Rodgers have been around each other a long time.",
-      "published": "2026-09-27T22:13:33Z",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872950"
+      "headline": "Top NFL plays from Week 3",
+      "summary": "Top NFL plays from Week 3",
+      "published": "2026-09-28T13:41:29Z",
+      "url": "https://www.espn.com/video/clip/_/id/50049811/top-nfl-plays-week-3"
     }
   ],
   "news_opponent": [
     {
+      "headline": "Tracking Jaguars CB/WR Travis Hunter through 2026 season",
+      "summary": "Every week, we will look at how many snaps the two-way corner/receiver plays on offense and defense. Is there a trend in his usage?",
+      "published": "2026-09-28T17:02:07Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50043976/jacksonville-jaguars-travis-hunter-stats-snaps-tracker"
+    },
+    {
+      "headline": "NFL Week 4 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
+      "published": "2026-09-28T15:04:05Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals"
+    },
+    {
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "published": "2026-09-28T14:59:56Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
+    },
+    {
+      "headline": "Early bets for NFL Week 4: Four games that drew our attention once odds came out",
+      "summary": "Which Week 4 lines offered immediate value once odds came out? Here are four early bets we like.",
+      "published": "2026-09-28T14:45:10Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50028021/nfl-week-4-betting-odds-props-early-picks-predictions-first-bet"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-09-28T10:00:39Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
+      "headline": "NFL Week 3: Takeaways, questions, fantasy spin for Sunday's games",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 3.",
+      "published": "2026-09-28T04:51:47Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50043408/week-3-sunday-games-takeaways-questions-2026"
+    },
+    {
       "headline": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Sunday of Week 3 has seen 13 games played, with Lamar Jackson, Jahmyr Gibbs and Sam Darnold having big stat days.",
-      "published": "2026-09-28T03:56:42Z",
+      "summary": "Lamar Jackson, Jahmyr Gibbs and Sam Darnold had big stat days during Sunday's 14-game slate in Week 3.",
+      "published": "2026-09-28T04:58:11Z",
       "url": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more"
     },
     {
@@ -341,42 +377,6 @@
       "summary": "Michael DiRocco recaps the Jaguars' impressive win against the Patriots.",
       "published": "2026-09-28T03:18:39Z",
       "url": "https://www.espn.com/video/clip/_/id/50049612/jaguars-rout-patriots-thanks-3rd-success"
-    },
-    {
-      "headline": "NFL Week 3: Takeaways, questions, fantasy spin for Sunday's games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 3.",
-      "published": "2026-09-28T03:06:58Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50043408/week-3-sunday-games-takeaways-questions-2026"
-    },
-    {
-      "headline": "Trevor Lawrence explains kneel at the 1-yard line -- and what it means for fantasy owners",
-      "summary": "The quarterback laughed off his clock-killing blunder, acknowledging the obvious fantasy implications after he knelt instead of running into the end zone.",
-      "published": "2026-09-28T00:08:03Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50046652/jaguars-trevor-lawrence-kneel-eight-minutes-fantasy-implications"
-    },
-    {
-      "headline": "Travis Hunter happy to help Jags with first NFL interception",
-      "summary": "Jaguars cornerback Travis Hunter finally grabbed his first career NFL interception Sunday.",
-      "published": "2026-09-28T00:34:20Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50046645/travis-hunter-happy-help-jags-first-nfl-interception"
-    },
-    {
-      "headline": "New England Patriots vs. Jacksonville Jaguars: Game Highlights",
-      "summary": "New England Patriots vs. Jacksonville Jaguars: Game Highlights",
-      "published": "2026-09-27T20:42:05Z",
-      "url": "https://www.espn.com/video/clip/_/id/50045541/game-highlights"
-    },
-    {
-      "headline": "Lawrence throws 3 TD passes as Jaguars rout Patriots and raise more questions about Maye",
-      "summary": "— Jacksonville Jaguars coach Liam Coen spent all week telling his players that what mattered most was how they responded.",
-      "published": "2026-09-27T21:34:29Z",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872957"
-    },
-    {
-      "headline": "NFL Week 3 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 3.",
-      "published": "2026-09-25T16:05:29Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49995686/2026-nfl-week-3-schedule-odds-betting-point-spreads-totals"
     }
   ],
   "league_week": 4,
@@ -1173,13 +1173,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Clear",
+        "text": "Mostly clear",
         "tempF": 64,
         "tempC": 18
       },
       "moneyline": {
-        "away": "-198",
-        "home": "+164"
+        "away": "-192",
+        "home": "+160"
       },
       "detail": "9/28 - 8:15 PM EDT",
       "final": false,
@@ -1219,12 +1219,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 74,
-        "tempC": 23
+        "tempF": 76,
+        "tempC": 24
       },
       "moneyline": {
-        "away": "-148",
-        "home": "+124"
+        "away": "-155",
+        "home": "+130"
       },
       "detail": "10/1 - 8:15 PM EDT",
       "final": false,
@@ -1244,7 +1244,7 @@
         "winner": null,
         "record": "2-1"
       },
-      "line": "PIT -2.5",
+      "line": "PIT -3",
       "overUnder": 38.5,
       "venue": "Huntington Bank Field",
       "city": "Cleveland",
@@ -1285,7 +1285,7 @@
         "record": "1-2"
       },
       "line": "IND -3.5",
-      "overUnder": 46.5,
+      "overUnder": 47.5,
       "venue": "Tottenham Hotspur Stadium",
       "city": "London",
       "tv": [
@@ -1303,8 +1303,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+245",
-        "home": "-305"
+        "away": "+250",
+        "home": "-310"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1342,9 +1342,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
-        "tempF": 62,
-        "tempC": 17
+        "text": "Mostly sunny",
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
         "away": "+124",
@@ -1386,13 +1386,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 61,
-        "tempC": 16
+        "text": "Cloudy",
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+102",
-        "home": "-122"
+        "away": "-115",
+        "home": "-105"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1412,8 +1412,8 @@
         "winner": null,
         "record": "1-2"
       },
-      "line": "NYG -1.5",
-      "overUnder": 43.5,
+      "line": "ARI -1.5",
+      "overUnder": 44.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
@@ -1431,8 +1431,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
         "away": "-130",
@@ -1474,13 +1474,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
+        "text": "Thunderstorms",
         "tempF": 84,
         "tempC": 29
       },
       "moneyline": {
-        "away": "-170",
-        "home": "+142"
+        "away": "-198",
+        "home": "+164"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1500,8 +1500,8 @@
         "winner": null,
         "record": "1-2"
       },
-      "line": "GB -3",
-      "overUnder": 40.5,
+      "line": "GB -3.5",
+      "overUnder": 39.5,
       "venue": "Raymond James Stadium",
       "city": "Tampa",
       "tv": [
@@ -1519,12 +1519,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 65,
-        "tempC": 18
+        "tempF": 69,
+        "tempC": 21
       },
       "moneyline": {
-        "away": "+525",
-        "home": "-750"
+        "away": "+500",
+        "home": "-700"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1562,13 +1562,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 81,
-        "tempC": 27
+        "text": "Intermittent clouds",
+        "tempF": 78,
+        "tempC": 26
       },
       "moneyline": {
-        "away": "+114",
-        "home": "-135"
+        "away": "+120",
+        "home": "-142"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1606,13 +1606,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 61,
-        "tempC": 16
+        "text": "Mostly sunny",
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+490",
-        "home": "-675"
+        "away": "+425",
+        "home": "-575"
       },
       "detail": "10/4 - 4:05 PM EDT",
       "final": false,
@@ -1632,8 +1632,8 @@
         "winner": null,
         "record": "0-3"
       },
-      "line": "MIN -10.5",
-      "overUnder": 41.5,
+      "line": "MIN -10",
+      "overUnder": 38.5,
       "venue": "U.S. Bank Stadium",
       "city": "Minneapolis",
       "tv": [
@@ -1651,12 +1651,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 92,
+        "tempF": 91,
         "tempC": 33
       },
       "moneyline": {
-        "away": "-230",
-        "home": "+190"
+        "away": "-225",
+        "home": "+185"
       },
       "detail": "10/4 - 4:25 PM EDT",
       "final": false,
@@ -1676,7 +1676,7 @@
         "winner": null,
         "record": "3-0"
       },
-      "line": "KC -5.5",
+      "line": "KC -4.5",
       "overUnder": 47.5,
       "venue": "Allegiant Stadium",
       "city": "Las Vegas",
@@ -1694,13 +1694,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 75,
-        "tempC": 24
+        "text": "Mostly sunny",
+        "tempF": 81,
+        "tempC": 27
       },
       "moneyline": {
-        "away": "+142",
-        "home": "-170"
+        "away": "+136",
+        "home": "-162"
       },
       "detail": "10/4 - 4:25 PM EDT",
       "final": false,
@@ -1738,9 +1738,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 66,
-        "tempC": 19
+        "text": "Mostly sunny",
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
         "away": "+250",
@@ -1783,12 +1783,12 @@
       "clock": null,
       "weather": {
         "text": "Thunderstorms",
-        "tempF": 71,
-        "tempC": 22
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "-155",
-        "home": "+130"
+        "away": "-185",
+        "home": "+154"
       },
       "detail": "10/4 - 8:20 PM EDT",
       "final": false,
@@ -1808,8 +1808,8 @@
         "winner": null,
         "record": "2-1"
       },
-      "line": "DET -3",
-      "overUnder": 49.5,
+      "line": "DET -3.5",
+      "overUnder": 50.5,
       "venue": "Bank of America Stadium",
       "city": "Charlotte",
       "tv": [
@@ -1826,13 +1826,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly cloudy",
+        "text": "Partly cloudy w/ t-storms",
         "tempF": 84,
         "tempC": 29
       },
       "moneyline": {
-        "away": "+124",
-        "home": "-148"
+        "away": "+130",
+        "home": "-155"
       },
       "detail": "10/5 - 8:15 PM EDT",
       "final": false,
@@ -1853,7 +1853,7 @@
         "record": "1-2"
       },
       "line": "NO -2.5",
-      "overUnder": 47.5,
+      "overUnder": 48.5,
       "venue": "Caesars Superdome",
       "city": "New Orleans",
       "tv": [

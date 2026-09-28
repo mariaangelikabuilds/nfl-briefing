@@ -49,6 +49,16 @@
     "401872962"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Steelers at Browns on Friday 8:15 am Perth opens Week 4 in the North. PIT -2.5, total 38.5, on Prime Video.",
+        "Three 3-0 teams are on show: Buffalo, Minnesota and the Raiders, who host Kansas City with KC -5.5 and a 47.5 total.",
+        "Baltimore beat Dallas 34-31 in Rio and now hosts winless Tennessee as an 11.5-point favourite.",
+        "Jacksonville, Cincinnati's Week 4 opponent, hammered New England 35-6 behind three Trevor Lawrence touchdown passes.",
+        "San Francisco is 3-0 after a 36-30 win over Arizona and hosts Denver as a 3-point favourite Monday 4:25 am Perth.",
+        "Houston, Miami, Tampa Bay and the Chargers are all 0-3 heading into Week 4."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401872969",
     "postgame": {
@@ -61,17 +71,7 @@
       "division_meaning": "Everyone is 2-1. Cincinnati sits third on tiebreak order despite the best point differential at +17, ahead of BAL +14, PIT -7, CLE -17. Only Cincinnati is on a losing streak.",
       "the_take": "Burrow gave you three touchdowns and zero picks and it still went sideways. Two fumbles lost and 138 rushing yards allowed is the whole story. Ben Baby's headline said it: miscues proved costly."
     },
-    "postgame_for": "401872950",
-    "league": {
-      "lines": [
-        "Steelers at Browns on Friday 8:15 am Perth opens Week 4 in the North. PIT -2.5, total 38.5, on Prime Video.",
-        "Three 3-0 teams are on show: Buffalo, Minnesota and the Raiders, who host Kansas City with KC -5.5 and a 47.5 total.",
-        "Baltimore beat Dallas 34-31 in Rio and now hosts winless Tennessee as an 11.5-point favourite.",
-        "Jacksonville, Cincinnati's Week 4 opponent, hammered New England 35-6 behind three Trevor Lawrence touchdown passes.",
-        "San Francisco is 3-0 after a 36-30 win over Arizona and hosts Denver as a 3-point favourite Monday 4:25 am Perth.",
-        "Houston, Miami, Tampa Bay and the Chargers are all 0-3 heading into Week 4."
-      ]
-    }
+    "postgame_for": "401872950"
   },
   "written_at": "2026-09-28T04:46:35.345Z",
   "last_error": null
