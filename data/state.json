@@ -46,19 +46,10 @@
     "401872959",
     "401872960",
     "401872961",
-    "401872962"
+    "401872962",
+    "401872963"
   ],
   "briefing": {
-    "league": {
-      "lines": [
-        "Steelers at Browns on Friday 8:15 am Perth opens Week 4 in the North. PIT -2.5, total 38.5, on Prime Video.",
-        "Three 3-0 teams are on show: Buffalo, Minnesota and the Raiders, who host Kansas City with KC -5.5 and a 47.5 total.",
-        "Baltimore beat Dallas 34-31 in Rio and now hosts winless Tennessee as an 11.5-point favourite.",
-        "Jacksonville, Cincinnati's Week 4 opponent, hammered New England 35-6 behind three Trevor Lawrence touchdown passes.",
-        "San Francisco is 3-0 after a 36-30 win over Arizona and hosts Denver as a 3-point favourite Monday 4:25 am Perth.",
-        "Houston, Miami, Tampa Bay and the Chargers are all 0-3 heading into Week 4."
-      ]
-    },
     "pregame": null,
     "pregame_for": "401872969",
     "postgame": {
@@ -71,8 +62,18 @@
       "division_meaning": "Everyone is 2-1. Cincinnati sits third on tiebreak order despite the best point differential at +17, ahead of BAL +14, PIT -7, CLE -17. Only Cincinnati is on a losing streak.",
       "the_take": "Burrow gave you three touchdowns and zero picks and it still went sideways. Two fumbles lost and 138 rushing yards allowed is the whole story. Ben Baby's headline said it: miscues proved costly."
     },
-    "postgame_for": "401872950"
+    "postgame_for": "401872950",
+    "league": {
+      "lines": [
+        ">Steelers at Browns kicks off Week 4 on Friday 8:15 am Perth, PIT -2.5, total 38.5. Two 2-1 AFC North sides, and Cleveland is on a W2 after edging Carolina 21-18.",
+        "Chiefs at Raiders is the marquee 3-0 vs 3-0, Monday 4:25 am Perth, KC -4.5, total 47.5. Vegas just put up 35 at New Orleans.",
+        "Bills are 3-0 after 24-16 over the Chargers, who fell to 0-3. Buffalo hosts New England at -7, total 48.5.",
+        "Baltimore beat Dallas 34-31 in Rio and is a 11.5-point home favourite over 0-3 Tennessee, total 43.5.",
+        "Chicago hammered Philadelphia 27-7 on Monday night in Perth time, Case Keenum 24/34, 247 yds, 2 TD. Bears host the Jets at -3.5.",
+        "Colts and Commanders play the London game, Sunday 9:30 pm Perth, IND -3.5, total 47.5. Both sit 1-2."
+      ]
+    }
   },
-  "written_at": "2026-09-28T04:46:35.345Z",
+  "written_at": "2026-09-29T05:12:29.412Z",
   "last_error": null
 }
