@@ -1,5 +1,5 @@
 {
-  "now_perth": "Tue, 29 Sept, 1:12 pm",
+  "now_perth": "Wed, 30 Sept, 1:55 am",
   "bengals_next": {
     "id": "401872969",
     "week": 4,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Mostly cloudy",
-      "tempF": 66,
+      "tempF": 67,
       "tempC": 19
     },
     "moneyline": {
-      "away": "+124",
-      "home": "-148"
+      "away": "+120",
+      "home": "-142"
     },
     "detail": "10/4 - 1:00 PM EDT",
     "final": false,
@@ -281,6 +281,24 @@
   },
   "news_bengals": [
     {
+      "headline": "Source - Bengals cut Ke'Shawn Williams after costly muffed punt",
+      "summary": "The Cincinnati Bengals cut WR Ke'Shawn Williams after he muffed a punt that eventually led to the Pittsburgh Steelers' 30-27 win, a source told ESPN's Jeremy Fowler. Earlier Tuesday, Cincinnati signed WR Mitch Tinsley, per ESPN's Adam Schefter.",
+      "published": "2026-09-29T17:31:21Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50059809/source-bengals-cut-keshawn-williams-costly-muffed-punt"
+    },
+    {
+      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 4",
+      "summary": "How do all 32 NFL teams stack up through three weeks? Plus, we picked out each team's biggest fantasy surprise -- good or bad.",
+      "published": "2026-09-29T15:18:28Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50052289/nfl-power-rankings-week-4-teams-fantasy-surprises"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-09-29T11:06:05Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
       "headline": "Stephen A.: Bengals defense is still a problem",
       "summary": "Stephen A.: Bengals defense is still a problem",
       "published": "2026-09-28T15:04:02Z",
@@ -309,27 +327,27 @@
       "summary": "Special teams gaffes and a Burrow fumble late in the fourth sealed Cincinnati's outcome.",
       "published": "2026-09-28T10:00:02Z",
       "url": "https://www.espn.com/nfl/story/_/id/50048227/joe-burrow-cincinnati-bengals-cant-close-steelers"
+    }
+  ],
+  "news_opponent": [
+    {
+      "headline": "Seven things Solak thinks entering NFL Week 4",
+      "summary": "Bowers will go off under Klint Kubiak? The Rams need another pass catcher? Steelers-Browns will be fun? And Lamar Jackson for MVP? Get ready for Week 4 with some takes.",
+      "published": "2026-09-29T13:33:07Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50054740/week-4-seven-things-solak-thinks-lamar-mvp-bills-rams-trade"
+    },
+    {
+      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 4",
+      "summary": "How do all 32 NFL teams stack up through three weeks? Plus, we picked out each team's biggest fantasy surprise -- good or bad.",
+      "published": "2026-09-29T15:18:28Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50052289/nfl-power-rankings-week-4-teams-fantasy-surprises"
     },
     {
       "headline": "2027 NFL draft order projections for Round 1, top pick, more",
       "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-09-28T10:00:39Z",
+      "published": "2026-09-29T11:06:05Z",
       "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
     },
-    {
-      "headline": "NFL Week 3: Takeaways, questions, fantasy spin for Sunday's games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 3.",
-      "published": "2026-09-28T04:51:47Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50043408/week-3-sunday-games-takeaways-questions-2026"
-    },
-    {
-      "headline": "Top NFL plays from Week 3",
-      "summary": "Top NFL plays from Week 3",
-      "published": "2026-09-28T13:41:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/50049811/top-nfl-plays-week-3"
-    }
-  ],
-  "news_opponent": [
     {
       "headline": "Jaguars collect Travis Hunter's first INT ball after spat",
       "summary": "Jaguars cornerback Travis Hunter ended up with the football from his first NFL interception.",
@@ -359,24 +377,6 @@
       "summary": "Which Week 4 lines offered immediate value once odds came out? Here are four early bets we like.",
       "published": "2026-09-28T14:45:10Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50028021/nfl-week-4-betting-odds-props-early-picks-predictions-first-bet"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-09-28T10:00:39Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "NFL Week 3: Takeaways, questions, fantasy spin for Sunday's games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 3.",
-      "published": "2026-09-28T04:51:47Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50043408/week-3-sunday-games-takeaways-questions-2026"
-    },
-    {
-      "headline": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Lamar Jackson, Jahmyr Gibbs and Sam Darnold had big stat days during Sunday's 14-game slate in Week 3.",
-      "published": "2026-09-28T04:58:11Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more"
     }
   ],
   "league_week": 4,
@@ -1230,7 +1230,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
+        "text": "Cloudy",
         "tempF": 76,
         "tempC": 24
       },
@@ -1275,8 +1275,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "-185",
-        "home": "+154"
+        "away": "-180",
+        "home": "+150"
       },
       "detail": "10/4 - 9:30 AM EDT",
       "final": false,
@@ -1315,8 +1315,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+245",
-        "home": "-305"
+        "away": "+240",
+        "home": "-298"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1355,12 +1355,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+164",
-        "home": "-198"
+        "away": "+142",
+        "home": "-170"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1443,12 +1443,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 65,
-        "tempC": 18
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": {
-        "away": "-155",
-        "home": "+130"
+        "away": "-162",
+        "home": "+136"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1468,8 +1468,8 @@
         "winner": null,
         "record": "1-2"
       },
-      "line": "LAR -2.5",
-      "overUnder": 44.5,
+      "line": "LAR -3",
+      "overUnder": 43.5,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "tv": [
@@ -1486,9 +1486,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Thunderstorms",
-        "tempF": 86,
-        "tempC": 30
+        "text": "Intermittent clouds",
+        "tempF": 88,
+        "tempC": 31
       },
       "moneyline": {
         "away": "-192",
@@ -1531,12 +1531,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 66,
-        "tempC": 19
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "+500",
-        "home": "-700"
+        "away": "+525",
+        "home": "-750"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1574,9 +1574,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 80,
-        "tempC": 27
+        "text": "Cloudy",
+        "tempF": 78,
+        "tempC": 26
       },
       "moneyline": {
         "away": "+120",
@@ -1618,9 +1618,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 64,
-        "tempC": 18
+        "text": "Partly sunny",
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
         "away": "+525",
@@ -1644,7 +1644,7 @@
         "winner": null,
         "record": "0-3"
       },
-      "line": "MIN -10.5",
+      "line": "MIN -11.5",
       "overUnder": 38.5,
       "venue": "U.S. Bank Stadium",
       "city": "Minneapolis",
@@ -1663,12 +1663,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 93,
-        "tempC": 34
+        "tempF": 91,
+        "tempC": 33
       },
       "moneyline": {
-        "away": "-230",
-        "home": "+190"
+        "away": "-225",
+        "home": "+185"
       },
       "detail": "10/4 - 4:25 PM EDT",
       "final": false,
@@ -1706,13 +1706,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 84,
-        "tempC": 29
+        "text": "Sunny",
+        "tempF": 83,
+        "tempC": 28
       },
       "moneyline": {
-        "away": "+124",
-        "home": "-148"
+        "away": "+130",
+        "home": "-155"
       },
       "detail": "10/4 - 4:25 PM EDT",
       "final": false,
@@ -1751,8 +1751,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
         "away": "+280",
@@ -1794,13 +1794,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Thunderstorms",
-        "tempF": 68,
-        "tempC": 20
+        "text": "Cloudy",
+        "tempF": 71,
+        "tempC": 22
       },
       "moneyline": {
-        "away": "-192",
-        "home": "+160"
+        "away": "-180",
+        "home": "+150"
       },
       "detail": "10/4 - 8:20 PM EDT",
       "final": false,
@@ -1838,9 +1838,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly cloudy w/ t-storms",
-        "tempF": 82,
-        "tempC": 28
+        "text": "Thunderstorms",
+        "tempF": 78,
+        "tempC": 26
       },
       "moneyline": {
         "away": "+130",
