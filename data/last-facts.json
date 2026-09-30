@@ -1,5 +1,5 @@
 {
-  "now_perth": "Wed, 30 Sept, 1:55 am",
+  "now_perth": "Wed, 30 Sept, 1:00 pm",
   "bengals_next": {
     "id": "401872969",
     "week": 4,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Mostly cloudy",
-      "tempF": 67,
-      "tempC": 19
+      "tempF": 68,
+      "tempC": 20
     },
     "moneyline": {
-      "away": "+120",
-      "home": "-142"
+      "away": "+124",
+      "home": "-148"
     },
     "detail": "10/4 - 1:00 PM EDT",
     "final": false,
@@ -281,9 +281,15 @@
   },
   "news_bengals": [
     {
-      "headline": "Source - Bengals cut Ke'Shawn Williams after costly muffed punt",
-      "summary": "The Cincinnati Bengals cut WR Ke'Shawn Williams after he muffed a punt that eventually led to the Pittsburgh Steelers' 30-27 win, a source told ESPN's Jeremy Fowler. Earlier Tuesday, Cincinnati signed WR Mitch Tinsley, per ESPN's Adam Schefter.",
-      "published": "2026-09-29T17:31:21Z",
+      "headline": "NFL Week 4 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
+      "published": "2026-09-29T18:16:26Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals"
+    },
+    {
+      "headline": "Bengals cut WR Ke'Shawn Williams after costly muffed punt",
+      "summary": "The Cincinnati Bengals cut WR Ke'Shawn Williams after he muffed a punt that eventually led to the Pittsburgh Steelers' 30-27 win. On Tuesday, Cincinnati signed WR Mitch Tinsley.",
+      "published": "2026-09-29T19:26:23Z",
       "url": "https://www.espn.com/nfl/story/_/id/50059809/source-bengals-cut-keshawn-williams-costly-muffed-punt"
     },
     {
@@ -305,12 +311,6 @@
       "url": "https://www.espn.com/video/clip/_/id/50052198/bengals-defense-problem"
     },
     {
-      "headline": "NFL Week 4 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
-      "published": "2026-09-28T15:04:05Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals"
-    },
-    {
       "headline": "How active NFL players continue to redefine all-time sack list",
       "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
       "published": "2026-09-28T14:59:56Z",
@@ -330,6 +330,12 @@
     }
   ],
   "news_opponent": [
+    {
+      "headline": "NFL Week 4 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
+      "published": "2026-09-29T18:16:26Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals"
+    },
     {
       "headline": "Seven things Solak thinks entering NFL Week 4",
       "summary": "Bowers will go off under Klint Kubiak? The Rams need another pass catcher? Steelers-Browns will be fun? And Lamar Jackson for MVP? Get ready for Week 4 with some takes.",
@@ -359,12 +365,6 @@
       "summary": "Every week, we will look at how many snaps the two-way corner/receiver plays on offense and defense. Is there a trend in his usage?",
       "published": "2026-09-28T17:02:07Z",
       "url": "https://www.espn.com/nfl/story/_/id/50043976/jacksonville-jaguars-travis-hunter-stats-snaps-tracker"
-    },
-    {
-      "headline": "NFL Week 4 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
-      "published": "2026-09-28T15:04:05Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals"
     },
     {
       "headline": "How active NFL players continue to redefine all-time sack list",
@@ -1231,8 +1231,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 76,
-        "tempC": 24
+        "tempF": 77,
+        "tempC": 25
       },
       "moneyline": {
         "away": "-148",
@@ -1275,8 +1275,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "-180",
-        "home": "+150"
+        "away": "-185",
+        "home": "+154"
       },
       "detail": "10/4 - 9:30 AM EDT",
       "final": false,
@@ -1355,12 +1355,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "+142",
-        "home": "-170"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1381,7 +1381,7 @@
         "record": "1-2"
       },
       "line": "CHI -3.5",
-      "overUnder": 42.5,
+      "overUnder": 43.5,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [
@@ -1399,12 +1399,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 62,
-        "tempC": 17
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "-115",
-        "home": "-105"
+        "away": "-125",
+        "home": "+105"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1443,8 +1443,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 60,
-        "tempC": 16
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
         "away": "-162",
@@ -1531,8 +1531,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
         "away": "+525",
@@ -1575,8 +1575,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 78,
-        "tempC": 26
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
         "away": "+120",
@@ -1601,7 +1601,7 @@
         "record": "1-2"
       },
       "line": "HOU -2.5",
-      "overUnder": 47.5,
+      "overUnder": 48.5,
       "venue": "Reliant Stadium",
       "city": "Houston",
       "tv": [
@@ -1619,12 +1619,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 61,
+        "tempC": 16
       },
       "moneyline": {
-        "away": "+525",
-        "home": "-750"
+        "away": "+470",
+        "home": "-650"
       },
       "detail": "10/4 - 4:05 PM EDT",
       "final": false,
@@ -1644,7 +1644,7 @@
         "winner": null,
         "record": "0-3"
       },
-      "line": "MIN -11.5",
+      "line": "MIN -10.5",
       "overUnder": 38.5,
       "venue": "U.S. Bank Stadium",
       "city": "Minneapolis",
@@ -1663,7 +1663,7 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 91,
+        "tempF": 92,
         "tempC": 33
       },
       "moneyline": {
@@ -1707,12 +1707,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 83,
-        "tempC": 28
+        "tempF": 86,
+        "tempC": 30
       },
       "moneyline": {
-        "away": "+130",
-        "home": "-155"
+        "away": "+124",
+        "home": "-148"
       },
       "detail": "10/4 - 4:25 PM EDT",
       "final": false,
@@ -1733,7 +1733,7 @@
         "record": "2-1"
       },
       "line": "SF -3",
-      "overUnder": 46.5,
+      "overUnder": 47.5,
       "venue": "Levi's Stadium",
       "city": "Santa Clara",
       "tv": [
@@ -1751,12 +1751,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 65,
-        "tempC": 18
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "+280",
-        "home": "-355"
+        "away": "+300",
+        "home": "-380"
       },
       "detail": "10/4 - 4:25 PM EDT",
       "final": false,
@@ -1795,7 +1795,7 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 71,
+        "tempF": 72,
         "tempC": 22
       },
       "moneyline": {
