@@ -1,5 +1,5 @@
 {
-  "now_perth": "Thu, 1 Oct, 1:51 am",
+  "now_perth": "Thu, 1 Oct, 1:14 pm",
   "bengals_next": {
     "id": "401872969",
     "week": 4,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Intermittent clouds",
-      "tempF": 68,
-      "tempC": 20
+      "tempF": 66,
+      "tempC": 19
     },
     "moneyline": {
-      "away": "+124",
-      "home": "-148"
+      "away": "+120",
+      "home": "-142"
     },
     "detail": "10/4 - 1:00 PM EDT",
     "final": false,
@@ -281,22 +281,22 @@
   },
   "news_bengals": [
     {
+      "headline": "Would NFL players take a test to diagnose CTE in the living?",
+      "summary": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
+      "published": "2026-09-30T18:47:42Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49941739/would-nfl-players-take-test-diagnose-cte-living"
+    },
+    {
+      "headline": "Here's why NFL players risk CTE despite knowing the dangers",
+      "summary": "We asked over 30 NFL players about CTE concerns, and their answers ranged from fear to resignation.",
+      "published": "2026-09-30T18:49:10Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49940451/how-nfl-players-cope-cte-risks"
+    },
+    {
       "headline": "NFL Week 4 betting: Odds, lines and totals for every game",
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
       "published": "2026-09-30T15:37:09Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals"
-    },
-    {
-      "headline": "How NFL players cope with CTE risks, fears and internal debates",
-      "summary": "We asked over 30 NFL players about CTE concerns, and their answers ranged from fear to resignation.",
-      "published": "2026-09-30T16:27:17Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49940451/how-nfl-players-cope-cte-risks"
-    },
-    {
-      "headline": "Would NFL players take a test that could diagnose CTE in the living?",
-      "summary": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
-      "published": "2026-09-30T15:50:18Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49941739/would-nfl-players-take-test-diagnose-cte-living"
     },
     {
       "headline": "Bengals cut WR Ke'Shawn Williams after costly muffed punt",
@@ -331,22 +331,28 @@
   ],
   "news_opponent": [
     {
+      "headline": "Jaguars playing cleaner football in Year 2 under Coen",
+      "summary": "Michael DiRocco breaks down how the Jaguars have dramatically reduced their penalties this season.",
+      "published": "2026-09-30T23:16:08Z",
+      "url": "https://www.espn.com/video/clip/_/id/50072157/jaguars-playing-cleaner-football-year-2-coen"
+    },
+    {
+      "headline": "Would NFL players take a test to diagnose CTE in the living?",
+      "summary": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
+      "published": "2026-09-30T18:47:42Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49941739/would-nfl-players-take-test-diagnose-cte-living"
+    },
+    {
+      "headline": "Here's why NFL players risk CTE despite knowing the dangers",
+      "summary": "We asked over 30 NFL players about CTE concerns, and their answers ranged from fear to resignation.",
+      "published": "2026-09-30T18:49:10Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49940451/how-nfl-players-cope-cte-risks"
+    },
+    {
       "headline": "NFL Week 4 betting: Odds, lines and totals for every game",
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
       "published": "2026-09-30T15:37:09Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals"
-    },
-    {
-      "headline": "How NFL players cope with CTE risks, fears and internal debates",
-      "summary": "We asked over 30 NFL players about CTE concerns, and their answers ranged from fear to resignation.",
-      "published": "2026-09-30T15:03:58Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49940451/how-nfl-players-cope-cte-risks"
-    },
-    {
-      "headline": "Would NFL players take a test that could diagnose CTE in the living?",
-      "summary": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
-      "published": "2026-09-30T15:50:18Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49941739/would-nfl-players-take-test-diagnose-cte-living"
     },
     {
       "headline": "Seven things Solak thinks entering NFL Week 4",
@@ -371,12 +377,6 @@
       "summary": "Jaguars cornerback Travis Hunter ended up with the football from his first NFL interception.",
       "published": "2026-09-28T22:49:19Z",
       "url": "https://www.espn.com/nfl/story/_/id/50053736/jags-snag-hunter-first-int-ball-spat-hines-allen-pats-staffer"
-    },
-    {
-      "headline": "Tracking Jaguars CB/WR Travis Hunter through 2026 season",
-      "summary": "Every week, we will look at how many snaps the two-way corner/receiver plays on offense and defense. Is there a trend in his usage?",
-      "published": "2026-09-28T17:02:07Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50043976/jacksonville-jaguars-travis-hunter-stats-snaps-tracker"
     }
   ],
   "league_week": 4,
@@ -1230,9 +1230,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
-        "tempF": 77,
-        "tempC": 25
+        "text": "Cloudy",
+        "tempF": 78,
+        "tempC": 26
       },
       "moneyline": {
         "away": "-148",
@@ -1275,8 +1275,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "-185",
-        "home": "+154"
+        "away": "-192",
+        "home": "+160"
       },
       "detail": "10/4 - 9:30 AM EDT",
       "final": false,
@@ -1385,7 +1385,7 @@
         "record": "1-2"
       },
       "line": "CHI -3.5",
-      "overUnder": 42.5,
+      "overUnder": 43.5,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [
@@ -1402,13 +1402,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
+        "text": "Mostly cloudy",
         "tempF": 67,
         "tempC": 19
       },
       "moneyline": {
-        "away": "-130",
-        "home": "+110"
+        "away": "-142",
+        "home": "+120"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1447,8 +1447,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
         "away": "-162",
@@ -1495,8 +1495,8 @@
         "tempC": 31
       },
       "moneyline": {
-        "away": "-185",
-        "home": "+154"
+        "away": "-180",
+        "home": "+150"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1517,7 +1517,7 @@
         "record": "1-2"
       },
       "line": "GB -3.5",
-      "overUnder": 39.5,
+      "overUnder": 38.5,
       "venue": "Raymond James Stadium",
       "city": "Tampa",
       "tv": [
@@ -1535,12 +1535,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "+500",
-        "home": "-700"
+        "away": "+490",
+        "home": "-675"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1561,7 +1561,7 @@
         "record": "0-3"
       },
       "line": "BAL -11.5",
-      "overUnder": 43.5,
+      "overUnder": 42.5,
       "venue": "M&T Bank Stadium",
       "city": "Baltimore",
       "tv": [
@@ -1583,8 +1583,8 @@
         "tempC": 26
       },
       "moneyline": {
-        "away": "+120",
-        "home": "-142"
+        "away": "+136",
+        "home": "-162"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1604,7 +1604,7 @@
         "winner": null,
         "record": "1-2"
       },
-      "line": "HOU -2.5",
+      "line": "HOU -3",
       "overUnder": 48.5,
       "venue": "Reliant Stadium",
       "city": "Houston",
@@ -1627,8 +1627,8 @@
         "tempC": 17
       },
       "moneyline": {
-        "away": "+455",
-        "home": "-625"
+        "away": "+440",
+        "home": "-600"
       },
       "detail": "10/4 - 4:05 PM EDT",
       "final": false,
@@ -1671,8 +1671,8 @@
         "tempC": 33
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-218",
+        "home": "+180"
       },
       "detail": "10/4 - 4:25 PM EDT",
       "final": false,
@@ -1711,7 +1711,7 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 87,
+        "tempF": 88,
         "tempC": 31
       },
       "moneyline": {
@@ -1755,8 +1755,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
         "away": "+300",
@@ -1798,13 +1798,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Rain",
         "tempF": 65,
         "tempC": 18
       },
       "moneyline": {
-        "away": "-185",
-        "home": "+154"
+        "away": "-180",
+        "home": "+150"
       },
       "detail": "10/4 - 8:20 PM EDT",
       "final": false,
@@ -1843,8 +1843,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 79,
-        "tempC": 26
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
         "away": "+124",
