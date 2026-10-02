@@ -47,19 +47,10 @@
     "401872960",
     "401872961",
     "401872962",
-    "401872963"
+    "401872963",
+    "401872964"
   ],
   "briefing": {
-    "league": {
-      "lines": [
-        ">Steelers at Browns kicks off Week 4 on Friday 8:15 am Perth, PIT -2.5, total 38.5. Two 2-1 AFC North sides, and Cleveland is on a W2 after edging Carolina 21-18.",
-        "Chiefs at Raiders is the marquee 3-0 vs 3-0, Monday 4:25 am Perth, KC -4.5, total 47.5. Vegas just put up 35 at New Orleans.",
-        "Bills are 3-0 after 24-16 over the Chargers, who fell to 0-3. Buffalo hosts New England at -7, total 48.5.",
-        "Baltimore beat Dallas 34-31 in Rio and is a 11.5-point home favourite over 0-3 Tennessee, total 43.5.",
-        "Chicago hammered Philadelphia 27-7 on Monday night in Perth time, Case Keenum 24/34, 247 yds, 2 TD. Bears host the Jets at -3.5.",
-        "Colts and Commanders play the London game, Sunday 9:30 pm Perth, IND -3.5, total 47.5. Both sit 1-2."
-      ]
-    },
     "pregame": null,
     "pregame_for": "401872969",
     "postgame": {
@@ -72,8 +63,18 @@
       "division_meaning": "Everyone is 2-1. Cincinnati sits third on tiebreak order despite the best point differential at +17, ahead of BAL +14, PIT -7, CLE -17. Only Cincinnati is on a losing streak.",
       "the_take": "Burrow gave you three touchdowns and zero picks and it still went sideways. Two fumbles lost and 138 rushing yards allowed is the whole story. Ben Baby's headline said it: miscues proved costly."
     },
-    "postgame_for": "401872950"
+    "postgame_for": "401872950",
+    "league": {
+      "lines": [
+        "Browns 27, Steelers 24 on Thursday. Cleveland is 3-1 and alone on top of the North. Pittsburgh drops to 2-2 after Rodgers went 22/40, 299 yds, 3 TD, 2 INT.",
+        "Ravens host the winless Titans at 1:00 am Monday Perth time, laying BAL -11.5 with a 42.5 total. A tidy spot for Baltimore to sit 3-1.",
+        "Undefeated meeting in Vegas: Chiefs at Raiders, both 3-0, KC -4.5 and 47.5, 4:25 am Monday. Raiders are coming off 35-27 in New Orleans.",
+        "Denver at San Francisco, 4:25 am Monday. Both won in Week 3, SF -3 and 47.5. The 49ers are 3-0 after 36-30 over Arizona.",
+        "Colts and Commanders open Week 4 in London, 9:30 pm Sunday Perth, IND -3.5 with a 48.5 total. Washington just outscored Seattle 33-31.",
+        "Rams at Eagles with LAR -3.5 and a 42.5 total. Philadelphia is coming off a 27-7 loss in Chicago."
+      ]
+    }
   },
-  "written_at": "2026-09-29T05:12:29.412Z",
+  "written_at": "2026-10-02T05:01:58.186Z",
   "last_error": null
 }

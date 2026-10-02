@@ -1,5 +1,5 @@
 {
-  "now_perth": "Fri, 2 Oct, 2:17 am",
+  "now_perth": "Fri, 2 Oct, 1:01 pm",
   "bengals_next": {
     "id": "401872969",
     "week": 4,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": {
       "text": "Mostly sunny",
-      "tempF": 66,
-      "tempC": 19
+      "tempF": 68,
+      "tempC": 20
     },
     "moneyline": {
       "away": "+120",
@@ -106,13 +106,13 @@
     "name": "AFC North",
     "rows": [
       {
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers",
-        "wins": "2",
+        "abbr": "CLE",
+        "name": "Cleveland Browns",
+        "wins": "3",
         "losses": "1",
         "ties": "0",
-        "streak": "W1",
-        "diff": "-7"
+        "streak": "W3",
+        "diff": "-14"
       },
       {
         "abbr": "BAL",
@@ -124,15 +124,6 @@
         "diff": "+14"
       },
       {
-        "abbr": "CLE",
-        "name": "Cleveland Browns",
-        "wins": "2",
-        "losses": "1",
-        "ties": "0",
-        "streak": "W2",
-        "diff": "-17"
-      },
-      {
         "abbr": "CIN",
         "name": "Cincinnati Bengals",
         "wins": "2",
@@ -140,6 +131,15 @@
         "ties": "0",
         "streak": "L1",
         "diff": "+17"
+      },
+      {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers",
+        "wins": "2",
+        "losses": "2",
+        "ties": "0",
+        "streak": "L1",
+        "diff": "-10"
       }
     ]
   },
@@ -281,6 +281,18 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
+      "published": "2026-10-01T23:54:43Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms"
+    },
+    {
+      "headline": "Burrow seeks to stay unbeaten vs Lawrence as Bengals host Jaguars in matchup of 2-1 teams",
+      "summary": "Joe Burrow has gotten the better of Trevor Lawrence whenever their teams have met.",
+      "published": "2026-10-01T22:53:30Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872969"
+    },
+    {
       "headline": "Joe Burrow eyes momentum boost against Jaguars",
       "summary": "Ben Baby breaks down Cincinnati's chance to rebound at home as Joe Burrow prepares for Jacksonville.",
       "published": "2026-10-01T06:03:29Z",
@@ -315,26 +327,26 @@
       "summary": "How do all 32 NFL teams stack up through three weeks? Plus, we picked out each team's biggest fantasy surprise -- good or bad.",
       "published": "2026-09-29T15:18:28Z",
       "url": "https://www.espn.com/nfl/story/_/id/50052289/nfl-power-rankings-week-4-teams-fantasy-surprises"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-09-29T11:06:05Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "Stephen A.: Bengals defense is still a problem",
-      "summary": "Stephen A.: Bengals defense is still a problem",
-      "published": "2026-09-28T15:04:02Z",
-      "url": "https://www.espn.com/video/clip/_/id/50052198/bengals-defense-problem"
     }
   ],
   "news_opponent": [
     {
       "headline": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
       "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
-      "published": "2026-10-01T13:39:33Z",
+      "published": "2026-10-01T23:54:43Z",
       "url": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms"
+    },
+    {
+      "headline": "Burrow seeks to stay unbeaten vs Lawrence as Bengals host Jaguars in matchup of 2-1 teams",
+      "summary": "Joe Burrow has gotten the better of Trevor Lawrence whenever their teams have met.",
+      "published": "2026-10-01T22:53:30Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872969"
+    },
+    {
+      "headline": "Jaguars will take 'goldfish mentality' in defending Ja'Marr Chase",
+      "summary": "Michael DiRocco details Liam Coen's approach to slowing down Bengals star WR Ja'Marr Chase.",
+      "published": "2026-10-01T21:40:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/50079538/jaguars-take-goldfish-mentality-defending-jamarr-chase"
     },
     {
       "headline": "Jaguars playing cleaner football in Year 2 under Coen",
@@ -365,18 +377,6 @@
       "summary": "Bowers will go off under Klint Kubiak? The Rams need another pass catcher? Steelers-Browns will be fun? And Lamar Jackson for MVP? Get ready for Week 4 with some takes.",
       "published": "2026-09-29T13:33:07Z",
       "url": "https://www.espn.com/nfl/story/_/id/50054740/week-4-seven-things-solak-thinks-lamar-mvp-bills-rams-trade"
-    },
-    {
-      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 4",
-      "summary": "How do all 32 NFL teams stack up through three weeks? Plus, we picked out each team's biggest fantasy surprise -- good or bad.",
-      "published": "2026-09-29T15:18:28Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50052289/nfl-power-rankings-week-4-teams-fantasy-surprises"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-09-29T11:06:05Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
     }
   ],
   "league_week": 4,
@@ -1227,43 +1227,55 @@
       "week": 4,
       "kickoff": "2026-10-02T00:15Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Cloudy",
-        "tempF": 79,
-        "tempC": 26
-      },
-      "moneyline": {
-        "away": "-148",
-        "home": "+124"
-      },
-      "detail": "10/1 - 8:15 PM EDT",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "5",
         "abbr": "CLE",
         "name": "Cleveland Browns",
-        "score": null,
-        "winner": null,
-        "record": "2-1"
+        "score": 27,
+        "winner": true,
+        "record": "3-1"
       },
       "away": {
         "id": "23",
         "abbr": "PIT",
         "name": "Pittsburgh Steelers",
-        "score": null,
-        "winner": null,
-        "record": "2-1"
+        "score": 24,
+        "winner": false,
+        "record": "2-2"
       },
-      "line": "PIT -2.5",
-      "overUnder": 38.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Huntington Bank Field",
       "city": "Cleveland",
       "tv": [
         "Prime Video"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "22/40, 299 YDS, 3 TD, 2 INT",
+          "player": "Aaron Rodgers",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "17 CAR, 93 YDS",
+          "player": "Jaylen Warren",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "5 REC, 115 YDS",
+          "player": "DK Metcalf",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Fri, 2 Oct, 8:15 am"
     },
     {
@@ -1297,7 +1309,7 @@
         "record": "1-2"
       },
       "line": "IND -3.5",
-      "overUnder": 47.5,
+      "overUnder": 48.5,
       "venue": "Tottenham Hotspur Stadium",
       "city": "London",
       "tv": [
@@ -1319,8 +1331,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "+235",
-        "home": "-290"
+        "away": "+240",
+        "home": "-298"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1340,7 +1352,7 @@
         "winner": null,
         "record": "1-2"
       },
-      "line": "BUF -6.5",
+      "line": "BUF -7",
       "overUnder": 48.5,
       "venue": "Highmark Stadium",
       "city": "Orchard Park",
@@ -1403,12 +1415,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 66,
-        "tempC": 19
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "-135",
-        "home": "+114"
+        "away": "-142",
+        "home": "+120"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1451,8 +1463,8 @@
         "tempC": 17
       },
       "moneyline": {
-        "away": "-162",
-        "home": "+136"
+        "away": "-185",
+        "home": "+154"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1472,8 +1484,8 @@
         "winner": null,
         "record": "1-2"
       },
-      "line": "LAR -3",
-      "overUnder": 43.5,
+      "line": "LAR -3.5",
+      "overUnder": 42.5,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "tv": [
@@ -1491,7 +1503,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 87,
+        "tempF": 88,
         "tempC": 31
       },
       "moneyline": {
@@ -1539,8 +1551,8 @@
         "tempC": 17
       },
       "moneyline": {
-        "away": "+500",
-        "home": "-700"
+        "away": "+470",
+        "home": "-650"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1579,7 +1591,7 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 78,
+        "tempF": 79,
         "tempC": 26
       },
       "moneyline": {
@@ -1623,12 +1635,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+440",
-        "home": "-600"
+        "away": "+455",
+        "home": "-625"
       },
       "detail": "10/4 - 4:05 PM EDT",
       "final": false,
@@ -1667,8 +1679,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 92,
-        "tempC": 33
+        "tempF": 93,
+        "tempC": 34
       },
       "moneyline": {
         "away": "-218",
@@ -1755,12 +1767,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 67,
+        "tempF": 66,
         "tempC": 19
       },
       "moneyline": {
-        "away": "+300",
-        "home": "-380"
+        "away": "+295",
+        "home": "-375"
       },
       "detail": "10/4 - 4:25 PM EDT",
       "final": false,
@@ -1799,12 +1811,12 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 65,
-        "tempC": 18
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "-180",
-        "home": "+150"
+        "away": "-185",
+        "home": "+154"
       },
       "detail": "10/4 - 8:20 PM EDT",
       "final": false,
@@ -1825,7 +1837,7 @@
         "record": "2-1"
       },
       "line": "DET -3.5",
-      "overUnder": 51.5,
+      "overUnder": 50.5,
       "venue": "Bank of America Stadium",
       "city": "Charlotte",
       "tv": [
@@ -1847,8 +1859,8 @@
         "tempC": 27
       },
       "moneyline": {
-        "away": "+124",
-        "home": "-148"
+        "away": "+120",
+        "home": "-142"
       },
       "detail": "10/5 - 8:15 PM EDT",
       "final": false,
