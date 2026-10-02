@@ -1,5 +1,5 @@
 {
-  "now_perth": "Fri, 2 Oct, 1:01 pm",
+  "now_perth": "Sat, 3 Oct, 1:42 am",
   "bengals_next": {
     "id": "401872969",
     "week": 4,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": {
       "text": "Mostly sunny",
-      "tempF": 68,
-      "tempC": 20
+      "tempF": 69,
+      "tempC": 21
     },
     "moneyline": {
       "away": "+120",
@@ -100,7 +100,7 @@
     ],
     "kickoff_perth": "Mon, 28 Sept, 1:00 am"
   },
-  "write_pregame": false,
+  "write_pregame": true,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -281,6 +281,36 @@
   },
   "news_bengals": [
     {
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "published": "2026-10-02T13:54:32Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
+    },
+    {
+      "headline": "Make pass interference reviewable? 17 NFL coaches are split",
+      "summary": "It's been tried once before and some coaches want to bring it back, but others want to keep status quo.",
+      "published": "2026-10-02T13:47:07Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50078705/pass-interference-review-rams-broncos"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-02T10:51:10Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
+      "headline": "NFL Week 4 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "summary": "Trevor Lawrence vs. Joe Burrow? New England looking to bounce back? There are 15 more games in Week 4, and we have picks, predictions and more for all of them.",
+      "published": "2026-10-02T16:31:35Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50067784/week-4-picks-predictions-schedule-fantasy-odds-2026"
+    },
+    {
+      "headline": "NFL Week 4 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
+      "published": "2026-10-02T04:50:48Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals"
+    },
+    {
       "headline": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
       "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
       "published": "2026-10-01T23:54:43Z",
@@ -297,86 +327,56 @@
       "summary": "Ben Baby breaks down Cincinnati's chance to rebound at home as Joe Burrow prepares for Jacksonville.",
       "published": "2026-10-01T06:03:29Z",
       "url": "https://www.espn.com/video/clip/_/id/50074823/joe-burrow-eyes-momentum-boost-jaguars"
+    }
+  ],
+  "news_opponent": [
+    {
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "published": "2026-10-02T13:54:32Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     },
     {
-      "headline": "Would NFL players take a test to diagnose CTE in the living?",
-      "summary": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
-      "published": "2026-09-30T18:47:42Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49941739/would-nfl-players-take-test-diagnose-cte-living"
+      "headline": "2026 NFL trade deadline early look: Candidates to move, key teams, predictions",
+      "summary": "Could the Cardinals listen on Marvin Harrison Jr. or Josh Sweat? Will the Bears or Raiders be active? Here's our way-too-early preview of the Nov. 10 trade deadline.",
+      "published": "2026-10-02T15:36:04Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50077145/2026-trade-deadline-early-look-players-teams-predictions"
     },
     {
-      "headline": "Here's why NFL players risk CTE despite knowing the dangers",
-      "summary": "We asked over 30 NFL players about CTE concerns, and their answers ranged from fear to resignation.",
-      "published": "2026-09-30T18:49:10Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49940451/how-nfl-players-cope-cte-risks"
+      "headline": "Make pass interference reviewable? 17 NFL coaches are split",
+      "summary": "It's been tried once before and some coaches want to bring it back, but others want to keep status quo.",
+      "published": "2026-10-02T13:47:07Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50078705/pass-interference-review-rams-broncos"
+    },
+    {
+      "headline": "Is Brian Thomas Jr.'s playing time being impacted by an emerging Jaguars rookie?",
+      "summary": "Thomas was targeted just once in Week 3. Will he rebound against the Bengals, or will other Jaguars pass catchers get all the work?",
+      "published": "2026-10-02T10:00:12Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50079470/jaguars-wr-brian-thomas-jr-josh-cameron"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-02T10:51:10Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
+      "headline": "NFL Week 4 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "summary": "Trevor Lawrence vs. Joe Burrow? New England looking to bounce back? There are 15 more games in Week 4, and we have picks, predictions and more for all of them.",
+      "published": "2026-10-02T15:13:38Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50067784/week-4-picks-predictions-schedule-fantasy-odds-2026"
     },
     {
       "headline": "NFL Week 4 betting: Odds, lines and totals for every game",
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
-      "published": "2026-09-30T15:37:09Z",
+      "published": "2026-10-02T04:50:48Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals"
     },
-    {
-      "headline": "Bengals cut WR Ke'Shawn Williams after costly muffed punt",
-      "summary": "The Cincinnati Bengals cut WR Ke'Shawn Williams after he muffed a punt that eventually led to the Pittsburgh Steelers' 30-27 win. On Tuesday, Cincinnati signed WR Mitch Tinsley.",
-      "published": "2026-09-29T19:26:23Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50059809/source-bengals-cut-keshawn-williams-costly-muffed-punt"
-    },
-    {
-      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 4",
-      "summary": "How do all 32 NFL teams stack up through three weeks? Plus, we picked out each team's biggest fantasy surprise -- good or bad.",
-      "published": "2026-09-29T15:18:28Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50052289/nfl-power-rankings-week-4-teams-fantasy-surprises"
-    }
-  ],
-  "news_opponent": [
     {
       "headline": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
       "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
       "published": "2026-10-01T23:54:43Z",
       "url": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms"
-    },
-    {
-      "headline": "Burrow seeks to stay unbeaten vs Lawrence as Bengals host Jaguars in matchup of 2-1 teams",
-      "summary": "Joe Burrow has gotten the better of Trevor Lawrence whenever their teams have met.",
-      "published": "2026-10-01T22:53:30Z",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872969"
-    },
-    {
-      "headline": "Jaguars will take 'goldfish mentality' in defending Ja'Marr Chase",
-      "summary": "Michael DiRocco details Liam Coen's approach to slowing down Bengals star WR Ja'Marr Chase.",
-      "published": "2026-10-01T21:40:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/50079538/jaguars-take-goldfish-mentality-defending-jamarr-chase"
-    },
-    {
-      "headline": "Jaguars playing cleaner football in Year 2 under Coen",
-      "summary": "Michael DiRocco breaks down how the Jaguars have dramatically reduced their penalties this season.",
-      "published": "2026-09-30T23:16:08Z",
-      "url": "https://www.espn.com/video/clip/_/id/50072157/jaguars-playing-cleaner-football-year-2-coen"
-    },
-    {
-      "headline": "Would NFL players take a test to diagnose CTE in the living?",
-      "summary": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
-      "published": "2026-09-30T18:47:42Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49941739/would-nfl-players-take-test-diagnose-cte-living"
-    },
-    {
-      "headline": "Here's why NFL players risk CTE despite knowing the dangers",
-      "summary": "We asked over 30 NFL players about CTE concerns, and their answers ranged from fear to resignation.",
-      "published": "2026-09-30T18:49:10Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49940451/how-nfl-players-cope-cte-risks"
-    },
-    {
-      "headline": "NFL Week 4 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
-      "published": "2026-09-30T15:37:09Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals"
-    },
-    {
-      "headline": "Seven things Solak thinks entering NFL Week 4",
-      "summary": "Bowers will go off under Klint Kubiak? The Rams need another pass catcher? Steelers-Browns will be fun? And Lamar Jackson for MVP? Get ready for Week 4 with some takes.",
-      "published": "2026-09-29T13:33:07Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50054740/week-4-seven-things-solak-thinks-lamar-mvp-bills-rams-trade"
     }
   ],
   "league_week": 4,
@@ -1287,8 +1287,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "-192",
-        "home": "+160"
+        "away": "-198",
+        "home": "+164"
       },
       "detail": "10/4 - 9:30 AM EDT",
       "final": false,
@@ -1309,7 +1309,7 @@
         "record": "1-2"
       },
       "line": "IND -3.5",
-      "overUnder": 48.5,
+      "overUnder": 47.5,
       "venue": "Tottenham Hotspur Stadium",
       "city": "London",
       "tv": [
@@ -1353,7 +1353,7 @@
         "record": "1-2"
       },
       "line": "BUF -7",
-      "overUnder": 48.5,
+      "overUnder": 49.5,
       "venue": "Highmark Stadium",
       "city": "Orchard Park",
       "tv": [
@@ -1375,8 +1375,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "+145",
-        "home": "-175"
+        "away": "+154",
+        "home": "-185"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1415,8 +1415,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 65,
-        "tempC": 18
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
         "away": "-142",
@@ -1458,9 +1458,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 63,
-        "tempC": 17
+        "text": "Cloudy",
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
         "away": "-185",
@@ -1503,7 +1503,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 88,
+        "tempF": 87,
         "tempC": 31
       },
       "moneyline": {
@@ -1529,7 +1529,7 @@
         "record": "1-2"
       },
       "line": "GB -3.5",
-      "overUnder": 38.5,
+      "overUnder": 39.5,
       "venue": "Raymond James Stadium",
       "city": "Tampa",
       "tv": [
@@ -1546,13 +1546,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 62,
+        "text": "Rain",
+        "tempF": 63,
         "tempC": 17
       },
       "moneyline": {
-        "away": "+470",
-        "home": "-650"
+        "away": "+490",
+        "home": "-675"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1591,8 +1591,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 79,
-        "tempC": 26
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
         "away": "+136",
@@ -1634,7 +1634,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
+        "text": "Mostly sunny",
         "tempF": 65,
         "tempC": 18
       },
@@ -1679,8 +1679,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 93,
-        "tempC": 34
+        "tempF": 92,
+        "tempC": 33
       },
       "moneyline": {
         "away": "-218",
@@ -1810,9 +1810,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
-        "tempF": 66,
-        "tempC": 19
+        "text": "Cloudy",
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
         "away": "-185",
@@ -1854,9 +1854,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Thunderstorms",
-        "tempF": 80,
-        "tempC": 27
+        "text": "Cloudy",
+        "tempF": 79,
+        "tempC": 26
       },
       "moneyline": {
         "away": "+120",
