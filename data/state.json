@@ -51,6 +51,16 @@
     "401872964"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Cleveland 27, Pittsburgh 24 on Friday morning Perth time puts the Browns at 3-1 and the Steelers at 2-2. Rodgers threw 3 TD and 2 INT, DK Metcalf had 5 for 115.",
+        "Chiefs at Raiders, Mon 5 Oct 4:25 am Perth, both 3-0, Kansas City -4.5 with a 47.5 total. Best game on the board.",
+        "Colts and Commanders open Week 4 in London, Sun 4 Oct 9:30 pm Perth, IND -3.5, total 47.5.",
+        "Denver at San Francisco, Mon 5 Oct 4:25 am Perth. The 3-0 Niners are only 3-point favourites after escaping Arizona 36-30.",
+        "Buffalo is 3-0 and laying 7 to New England at home, total 49.5. Baltimore is -11.5 against winless Tennessee.",
+        "Minnesota, also 3-0, is -10.5 against 0-3 Miami with a 38.5 total, the lowest number of the week."
+      ]
+    },
     "pregame": {
       "matchup_read": "Two 2-1 teams at Paycor, Mon 5 Oct 1:00 am Perth, CBS. Cincinnati is a 2.5-point home favourite with a 51.5 total. Mostly sunny, 21C, so no weather excuse for either passing game.",
       "storylines": [
@@ -77,17 +87,7 @@
       "division_meaning": "Everyone is 2-1. Cincinnati sits third on tiebreak order despite the best point differential at +17, ahead of BAL +14, PIT -7, CLE -17. Only Cincinnati is on a losing streak.",
       "the_take": "Burrow gave you three touchdowns and zero picks and it still went sideways. Two fumbles lost and 138 rushing yards allowed is the whole story. Ben Baby's headline said it: miscues proved costly."
     },
-    "postgame_for": "401872950",
-    "league": {
-      "lines": [
-        "Cleveland 27, Pittsburgh 24 on Friday morning Perth time puts the Browns at 3-1 and the Steelers at 2-2. Rodgers threw 3 TD and 2 INT, DK Metcalf had 5 for 115.",
-        "Chiefs at Raiders, Mon 5 Oct 4:25 am Perth, both 3-0, Kansas City -4.5 with a 47.5 total. Best game on the board.",
-        "Colts and Commanders open Week 4 in London, Sun 4 Oct 9:30 pm Perth, IND -3.5, total 47.5.",
-        "Denver at San Francisco, Mon 5 Oct 4:25 am Perth. The 3-0 Niners are only 3-point favourites after escaping Arizona 36-30.",
-        "Buffalo is 3-0 and laying 7 to New England at home, total 49.5. Baltimore is -11.5 against winless Tennessee.",
-        "Minnesota, also 3-0, is -10.5 against 0-3 Miami with a 38.5 total, the lowest number of the week."
-      ]
-    }
+    "postgame_for": "401872950"
   },
   "written_at": "2026-10-02T17:42:41.609Z",
   "last_error": null

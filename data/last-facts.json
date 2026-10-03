@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 3 Oct, 1:42 am",
+  "now_perth": "Sat, 3 Oct, 12:45 pm",
   "bengals_next": {
     "id": "401872969",
     "week": 4,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": {
       "text": "Mostly sunny",
-      "tempF": 69,
-      "tempC": 21
+      "tempF": 68,
+      "tempC": 20
     },
     "moneyline": {
       "away": "+120",
@@ -100,7 +100,7 @@
     ],
     "kickoff_perth": "Mon, 28 Sept, 1:00 am"
   },
-  "write_pregame": true,
+  "write_pregame": false,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -331,6 +331,18 @@
   ],
   "news_opponent": [
     {
+      "headline": "Liam Coen: Travis Hunter cares only about winning",
+      "summary": "Liam Coen: Travis Hunter cares only about winning",
+      "published": "2026-10-02T17:38:15Z",
+      "url": "https://www.espn.com/video/clip/_/id/50085593/travis-hunter-cares-only-winning"
+    },
+    {
+      "headline": "Jaguars' Coen: Hunter cares only about winning, not 'other stuff'",
+      "summary": "How much Jaguars cornerback/receiver Travis Hunter is playing on defense and offense may be a subject of discussion among fans and analysts, but it definitely isn't inside the building.",
+      "published": "2026-10-02T17:38:32Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50085321/jaguars-coen-hunter-only-cares-winning-not-other-stuff"
+    },
+    {
       "headline": "How active NFL players continue to redefine all-time sack list",
       "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
       "published": "2026-10-02T13:54:32Z",
@@ -363,20 +375,8 @@
     {
       "headline": "NFL Week 4 preview: Picks, predictions, schedule, betting odds, fantasy tips",
       "summary": "Trevor Lawrence vs. Joe Burrow? New England looking to bounce back? There are 15 more games in Week 4, and we have picks, predictions and more for all of them.",
-      "published": "2026-10-02T15:13:38Z",
+      "published": "2026-10-02T16:31:35Z",
       "url": "https://www.espn.com/nfl/story/_/id/50067784/week-4-picks-predictions-schedule-fantasy-odds-2026"
-    },
-    {
-      "headline": "NFL Week 4 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
-      "published": "2026-10-02T04:50:48Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals"
-    },
-    {
-      "headline": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
-      "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
-      "published": "2026-10-01T23:54:43Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms"
     }
   ],
   "league_week": 4,
@@ -1287,8 +1287,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "-198",
-        "home": "+164"
+        "away": "-205",
+        "home": "+170"
       },
       "detail": "10/4 - 9:30 AM EDT",
       "final": false,
@@ -1308,7 +1308,7 @@
         "winner": null,
         "record": "1-2"
       },
-      "line": "IND -3.5",
+      "line": "IND -4.5",
       "overUnder": 47.5,
       "venue": "Tottenham Hotspur Stadium",
       "city": "London",
@@ -1331,8 +1331,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "+240",
-        "home": "-298"
+        "away": "+245",
+        "home": "-305"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1415,8 +1415,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 66,
-        "tempC": 19
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
         "away": "-142",
@@ -1503,12 +1503,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 87,
+        "tempF": 88,
         "tempC": 31
       },
       "moneyline": {
-        "away": "-185",
-        "home": "+154"
+        "away": "-175",
+        "home": "+145"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1528,7 +1528,7 @@
         "winner": null,
         "record": "1-2"
       },
-      "line": "GB -3.5",
+      "line": "GB -3",
       "overUnder": 39.5,
       "venue": "Raymond James Stadium",
       "city": "Tampa",
@@ -1635,12 +1635,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 65,
+        "tempF": 64,
         "tempC": 18
       },
       "moneyline": {
-        "away": "+455",
-        "home": "-625"
+        "away": "+410",
+        "home": "-550"
       },
       "detail": "10/4 - 4:05 PM EDT",
       "final": false,
@@ -1660,7 +1660,7 @@
         "winner": null,
         "record": "0-3"
       },
-      "line": "MIN -10.5",
+      "line": "MIN -10",
       "overUnder": 38.5,
       "venue": "U.S. Bank Stadium",
       "city": "Minneapolis",
@@ -1679,8 +1679,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 92,
-        "tempC": 33
+        "tempF": 93,
+        "tempC": 34
       },
       "moneyline": {
         "away": "-218",
@@ -1723,8 +1723,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 90,
-        "tempC": 32
+        "tempF": 91,
+        "tempC": 33
       },
       "moneyline": {
         "away": "+124",
@@ -1767,7 +1767,7 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 66,
+        "tempF": 67,
         "tempC": 19
       },
       "moneyline": {
@@ -1811,8 +1811,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
         "away": "-185",
@@ -1855,12 +1855,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 79,
-        "tempC": 26
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
-        "away": "+120",
-        "home": "-142"
+        "away": "+114",
+        "home": "-135"
       },
       "detail": "10/5 - 8:15 PM EDT",
       "final": false,
