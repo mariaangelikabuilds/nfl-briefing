@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 3 Oct, 12:45 pm",
+  "now_perth": "Sun, 4 Oct, 12:01 am",
   "bengals_next": {
     "id": "401872969",
     "week": 4,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": {
       "text": "Mostly sunny",
-      "tempF": 68,
-      "tempC": 20
+      "tempF": 69,
+      "tempC": 21
     },
     "moneyline": {
       "away": "+120",
@@ -281,6 +281,12 @@
   },
   "news_bengals": [
     {
+      "headline": "All-time rosters for 23 teams with multiple Super Bowls",
+      "summary": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
+      "published": "2026-10-03T10:00:17Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50051837/nfl-super-bowl-all-teams-hall-fame"
+    },
+    {
       "headline": "How active NFL players continue to redefine all-time sack list",
       "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
       "published": "2026-10-02T13:54:32Z",
@@ -321,19 +327,13 @@
       "summary": "Joe Burrow has gotten the better of Trevor Lawrence whenever their teams have met.",
       "published": "2026-10-01T22:53:30Z",
       "url": "http://www.espn.com/nfl/preview?gameId=401872969"
-    },
-    {
-      "headline": "Joe Burrow eyes momentum boost against Jaguars",
-      "summary": "Ben Baby breaks down Cincinnati's chance to rebound at home as Joe Burrow prepares for Jacksonville.",
-      "published": "2026-10-01T06:03:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/50074823/joe-burrow-eyes-momentum-boost-jaguars"
     }
   ],
   "news_opponent": [
     {
       "headline": "Liam Coen: Travis Hunter cares only about winning",
       "summary": "Liam Coen: Travis Hunter cares only about winning",
-      "published": "2026-10-02T17:38:15Z",
+      "published": "2026-10-03T13:28:56Z",
       "url": "https://www.espn.com/video/clip/_/id/50085593/travis-hunter-cares-only-winning"
     },
     {
@@ -1309,7 +1309,7 @@
         "record": "1-2"
       },
       "line": "IND -4.5",
-      "overUnder": 47.5,
+      "overUnder": 46.5,
       "venue": "Tottenham Hotspur Stadium",
       "city": "London",
       "tv": [
@@ -1327,12 +1327,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 66,
+        "tempF": 67,
         "tempC": 19
       },
       "moneyline": {
-        "away": "+245",
-        "home": "-305"
+        "away": "+250",
+        "home": "-310"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1415,8 +1415,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 62,
+        "tempC": 17
       },
       "moneyline": {
         "away": "-142",
@@ -1507,8 +1507,8 @@
         "tempC": 31
       },
       "moneyline": {
-        "away": "-175",
-        "home": "+145"
+        "away": "-170",
+        "home": "+142"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1546,13 +1546,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
+        "text": "Cloudy",
         "tempF": 63,
         "tempC": 17
       },
       "moneyline": {
-        "away": "+490",
-        "home": "-675"
+        "away": "+470",
+        "home": "-650"
       },
       "detail": "10/4 - 1:00 PM EDT",
       "final": false,
@@ -1635,12 +1635,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 64,
+        "tempF": 65,
         "tempC": 18
       },
       "moneyline": {
-        "away": "+410",
-        "home": "-550"
+        "away": "+400",
+        "home": "-535"
       },
       "detail": "10/4 - 4:05 PM EDT",
       "final": false,
@@ -1683,8 +1683,8 @@
         "tempC": 34
       },
       "moneyline": {
-        "away": "-218",
-        "home": "+180"
+        "away": "-225",
+        "home": "+185"
       },
       "detail": "10/4 - 4:25 PM EDT",
       "final": false,
@@ -1722,7 +1722,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
+        "text": "Sunny",
         "tempF": 91,
         "tempC": 33
       },
@@ -1766,7 +1766,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
+        "text": "Partly sunny",
         "tempF": 67,
         "tempC": 19
       },
@@ -1810,13 +1810,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Rain",
         "tempF": 67,
         "tempC": 19
       },
       "moneyline": {
-        "away": "-185",
-        "home": "+154"
+        "away": "-180",
+        "home": "+150"
       },
       "detail": "10/4 - 8:20 PM EDT",
       "final": false,
@@ -1854,9 +1854,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 80,
-        "tempC": 27
+        "text": "Intermittent clouds",
+        "tempF": 79,
+        "tempC": 26
       },
       "moneyline": {
         "away": "+114",
