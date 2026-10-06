@@ -1,5 +1,5 @@
 {
-  "now_perth": "Tue, 6 Oct, 1:48 pm",
+  "now_perth": "Wed, 7 Oct, 2:10 am",
   "bengals_next": {
     "id": "401872982",
     "week": 5,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": {
       "text": "Mostly cloudy",
-      "tempF": 89,
-      "tempC": 32
+      "tempF": 88,
+      "tempC": 31
     },
     "moneyline": {
       "away": "-345",
@@ -281,6 +281,36 @@
   },
   "news_bengals": [
     {
+      "headline": "Fantasy football D/ST outlook for Weeks 5-8: Jaguars a solid option in October",
+      "summary": "Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.",
+      "published": "2026-10-06T17:04:36Z",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/50117199/fantasy-football-defense-special-teams-streaming-week-5"
+    },
+    {
+      "headline": "Stephen A. puzzled why Zac Taylor not under more scrutiny for Bengals' woes",
+      "summary": "Stephen A. puzzled why Zac Taylor not under more scrutiny for Bengals' woes ",
+      "published": "2026-10-06T14:57:20Z",
+      "url": "https://www.espn.com/video/clip/_/id/50117068/stephen-puzzled-why-zac-taylor-not-more-scrutiny-bengals-woes"
+    },
+    {
+      "headline": "Seven things Solak thinks entering NFL Week 5: Jaguars are the AFC's best, more",
+      "summary": "Has Jacksonville climbed to the top of its conference? Get ready for Week 5 with takes on the Jaguars, Bengals, Rams, Bears, Texans, Eagles and Lions.",
+      "published": "2026-10-06T15:05:52Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50110488/week-5-seven-things-solak-thinks-afc-nfc"
+    },
+    {
+      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 5",
+      "summary": "How does every NFL team stack up heading into Week 5? We made our 1-32 list and sized up each franchise's performance so far.",
+      "published": "2026-10-06T15:49:59Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50109845/nfl-power-rankings-week-5-teams-first-month-recap"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-06T15:11:06Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
       "headline": "Atlanta's jabs at New Orleans after MNF top Week 4 trolls",
       "summary": "The calendar shifted to October, and the trolls are becoming a little more impactful, led by the Atlanta Falcons.",
       "published": "2026-10-06T04:16:25Z",
@@ -297,39 +327,27 @@
       "summary": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
       "published": "2026-10-05T23:50:50Z",
       "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+    }
+  ],
+  "news_opponent": [
+    {
+      "headline": "Fantasy football D/ST outlook for Weeks 5-8: Jaguars a solid option in October",
+      "summary": "Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.",
+      "published": "2026-10-06T17:04:36Z",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/50117199/fantasy-football-defense-special-teams-streaming-week-5"
     },
     {
-      "headline": "Bengals WR Tee Higgins day-to-day with adductor injury, coach says",
-      "summary": "Bengals wide receiver Tee Higgins is considered day-to-day with an adductor issue he suffered toward the end of Sunday's 22-17 loss to the Jacksonville Jaguars.",
-      "published": "2026-10-05T22:42:17Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50111779/bengals-wr-tee-higgins-day-day-adductor-injury-coach-says"
-    },
-    {
-      "headline": "Chris Canty shares frustration with how much blame Joe Burrow deserves",
-      "summary": "Chris Canty shares frustration with how much blame Joe Burrow deserves",
-      "published": "2026-10-05T20:08:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/50109768/chris-canty-shares-frustration-how-much-blame-joe-burrow-deserves"
-    },
-    {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "published": "2026-10-05T14:35:00Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
-    },
-    {
-      "headline": "NFL Week 5 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 5.",
-      "published": "2026-10-05T14:51:54Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50085464/2026-nfl-week-5-schedule-odds-betting-point-spreads-totals"
+      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 5",
+      "summary": "How does every NFL team stack up heading into Week 5? We made our 1-32 list and sized up each franchise's performance so far.",
+      "published": "2026-10-06T15:49:59Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50109845/nfl-power-rankings-week-5-teams-first-month-recap"
     },
     {
       "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
       "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-05T10:00:29Z",
+      "published": "2026-10-06T15:11:06Z",
       "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    }
-  ],
-  "news_opponent": [
+    },
     {
       "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
       "summary": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
@@ -349,12 +367,6 @@
       "url": "https://www.espn.com/espn/betting/story/_/id/50085464/2026-nfl-week-5-schedule-odds-betting-point-spreads-totals"
     },
     {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-05T10:00:29Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
       "headline": "NFL Week 4: Big takeaways, questions and fantasy spin from Sunday's games",
       "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 4.",
       "published": "2026-10-05T05:31:59Z",
@@ -365,18 +377,6 @@
       "summary": "Marcel Louis-Jacques discusses the Dolphins defense playing quality football in loss to the Vikings.",
       "published": "2026-10-05T02:41:33Z",
       "url": "https://www.espn.com/video/clip/_/id/50106881/dolphins-defense-quality-day-loss-vikings"
-    },
-    {
-      "headline": "What are the longest field goals in NFL history?",
-      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "published": "2026-10-05T00:51:42Z",
-      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history"
-    },
-    {
-      "headline": "Who are the winningest NFL coaches of all time?",
-      "summary": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-      "published": "2026-10-05T00:19:39Z",
-      "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins"
     }
   ],
   "league_week": 5,
@@ -1229,13 +1229,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 82,
+        "text": "Mostly sunny",
+        "tempF": 83,
         "tempC": 28
       },
       "moneyline": {
-        "away": "+360",
-        "home": "-470"
+        "away": "+350",
+        "home": "-455"
       },
       "detail": "10/8 - 8:15 PM EDT",
       "final": false,
@@ -1255,7 +1255,7 @@
         "winner": null,
         "record": "0-4"
       },
-      "line": "DAL -9.5",
+      "line": "DAL -8.5",
       "overUnder": 47.5,
       "venue": "AT&T Stadium",
       "city": "Arlington",
@@ -1274,8 +1274,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+235",
-        "home": "-290"
+        "away": "+230",
+        "home": "-285"
       },
       "detail": "10/11 - 9:30 AM EDT",
       "final": false,
@@ -1295,7 +1295,7 @@
         "winner": null,
         "record": "2-2"
       },
-      "line": "JAX -7",
+      "line": "JAX -6.5",
       "overUnder": 42.5,
       "venue": "Tottenham Hotspur Stadium",
       "city": "London",
@@ -1314,12 +1314,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 72,
-        "tempC": 22
+        "tempF": 79,
+        "tempC": 26
       },
       "moneyline": {
-        "away": "-155",
-        "home": "+130"
+        "away": "-148",
+        "home": "+124"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1357,13 +1357,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 73,
+        "text": "Rain",
+        "tempF": 74,
         "tempC": 23
       },
       "moneyline": {
-        "away": "-345",
-        "home": "+275"
+        "away": "-310",
+        "home": "+250"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1383,8 +1383,8 @@
         "winner": null,
         "record": "0-4"
       },
-      "line": "HOU -7",
-      "overUnder": 39.5,
+      "line": "HOU -6.5",
+      "overUnder": 38.5,
       "venue": "Nissan Stadium",
       "city": "Nashville",
       "tv": [
@@ -1401,9 +1401,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 64,
-        "tempC": 18
+        "text": "Intermittent clouds",
+        "tempF": 62,
+        "tempC": 17
       },
       "moneyline": {
         "away": "+160",
@@ -1445,13 +1445,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 81,
-        "tempC": 27
+        "text": "Mostly sunny",
+        "tempF": 82,
+        "tempC": 28
       },
       "moneyline": {
-        "away": "-125",
-        "home": "+105"
+        "away": "-130",
+        "home": "+110"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1489,9 +1489,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 68,
-        "tempC": 20
+        "text": "Partly sunny",
+        "tempF": 70,
+        "tempC": 21
       },
       "moneyline": {
         "away": "+110",
@@ -1534,8 +1534,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 69,
+        "tempC": 21
       },
       "moneyline": {
         "away": "+114",
@@ -1578,8 +1578,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 70,
+        "tempC": 21
       },
       "moneyline": {
         "away": "+140",
@@ -1621,7 +1621,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
+        "text": "Intermittent clouds",
         "tempF": 78,
         "tempC": 26
       },
@@ -1665,13 +1665,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 91,
-        "tempC": 33
+        "text": "Mostly cloudy",
+        "tempF": 88,
+        "tempC": 31
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-218",
+        "home": "+180"
       },
       "detail": "10/11 - 4:25 PM EDT",
       "final": false,
@@ -1710,12 +1710,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 61,
-        "tempC": 16
+        "tempF": 57,
+        "tempC": 14
       },
       "moneyline": {
-        "away": "+124",
-        "home": "-148"
+        "away": "+130",
+        "home": "-155"
       },
       "detail": "10/11 - 4:25 PM EDT",
       "final": false,
@@ -1735,7 +1735,7 @@
         "winner": null,
         "record": "4-0"
       },
-      "line": "SEA -2.5",
+      "line": "SEA -3",
       "overUnder": 47.5,
       "venue": "Lumen Field",
       "city": "Seattle",
@@ -1753,13 +1753,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 66,
-        "tempC": 19
+        "text": "Thunderstorms",
+        "tempF": 72,
+        "tempC": 22
       },
       "moneyline": {
-        "away": "-142",
-        "home": "+120"
+        "away": "+130",
+        "home": "-155"
       },
       "detail": "10/11 - 8:20 PM EDT",
       "final": false,
@@ -1779,8 +1779,8 @@
         "winner": null,
         "record": "3-1"
       },
-      "line": "BAL -2.5",
-      "overUnder": 45.5,
+      "line": "ATL -3",
+      "overUnder": 43.5,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "tv": [
@@ -1797,13 +1797,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 76,
-        "tempC": 24
+        "text": "Mostly cloudy w/ showers",
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "+130",
-        "home": "-155"
+        "away": "+124",
+        "home": "-148"
       },
       "detail": "10/12 - 8:15 PM EDT",
       "final": false,

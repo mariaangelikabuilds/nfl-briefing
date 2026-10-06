@@ -66,6 +66,16 @@
     "401872979"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Minnesota and San Francisco and Kansas City are the only 4-0 teams left. The Chiefs did it in Vegas, 30-27, with Kenneth Walker III going 22 car, 177 yds, 2 TD.",
+        "Division stakes Week 5: Browns at Jets, with New York listed NYJ -2.5. Cleveland is 3-1 off a 27-24 win over Pittsburgh. Steelers host Indy at PIT -2.5.",
+        "Ravens are at Atlanta Monday 8:20 am Perth, BAL -2.5. The Falcons just hung 45 on New Orleans, Bijan Robinson 19 car, 145 yds, 2 TD.",
+        "New England beat Buffalo 29-26 behind Drake Maye at 22/37, 269 yds, 3 TD, 1 INT. The Patriots are home favourites over the Raiders at NE -3.5.",
+        "Seattle hosts San Francisco at SEA -2.5, total 47.5. The 49ers are 4-0 after handling Denver 24-14.",
+        "Bills at Rams closes the week Tuesday 8:15 am Perth, LAR -2.5, total 54.5."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401872982",
     "postgame": {
@@ -78,17 +88,7 @@
       "division_meaning": "Cincinnati sits last in the AFC North at 2-2 on an L2, behind Cleveland (3-1, W3) and Baltimore (3-1, W2) and level with Pittsburgh (2-2, L1). Point differential is still a plus-12.",
       "the_take": "A 428-yard passing day that produces 17 points is a run game problem, not a Burrow problem. Until 1.5 yards a carry changes, every red zone trip is a coin flip. ESPN also flags a receiver health question."
     },
-    "postgame_for": "401872969",
-    "league": {
-      "lines": [
-        "Minnesota and San Francisco and Kansas City are the only 4-0 teams left. The Chiefs did it in Vegas, 30-27, with Kenneth Walker III going 22 car, 177 yds, 2 TD.",
-        "Division stakes Week 5: Browns at Jets, with New York listed NYJ -2.5. Cleveland is 3-1 off a 27-24 win over Pittsburgh. Steelers host Indy at PIT -2.5.",
-        "Ravens are at Atlanta Monday 8:20 am Perth, BAL -2.5. The Falcons just hung 45 on New Orleans, Bijan Robinson 19 car, 145 yds, 2 TD.",
-        "New England beat Buffalo 29-26 behind Drake Maye at 22/37, 269 yds, 3 TD, 1 INT. The Patriots are home favourites over the Raiders at NE -3.5.",
-        "Seattle hosts San Francisco at SEA -2.5, total 47.5. The 49ers are 4-0 after handling Denver 24-14.",
-        "Bills at Rams closes the week Tuesday 8:15 am Perth, LAR -2.5, total 54.5."
-      ]
-    }
+    "postgame_for": "401872969"
   },
   "written_at": "2026-10-06T05:48:33.289Z",
   "last_error": null
