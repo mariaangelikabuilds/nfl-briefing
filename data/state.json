@@ -62,7 +62,8 @@
     "401872975",
     "401872976",
     "401872977",
-    "401872978"
+    "401872978",
+    "401872979"
   ],
   "briefing": {
     "pregame": null,
@@ -80,15 +81,15 @@
     "postgame_for": "401872969",
     "league": {
       "lines": [
-        "Minnesota is 4-0 after grinding past Miami 15-10, with T.J. Hockenson at 13 catches for 119 yards. That is the team Cincinnati's next opponent just lost to.",
-        "Kansas City won 30-30? No. Kansas City won at Las Vegas 30-27 to go 4-0, with Kenneth Walker III running 22 times for 177 yards and two scores.",
-        "New England stunned Buffalo 29-26 in Orchard Park. Drake Maye went 22/37 for 269 and three touchdowns. Both teams now 2-2 and 3-1 respectively.",
-        "Cleveland beat Pittsburgh 27-24 on Thursday to reach 3-1 and a three-game streak, with DK Metcalf going 5 for 115 in the loss.",
-        "San Francisco is 4-0 after a 24-14 win over Denver, and Seattle hosts them in Week 5 as a 2.5-point favourite, total 46.5.",
-        "Carolina upset Detroit 32-26 behind Tetairoa McMillan's 14 catches for 192 yards and two scores. Jared Goff threw for 412 in defeat."
+        "Minnesota and San Francisco and Kansas City are the only 4-0 teams left. The Chiefs did it in Vegas, 30-27, with Kenneth Walker III going 22 car, 177 yds, 2 TD.",
+        "Division stakes Week 5: Browns at Jets, with New York listed NYJ -2.5. Cleveland is 3-1 off a 27-24 win over Pittsburgh. Steelers host Indy at PIT -2.5.",
+        "Ravens are at Atlanta Monday 8:20 am Perth, BAL -2.5. The Falcons just hung 45 on New Orleans, Bijan Robinson 19 car, 145 yds, 2 TD.",
+        "New England beat Buffalo 29-26 behind Drake Maye at 22/37, 269 yds, 3 TD, 1 INT. The Patriots are home favourites over the Raiders at NE -3.5.",
+        "Seattle hosts San Francisco at SEA -2.5, total 47.5. The 49ers are 4-0 after handling Denver 24-14.",
+        "Bills at Rams closes the week Tuesday 8:15 am Perth, LAR -2.5, total 54.5."
       ]
     }
   },
-  "written_at": "2026-10-05T05:01:15.239Z",
+  "written_at": "2026-10-06T05:48:33.289Z",
   "last_error": null
 }
