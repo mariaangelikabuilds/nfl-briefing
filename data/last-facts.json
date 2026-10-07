@@ -1,5 +1,5 @@
 {
-  "now_perth": "Wed, 7 Oct, 1:20 pm",
+  "now_perth": "Thu, 8 Oct, 2:43 am",
   "bengals_next": {
     "id": "401872982",
     "week": 5,
@@ -8,13 +8,13 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Mostly cloudy",
-      "tempF": 90,
-      "tempC": 32
+      "text": "Intermittent clouds",
+      "tempF": 91,
+      "tempC": 33
     },
     "moneyline": {
-      "away": "-355",
-      "home": "+280"
+      "away": "-340",
+      "home": "+270"
     },
     "detail": "10/11 - 1:00 PM EDT",
     "final": false,
@@ -34,7 +34,7 @@
       "winner": null,
       "record": "2-2"
     },
-    "line": "CIN -7",
+    "line": "CIN -6.5",
     "overUnder": 42.5,
     "venue": "Hard Rock Stadium",
     "city": "Miami Gardens",
@@ -281,6 +281,12 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 5 latest intel, buzz questions, news, fantasy tips: What we're hearing",
+      "summary": "Could injuries to Saquon Barkley, Lamar Jackson and others derail their teams? Which AFC teams should trade for a WR? Which coordinators could get head coach interest?",
+      "published": "2026-10-07T17:00:06Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50116787/week-5-buzz-fantasy-predictions-graziano-fowler-2026"
+    },
+    {
       "headline": "Fantasy football D/ST outlook for Weeks 5-8: Jaguars a solid option in October",
       "summary": "Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.",
       "published": "2026-10-06T17:04:36Z",
@@ -321,15 +327,15 @@
       "summary": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
       "published": "2026-10-05T21:15:51Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
-    },
-    {
-      "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-      "summary": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-      "published": "2026-10-05T23:50:50Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "Rooted in greatness: Nick Saban's ties to 45 head coaches",
+      "summary": "Across four college stops and one NFL team, Saban's tree spread through dozens of coaches and helped reshape modern football",
+      "published": "2026-10-07T13:20:53Z",
+      "url": "https://www.espn.com/espn/feature/story/_/id/49958400/nick-saban-coaching-tree-alabama-lsu-miami-dolphins"
+    },
     {
       "headline": "Fantasy football D/ST outlook for Weeks 5-8: Jaguars a solid option in October",
       "summary": "Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.",
@@ -371,12 +377,6 @@
       "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 4.",
       "published": "2026-10-05T05:31:59Z",
       "url": "https://www.espn.com/nfl/story/_/id/50077236/week-4-sunday-games-takeaways-questions-2026"
-    },
-    {
-      "headline": "Dolphins defense has a quality day in loss to Vikings",
-      "summary": "Marcel Louis-Jacques discusses the Dolphins defense playing quality football in loss to the Vikings.",
-      "published": "2026-10-05T02:41:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/50106881/dolphins-defense-quality-day-loss-vikings"
     }
   ],
   "league_week": 5,
@@ -1229,13 +1229,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Hazy sunshine",
+        "text": "Mostly sunny",
         "tempF": 84,
         "tempC": 29
       },
       "moneyline": {
-        "away": "+350",
-        "home": "-455"
+        "away": "+360",
+        "home": "-470"
       },
       "detail": "10/8 - 8:15 PM EDT",
       "final": false,
@@ -1313,9 +1313,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 73,
-        "tempC": 23
+        "text": "Intermittent clouds",
+        "tempF": 71,
+        "tempC": 22
       },
       "moneyline": {
         "away": "-148",
@@ -1339,7 +1339,7 @@
         "winner": null,
         "record": "3-1"
       },
-      "line": "CHI -3",
+      "line": "CHI -2.5",
       "overUnder": 45.5,
       "venue": "Lambeau Field",
       "city": "Green Bay",
@@ -1357,13 +1357,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 71,
-        "tempC": 22
+        "text": "Rain",
+        "tempF": 69,
+        "tempC": 21
       },
       "moneyline": {
-        "away": "-355",
-        "home": "+280"
+        "away": "-375",
+        "home": "+295"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1401,13 +1401,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 66,
+        "text": "Hazy sunshine",
+        "tempF": 67,
         "tempC": 19
       },
       "moneyline": {
-        "away": "+160",
-        "home": "-192"
+        "away": "+164",
+        "home": "-198"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1450,8 +1450,8 @@
         "tempC": 27
       },
       "moneyline": {
-        "away": "-130",
-        "home": "+110"
+        "away": "-125",
+        "home": "+105"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1489,9 +1489,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 70,
-        "tempC": 21
+        "text": "Cloudy",
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
         "away": "+110",
@@ -1533,13 +1533,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 68,
-        "tempC": 20
+        "text": "Rain",
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+120",
-        "home": "-142"
+        "away": "+124",
+        "home": "-148"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1578,12 +1578,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 69,
-        "tempC": 21
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "+145",
-        "home": "-175"
+        "away": "+150",
+        "home": "-180"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1621,9 +1621,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 79,
-        "tempC": 26
+        "text": "Mostly cloudy",
+        "tempF": 81,
+        "tempC": 27
       },
       "moneyline": {
         "away": "-185",
@@ -1665,13 +1665,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 86,
-        "tempC": 30
+        "text": "Intermittent clouds",
+        "tempF": 84,
+        "tempC": 29
       },
       "moneyline": {
-        "away": "-230",
-        "home": "+190"
+        "away": "-250",
+        "home": "+205"
       },
       "detail": "10/11 - 4:25 PM EDT",
       "final": false,
@@ -1691,7 +1691,7 @@
         "winner": null,
         "record": "2-2"
       },
-      "line": "DET -4.5",
+      "line": "DET -5.5",
       "overUnder": 54.5,
       "venue": "State Farm Stadium",
       "city": "Glendale",
@@ -1710,8 +1710,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 62,
-        "tempC": 17
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
         "away": "+130",
@@ -1736,7 +1736,7 @@
         "record": "4-0"
       },
       "line": "SEA -2.5",
-      "overUnder": 46.5,
+      "overUnder": 45.5,
       "venue": "Lumen Field",
       "city": "Seattle",
       "tv": [
@@ -1753,13 +1753,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Thunderstorms",
-        "tempF": 71,
-        "tempC": 22
+        "text": "Intermittent clouds",
+        "tempF": 69,
+        "tempC": 21
       },
       "moneyline": {
-        "away": "+142",
-        "home": "-170"
+        "away": "+150",
+        "home": "-180"
       },
       "detail": "10/11 - 8:20 PM EDT",
       "final": false,
@@ -1798,8 +1798,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 72,
-        "tempC": 22
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
         "away": "+136",
