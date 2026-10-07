@@ -1,5 +1,5 @@
 {
-  "now_perth": "Wed, 7 Oct, 2:10 am",
+  "now_perth": "Wed, 7 Oct, 1:20 pm",
   "bengals_next": {
     "id": "401872982",
     "week": 5,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Mostly cloudy",
-      "tempF": 88,
-      "tempC": 31
+      "tempF": 90,
+      "tempC": 32
     },
     "moneyline": {
-      "away": "-345",
-      "home": "+275"
+      "away": "-355",
+      "home": "+280"
     },
     "detail": "10/11 - 1:00 PM EDT",
     "final": false,
@@ -295,7 +295,7 @@
     {
       "headline": "Seven things Solak thinks entering NFL Week 5: Jaguars are the AFC's best, more",
       "summary": "Has Jacksonville climbed to the top of its conference? Get ready for Week 5 with takes on the Jaguars, Bengals, Rams, Bears, Texans, Eagles and Lions.",
-      "published": "2026-10-06T15:05:52Z",
+      "published": "2026-10-06T20:02:39Z",
       "url": "https://www.espn.com/nfl/story/_/id/50110488/week-5-seven-things-solak-thinks-afc-nfc"
     },
     {
@@ -1229,9 +1229,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 83,
-        "tempC": 28
+        "text": "Hazy sunshine",
+        "tempF": 84,
+        "tempC": 29
       },
       "moneyline": {
         "away": "+350",
@@ -1274,8 +1274,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+230",
-        "home": "-285"
+        "away": "+280",
+        "home": "-355"
       },
       "detail": "10/11 - 9:30 AM EDT",
       "final": false,
@@ -1295,7 +1295,7 @@
         "winner": null,
         "record": "2-2"
       },
-      "line": "JAX -6.5",
+      "line": "JAX -7",
       "overUnder": 42.5,
       "venue": "Tottenham Hotspur Stadium",
       "city": "London",
@@ -1314,8 +1314,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 79,
-        "tempC": 26
+        "tempF": 73,
+        "tempC": 23
       },
       "moneyline": {
         "away": "-148",
@@ -1357,13 +1357,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
-        "tempF": 74,
-        "tempC": 23
+        "text": "Intermittent clouds",
+        "tempF": 71,
+        "tempC": 22
       },
       "moneyline": {
-        "away": "-310",
-        "home": "+250"
+        "away": "-355",
+        "home": "+280"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1383,8 +1383,8 @@
         "winner": null,
         "record": "0-4"
       },
-      "line": "HOU -6.5",
-      "overUnder": 38.5,
+      "line": "HOU -7.5",
+      "overUnder": 37.5,
       "venue": "Nissan Stadium",
       "city": "Nashville",
       "tv": [
@@ -1402,8 +1402,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 62,
-        "tempC": 17
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
         "away": "+160",
@@ -1446,8 +1446,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 82,
-        "tempC": 28
+        "tempF": 81,
+        "tempC": 27
       },
       "moneyline": {
         "away": "-130",
@@ -1534,12 +1534,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 69,
-        "tempC": 21
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "+114",
-        "home": "-135"
+        "away": "+120",
+        "home": "-142"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1578,12 +1578,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 70,
+        "tempF": 69,
         "tempC": 21
       },
       "moneyline": {
-        "away": "+140",
-        "home": "-166"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1603,7 +1603,7 @@
         "winner": null,
         "record": "3-1"
       },
-      "line": "WSH -3",
+      "line": "WSH -3.5",
       "overUnder": 43.5,
       "venue": "Northwest Stadium",
       "city": "Landover",
@@ -1622,7 +1622,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 78,
+        "tempF": 79,
         "tempC": 26
       },
       "moneyline": {
@@ -1666,12 +1666,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 88,
-        "tempC": 31
+        "tempF": 86,
+        "tempC": 30
       },
       "moneyline": {
-        "away": "-218",
-        "home": "+180"
+        "away": "-230",
+        "home": "+190"
       },
       "detail": "10/11 - 4:25 PM EDT",
       "final": false,
@@ -1710,8 +1710,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 57,
-        "tempC": 14
+        "tempF": 62,
+        "tempC": 17
       },
       "moneyline": {
         "away": "+130",
@@ -1735,8 +1735,8 @@
         "winner": null,
         "record": "4-0"
       },
-      "line": "SEA -3",
-      "overUnder": 47.5,
+      "line": "SEA -2.5",
+      "overUnder": 46.5,
       "venue": "Lumen Field",
       "city": "Seattle",
       "tv": [
@@ -1754,12 +1754,12 @@
       "clock": null,
       "weather": {
         "text": "Thunderstorms",
-        "tempF": 72,
+        "tempF": 71,
         "tempC": 22
       },
       "moneyline": {
-        "away": "+130",
-        "home": "-155"
+        "away": "+142",
+        "home": "-170"
       },
       "detail": "10/11 - 8:20 PM EDT",
       "final": false,
@@ -1779,7 +1779,7 @@
         "winner": null,
         "record": "3-1"
       },
-      "line": "ATL -3",
+      "line": "ATL -3.5",
       "overUnder": 43.5,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
@@ -1797,13 +1797,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy w/ showers",
-        "tempF": 68,
-        "tempC": 20
+        "text": "Intermittent clouds",
+        "tempF": 72,
+        "tempC": 22
       },
       "moneyline": {
-        "away": "+124",
-        "home": "-148"
+        "away": "+136",
+        "home": "-162"
       },
       "detail": "10/12 - 8:15 PM EDT",
       "final": false,
@@ -1823,7 +1823,7 @@
         "winner": null,
         "record": "3-1"
       },
-      "line": "LAR -2.5",
+      "line": "LAR -3",
       "overUnder": 54.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
