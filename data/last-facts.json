@@ -1,5 +1,5 @@
 {
-  "now_perth": "Thu, 8 Oct, 2:43 am",
+  "now_perth": "Thu, 8 Oct, 1:29 pm",
   "bengals_next": {
     "id": "401872982",
     "week": 5,
@@ -13,8 +13,8 @@
       "tempC": 33
     },
     "moneyline": {
-      "away": "-340",
-      "home": "+270"
+      "away": "-310",
+      "home": "+250"
     },
     "detail": "10/11 - 1:00 PM EDT",
     "final": false,
@@ -281,6 +281,24 @@
   },
   "news_bengals": [
     {
+      "headline": "Bengals' WR situation remains uncertain",
+      "summary": "Ben Baby breaks down the Bengals' options if Ja'Marr Chase and Tee Higgins can't play Sunday.",
+      "published": "2026-10-07T21:50:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/50127849/bengals-wr-situation-remains-uncertain"
+    },
+    {
+      "headline": "NFL survivor power rankings: Why you should use Texans, Cowboys",
+      "summary": "ESPN NFL survivor pool strategy, predictions and picks for Week 5 including the Texans and Cowboys.",
+      "published": "2026-10-07T21:37:07Z",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/50126490/nfl-survivor-week-5-survivor-pool-strategy-advice-picks"
+    },
+    {
+      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+      "published": "2026-10-07T19:17:02Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
+    },
+    {
       "headline": "NFL Week 5 latest intel, buzz questions, news, fantasy tips: What we're hearing",
       "summary": "Could injuries to Saquon Barkley, Lamar Jackson and others derail their teams? Which AFC teams should trade for a WR? Which coordinators could get head coach interest?",
       "published": "2026-10-07T17:00:06Z",
@@ -309,27 +327,15 @@
       "summary": "How does every NFL team stack up heading into Week 5? We made our 1-32 list and sized up each franchise's performance so far.",
       "published": "2026-10-06T15:49:59Z",
       "url": "https://www.espn.com/nfl/story/_/id/50109845/nfl-power-rankings-week-5-teams-first-month-recap"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-06T15:11:06Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "Atlanta's jabs at New Orleans after MNF top Week 4 trolls",
-      "summary": "The calendar shifted to October, and the trolls are becoming a little more impactful, led by the Atlanta Falcons.",
-      "published": "2026-10-06T04:16:25Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50105587/nfl-week-4-2026-trolls"
-    },
-    {
-      "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-      "summary": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-      "published": "2026-10-05T21:15:51Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+      "published": "2026-10-07T19:17:02Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
+    },
     {
       "headline": "Rooted in greatness: Nick Saban's ties to 45 head coaches",
       "summary": "Across four college stops and one NFL team, Saban's tree spread through dozens of coaches and helped reshape modern football",
@@ -371,12 +377,6 @@
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 5.",
       "published": "2026-10-05T14:51:54Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50085464/2026-nfl-week-5-schedule-odds-betting-point-spreads-totals"
-    },
-    {
-      "headline": "NFL Week 4: Big takeaways, questions and fantasy spin from Sunday's games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 4.",
-      "published": "2026-10-05T05:31:59Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50077236/week-4-sunday-games-takeaways-questions-2026"
     }
   ],
   "league_week": 5,
@@ -1274,8 +1274,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+280",
-        "home": "-355"
+        "away": "+285",
+        "home": "-360"
       },
       "detail": "10/11 - 9:30 AM EDT",
       "final": false,
@@ -1314,12 +1314,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 71,
+        "tempF": 72,
         "tempC": 22
       },
       "moneyline": {
-        "away": "-148",
-        "home": "+124"
+        "away": "-130",
+        "home": "+110"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1362,8 +1362,8 @@
         "tempC": 21
       },
       "moneyline": {
-        "away": "-375",
-        "home": "+295"
+        "away": "-395",
+        "home": "+310"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1446,12 +1446,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 81,
-        "tempC": 27
+        "tempF": 82,
+        "tempC": 28
       },
       "moneyline": {
-        "away": "-125",
-        "home": "+105"
+        "away": "-130",
+        "home": "+110"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1494,8 +1494,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "+110",
-        "home": "-130"
+        "away": "+105",
+        "home": "-125"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1515,7 +1515,7 @@
         "winner": null,
         "record": "3-1"
       },
-      "line": "NYJ -2.5",
+      "line": "NYJ -1.5",
       "overUnder": 39.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
@@ -1534,12 +1534,12 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 64,
+        "tempF": 65,
         "tempC": 18
       },
       "moneyline": {
-        "away": "+124",
-        "home": "-148"
+        "away": "+120",
+        "home": "-142"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1604,7 +1604,7 @@
         "record": "3-1"
       },
       "line": "WSH -3.5",
-      "overUnder": 43.5,
+      "overUnder": 42.5,
       "venue": "Northwest Stadium",
       "city": "Landover",
       "tv": [
@@ -1622,8 +1622,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 81,
-        "tempC": 27
+        "tempF": 78,
+        "tempC": 26
       },
       "moneyline": {
         "away": "-185",
@@ -1648,7 +1648,7 @@
         "record": "2-2"
       },
       "line": "DEN -3.5",
-      "overUnder": 42.5,
+      "overUnder": 41.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
       "tv": [
@@ -1666,7 +1666,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 84,
+        "tempF": 85,
         "tempC": 29
       },
       "moneyline": {
@@ -1754,12 +1754,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 69,
-        "tempC": 21
+        "tempF": 72,
+        "tempC": 22
       },
       "moneyline": {
-        "away": "+150",
-        "home": "-180"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "10/11 - 8:20 PM EDT",
       "final": false,
@@ -1798,8 +1798,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 65,
-        "tempC": 18
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
         "away": "+136",
