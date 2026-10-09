@@ -1,5 +1,5 @@
 {
-  "now_perth": "Fri, 9 Oct, 1:33 pm",
+  "now_perth": "Sat, 10 Oct, 2:12 am",
   "bengals_next": {
     "id": "401872982",
     "week": 5,
@@ -13,8 +13,8 @@
       "tempC": 33
     },
     "moneyline": {
-      "away": "-325",
-      "home": "+260"
+      "away": "-340",
+      "home": "+270"
     },
     "detail": "10/11 - 1:00 PM EDT",
     "final": false,
@@ -35,7 +35,7 @@
       "record": "2-2"
     },
     "line": "CIN -6.5",
-    "overUnder": 42.5,
+    "overUnder": 43.5,
     "venue": "Hard Rock Stadium",
     "city": "Miami Gardens",
     "tv": [
@@ -100,7 +100,7 @@
     ],
     "kickoff_perth": "Mon, 5 Oct, 1:00 am"
   },
-  "write_pregame": false,
+  "write_pregame": true,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -281,6 +281,30 @@
   },
   "news_bengals": [
     {
+      "headline": "Fantasy football last-minute pickups: Stroud, Washington among top options",
+      "summary": "If injuries, bye weeks or tough matchups have you seeking lineup help, Matt Bowen lists potential options.",
+      "published": "2026-10-09T11:38:54Z",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/50126170/fantasy-football-streamers-last-minute-pickups-week-5"
+    },
+    {
+      "headline": "Inside the NFL's wild endings and why coaches need to adapt",
+      "summary": "Scoring too early and kicking the ball into the end zone can be costly, as the Cowboys learned.",
+      "published": "2026-10-09T12:48:59Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50135925/wild-endings-cowboys-ravens-touchback"
+    },
+    {
+      "headline": "NFL Week 5 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "summary": "Bears vs. Packers? 49ers vs. Seahawks? There are 14 more games in Week 5, and we have picks, predictions and more for all of them.",
+      "published": "2026-10-09T11:01:00Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50129471/week-5-picks-predictions-schedule-fantasy-odds-2026"
+    },
+    {
+      "headline": "NFL Week 5 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 5.",
+      "published": "2026-10-09T08:10:19Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50085464/2026-nfl-week-5-schedule-odds-betting-point-spreads-totals"
+    },
+    {
       "headline": "NFL Week 5 uniforms: Packers debut Rivalries look, Patriots wearing throwbacks",
       "summary": "Here's a look at what each NFL team is wearing in Week 5, led by the Green Bay Packers debuting their Rivalries look.",
       "published": "2026-10-09T01:36:14Z",
@@ -303,33 +327,27 @@
       "summary": "Brock Purdy for MVP? Klint Kubiak taking Coach of the Year? Will Anderson Jr. getting DPOY honors? We ranked the top candidates to win eight NFL awards through Week 4.",
       "published": "2026-10-08T16:04:16Z",
       "url": "https://www.espn.com/nfl/story/_/id/50118698/2026-early-awards-ranking-mvp-rookies-coaches-barnwell"
-    },
-    {
-      "headline": "Bengals' WR situation remains uncertain",
-      "summary": "Ben Baby breaks down the Bengals' options if Ja'Marr Chase and Tee Higgins can't play Sunday.",
-      "published": "2026-10-07T21:50:32Z",
-      "url": "https://www.espn.com/video/clip/_/id/50127849/bengals-wr-situation-remains-uncertain"
-    },
-    {
-      "headline": "NFL survivor power rankings: Why you should use Texans, Cowboys",
-      "summary": "ESPN NFL survivor pool strategy, predictions and picks for Week 5 including the Texans and Cowboys.",
-      "published": "2026-10-07T21:37:07Z",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/50126490/nfl-survivor-week-5-survivor-pool-strategy-advice-picks"
-    },
-    {
-      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
-      "published": "2026-10-07T19:17:02Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
-    },
-    {
-      "headline": "NFL Week 5 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-      "summary": "Could injuries to Saquon Barkley, Lamar Jackson and others derail their teams? Which AFC teams should trade for a WR? Which coordinators could get head coach interest?",
-      "published": "2026-10-07T17:00:06Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50116787/week-5-buzz-fantasy-predictions-graziano-fowler-2026"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "Inside the NFL's wild endings and why coaches need to adapt",
+      "summary": "Scoring too early and kicking the ball into the end zone can be costly, as the Cowboys learned.",
+      "published": "2026-10-09T12:48:59Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50135925/wild-endings-cowboys-ravens-touchback"
+    },
+    {
+      "headline": "NFL Week 5 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "summary": "Bears vs. Packers? 49ers vs. Seahawks? There are 14 more games in Week 5, and we have picks, predictions and more for all of them.",
+      "published": "2026-10-09T11:01:00Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50129471/week-5-picks-predictions-schedule-fantasy-odds-2026"
+    },
+    {
+      "headline": "NFL Week 5 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 5.",
+      "published": "2026-10-09T08:10:19Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50085464/2026-nfl-week-5-schedule-odds-betting-point-spreads-totals"
+    },
     {
       "headline": "NFL Week 5 uniforms: Packers debut Rivalries look, Patriots wearing throwbacks",
       "summary": "Here's a look at what each NFL team is wearing in Week 5, led by the Green Bay Packers debuting their Rivalries look.",
@@ -359,24 +377,6 @@
       "summary": "The Oklahoma City Thunder star joins a list of athletes that includes LeBron James, Serena Williams, Wayne Gretzky and Tom Brady.",
       "published": "2026-10-08T21:14:28Z",
       "url": "https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners"
-    },
-    {
-      "headline": "2026 NFL quarter-season awards: MVP picks, top rookies, OPOY, DPOY, best coaches",
-      "summary": "Brock Purdy for MVP? Klint Kubiak taking Coach of the Year? Will Anderson Jr. getting DPOY honors? We ranked the top candidates to win eight NFL awards through Week 4.",
-      "published": "2026-10-08T16:04:16Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50118698/2026-early-awards-ranking-mvp-rookies-coaches-barnwell"
-    },
-    {
-      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
-      "published": "2026-10-07T19:17:02Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
-    },
-    {
-      "headline": "Rooted in greatness: Nick Saban's ties to 45 head coaches",
-      "summary": "Across four college stops and one NFL team, Saban's tree spread through dozens of coaches and helped reshape modern football",
-      "published": "2026-10-07T13:20:53Z",
-      "url": "https://www.espn.com/espn/feature/story/_/id/49958400/nick-saban-coaching-tree-alabama-lsu-miami-dolphins"
     }
   ],
   "league_week": 5,
@@ -1286,8 +1286,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+300",
-        "home": "-380"
+        "away": "+320",
+        "home": "-410"
       },
       "detail": "10/11 - 9:30 AM EDT",
       "final": false,
@@ -1370,8 +1370,8 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 68,
-        "tempC": 20
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
         "away": "-425",
@@ -1462,8 +1462,8 @@
         "tempC": 28
       },
       "moneyline": {
-        "away": "-142",
-        "home": "+120"
+        "away": "-148",
+        "home": "+124"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1484,7 +1484,7 @@
         "record": "4-0"
       },
       "line": "MIN -2.5",
-      "overUnder": 41.5,
+      "overUnder": 42.5,
       "venue": "Caesars Superdome",
       "city": "New Orleans",
       "tv": [
@@ -1501,7 +1501,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Rain",
         "tempF": 66,
         "tempC": 19
       },
@@ -1546,8 +1546,8 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
         "away": "+124",
@@ -1571,8 +1571,8 @@
         "winner": null,
         "record": "2-2"
       },
-      "line": "PIT -2.5",
-      "overUnder": 44.5,
+      "line": "PIT -3",
+      "overUnder": 43.5,
       "venue": "Acrisure Stadium",
       "city": "Pittsburgh",
       "tv": [
@@ -1590,8 +1590,8 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
         "away": "+160",
@@ -1615,8 +1615,8 @@
         "winner": null,
         "record": "3-1"
       },
-      "line": "WSH -3.5",
-      "overUnder": 42.5,
+      "line": "WSH -4.5",
+      "overUnder": 41.5,
       "venue": "Northwest Stadium",
       "city": "Landover",
       "tv": [
@@ -1633,7 +1633,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
+        "text": "Rain",
         "tempF": 75,
         "tempC": 24
       },
@@ -1678,8 +1678,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 84,
-        "tempC": 29
+        "tempF": 88,
+        "tempC": 31
       },
       "moneyline": {
         "away": "-258",
@@ -1765,13 +1765,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
+        "text": "Partly cloudy",
         "tempF": 64,
         "tempC": 18
       },
       "moneyline": {
-        "away": "+142",
-        "home": "-170"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "10/11 - 8:20 PM EDT",
       "final": false,
@@ -1791,7 +1791,7 @@
         "winner": null,
         "record": "3-1"
       },
-      "line": "ATL -3",
+      "line": "ATL -3.5",
       "overUnder": 43.5,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
@@ -1810,8 +1810,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 69,
-        "tempC": 21
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
         "away": "+145",

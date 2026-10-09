@@ -67,7 +67,21 @@
     "401872980"
   ],
   "briefing": {
-    "pregame": null,
+    "pregame": {
+      "matchup_read": "Bengals at 2-2 go to Miami as CIN -6.5 against an 0-4 Dolphins side, total 43.5. Cincinnati moved the ball in Week 4 with 437 yards but ran for 23 on 15 carries. Hard Rock, 33C, intermittent clouds.",
+      "storylines": [
+        "ESPN headline: Bengals look to end a two-game skid with Ja'Marr Chase and Tee Higgins status unclear, both dealing with injuries.",
+        "Higgins went for 11 rec, 157 yds against Jacksonville. Burrow threw 54 times for 428 yards with 1 TD and 2 INT in that 22-17 loss.",
+        "Miami lost 15-10 at Minnesota and sits 0-4. Headline: Dolphins HC Jeff Hafley challenged LB Chop Robinson after a dominant Week 4 showing.",
+        "Cincinnati is last in the AFC North on streak, L2, behind CLE 3-1, BAL 3-1 and PIT 2-2, despite the best point diff at +12."
+      ],
+      "watch_for": [
+        "Who lines up wide. If Chase and Higgins are limited, Dohnte Meyers (7 rec, 82 yds last week) and Chase Brown out of the backfield carry volume.",
+        "The run game. Nine Chase Brown carries went for 10 yards against Jacksonville, 1.5 yards per attempt as a team.",
+        "Penalties. Cincinnati had 11 for 108 yards in Week 4 and went 2-4 in the red zone."
+      ],
+      "the_call": "Bengals win but do not cover the 6.5. A banged-up receiver room plus a 1.5 yards per carry run game says this is a grind, closer to 23-20 than a rout."
+    },
     "pregame_for": "401872982",
     "postgame": {
       "what_decided_it": "Cincinnati moved the ball and still lost. 437 yards, 26 first downs, but 23 rushing yards on 15 carries, 2-of-4 in the red zone, two Burrow picks and 11 penalties for 108 yards. Jacksonville turned it over zero times.",
@@ -82,15 +96,15 @@
     "postgame_for": "401872969",
     "league": {
       "lines": [
-        " Browns at Jets, Mon 1:00 am Perth, NYJ -2.5 and 39.5. Cleveland is 3-1 on a W3 run but still laying nothing on the road. AFC North road test to watch.",
-        "Ravens at Falcons, Mon 8:20 am Perth on NBC. Atlanta -3, total 43.5. Baltimore is 3-1 after beating Tennessee 24-18, Lamar Jackson 15/20 for 222 and 2 TD.",
-        "Steelers host Colts, Mon 1:00 am Perth, PIT -2.5 in the rain, 44.5. Pittsburgh is 2-2 and on an L1 after losing 27-24 in Cleveland.",
-        "49ers at Seahawks, Mon 4:25 am Perth. Seattle -3, 45.5. San Francisco is the only 4-0 side left in the NFC West picture after beating Denver 24-14.",
-        "Bills at Rams on Monday night, Tue 8:15 am Perth, LAR -3 with a 54.5 total. Buffalo fell 29-26 at home to New England last week.",
-        "Eagles and Jaguars in London, Sun 9:30 pm Perth. Jacksonville -7.5, total 41.5, a week after the Jaguars won 22-17 in Cincinnati."
+        "Sunday 9:30pm Perth: Eagles at Jaguars in London, JAX -7.5, total 41.5. Jacksonville is 3-1 after beating Cincinnati.",
+        "Monday 1:00am: Browns at Jets, NYJ -2.5, total 39.5 in the rain. Cleveland is 3-1 and on a W3 run.",
+        "Monday 1:00am: Colts at Steelers, PIT -3, total 43.5. Pittsburgh is 2-2 off the 27-24 loss in Cleveland.",
+        "Monday 4:25am: 49ers at Seahawks, SEA -3, total 45.5. San Francisco is 4-0 after beating Denver 24-14.",
+        "Monday 8:20am: Ravens at Falcons, ATL -3.5, total 43.5. Atlanta hung 45 on New Orleans.",
+        "Tuesday 8:15am: Bills at Rams on ESPN and ABC, LAR -3, total 54.5. Buffalo lost 29-26 at home to New England."
       ]
     }
   },
-  "written_at": "2026-10-09T05:33:22.815Z",
+  "written_at": "2026-10-09T18:12:33.215Z",
   "last_error": null
 }
