@@ -1,5 +1,5 @@
 {
-  "now_perth": "Fri, 9 Oct, 2:41 am",
+  "now_perth": "Fri, 9 Oct, 1:33 pm",
   "bengals_next": {
     "id": "401872982",
     "week": 5,
@@ -13,8 +13,8 @@
       "tempC": 33
     },
     "moneyline": {
-      "away": "-340",
-      "home": "+270"
+      "away": "-325",
+      "home": "+260"
     },
     "detail": "10/11 - 1:00 PM EDT",
     "final": false,
@@ -34,7 +34,7 @@
       "winner": null,
       "record": "2-2"
     },
-    "line": "CIN -7",
+    "line": "CIN -6.5",
     "overUnder": 42.5,
     "venue": "Hard Rock Stadium",
     "city": "Miami Gardens",
@@ -283,8 +283,20 @@
     {
       "headline": "NFL Week 5 uniforms: Packers debut Rivalries look, Patriots wearing throwbacks",
       "summary": "Here's a look at what each NFL team is wearing in Week 5, led by the Green Bay Packers debuting their Rivalries look.",
-      "published": "2026-10-08T16:09:05Z",
+      "published": "2026-10-09T01:36:14Z",
       "url": "https://www.espn.com/nfl/story/_/id/50120618/nfl-week-5-uniforms"
+    },
+    {
+      "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
+      "summary": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers dealing with injuries.",
+      "published": "2026-10-08T23:42:28Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+    },
+    {
+      "headline": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-10-08T23:14:33Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
     },
     {
       "headline": "2026 NFL quarter-season awards: MVP picks, top rookies, OPOY, DPOY, best coaches",
@@ -315,26 +327,38 @@
       "summary": "Could injuries to Saquon Barkley, Lamar Jackson and others derail their teams? Which AFC teams should trade for a WR? Which coordinators could get head coach interest?",
       "published": "2026-10-07T17:00:06Z",
       "url": "https://www.espn.com/nfl/story/_/id/50116787/week-5-buzz-fantasy-predictions-graziano-fowler-2026"
-    },
-    {
-      "headline": "Fantasy football D/ST outlook for Weeks 5-8: Jaguars a solid option in October",
-      "summary": "Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.",
-      "published": "2026-10-08T17:46:01Z",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/50117199/fantasy-football-defense-special-teams-streaming-week-5"
-    },
-    {
-      "headline": "Stephen A. puzzled why Zac Taylor not under more scrutiny for Bengals' woes",
-      "summary": "Stephen A. puzzled why Zac Taylor not under more scrutiny for Bengals' woes ",
-      "published": "2026-10-06T14:57:20Z",
-      "url": "https://www.espn.com/video/clip/_/id/50117068/stephen-puzzled-why-zac-taylor-not-more-scrutiny-bengals-woes"
     }
   ],
   "news_opponent": [
     {
       "headline": "NFL Week 5 uniforms: Packers debut Rivalries look, Patriots wearing throwbacks",
       "summary": "Here's a look at what each NFL team is wearing in Week 5, led by the Green Bay Packers debuting their Rivalries look.",
-      "published": "2026-10-08T16:09:05Z",
+      "published": "2026-10-09T01:36:14Z",
       "url": "https://www.espn.com/nfl/story/_/id/50120618/nfl-week-5-uniforms"
+    },
+    {
+      "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
+      "summary": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers dealing with injuries.",
+      "published": "2026-10-08T23:42:28Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+    },
+    {
+      "headline": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-10-08T23:14:33Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
+    },
+    {
+      "headline": "Dolphins HC Jeff Hafley challenges LB Chop Robinson",
+      "summary": "Marcel Louis-Jacques on Dolphins HC Jeff Hafley challenging LB Chop Robinson after a dominant Week 4 performance.",
+      "published": "2026-10-08T22:50:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/50135926/dolphins-hc-jeff-hafley-challenges-lb-chop-robinson"
+    },
+    {
+      "headline": "Shai Gilgeous-Alexander joins athletes who became owners",
+      "summary": "The Oklahoma City Thunder star joins a list of athletes that includes LeBron James, Serena Williams, Wayne Gretzky and Tom Brady.",
+      "published": "2026-10-08T21:14:28Z",
+      "url": "https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners"
     },
     {
       "headline": "2026 NFL quarter-season awards: MVP picks, top rookies, OPOY, DPOY, best coaches",
@@ -353,30 +377,6 @@
       "summary": "Across four college stops and one NFL team, Saban's tree spread through dozens of coaches and helped reshape modern football",
       "published": "2026-10-07T13:20:53Z",
       "url": "https://www.espn.com/espn/feature/story/_/id/49958400/nick-saban-coaching-tree-alabama-lsu-miami-dolphins"
-    },
-    {
-      "headline": "Fantasy football D/ST outlook for Weeks 5-8: Jaguars a solid option in October",
-      "summary": "Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.",
-      "published": "2026-10-08T17:46:01Z",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/50117199/fantasy-football-defense-special-teams-streaming-week-5"
-    },
-    {
-      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 5",
-      "summary": "How does every NFL team stack up heading into Week 5? We made our 1-32 list and sized up each franchise's performance so far.",
-      "published": "2026-10-06T15:49:59Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50109845/nfl-power-rankings-week-5-teams-first-month-recap"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-06T15:11:06Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-      "summary": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-      "published": "2026-10-05T21:15:51Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
     }
   ],
   "league_week": 5,
@@ -1226,43 +1226,55 @@
       "week": 5,
       "kickoff": "2026-10-09T00:15Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Mostly sunny",
-        "tempF": 85,
-        "tempC": 29
-      },
-      "moneyline": {
-        "away": "+390",
-        "home": "-520"
-      },
-      "detail": "10/8 - 8:15 PM EDT",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "6",
         "abbr": "DAL",
         "name": "Dallas Cowboys",
-        "score": null,
-        "winner": null,
-        "record": "2-2"
+        "score": 16,
+        "winner": false,
+        "record": "2-3"
       },
       "away": {
         "id": "27",
         "abbr": "TB",
         "name": "Tampa Bay Buccaneers",
-        "score": null,
-        "winner": null,
-        "record": "0-4"
+        "score": 24,
+        "winner": true,
+        "record": "1-4"
       },
-      "line": "DAL -9.5",
-      "overUnder": 48.5,
+      "line": null,
+      "overUnder": null,
       "venue": "AT&T Stadium",
       "city": "Arlington",
       "tv": [
         "Prime Video"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "24/42, 316 YDS, 1 TD, 2 INT",
+          "player": "Dak Prescott",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "21 CAR, 165 YDS, 1 TD",
+          "player": "Bucky Irving",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "9 REC, 130 YDS, 1 TD",
+          "player": "George Pickens",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Fri, 9 Oct, 8:15 am"
     },
     {
@@ -1274,8 +1286,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+275",
-        "home": "-345"
+        "away": "+300",
+        "home": "-380"
       },
       "detail": "10/11 - 9:30 AM EDT",
       "final": false,
@@ -1318,8 +1330,8 @@
         "tempC": 22
       },
       "moneyline": {
-        "away": "-135",
-        "home": "+114"
+        "away": "-120",
+        "home": "+100"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1358,8 +1370,8 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 66,
-        "tempC": 19
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
         "away": "-425",
@@ -1384,7 +1396,7 @@
         "record": "0-4"
       },
       "line": "HOU -7.5",
-      "overUnder": 38.5,
+      "overUnder": 37.5,
       "venue": "Nissan Stadium",
       "city": "Nashville",
       "tv": [
@@ -1402,8 +1414,8 @@
       "clock": null,
       "weather": {
         "text": "Hazy sunshine",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
         "away": "+164",
@@ -1446,12 +1458,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 81,
-        "tempC": 27
+        "tempF": 82,
+        "tempC": 28
       },
       "moneyline": {
-        "away": "-148",
-        "home": "+124"
+        "away": "-142",
+        "home": "+120"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1490,12 +1502,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 68,
-        "tempC": 20
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "+110",
-        "home": "-130"
+        "away": "+114",
+        "home": "-135"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1538,8 +1550,8 @@
         "tempC": 17
       },
       "moneyline": {
-        "away": "+120",
-        "home": "-142"
+        "away": "+124",
+        "home": "-148"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1578,12 +1590,12 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 66,
-        "tempC": 19
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "+154",
-        "home": "-185"
+        "away": "+160",
+        "home": "-192"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1604,7 +1616,7 @@
         "record": "3-1"
       },
       "line": "WSH -3.5",
-      "overUnder": 41.5,
+      "overUnder": 42.5,
       "venue": "Northwest Stadium",
       "city": "Landover",
       "tv": [
@@ -1622,12 +1634,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 71,
-        "tempC": 22
+        "tempF": 75,
+        "tempC": 24
       },
       "moneyline": {
-        "away": "-185",
-        "home": "+154"
+        "away": "-180",
+        "home": "+150"
       },
       "detail": "10/11 - 4:05 PM EDT",
       "final": false,
@@ -1666,8 +1678,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 89,
-        "tempC": 32
+        "tempF": 84,
+        "tempC": 29
       },
       "moneyline": {
         "away": "-258",
@@ -1754,8 +1766,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
         "away": "+142",
@@ -1798,12 +1810,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 70,
+        "tempF": 69,
         "tempC": 21
       },
       "moneyline": {
-        "away": "+140",
-        "home": "-166"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "10/12 - 8:15 PM EDT",
       "final": false,
