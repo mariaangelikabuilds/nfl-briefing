@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 10 Oct, 2:12 am",
+  "now_perth": "Sat, 10 Oct, 1:17 pm",
   "bengals_next": {
     "id": "401872982",
     "week": 5,
@@ -13,8 +13,8 @@
       "tempC": 33
     },
     "moneyline": {
-      "away": "-340",
-      "home": "+270"
+      "away": "-355",
+      "home": "+280"
     },
     "detail": "10/11 - 1:00 PM EDT",
     "final": false,
@@ -34,7 +34,7 @@
       "winner": null,
       "record": "2-2"
     },
-    "line": "CIN -6.5",
+    "line": "CIN -7",
     "overUnder": 43.5,
     "venue": "Hard Rock Stadium",
     "city": "Miami Gardens",
@@ -100,7 +100,7 @@
     ],
     "kickoff_perth": "Mon, 5 Oct, 1:00 am"
   },
-  "write_pregame": true,
+  "write_pregame": false,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -281,21 +281,27 @@
   },
   "news_bengals": [
     {
+      "headline": "The state of the Bengals WR room",
+      "summary": "Ben Baby provides a health update on Ja'Marr Chase, Tee Higgins and Colbie Young.",
+      "published": "2026-10-10T03:32:58Z",
+      "url": "https://www.espn.com/video/clip/_/id/50144433/the-state-bengals-wr-room"
+    },
+    {
       "headline": "Fantasy football last-minute pickups: Stroud, Washington among top options",
       "summary": "If injuries, bye weeks or tough matchups have you seeking lineup help, Matt Bowen lists potential options.",
-      "published": "2026-10-09T11:38:54Z",
+      "published": "2026-10-09T16:37:44Z",
       "url": "https://www.espn.com/fantasy/football/story/_/id/50126170/fantasy-football-streamers-last-minute-pickups-week-5"
     },
     {
       "headline": "Inside the NFL's wild endings and why coaches need to adapt",
       "summary": "Scoring too early and kicking the ball into the end zone can be costly, as the Cowboys learned.",
-      "published": "2026-10-09T12:48:59Z",
+      "published": "2026-10-09T17:31:51Z",
       "url": "https://www.espn.com/nfl/story/_/id/50135925/wild-endings-cowboys-ravens-touchback"
     },
     {
       "headline": "NFL Week 5 preview: Picks, predictions, schedule, betting odds, fantasy tips",
       "summary": "Bears vs. Packers? 49ers vs. Seahawks? There are 14 more games in Week 5, and we have picks, predictions and more for all of them.",
-      "published": "2026-10-09T11:01:00Z",
+      "published": "2026-10-09T23:48:02Z",
       "url": "https://www.espn.com/nfl/story/_/id/50129471/week-5-picks-predictions-schedule-fantasy-odds-2026"
     },
     {
@@ -321,25 +327,25 @@
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "published": "2026-10-08T23:14:33Z",
       "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
-    },
-    {
-      "headline": "2026 NFL quarter-season awards: MVP picks, top rookies, OPOY, DPOY, best coaches",
-      "summary": "Brock Purdy for MVP? Klint Kubiak taking Coach of the Year? Will Anderson Jr. getting DPOY honors? We ranked the top candidates to win eight NFL awards through Week 4.",
-      "published": "2026-10-08T16:04:16Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50118698/2026-early-awards-ranking-mvp-rookies-coaches-barnwell"
     }
   ],
   "news_opponent": [
     {
+      "headline": "What will do Dolphins do at RB in Week 5?",
+      "summary": "Marcel Louis-Jacques discusses the Miami running back room ahead of a Week 5 matchup with Cincinnati.",
+      "published": "2026-10-10T02:12:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/50143962/what-do-dolphins-do-rb-week-5"
+    },
+    {
       "headline": "Inside the NFL's wild endings and why coaches need to adapt",
       "summary": "Scoring too early and kicking the ball into the end zone can be costly, as the Cowboys learned.",
-      "published": "2026-10-09T12:48:59Z",
+      "published": "2026-10-09T17:31:51Z",
       "url": "https://www.espn.com/nfl/story/_/id/50135925/wild-endings-cowboys-ravens-touchback"
     },
     {
       "headline": "NFL Week 5 preview: Picks, predictions, schedule, betting odds, fantasy tips",
       "summary": "Bears vs. Packers? 49ers vs. Seahawks? There are 14 more games in Week 5, and we have picks, predictions and more for all of them.",
-      "published": "2026-10-09T11:01:00Z",
+      "published": "2026-10-09T23:48:02Z",
       "url": "https://www.espn.com/nfl/story/_/id/50129471/week-5-picks-predictions-schedule-fantasy-odds-2026"
     },
     {
@@ -371,12 +377,6 @@
       "summary": "Marcel Louis-Jacques on Dolphins HC Jeff Hafley challenging LB Chop Robinson after a dominant Week 4 performance.",
       "published": "2026-10-08T22:50:43Z",
       "url": "https://www.espn.com/video/clip/_/id/50135926/dolphins-hc-jeff-hafley-challenges-lb-chop-robinson"
-    },
-    {
-      "headline": "Shai Gilgeous-Alexander joins athletes who became owners",
-      "summary": "The Oklahoma City Thunder star joins a list of athletes that includes LeBron James, Serena Williams, Wayne Gretzky and Tom Brady.",
-      "published": "2026-10-08T21:14:28Z",
-      "url": "https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners"
     }
   ],
   "league_week": 5,
@@ -1286,8 +1286,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+320",
-        "home": "-410"
+        "away": "+310",
+        "home": "-395"
       },
       "detail": "10/11 - 9:30 AM EDT",
       "final": false,
@@ -1330,8 +1330,8 @@
         "tempC": 22
       },
       "moneyline": {
-        "away": "-120",
-        "home": "+100"
+        "away": "-125",
+        "home": "+105"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1370,12 +1370,12 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "-425",
-        "home": "+330"
+        "away": "-360",
+        "home": "+285"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1395,8 +1395,8 @@
         "winner": null,
         "record": "0-4"
       },
-      "line": "HOU -7.5",
-      "overUnder": 37.5,
+      "line": "HOU -7",
+      "overUnder": 38.5,
       "venue": "Nissan Stadium",
       "city": "Nashville",
       "tv": [
@@ -1458,12 +1458,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 82,
+        "tempF": 83,
         "tempC": 28
       },
       "moneyline": {
-        "away": "-148",
-        "home": "+124"
+        "away": "-142",
+        "home": "+120"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1484,7 +1484,7 @@
         "record": "4-0"
       },
       "line": "MIN -2.5",
-      "overUnder": 42.5,
+      "overUnder": 41.5,
       "venue": "Caesars Superdome",
       "city": "New Orleans",
       "tv": [
@@ -1502,8 +1502,8 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 66,
-        "tempC": 19
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
         "away": "+114",
@@ -1546,7 +1546,7 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 65,
+        "tempF": 64,
         "tempC": 18
       },
       "moneyline": {
@@ -1590,12 +1590,12 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "+160",
-        "home": "-192"
+        "away": "+142",
+        "home": "-170"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1615,7 +1615,7 @@
         "winner": null,
         "record": "3-1"
       },
-      "line": "WSH -4.5",
+      "line": "WSH -3.5",
       "overUnder": 41.5,
       "venue": "Northwest Stadium",
       "city": "Landover",
@@ -1634,12 +1634,12 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 75,
-        "tempC": 24
+        "tempF": 74,
+        "tempC": 23
       },
       "moneyline": {
-        "away": "-180",
-        "home": "+150"
+        "away": "-192",
+        "home": "+160"
       },
       "detail": "10/11 - 4:05 PM EDT",
       "final": false,
@@ -1678,12 +1678,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 88,
-        "tempC": 31
+        "tempF": 83,
+        "tempC": 28
       },
       "moneyline": {
-        "away": "-258",
-        "home": "+210"
+        "away": "-250",
+        "home": "+205"
       },
       "detail": "10/11 - 4:25 PM EDT",
       "final": false,
@@ -1770,8 +1770,8 @@
         "tempC": 18
       },
       "moneyline": {
-        "away": "+145",
-        "home": "-175"
+        "away": "+150",
+        "home": "-180"
       },
       "detail": "10/11 - 8:20 PM EDT",
       "final": false,
@@ -1810,8 +1810,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 69,
+        "tempC": 21
       },
       "moneyline": {
         "away": "+145",

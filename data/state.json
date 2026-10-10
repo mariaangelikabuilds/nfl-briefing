@@ -67,6 +67,16 @@
     "401872980"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Sunday 9:30pm Perth: Eagles at Jaguars in London, JAX -7.5, total 41.5. Jacksonville is 3-1 after beating Cincinnati.",
+        "Monday 1:00am: Browns at Jets, NYJ -2.5, total 39.5 in the rain. Cleveland is 3-1 and on a W3 run.",
+        "Monday 1:00am: Colts at Steelers, PIT -3, total 43.5. Pittsburgh is 2-2 off the 27-24 loss in Cleveland.",
+        "Monday 4:25am: 49ers at Seahawks, SEA -3, total 45.5. San Francisco is 4-0 after beating Denver 24-14.",
+        "Monday 8:20am: Ravens at Falcons, ATL -3.5, total 43.5. Atlanta hung 45 on New Orleans.",
+        "Tuesday 8:15am: Bills at Rams on ESPN and ABC, LAR -3, total 54.5. Buffalo lost 29-26 at home to New England."
+      ]
+    },
     "pregame": {
       "matchup_read": "Bengals at 2-2 go to Miami as CIN -6.5 against an 0-4 Dolphins side, total 43.5. Cincinnati moved the ball in Week 4 with 437 yards but ran for 23 on 15 carries. Hard Rock, 33C, intermittent clouds.",
       "storylines": [
@@ -93,17 +103,7 @@
       "division_meaning": "Cincinnati sits last in the AFC North at 2-2 on an L2, behind Cleveland (3-1, W3) and Baltimore (3-1, W2) and level with Pittsburgh (2-2, L1). Point differential is still a plus-12.",
       "the_take": "A 428-yard passing day that produces 17 points is a run game problem, not a Burrow problem. Until 1.5 yards a carry changes, every red zone trip is a coin flip. ESPN also flags a receiver health question."
     },
-    "postgame_for": "401872969",
-    "league": {
-      "lines": [
-        "Sunday 9:30pm Perth: Eagles at Jaguars in London, JAX -7.5, total 41.5. Jacksonville is 3-1 after beating Cincinnati.",
-        "Monday 1:00am: Browns at Jets, NYJ -2.5, total 39.5 in the rain. Cleveland is 3-1 and on a W3 run.",
-        "Monday 1:00am: Colts at Steelers, PIT -3, total 43.5. Pittsburgh is 2-2 off the 27-24 loss in Cleveland.",
-        "Monday 4:25am: 49ers at Seahawks, SEA -3, total 45.5. San Francisco is 4-0 after beating Denver 24-14.",
-        "Monday 8:20am: Ravens at Falcons, ATL -3.5, total 43.5. Atlanta hung 45 on New Orleans.",
-        "Tuesday 8:15am: Bills at Rams on ESPN and ABC, LAR -3, total 54.5. Buffalo lost 29-26 at home to New England."
-      ]
-    }
+    "postgame_for": "401872969"
   },
   "written_at": "2026-10-09T18:12:33.215Z",
   "last_error": null
