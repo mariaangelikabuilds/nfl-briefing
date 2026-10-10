@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 10 Oct, 1:17 pm",
+  "now_perth": "Sun, 11 Oct, 1:11 am",
   "bengals_next": {
     "id": "401872982",
     "week": 5,
@@ -8,8 +8,8 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Intermittent clouds",
-      "tempF": 91,
+      "text": "Partly sunny",
+      "tempF": 92,
       "tempC": 33
     },
     "moneyline": {
@@ -281,6 +281,12 @@
   },
   "news_bengals": [
     {
+      "headline": "Can Burrow, Bengals establish identity vs. Dolphins?",
+      "summary": "The Bengals put Burrow under center but ultimately went back to what the QB knows best. What's next?",
+      "published": "2026-10-10T10:00:10Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50139238/bengals-joe-burrow-dolphins-offensive-identity"
+    },
+    {
       "headline": "The state of the Bengals WR room",
       "summary": "Ben Baby provides a health update on Ja'Marr Chase, Tee Higgins and Colbie Young.",
       "published": "2026-10-10T03:32:58Z",
@@ -321,15 +327,15 @@
       "summary": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers dealing with injuries.",
       "published": "2026-10-08T23:42:28Z",
       "url": "http://www.espn.com/nfl/preview?gameId=401872982"
-    },
-    {
-      "headline": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-08T23:14:33Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "NFL Week 5 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+      "summary": "Big performances for Brock Bowers, Travon Walker and Luther Burden III? The Giants pulling an upset? And an under-the-radar RB emerging this week in fantasy?",
+      "published": "2026-10-10T10:40:06Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50133043/week-5-predictions-upsets-fantasy-sleepers-stats-2026"
+    },
     {
       "headline": "What will do Dolphins do at RB in Week 5?",
       "summary": "Marcel Louis-Jacques discusses the Miami running back room ahead of a Week 5 matchup with Cincinnati.",
@@ -371,12 +377,6 @@
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "published": "2026-10-08T23:14:33Z",
       "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
-    },
-    {
-      "headline": "Dolphins HC Jeff Hafley challenges LB Chop Robinson",
-      "summary": "Marcel Louis-Jacques on Dolphins HC Jeff Hafley challenging LB Chop Robinson after a dominant Week 4 performance.",
-      "published": "2026-10-08T22:50:43Z",
-      "url": "https://www.espn.com/video/clip/_/id/50135926/dolphins-hc-jeff-hafley-challenges-lb-chop-robinson"
     }
   ],
   "league_week": 5,
@@ -1352,7 +1352,7 @@
         "record": "3-1"
       },
       "line": "CHI -1.5",
-      "overUnder": 45.5,
+      "overUnder": 46.5,
       "venue": "Lambeau Field",
       "city": "Green Bay",
       "tv": [
@@ -1369,13 +1369,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
-        "tempF": 68,
-        "tempC": 20
+        "text": "Cloudy",
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "-360",
-        "home": "+285"
+        "away": "-355",
+        "home": "+280"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1418,8 +1418,8 @@
         "tempC": 17
       },
       "moneyline": {
-        "away": "+164",
-        "home": "-198"
+        "away": "+160",
+        "home": "-192"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1458,7 +1458,7 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 83,
+        "tempF": 82,
         "tempC": 28
       },
       "moneyline": {
@@ -1502,7 +1502,7 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 63,
+        "tempF": 62,
         "tempC": 17
       },
       "moneyline": {
@@ -1545,9 +1545,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
-        "tempF": 64,
-        "tempC": 18
+        "text": "Cloudy",
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
         "away": "+124",
@@ -1589,9 +1589,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
-        "tempF": 63,
-        "tempC": 17
+        "text": "Cloudy",
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
         "away": "+142",
@@ -1633,8 +1633,8 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
-        "tempF": 74,
+        "text": "Mostly cloudy",
+        "tempF": 73,
         "tempC": 23
       },
       "moneyline": {
@@ -1678,8 +1678,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 83,
-        "tempC": 28
+        "tempF": 88,
+        "tempC": 31
       },
       "moneyline": {
         "away": "-250",
@@ -1721,9 +1721,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 59,
-        "tempC": 15
+        "text": "Mostly sunny",
+        "tempF": 58,
+        "tempC": 14
       },
       "moneyline": {
         "away": "+136",
@@ -1765,9 +1765,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly cloudy",
-        "tempF": 64,
-        "tempC": 18
+        "text": "Mostly clear",
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
         "away": "+150",
@@ -1791,7 +1791,7 @@
         "winner": null,
         "record": "3-1"
       },
-      "line": "ATL -3.5",
+      "line": "ATL -3",
       "overUnder": 43.5,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
@@ -1809,9 +1809,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 69,
-        "tempC": 21
+        "text": "Mostly cloudy w/ showers",
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
         "away": "+145",
