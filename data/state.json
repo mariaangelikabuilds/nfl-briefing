@@ -64,35 +64,12 @@
     "401872977",
     "401872978",
     "401872979",
-    "401872980"
+    "401872980",
+    "401872981"
   ],
   "briefing": {
-    "league": {
-      "lines": [
-        "Sunday 9:30pm Perth: Eagles at Jaguars in London, JAX -7.5, total 41.5. Jacksonville is 3-1 after beating Cincinnati.",
-        "Monday 1:00am: Browns at Jets, NYJ -2.5, total 39.5 in the rain. Cleveland is 3-1 and on a W3 run.",
-        "Monday 1:00am: Colts at Steelers, PIT -3, total 43.5. Pittsburgh is 2-2 off the 27-24 loss in Cleveland.",
-        "Monday 4:25am: 49ers at Seahawks, SEA -3, total 45.5. San Francisco is 4-0 after beating Denver 24-14.",
-        "Monday 8:20am: Ravens at Falcons, ATL -3.5, total 43.5. Atlanta hung 45 on New Orleans.",
-        "Tuesday 8:15am: Bills at Rams on ESPN and ABC, LAR -3, total 54.5. Buffalo lost 29-26 at home to New England."
-      ]
-    },
-    "pregame": {
-      "matchup_read": "Bengals at 2-2 go to Miami as CIN -6.5 against an 0-4 Dolphins side, total 43.5. Cincinnati moved the ball in Week 4 with 437 yards but ran for 23 on 15 carries. Hard Rock, 33C, intermittent clouds.",
-      "storylines": [
-        "ESPN headline: Bengals look to end a two-game skid with Ja'Marr Chase and Tee Higgins status unclear, both dealing with injuries.",
-        "Higgins went for 11 rec, 157 yds against Jacksonville. Burrow threw 54 times for 428 yards with 1 TD and 2 INT in that 22-17 loss.",
-        "Miami lost 15-10 at Minnesota and sits 0-4. Headline: Dolphins HC Jeff Hafley challenged LB Chop Robinson after a dominant Week 4 showing.",
-        "Cincinnati is last in the AFC North on streak, L2, behind CLE 3-1, BAL 3-1 and PIT 2-2, despite the best point diff at +12."
-      ],
-      "watch_for": [
-        "Who lines up wide. If Chase and Higgins are limited, Dohnte Meyers (7 rec, 82 yds last week) and Chase Brown out of the backfield carry volume.",
-        "The run game. Nine Chase Brown carries went for 10 yards against Jacksonville, 1.5 yards per attempt as a team.",
-        "Penalties. Cincinnati had 11 for 108 yards in Week 4 and went 2-4 in the red zone."
-      ],
-      "the_call": "Bengals win but do not cover the 6.5. A banged-up receiver room plus a 1.5 yards per carry run game says this is a grind, closer to 23-20 than a rout."
-    },
-    "pregame_for": "401872982",
+    "pregame": null,
+    "pregame_for": "401873012",
     "postgame": {
       "what_decided_it": "Cincinnati moved the ball and still lost. 437 yards, 26 first downs, but 23 rushing yards on 15 carries, 2-of-4 in the red zone, two Burrow picks and 11 penalties for 108 yards. Jacksonville turned it over zero times.",
       "standouts": [
@@ -103,8 +80,18 @@
       "division_meaning": "Cincinnati sits last in the AFC North at 2-2 on an L2, behind Cleveland (3-1, W3) and Baltimore (3-1, W2) and level with Pittsburgh (2-2, L1). Point differential is still a plus-12.",
       "the_take": "A 428-yard passing day that produces 17 points is a run game problem, not a Burrow problem. Until 1.5 yards a carry changes, every red zone trip is a coin flip. ESPN also flags a receiver health question."
     },
-    "postgame_for": "401872969"
+    "postgame_for": "401872969",
+    "league": {
+      "lines": [
+        "Ravens at Browns is the AFC North game that matters next, Mon 19 Oct 1:00 am Perth, BAL -3.5, total 41.5. Headline: Lamar Jackson was ruled out for Week 5 with Tyler Huntley starting.",
+        "Chiefs are 4-0 and favoured KC -7.5 over the 0-4 Chargers, Mon 19 Oct 4:25 am Perth, total 45.5.",
+        "Seahawks at Broncos opens Week 6 on Prime, Fri 16 Oct 8:15 am Perth, SEA -1.5, total 42.5, 12C and intermittent clouds in Denver.",
+        "Bills at Raiders is the best Week 6 late window game, BUF -4.5, total 51.5, Mon 19 Oct 4:25 am Perth in Las Vegas.",
+        "Undefeated 49ers host Washington on Monday night, SF -7.5, total 50.5, Tue 20 Oct 8:15 am Perth.",
+        "Pittsburgh heads to Tampa in Week 6, then to Saint-Denis to face the Saints in Week 7, Sun 25 Oct 9:30 pm Perth. No line posted for either."
+      ]
+    }
   },
-  "written_at": "2026-10-09T18:12:33.215Z",
+  "written_at": "2026-10-11T17:34:29.612Z",
   "last_error": null
 }
