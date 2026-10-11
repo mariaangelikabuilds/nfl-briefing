@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sun, 11 Oct, 1:11 am",
+  "now_perth": "Sun, 11 Oct, 1:08 pm",
   "bengals_next": {
     "id": "401872982",
     "week": 5,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": {
       "text": "Partly sunny",
-      "tempF": 92,
-      "tempC": 33
+      "tempF": 93,
+      "tempC": 34
     },
     "moneyline": {
       "away": "-355",
@@ -1286,8 +1286,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+310",
-        "home": "-395"
+        "away": "+320",
+        "home": "-410"
       },
       "detail": "10/11 - 9:30 AM EDT",
       "final": false,
@@ -1330,8 +1330,8 @@
         "tempC": 22
       },
       "moneyline": {
-        "away": "-125",
-        "home": "+105"
+        "away": "-122",
+        "home": "+102"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1370,12 +1370,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 66,
+        "tempF": 67,
         "tempC": 19
       },
       "moneyline": {
-        "away": "-355",
-        "home": "+280"
+        "away": "-345",
+        "home": "+275"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1396,7 +1396,7 @@
         "record": "0-4"
       },
       "line": "HOU -7",
-      "overUnder": 38.5,
+      "overUnder": 37.5,
       "venue": "Nissan Stadium",
       "city": "Nashville",
       "tv": [
@@ -1413,9 +1413,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Hazy sunshine",
-        "tempF": 63,
-        "tempC": 17
+        "text": "Mostly cloudy",
+        "tempF": 61,
+        "tempC": 16
       },
       "moneyline": {
         "away": "+160",
@@ -1458,12 +1458,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 82,
-        "tempC": 28
+        "tempF": 81,
+        "tempC": 27
       },
       "moneyline": {
-        "away": "-142",
-        "home": "+120"
+        "away": "-130",
+        "home": "+110"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1502,8 +1502,8 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 62,
-        "tempC": 17
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": {
         "away": "+114",
@@ -1546,12 +1546,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 61,
+        "tempC": 16
       },
       "moneyline": {
-        "away": "+124",
-        "home": "-148"
+        "away": "+120",
+        "home": "-142"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1571,7 +1571,7 @@
         "winner": null,
         "record": "2-2"
       },
-      "line": "PIT -3",
+      "line": "PIT -2.5",
       "overUnder": 43.5,
       "venue": "Acrisure Stadium",
       "city": "Pittsburgh",
@@ -1594,8 +1594,8 @@
         "tempC": 18
       },
       "moneyline": {
-        "away": "+142",
-        "home": "-170"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "10/11 - 1:00 PM EDT",
       "final": false,
@@ -1634,8 +1634,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 73,
-        "tempC": 23
+        "tempF": 72,
+        "tempC": 22
       },
       "moneyline": {
         "away": "-192",
@@ -1722,7 +1722,7 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 58,
+        "tempF": 57,
         "tempC": 14
       },
       "moneyline": {
@@ -1766,12 +1766,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly clear",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+150",
-        "home": "-180"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "10/11 - 8:20 PM EDT",
       "final": false,
@@ -1810,12 +1810,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy w/ showers",
-        "tempF": 68,
-        "tempC": 20
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "+145",
-        "home": "-175"
+        "away": "+150",
+        "home": "-180"
       },
       "detail": "10/12 - 8:15 PM EDT",
       "final": false,
@@ -1835,7 +1835,7 @@
         "winner": null,
         "record": "3-1"
       },
-      "line": "LAR -3",
+      "line": "LAR -3.5",
       "overUnder": 54.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
