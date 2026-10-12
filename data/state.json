@@ -80,6 +80,16 @@
     "401872993"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Ravens at Browns, Mon 19 Oct 1:00 am Perth. BAL -3.5, total 40.5. A North game that shapes what Cincinnati walks into in Week 7.",
+        "Lamar Jackson was ruled out for Sunday with Tyler Huntley starting, per ESPN. Watch whether that status carries forward.",
+        "Steelers at Buccaneers, Mon 19 Oct 1:00 am. PIT -3, total 40.5. Pittsburgh is 3-2 and tied with Cincinnati.",
+        "49ers host Washington on Tue 20 Oct 8:15 am, SF -7.5. San Francisco is the only 5-0 team in the NFC along with Minnesota.",
+        "Chiefs are 4-0 and favoured by 8.5 at home over the 0-5 Chargers, Mon 19 Oct 4:25 am.",
+        "Trade season is live: Marvin Harrison Jr. to Houston and Cam Jurgens to Baltimore, with the deadline Nov. 10 per ESPN."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401873012",
     "postgame": {
@@ -92,17 +102,7 @@
       "division_meaning": "Baltimore sits 4-1 on a W3 run. Cincinnati, Cleveland and Pittsburgh are all 3-2. The Bengals' +19 point differential is second in the North behind the Ravens' +27.",
       "the_take": "A win over an 0-5 team that you got outgained in is not a fix. Ben Baby's piece says the Bengals know they can play better. Giving up 217 on the ground travels badly to Baltimore on Mon, 26 Oct, 1:00 am."
     },
-    "postgame_for": "401872982",
-    "league": {
-      "lines": [
-        "Ravens at Browns, Mon 19 Oct 1:00 am Perth. BAL -3.5, total 40.5. A North game that shapes what Cincinnati walks into in Week 7.",
-        "Lamar Jackson was ruled out for Sunday with Tyler Huntley starting, per ESPN. Watch whether that status carries forward.",
-        "Steelers at Buccaneers, Mon 19 Oct 1:00 am. PIT -3, total 40.5. Pittsburgh is 3-2 and tied with Cincinnati.",
-        "49ers host Washington on Tue 20 Oct 8:15 am, SF -7.5. San Francisco is the only 5-0 team in the NFC along with Minnesota.",
-        "Chiefs are 4-0 and favoured by 8.5 at home over the 0-5 Chargers, Mon 19 Oct 4:25 am.",
-        "Trade season is live: Marvin Harrison Jr. to Houston and Cam Jurgens to Baltimore, with the deadline Nov. 10 per ESPN."
-      ]
-    }
+    "postgame_for": "401872982"
   },
   "written_at": "2026-10-12T05:22:17.512Z",
   "last_error": null
