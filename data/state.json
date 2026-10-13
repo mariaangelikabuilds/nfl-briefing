@@ -81,6 +81,16 @@
     "401872994"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        " Ravens at Browns is the division game of Week 6, BAL -4.5, total 40.5, Mon 19 Oct 1:00 am Perth. Baltimore is 4-1 with Tyler Huntley starting while Lamar Jackson is out, per ESPN.",
+        "Steelers at Buccaneers, PIT -3, total 40.5, same 1:00 am window Monday. Pittsburgh is 3-2 and tied with Cincinnati in the North.",
+        "Undefeated watch: 5-0 San Francisco hosts Washington on Monday night, SF -7.5, total 50.5. Kansas City is 4-0 and laying 8.5 to the 0-5 Chargers.",
+        "Seahawks at Broncos opens Week 6 on Friday 8:15 am Perth, SEA -3, total 40.5, 46F and mostly cloudy at Mile High.",
+        "Cowboys at Packers is the Sunday nighter, GB -1.5, total 52.5, both sides live at -105 and -115.",
+        "Week 7 lines are not posted yet, including Bears hosting Patriots Friday 23 Oct 8:15 am Perth and Chiefs at Seahawks Monday 8:20 am."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401873012",
     "postgame": {
@@ -93,17 +103,7 @@
       "division_meaning": "Baltimore sits 4-1 on a W3 run. Cincinnati, Cleveland and Pittsburgh are all 3-2. The Bengals' +19 point differential is second in the North behind the Ravens' +27.",
       "the_take": "A win over an 0-5 team that you got outgained in is not a fix. Ben Baby's piece says the Bengals know they can play better. Giving up 217 on the ground travels badly to Baltimore on Mon, 26 Oct, 1:00 am."
     },
-    "postgame_for": "401872982",
-    "league": {
-      "lines": [
-        " Ravens at Browns is the division game of Week 6, BAL -4.5, total 40.5, Mon 19 Oct 1:00 am Perth. Baltimore is 4-1 with Tyler Huntley starting while Lamar Jackson is out, per ESPN.",
-        "Steelers at Buccaneers, PIT -3, total 40.5, same 1:00 am window Monday. Pittsburgh is 3-2 and tied with Cincinnati in the North.",
-        "Undefeated watch: 5-0 San Francisco hosts Washington on Monday night, SF -7.5, total 50.5. Kansas City is 4-0 and laying 8.5 to the 0-5 Chargers.",
-        "Seahawks at Broncos opens Week 6 on Friday 8:15 am Perth, SEA -3, total 40.5, 46F and mostly cloudy at Mile High.",
-        "Cowboys at Packers is the Sunday nighter, GB -1.5, total 52.5, both sides live at -105 and -115.",
-        "Week 7 lines are not posted yet, including Bears hosting Patriots Friday 23 Oct 8:15 am Perth and Chiefs at Seahawks Monday 8:20 am."
-      ]
-    }
+    "postgame_for": "401872982"
   },
   "written_at": "2026-10-13T06:20:21.410Z",
   "last_error": null

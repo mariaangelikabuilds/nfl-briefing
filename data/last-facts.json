@@ -1,5 +1,5 @@
 {
-  "now_perth": "Tue, 13 Oct, 2:20 pm",
+  "now_perth": "Wed, 14 Oct, 3:06 am",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -274,6 +274,30 @@
   },
   "news_bengals": [
     {
+      "headline": "Bengals tight end Tanner Hudson out for season with torn pec",
+      "summary": "Bengals TE Tanner Hudson suffered a torn pectoral in last Sunday's win over the Dolphins that will sideline him for the season, his agent told ESPN.",
+      "published": "2026-10-13T16:43:38Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50174705/bengals-tight-end-tanner-hudson-season-torn-pec"
+    },
+    {
+      "headline": "NFL Week 6 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
+      "published": "2026-10-13T14:11:56Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 6",
+      "summary": "How does every NFL team stack up heading into Week 6? We made our 1-32 list and picked the biggest defensive problem for every team.",
+      "published": "2026-10-13T14:44:32Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50166454/nfl-power-rankings-week-6-teams-biggest-issue-defense"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-13T14:19:51Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
       "headline": "NFL Week 5 arrivals: Ravens trio channels early 2000s style ahead of 'SNF'",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "published": "2026-10-13T00:14:19Z",
@@ -286,43 +310,49 @@
       "url": "https://www.espn.com/nfl/story/_/id/50167310/samaje-perine-bengals-chase-brown-run-game"
     },
     {
-      "headline": "NFL Week 6 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
-      "published": "2026-10-12T15:16:21Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals"
-    },
-    {
       "headline": "How active NFL players continue to redefine all-time sack list",
       "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
       "published": "2026-10-12T17:01:10Z",
       "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     },
     {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-12T10:00:12Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
       "headline": "What are NFL overtime rules for regular and postseason play?",
       "summary": "Overtime periods can have a pivotal impact on game results. Here are key facts on regular-season and postseason overtime rules in the NFL.",
       "published": "2026-10-12T16:41:14Z",
       "url": "https://www.espn.com/nfl/story/_/id/39111637/what-nfl-rules-regular-postseason-play"
-    },
-    {
-      "headline": "NFL Week 5: Big takeaways, questions and fantasy spin from Sunday's games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 5.",
-      "published": "2026-10-12T15:52:53Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50127290/week-5-sunday-games-takeaways-questions-2026"
-    },
-    {
-      "headline": "Bengals not thrilled with play after win over Dolphins",
-      "summary": "Ben Baby breaks down how the Bengals know they can play better, despite the win over the Dolphins.",
-      "published": "2026-10-12T02:49:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/50163515/bengals-not-thrilled-play-win-dolphins"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "published": "2026-10-13T14:33:03Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
+    },
+    {
+      "headline": "NFL Week 6 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
+      "published": "2026-10-13T14:11:56Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 6",
+      "summary": "How does every NFL team stack up heading into Week 6? We made our 1-32 list and picked the biggest defensive problem for every team.",
+      "published": "2026-10-13T14:44:32Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50166454/nfl-power-rankings-week-6-teams-biggest-issue-defense"
+    },
+    {
+      "headline": "Removing 'a dark cloud': How the Ravens' clutch play ended a 581-game streak",
+      "summary": "Baltimore became the first team to win a game down by eight or more points in the final minute in four years.",
+      "published": "2026-10-13T12:46:55Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50168194/baltimore-ravens-clutch-play-falcons-remove-dark-cloud"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-13T14:19:51Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
     {
       "headline": "NFL Week 5 arrivals: Ravens trio channels early 2000s style ahead of 'SNF'",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
@@ -336,40 +366,10 @@
       "url": "https://www.espn.com/video/clip/_/id/50166428/tyler-huntley-filling-lamar-jackson-shoes"
     },
     {
-      "headline": "NFL Week 6 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
-      "published": "2026-10-12T15:16:21Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals"
-    },
-    {
       "headline": "How active NFL players continue to redefine all-time sack list",
       "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
       "published": "2026-10-12T17:01:10Z",
       "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
-    },
-    {
-      "headline": "Inside the NFL's wild endings and why coaches need to adapt",
-      "summary": "Scoring too early and kicking the ball into the end zone can be costly, as the Cowboys learned.",
-      "published": "2026-10-12T13:08:58Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50135925/wild-endings-cowboys-ravens-touchback"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-12T10:00:12Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "QB Tyler Huntley leads Ravens to comeback OT win vs. Falcons",
-      "summary": "With Lamar Jackson still out, Tyler Huntley backed up the Ravens' faith in him by leading them to a 30-23 overtime win against the Falcons, during which Huntley was 11-for-11 passing for 80 yards on the final two drives.",
-      "published": "2026-10-12T12:16:10Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50164378/backup-qb-tyler-huntley-leads-ravens-comeback-ot-win-vs-falcons"
-    },
-    {
-      "headline": "What are NFL overtime rules for regular and postseason play?",
-      "summary": "Overtime periods can have a pivotal impact on game results. Here are key facts on regular-season and postseason overtime rules in the NFL.",
-      "published": "2026-10-12T16:41:14Z",
-      "url": "https://www.espn.com/nfl/story/_/id/39111637/what-nfl-rules-regular-postseason-play"
     }
   ],
   "league_week": 7,
@@ -382,13 +382,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 46,
-        "tempC": 8
+        "text": "Partly sunny",
+        "tempF": 48,
+        "tempC": 9
       },
       "moneyline": {
-        "away": "-155",
-        "home": "+130"
+        "away": "-148",
+        "home": "+124"
       },
       "detail": "10/15 - 8:15 PM EDT",
       "final": false,
@@ -408,7 +408,7 @@
         "winner": null,
         "record": "3-2"
       },
-      "line": "SEA -3",
+      "line": "SEA -2.5",
       "overUnder": 40.5,
       "venue": "Empower Field at Mile High",
       "city": "Denver",
@@ -466,13 +466,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 63,
+        "text": "Sunny",
+        "tempF": 62,
         "tempC": 17
       },
       "moneyline": {
-        "away": "-175",
-        "home": "+145"
+        "away": "-180",
+        "home": "+150"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -510,13 +510,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 56,
-        "tempC": 13
+        "text": "Partly sunny",
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
-        "away": "-238",
-        "home": "+195"
+        "away": "-245",
+        "home": "+200"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -537,7 +537,7 @@
         "record": "4-1"
       },
       "line": "BAL -4.5",
-      "overUnder": 40.5,
+      "overUnder": 41.5,
       "venue": "Huntington Bank Field",
       "city": "Cleveland",
       "tv": [
@@ -554,13 +554,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
+        "text": "Sunny",
         "tempF": 57,
         "tempC": 14
       },
       "moneyline": {
-        "away": "+270",
-        "home": "-340"
+        "away": "+260",
+        "home": "-325"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -598,13 +598,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 50,
-        "tempC": 10
+        "text": "Sunny",
+        "tempF": 51,
+        "tempC": 11
       },
       "moneyline": {
-        "away": "+280",
-        "home": "-355"
+        "away": "+300",
+        "home": "-380"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -642,13 +642,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 55,
-        "tempC": 13
+        "text": "Sunny",
+        "tempF": 58,
+        "tempC": 14
       },
       "moneyline": {
-        "away": "-110",
-        "home": "-110"
+        "away": "-115",
+        "home": "-105"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -668,7 +668,7 @@
         "winner": null,
         "record": "1-4"
       },
-      "line": "NYG -1.5",
+      "line": "NO -1.5",
       "overUnder": 45.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
@@ -686,7 +686,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
+        "text": "Sunny",
         "tempF": 57,
         "tempC": 14
       },
@@ -713,7 +713,7 @@
         "record": "2-2"
       },
       "line": "PHI -1.5",
-      "overUnder": 41.5,
+      "overUnder": 40.5,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "tv": [
@@ -730,13 +730,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy w/ showers",
-        "tempF": 82,
-        "tempC": 28
+        "text": "Intermittent clouds",
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
-        "away": "-155",
-        "home": "+130"
+        "away": "-135",
+        "home": "+114"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -756,7 +756,7 @@
         "winner": null,
         "record": "3-2"
       },
-      "line": "PIT -3",
+      "line": "PIT -2.5",
       "overUnder": 40.5,
       "venue": "Raymond James Stadium",
       "city": "Tampa",
@@ -775,12 +775,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 89,
-        "tempC": 32
+        "tempF": 88,
+        "tempC": 31
       },
       "moneyline": {
-        "away": "+600",
-        "home": "-900"
+        "away": "+575",
+        "home": "-850"
       },
       "detail": "10/18 - 4:05 PM EDT",
       "final": false,
@@ -800,7 +800,7 @@
         "winner": null,
         "record": "1-4"
       },
-      "line": "LAR -13.5",
+      "line": "LAR -12.5",
       "overUnder": 52.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
@@ -819,12 +819,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+340",
-        "home": "-440"
+        "away": "+380",
+        "home": "-500"
       },
       "detail": "10/18 - 4:25 PM EDT",
       "final": false,
@@ -863,12 +863,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 78,
-        "tempC": 26
+        "tempF": 77,
+        "tempC": 25
       },
       "moneyline": {
-        "away": "-285",
-        "home": "+230"
+        "away": "-250",
+        "home": "+205"
       },
       "detail": "10/18 - 4:25 PM EDT",
       "final": false,
@@ -888,7 +888,7 @@
         "winner": null,
         "record": "4-1"
       },
-      "line": "BUF -6",
+      "line": "BUF -4.5",
       "overUnder": 53.5,
       "venue": "Allegiant Stadium",
       "city": "Las Vegas",
@@ -911,8 +911,8 @@
         "tempC": 13
       },
       "moneyline": {
-        "away": "-105",
-        "home": "-115"
+        "away": "+102",
+        "home": "-122"
       },
       "detail": "10/18 - 8:20 PM EDT",
       "final": false,
@@ -950,13 +950,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Mostly cloudy",
         "tempF": 72,
         "tempC": 22
       },
       "moneyline": {
-        "away": "+320",
-        "home": "-410"
+        "away": "+340",
+        "home": "-440"
       },
       "detail": "10/19 - 8:15 PM EDT",
       "final": false,
@@ -995,9 +995,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 59,
-        "tempC": 15
+        "text": "Cloudy",
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": null,
       "detail": "10/22 - 8:15 PM EDT",
