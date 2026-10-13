@@ -1,5 +1,5 @@
 {
-  "now_perth": "Tue, 13 Oct, 5:08 am",
+  "now_perth": "Tue, 13 Oct, 2:20 pm",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -274,6 +274,12 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 5 arrivals: Ravens trio channels early 2000s style ahead of 'SNF'",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-10-13T00:14:19Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
+    },
+    {
       "headline": "Samaje Perine gives Bengals a strong jolt to end 2-game skid",
       "summary": "When the run game was struggling, the Bengals turned to Perine, whose downhill style paid dividends.",
       "published": "2026-10-12T17:41:53Z",
@@ -314,15 +320,15 @@
       "summary": "Ben Baby breaks down how the Bengals know they can play better, despite the win over the Dolphins.",
       "published": "2026-10-12T02:49:15Z",
       "url": "https://www.espn.com/video/clip/_/id/50163515/bengals-not-thrilled-play-win-dolphins"
-    },
-    {
-      "headline": "NFL Week 5 arrivals: Ravens trio channels early 2000s style ahead of 'SNF'",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-11T23:12:50Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "NFL Week 5 arrivals: Ravens trio channels early 2000s style ahead of 'SNF'",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-10-13T00:14:19Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
+    },
     {
       "headline": "Tyler Huntley filling Lamar Jackson's shoes",
       "summary": "Jamison Hensley recaps the Ravens' OT win against the Falcons and how Huntley is keeping Baltimore rolling.",
@@ -364,12 +370,6 @@
       "summary": "Overtime periods can have a pivotal impact on game results. Here are key facts on regular-season and postseason overtime rules in the NFL.",
       "published": "2026-10-12T16:41:14Z",
       "url": "https://www.espn.com/nfl/story/_/id/39111637/what-nfl-rules-regular-postseason-play"
-    },
-    {
-      "headline": "Huntley leads late TD drive to force OT and then scores on 1-yard run as Ravens beat Falcons 30-23",
-      "summary": "— With Tyler Huntley filling in at quarterback, the Baltimore Ravens were on Snoop patrol.",
-      "published": "2026-10-12T06:15:27Z",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872993"
     }
   ],
   "league_week": 7,
@@ -387,8 +387,8 @@
         "tempC": 8
       },
       "moneyline": {
-        "away": "-148",
-        "home": "+124"
+        "away": "-155",
+        "home": "+130"
       },
       "detail": "10/15 - 8:15 PM EDT",
       "final": false,
@@ -467,8 +467,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
         "away": "-175",
@@ -493,7 +493,7 @@
         "record": "3-2"
       },
       "line": "CHI -3",
-      "overUnder": 48.5,
+      "overUnder": 49.5,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "tv": [
@@ -511,8 +511,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 57,
-        "tempC": 14
+        "tempF": 56,
+        "tempC": 13
       },
       "moneyline": {
         "away": "-238",
@@ -555,8 +555,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 56,
-        "tempC": 13
+        "tempF": 57,
+        "tempC": 14
       },
       "moneyline": {
         "away": "+270",
@@ -599,12 +599,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 46,
-        "tempC": 8
+        "tempF": 50,
+        "tempC": 10
       },
       "moneyline": {
-        "away": "+260",
-        "home": "-325"
+        "away": "+280",
+        "home": "-355"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -624,7 +624,7 @@
         "winner": null,
         "record": "2-3"
       },
-      "line": "NE -7",
+      "line": "NE -7.5",
       "overUnder": 43.5,
       "venue": "Gillette Stadium",
       "city": "Foxborough",
@@ -643,12 +643,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 54,
-        "tempC": 12
+        "tempF": 55,
+        "tempC": 13
       },
       "moneyline": {
-        "away": "-122",
-        "home": "+102"
+        "away": "-110",
+        "home": "-110"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -668,7 +668,7 @@
         "winner": null,
         "record": "1-4"
       },
-      "line": "NO -1.5",
+      "line": "NYG -1.5",
       "overUnder": 45.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
@@ -687,8 +687,8 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 55,
-        "tempC": 13
+        "tempF": 57,
+        "tempC": 14
       },
       "moneyline": {
         "away": "-105",
@@ -731,8 +731,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy w/ showers",
-        "tempF": 79,
-        "tempC": 26
+        "tempF": 82,
+        "tempC": 28
       },
       "moneyline": {
         "away": "-155",
@@ -775,12 +775,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 86,
-        "tempC": 30
+        "tempF": 89,
+        "tempC": 32
       },
       "moneyline": {
-        "away": "+490",
-        "home": "-675"
+        "away": "+600",
+        "home": "-900"
       },
       "detail": "10/18 - 4:05 PM EDT",
       "final": false,
@@ -790,7 +790,7 @@
         "name": "Los Angeles Rams",
         "score": null,
         "winner": null,
-        "record": "2-2"
+        "record": "2-3"
       },
       "away": {
         "id": "22",
@@ -800,7 +800,7 @@
         "winner": null,
         "record": "1-4"
       },
-      "line": "LAR -12.5",
+      "line": "LAR -13.5",
       "overUnder": 52.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
@@ -819,12 +819,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "+295",
-        "home": "-375"
+        "away": "+340",
+        "home": "-440"
       },
       "detail": "10/18 - 4:25 PM EDT",
       "final": false,
@@ -886,10 +886,10 @@
         "name": "Buffalo Bills",
         "score": null,
         "winner": null,
-        "record": "3-1"
+        "record": "4-1"
       },
       "line": "BUF -6",
-      "overUnder": 52.5,
+      "overUnder": 53.5,
       "venue": "Allegiant Stadium",
       "city": "Las Vegas",
       "tv": [
@@ -907,8 +907,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 57,
-        "tempC": 14
+        "tempF": 56,
+        "tempC": 13
       },
       "moneyline": {
         "away": "-105",
@@ -951,12 +951,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 74,
-        "tempC": 23
+        "tempF": 72,
+        "tempC": 22
       },
       "moneyline": {
-        "away": "+330",
-        "home": "-425"
+        "away": "+320",
+        "home": "-410"
       },
       "detail": "10/19 - 8:15 PM EDT",
       "final": false,
@@ -994,7 +994,11 @@
       "timeValid": true,
       "state": "pre",
       "clock": null,
-      "weather": null,
+      "weather": {
+        "text": "Mostly cloudy",
+        "tempF": 59,
+        "tempC": 15
+      },
       "moneyline": null,
       "detail": "10/22 - 8:15 PM EDT",
       "final": false,
@@ -1382,7 +1386,7 @@
         "name": "Los Angeles Rams",
         "score": null,
         "winner": null,
-        "record": "2-2"
+        "record": "2-3"
       },
       "line": null,
       "overUnder": null,
