@@ -1,5 +1,5 @@
 {
-  "now_perth": "Wed, 14 Oct, 3:06 am",
+  "now_perth": "Wed, 14 Oct, 12:21 pm",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -8,7 +8,10 @@
     "state": "pre",
     "clock": null,
     "weather": null,
-    "moneyline": null,
+    "moneyline": {
+      "away": "+160",
+      "home": "-192"
+    },
     "detail": "10/25 - 1:00 PM EDT",
     "final": false,
     "home": {
@@ -27,8 +30,8 @@
       "winner": null,
       "record": "3-2"
     },
-    "line": null,
-    "overUnder": null,
+    "line": "BAL -3.5",
+    "overUnder": 50.5,
     "venue": "M&T Bank Stadium",
     "city": "Baltimore",
     "tv": [
@@ -288,7 +291,7 @@
     {
       "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 6",
       "summary": "How does every NFL team stack up heading into Week 6? We made our 1-32 list and picked the biggest defensive problem for every team.",
-      "published": "2026-10-13T14:44:32Z",
+      "published": "2026-10-13T19:01:02Z",
       "url": "https://www.espn.com/nfl/story/_/id/50166454/nfl-power-rankings-week-6-teams-biggest-issue-defense"
     },
     {
@@ -338,7 +341,7 @@
     {
       "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 6",
       "summary": "How does every NFL team stack up heading into Week 6? We made our 1-32 list and picked the biggest defensive problem for every team.",
-      "published": "2026-10-13T14:44:32Z",
+      "published": "2026-10-13T19:01:02Z",
       "url": "https://www.espn.com/nfl/story/_/id/50166454/nfl-power-rankings-week-6-teams-biggest-issue-defense"
     },
     {
@@ -383,8 +386,8 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 48,
-        "tempC": 9
+        "tempF": 50,
+        "tempC": 10
       },
       "moneyline": {
         "away": "-148",
@@ -467,12 +470,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 62,
+        "tempF": 63,
         "tempC": 17
       },
       "moneyline": {
-        "away": "-180",
-        "home": "+150"
+        "away": "-162",
+        "home": "+136"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -515,8 +518,8 @@
         "tempC": 15
       },
       "moneyline": {
-        "away": "-245",
-        "home": "+200"
+        "away": "-238",
+        "home": "+195"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -559,8 +562,8 @@
         "tempC": 14
       },
       "moneyline": {
-        "away": "+260",
-        "home": "-325"
+        "away": "+270",
+        "home": "-340"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -603,8 +606,8 @@
         "tempC": 11
       },
       "moneyline": {
-        "away": "+300",
-        "home": "-380"
+        "away": "+275",
+        "home": "-345"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -757,7 +760,7 @@
         "record": "3-2"
       },
       "line": "PIT -2.5",
-      "overUnder": 40.5,
+      "overUnder": 39.5,
       "venue": "Raymond James Stadium",
       "city": "Tampa",
       "tv": [
@@ -775,12 +778,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 88,
-        "tempC": 31
+        "tempF": 86,
+        "tempC": 30
       },
       "moneyline": {
-        "away": "+575",
-        "home": "-850"
+        "away": "+600",
+        "home": "-900"
       },
       "detail": "10/18 - 4:05 PM EDT",
       "final": false,
@@ -801,7 +804,7 @@
         "record": "1-4"
       },
       "line": "LAR -12.5",
-      "overUnder": 52.5,
+      "overUnder": 51.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
       "tv": [
@@ -867,8 +870,8 @@
         "tempC": 25
       },
       "moneyline": {
-        "away": "-250",
-        "home": "+205"
+        "away": "-258",
+        "home": "+210"
       },
       "detail": "10/18 - 4:25 PM EDT",
       "final": false,
@@ -888,7 +891,7 @@
         "winner": null,
         "record": "4-1"
       },
-      "line": "BUF -4.5",
+      "line": "BUF -5.5",
       "overUnder": 53.5,
       "venue": "Allegiant Stadium",
       "city": "Las Vegas",
@@ -951,8 +954,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 72,
-        "tempC": 22
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
         "away": "+340",
@@ -996,10 +999,13 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 66,
+        "tempC": 19
       },
-      "moneyline": null,
+      "moneyline": {
+        "away": "+102",
+        "home": "-122"
+      },
       "detail": "10/22 - 8:15 PM EDT",
       "final": false,
       "home": {
@@ -1018,8 +1024,8 @@
         "winner": null,
         "record": "3-2"
       },
-      "line": null,
-      "overUnder": null,
+      "line": "CHI -1.5",
+      "overUnder": 48.5,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [
@@ -1036,7 +1042,10 @@
       "state": "pre",
       "clock": null,
       "weather": null,
-      "moneyline": null,
+      "moneyline": {
+        "away": "-142",
+        "home": "+120"
+      },
       "detail": "10/25 - 9:30 AM EDT",
       "final": false,
       "home": {
@@ -1055,8 +1064,8 @@
         "winner": null,
         "record": "3-2"
       },
-      "line": null,
-      "overUnder": null,
+      "line": "PIT -2.5",
+      "overUnder": 44.5,
       "venue": "Stade de France",
       "city": "Saint-Denis",
       "tv": [
@@ -1073,7 +1082,10 @@
       "state": "pre",
       "clock": null,
       "weather": null,
-      "moneyline": null,
+      "moneyline": {
+        "away": "-218",
+        "home": "+180"
+      },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
       "home": {
@@ -1092,8 +1104,8 @@
         "winner": null,
         "record": "5-0"
       },
-      "line": null,
-      "overUnder": null,
+      "line": "SF -4.5",
+      "overUnder": 49.5,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "tv": [
@@ -1110,7 +1122,10 @@
       "state": "pre",
       "clock": null,
       "weather": null,
-      "moneyline": null,
+      "moneyline": {
+        "away": "-125",
+        "home": "+105"
+      },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
       "home": {
@@ -1129,8 +1144,8 @@
         "winner": null,
         "record": "3-2"
       },
-      "line": null,
-      "overUnder": null,
+      "line": "CLE -1.5",
+      "overUnder": 37.5,
       "venue": "Nissan Stadium",
       "city": "Nashville",
       "tv": [
@@ -1147,7 +1162,10 @@
       "state": "pre",
       "clock": null,
       "weather": null,
-      "moneyline": null,
+      "moneyline": {
+        "away": "+210",
+        "home": "-258"
+      },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
       "home": {
@@ -1166,8 +1184,8 @@
         "winner": null,
         "record": "2-3"
       },
-      "line": null,
-      "overUnder": null,
+      "line": "MIN -5.5",
+      "overUnder": 43.5,
       "venue": "U.S. Bank Stadium",
       "city": "Minneapolis",
       "tv": [
@@ -1184,7 +1202,10 @@
       "state": "pre",
       "clock": null,
       "weather": null,
-      "moneyline": null,
+      "moneyline": {
+        "away": "+180",
+        "home": "-218"
+      },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
       "home": {
@@ -1203,8 +1224,8 @@
         "winner": null,
         "record": "0-5"
       },
-      "line": null,
-      "overUnder": null,
+      "line": "NYJ -4.5",
+      "overUnder": 38.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
@@ -1221,7 +1242,10 @@
       "state": "pre",
       "clock": null,
       "weather": null,
-      "moneyline": null,
+      "moneyline": {
+        "away": "+140",
+        "home": "-166"
+      },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
       "home": {
@@ -1240,8 +1264,8 @@
         "winner": null,
         "record": "1-4"
       },
-      "line": null,
-      "overUnder": null,
+      "line": "CAR -3",
+      "overUnder": 44.5,
       "venue": "Bank of America Stadium",
       "city": "Charlotte",
       "tv": [
@@ -1258,7 +1282,10 @@
       "state": "pre",
       "clock": null,
       "weather": null,
-      "moneyline": null,
+      "moneyline": {
+        "away": "+280",
+        "home": "-355"
+      },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
       "home": {
@@ -1277,8 +1304,8 @@
         "winner": null,
         "record": "3-1-1"
       },
-      "line": null,
-      "overUnder": null,
+      "line": "HOU -7",
+      "overUnder": 41.5,
       "venue": "Reliant Stadium",
       "city": "Houston",
       "tv": [
@@ -1295,7 +1322,10 @@
       "state": "pre",
       "clock": null,
       "weather": null,
-      "moneyline": null,
+      "moneyline": {
+        "away": "-250",
+        "home": "+205"
+      },
       "detail": "10/25 - 4:05 PM EDT",
       "final": false,
       "home": {
@@ -1314,8 +1344,8 @@
         "winner": null,
         "record": "3-2"
       },
-      "line": null,
-      "overUnder": null,
+      "line": "DEN -5.5",
+      "overUnder": 45.5,
       "venue": "State Farm Stadium",
       "city": "Glendale",
       "tv": [
@@ -1332,7 +1362,10 @@
       "state": "pre",
       "clock": null,
       "weather": null,
-      "moneyline": null,
+      "moneyline": {
+        "away": "+154",
+        "home": "-185"
+      },
       "detail": "10/25 - 4:25 PM EDT",
       "final": false,
       "home": {
@@ -1351,8 +1384,8 @@
         "winner": null,
         "record": "3-2"
       },
-      "line": null,
-      "overUnder": null,
+      "line": "DET -3",
+      "overUnder": 52.5,
       "venue": "Ford Field",
       "city": "Detroit",
       "tv": [
@@ -1369,7 +1402,10 @@
       "state": "pre",
       "clock": null,
       "weather": null,
-      "moneyline": null,
+      "moneyline": {
+        "away": "-305",
+        "home": "+245"
+      },
       "detail": "10/25 - 4:25 PM EDT",
       "final": false,
       "home": {
@@ -1388,8 +1424,8 @@
         "winner": null,
         "record": "2-3"
       },
-      "line": null,
-      "overUnder": null,
+      "line": "LAR -7",
+      "overUnder": 48.5,
       "venue": "Allegiant Stadium",
       "city": "Las Vegas",
       "tv": [
@@ -1406,7 +1442,10 @@
       "state": "pre",
       "clock": null,
       "weather": null,
-      "moneyline": null,
+      "moneyline": {
+        "away": "+114",
+        "home": "-135"
+      },
       "detail": "10/25 - 8:20 PM EDT",
       "final": false,
       "home": {
@@ -1425,8 +1464,8 @@
         "winner": null,
         "record": "4-0"
       },
-      "line": null,
-      "overUnder": null,
+      "line": "SEA -2.5",
+      "overUnder": 44.5,
       "venue": "Lumen Field",
       "city": "Seattle",
       "tv": [
@@ -1443,7 +1482,10 @@
       "state": "pre",
       "clock": null,
       "weather": null,
-      "moneyline": null,
+      "moneyline": {
+        "away": "-102",
+        "home": "-118"
+      },
       "detail": "10/26 - 8:15 PM EDT",
       "final": false,
       "home": {
@@ -1462,8 +1504,8 @@
         "winner": null,
         "record": "2-3"
       },
-      "line": null,
-      "overUnder": null,
+      "line": "PHI -1.5",
+      "overUnder": 47.5,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "tv": [
