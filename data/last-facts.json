@@ -1,5 +1,5 @@
 {
-  "now_perth": "Thu, 15 Oct, 12:04 pm",
+  "now_perth": "Fri, 16 Oct, 12:41 am",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -277,6 +277,18 @@
   },
   "news_bengals": [
     {
+      "headline": "Which NFL teams have never won a Super Bowl?",
+      "summary": "Some NFL teams have scored multiple Lombardi trophies, but which franchises have never won the Super Bowl? Check out more information now.",
+      "published": "2026-10-15T13:59:34Z",
+      "url": "https://www.espn.com/nfl/story/_/id/39387513/which-nfl-teams-never-won-super-bowl"
+    },
+    {
+      "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+      "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+      "published": "2026-10-15T12:58:28Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
+    },
+    {
       "headline": "Revisiting 2026 preseason bold predictions for 32 NFL teams: Which are on track?",
       "summary": "In the preseason, we made bold predictions for every NFL team, from Jordan Love's MVP case to Isaiah Likely's catch total. Which ones are on track? Which seem unlikely?",
       "published": "2026-10-14T13:20:56Z",
@@ -311,21 +323,15 @@
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "published": "2026-10-13T00:14:19Z",
       "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
-    },
-    {
-      "headline": "Samaje Perine gives Bengals a strong jolt to end 2-game skid",
-      "summary": "When the run game was struggling, the Bengals turned to Perine, whose downhill style paid dividends.",
-      "published": "2026-10-12T17:41:53Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50167310/samaje-perine-bengals-chase-brown-run-game"
-    },
-    {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "published": "2026-10-12T17:01:10Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+      "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+      "published": "2026-10-15T12:58:28Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
+    },
     {
       "headline": "Ravens get key players back at practice",
       "summary": "Jamison Hensley reports Trey Hendrickson, Ja'Kobi Lane and Cam Jurgens are back at practice as the Ravens get reinforcements.",
@@ -367,12 +373,6 @@
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
       "published": "2026-10-13T14:11:56Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals"
-    },
-    {
-      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 6",
-      "summary": "How does every NFL team stack up heading into Week 6? We made our 1-32 list and picked the biggest defensive problem for every team.",
-      "published": "2026-10-13T19:01:02Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50166454/nfl-power-rankings-week-6-teams-biggest-issue-defense"
     }
   ],
   "league_week": 7,
@@ -385,7 +385,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
+        "text": "Mostly sunny",
         "tempF": 54,
         "tempC": 12
       },
@@ -470,8 +470,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 59,
-        "tempC": 15
+        "tempF": 58,
+        "tempC": 14
       },
       "moneyline": {
         "away": "-115",
@@ -496,7 +496,7 @@
         "record": "3-2"
       },
       "line": "CHI -1.5",
-      "overUnder": 50.5,
+      "overUnder": 51.5,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "tv": [
@@ -514,8 +514,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 57,
-        "tempC": 14
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
         "away": "-258",
@@ -558,12 +558,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 58,
-        "tempC": 14
+        "tempF": 56,
+        "tempC": 13
       },
       "moneyline": {
-        "away": "+270",
-        "home": "-340"
+        "away": "+280",
+        "home": "-355"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -602,7 +602,7 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 51,
+        "tempF": 52,
         "tempC": 11
       },
       "moneyline": {
@@ -716,7 +716,7 @@
         "record": "2-2"
       },
       "line": "CAR -1.5",
-      "overUnder": 39.5,
+      "overUnder": 40.5,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "tv": [
@@ -733,13 +733,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 75,
-        "tempC": 24
+        "text": "Mostly cloudy",
+        "tempF": 79,
+        "tempC": 26
       },
       "moneyline": {
-        "away": "-142",
-        "home": "+120"
+        "away": "-148",
+        "home": "+124"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -777,9 +777,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 86,
-        "tempC": 30
+        "text": "Mostly sunny",
+        "tempF": 90,
+        "tempC": 32
       },
       "moneyline": {
         "away": "+600",
@@ -822,8 +822,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
         "away": "+370",
@@ -866,12 +866,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 77,
-        "tempC": 25
+        "tempF": 76,
+        "tempC": 24
       },
       "moneyline": {
-        "away": "-258",
-        "home": "+210"
+        "away": "-250",
+        "home": "+205"
       },
       "detail": "10/18 - 4:25 PM EDT",
       "final": false,
@@ -914,8 +914,8 @@
         "tempC": 14
       },
       "moneyline": {
-        "away": "+102",
-        "home": "-122"
+        "away": "+100",
+        "home": "-120"
       },
       "detail": "10/18 - 8:20 PM EDT",
       "final": false,
@@ -953,8 +953,8 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 66,
+        "text": "Intermittent clouds",
+        "tempF": 67,
         "tempC": 19
       },
       "moneyline": {
@@ -999,8 +999,8 @@
       "clock": null,
       "weather": {
         "text": "Clear",
-        "tempF": 54,
-        "tempC": 12
+        "tempF": 62,
+        "tempC": 17
       },
       "moneyline": {
         "away": "+105",
