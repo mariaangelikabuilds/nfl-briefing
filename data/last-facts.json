@@ -1,5 +1,5 @@
 {
-  "now_perth": "Fri, 16 Oct, 12:41 am",
+  "now_perth": "Fri, 16 Oct, 12:00 pm",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -7,10 +7,14 @@
     "timeValid": true,
     "state": "pre",
     "clock": null,
-    "weather": null,
+    "weather": {
+      "text": "Sunny",
+      "tempF": 60,
+      "tempC": 16
+    },
     "moneyline": {
-      "away": "+160",
-      "home": "-192"
+      "away": "+145",
+      "home": "-175"
     },
     "detail": "10/25 - 1:00 PM EDT",
     "final": false,
@@ -277,16 +281,22 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+      "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+      "published": "2026-10-16T00:00:42Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
+    },
+    {
+      "headline": "NFL Week 6 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
+      "published": "2026-10-15T18:15:59Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals"
+    },
+    {
       "headline": "Which NFL teams have never won a Super Bowl?",
       "summary": "Some NFL teams have scored multiple Lombardi trophies, but which franchises have never won the Super Bowl? Check out more information now.",
       "published": "2026-10-15T13:59:34Z",
       "url": "https://www.espn.com/nfl/story/_/id/39387513/which-nfl-teams-never-won-super-bowl"
-    },
-    {
-      "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
-      "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
-      "published": "2026-10-15T12:58:28Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
     },
     {
       "headline": "Revisiting 2026 preseason bold predictions for 32 NFL teams: Which are on track?",
@@ -299,12 +309,6 @@
       "summary": "Bengals TE Tanner Hudson suffered a torn pectoral in last Sunday's win over the Dolphins that will sideline him for the season, his agent told ESPN.",
       "published": "2026-10-13T16:43:38Z",
       "url": "https://www.espn.com/nfl/story/_/id/50174705/bengals-tight-end-tanner-hudson-season-torn-pec"
-    },
-    {
-      "headline": "NFL Week 6 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
-      "published": "2026-10-13T14:11:56Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals"
     },
     {
       "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 6",
@@ -327,10 +331,22 @@
   ],
   "news_opponent": [
     {
+      "headline": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+      "summary": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+      "published": "2026-10-16T00:52:35Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872997"
+    },
+    {
       "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
       "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
-      "published": "2026-10-15T12:58:28Z",
+      "published": "2026-10-16T00:00:42Z",
       "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
+    },
+    {
+      "headline": "NFL Week 6 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
+      "published": "2026-10-15T18:15:59Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals"
     },
     {
       "headline": "Ravens get key players back at practice",
@@ -361,18 +377,6 @@
       "summary": "In the preseason, we made bold predictions for every NFL team, from Jordan Love's MVP case to Isaiah Likely's catch total. Which ones are on track? Which seem unlikely?",
       "published": "2026-10-14T13:20:56Z",
       "url": "https://www.espn.com/nfl/story/_/id/50163007/2026-season-evaluating-preseason-predictions-updates"
-    },
-    {
-      "headline": "NFL Week 6 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-      "summary": "What is going on with the Eagles?! We have intel on Philly's three-game slide, three remaining unbeaten teams, QBs at risk of being benched, potential WR trades and more.",
-      "published": "2026-10-14T16:01:12Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50173775/week-6-buzz-fantasy-predictions-graziano-fowler-2026"
-    },
-    {
-      "headline": "NFL Week 6 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
-      "published": "2026-10-13T14:11:56Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals"
     }
   ],
   "league_week": 7,
@@ -382,43 +386,55 @@
       "week": 6,
       "kickoff": "2026-10-16T00:15Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Mostly sunny",
-        "tempF": 54,
-        "tempC": 12
-      },
-      "moneyline": {
-        "away": "-142",
-        "home": "+120"
-      },
-      "detail": "10/15 - 8:15 PM EDT",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final/OT",
+      "final": true,
       "home": {
         "id": "7",
         "abbr": "DEN",
         "name": "Denver Broncos",
-        "score": null,
-        "winner": null,
-        "record": "3-2"
+        "score": 17,
+        "winner": true,
+        "record": "4-2"
       },
       "away": {
         "id": "26",
         "abbr": "SEA",
         "name": "Seattle Seahawks",
-        "score": null,
-        "winner": null,
-        "record": "3-2"
+        "score": 14,
+        "winner": false,
+        "record": "3-3"
       },
-      "line": "SEA -2.5",
-      "overUnder": 40.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Empower Field at Mile High",
       "city": "Denver",
       "tv": [
         "Prime Video"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "27/51, 278 YDS, 2 INT",
+          "player": "Sam Darnold",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "14 CAR, 52 YDS",
+          "player": "Emanuel Wilson",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "12 REC, 134 YDS",
+          "player": "Jaxon Smith-Njigba",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Fri, 16 Oct, 8:15 am"
     },
     {
@@ -514,12 +530,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 59,
-        "tempC": 15
+        "tempF": 58,
+        "tempC": 14
       },
       "moneyline": {
-        "away": "-258",
-        "home": "+210"
+        "away": "-205",
+        "home": "+170"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -539,8 +555,8 @@
         "winner": null,
         "record": "4-1"
       },
-      "line": "BAL -5.5",
-      "overUnder": 42.5,
+      "line": "BAL -3.5",
+      "overUnder": 40.5,
       "venue": "Huntington Bank Field",
       "city": "Cleveland",
       "tv": [
@@ -558,12 +574,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 56,
-        "tempC": 13
+        "tempF": 58,
+        "tempC": 14
       },
       "moneyline": {
-        "away": "+280",
-        "home": "-355"
+        "away": "+270",
+        "home": "-340"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -602,12 +618,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 52,
-        "tempC": 11
+        "tempF": 53,
+        "tempC": 12
       },
       "moneyline": {
-        "away": "+270",
-        "home": "-340"
+        "away": "+275",
+        "home": "-345"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -646,8 +662,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 56,
-        "tempC": 13
+        "tempF": 57,
+        "tempC": 14
       },
       "moneyline": {
         "away": "-112",
@@ -694,8 +710,8 @@
         "tempC": 14
       },
       "moneyline": {
-        "away": "-115",
-        "home": "-105"
+        "away": "-185",
+        "home": "+154"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -715,8 +731,8 @@
         "winner": null,
         "record": "2-2"
       },
-      "line": "CAR -1.5",
-      "overUnder": 40.5,
+      "line": "CAR -3.5",
+      "overUnder": 38.5,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "tv": [
@@ -734,7 +750,7 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 79,
+        "tempF": 78,
         "tempC": 26
       },
       "moneyline": {
@@ -778,8 +794,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 90,
-        "tempC": 32
+        "tempF": 87,
+        "tempC": 31
       },
       "moneyline": {
         "away": "+600",
@@ -822,8 +838,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
         "away": "+370",
@@ -848,7 +864,7 @@
         "record": "0-5"
       },
       "line": "KC -8.5",
-      "overUnder": 42.5,
+      "overUnder": 41.5,
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
       "tv": [
@@ -870,8 +886,8 @@
         "tempC": 24
       },
       "moneyline": {
-        "away": "-250",
-        "home": "+205"
+        "away": "-218",
+        "home": "+180"
       },
       "detail": "10/18 - 4:25 PM EDT",
       "final": false,
@@ -891,7 +907,7 @@
         "winner": null,
         "record": "4-1"
       },
-      "line": "BUF -5.5",
+      "line": "BUF -4.5",
       "overUnder": 53.5,
       "venue": "Allegiant Stadium",
       "city": "Las Vegas",
@@ -954,7 +970,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 67,
+        "tempF": 66,
         "tempC": 19
       },
       "moneyline": {
@@ -980,7 +996,7 @@
         "record": "1-3-1"
       },
       "line": "SF -7.5",
-      "overUnder": 50.5,
+      "overUnder": 51.5,
       "venue": "Levi's Stadium",
       "city": "Santa Clara",
       "tv": [
@@ -999,7 +1015,7 @@
       "clock": null,
       "weather": {
         "text": "Clear",
-        "tempF": 62,
+        "tempF": 63,
         "tempC": 17
       },
       "moneyline": {
@@ -1043,8 +1059,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "-135",
-        "home": "+114"
+        "away": "-142",
+        "home": "+120"
       },
       "detail": "10/25 - 9:30 AM EDT",
       "final": false,
@@ -1081,7 +1097,11 @@
       "timeValid": true,
       "state": "pre",
       "clock": null,
-      "weather": null,
+      "weather": {
+        "text": "Hazy sunshine",
+        "tempF": 67,
+        "tempC": 19
+      },
       "moneyline": {
         "away": "-218",
         "home": "+180"
@@ -1121,7 +1141,11 @@
       "timeValid": true,
       "state": "pre",
       "clock": null,
-      "weather": null,
+      "weather": {
+        "text": "Hazy sunshine",
+        "tempF": 64,
+        "tempC": 18
+      },
       "moneyline": {
         "away": "-122",
         "home": "+102"
@@ -1161,10 +1185,14 @@
       "timeValid": true,
       "state": "pre",
       "clock": null,
-      "weather": null,
+      "weather": {
+        "text": "Cloudy",
+        "tempF": 50,
+        "tempC": 10
+      },
       "moneyline": {
-        "away": "+215",
-        "home": "-265"
+        "away": "+210",
+        "home": "-258"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1201,7 +1229,11 @@
       "timeValid": true,
       "state": "pre",
       "clock": null,
-      "weather": null,
+      "weather": {
+        "text": "Sunny",
+        "tempF": 60,
+        "tempC": 16
+      },
       "moneyline": {
         "away": "+180",
         "home": "-218"
@@ -1241,7 +1273,11 @@
       "timeValid": true,
       "state": "pre",
       "clock": null,
-      "weather": null,
+      "weather": {
+        "text": "Sunny",
+        "tempF": 61,
+        "tempC": 16
+      },
       "moneyline": {
         "away": "+136",
         "home": "-162"
@@ -1281,10 +1317,14 @@
       "timeValid": true,
       "state": "pre",
       "clock": null,
-      "weather": null,
+      "weather": {
+        "text": "Mostly cloudy",
+        "tempF": 75,
+        "tempC": 24
+      },
       "moneyline": {
-        "away": "+295",
-        "home": "-375"
+        "away": "+285",
+        "home": "-360"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1321,11 +1361,12 @@
       "timeValid": true,
       "state": "pre",
       "clock": null,
-      "weather": null,
-      "moneyline": {
-        "away": "-245",
-        "home": "+200"
+      "weather": {
+        "text": "Mostly sunny",
+        "tempF": 77,
+        "tempC": 25
       },
+      "moneyline": null,
       "detail": "10/25 - 4:05 PM EDT",
       "final": false,
       "home": {
@@ -1342,10 +1383,10 @@
         "name": "Denver Broncos",
         "score": null,
         "winner": null,
-        "record": "3-2"
+        "record": "4-2"
       },
-      "line": "DEN -5.5",
-      "overUnder": 45.5,
+      "line": null,
+      "overUnder": null,
       "venue": "State Farm Stadium",
       "city": "Glendale",
       "tv": [
@@ -1361,7 +1402,11 @@
       "timeValid": true,
       "state": "pre",
       "clock": null,
-      "weather": null,
+      "weather": {
+        "text": "Hazy sunshine",
+        "tempF": 56,
+        "tempC": 13
+      },
       "moneyline": {
         "away": "+154",
         "home": "-185"
@@ -1401,10 +1446,14 @@
       "timeValid": true,
       "state": "pre",
       "clock": null,
-      "weather": null,
+      "weather": {
+        "text": "Partly sunny",
+        "tempF": 70,
+        "tempC": 21
+      },
       "moneyline": {
-        "away": "-310",
-        "home": "+250"
+        "away": "-290",
+        "home": "+235"
       },
       "detail": "10/25 - 4:25 PM EDT",
       "final": false,
@@ -1441,11 +1490,12 @@
       "timeValid": true,
       "state": "pre",
       "clock": null,
-      "weather": null,
-      "moneyline": {
-        "away": "+114",
-        "home": "-135"
+      "weather": {
+        "text": "Intermittent clouds",
+        "tempF": 58,
+        "tempC": 14
       },
+      "moneyline": null,
       "detail": "10/25 - 8:20 PM EDT",
       "final": false,
       "home": {
@@ -1454,7 +1504,7 @@
         "name": "Seattle Seahawks",
         "score": null,
         "winner": null,
-        "record": "3-2"
+        "record": "3-3"
       },
       "away": {
         "id": "12",
@@ -1464,8 +1514,8 @@
         "winner": null,
         "record": "4-0"
       },
-      "line": "SEA -2.5",
-      "overUnder": 44.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Lumen Field",
       "city": "Seattle",
       "tv": [
@@ -1482,10 +1532,7 @@
       "state": "pre",
       "clock": null,
       "weather": null,
-      "moneyline": {
-        "away": "+100",
-        "home": "-120"
-      },
+      "moneyline": null,
       "detail": "10/26 - 8:15 PM EDT",
       "final": false,
       "home": {
@@ -1504,8 +1551,8 @@
         "winner": null,
         "record": "2-3"
       },
-      "line": "PHI -1.5",
-      "overUnder": 47.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "tv": [
