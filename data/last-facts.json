@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 17 Oct, 11:51 am",
+  "now_perth": "Sat, 17 Oct, 11:18 pm",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -8,7 +8,7 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Cloudy",
+      "text": "Sunny",
       "tempF": 61,
       "tempC": 16
     },
@@ -331,6 +331,12 @@
   ],
   "news_opponent": [
     {
+      "headline": "Ravens believe Browns' Todd Monken wants 'to kick our tail'",
+      "summary": "When Cleveland's coach takes the sideline Sunday, Baltimore players will face off against their fiery former OC.",
+      "published": "2026-10-17T10:00:10Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50190463/baltimore-ravens-browns-todd-monken-rematch-week-6"
+    },
+    {
       "headline": "Tyler Huntley to start at QB in Week 6",
       "summary": "Jamison Hensley details the Ravens' plan at QB after ruling out Lamar Jackson for Sunday's game.",
       "published": "2026-10-16T22:57:47Z",
@@ -371,12 +377,6 @@
       "summary": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
       "published": "2026-10-16T19:28:29Z",
       "url": "http://www.espn.com/nfl/preview?gameId=401872997"
-    },
-    {
-      "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
-      "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
-      "published": "2026-10-16T17:34:01Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
     }
   ],
   "league_week": 7,
@@ -490,8 +490,8 @@
         "tempC": 16
       },
       "moneyline": {
-        "away": "-118",
-        "home": "-102"
+        "away": "-120",
+        "home": "+100"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -512,7 +512,7 @@
         "record": "3-2"
       },
       "line": "CHI -1.5",
-      "overUnder": 51.5,
+      "overUnder": 52.5,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "tv": [
@@ -574,7 +574,7 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 58,
+        "tempF": 57,
         "tempC": 14
       },
       "moneyline": {
@@ -662,8 +662,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 56,
-        "tempC": 13
+        "tempF": 57,
+        "tempC": 14
       },
       "moneyline": {
         "away": "-110",
@@ -706,7 +706,7 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 56,
+        "tempF": 55,
         "tempC": 13
       },
       "moneyline": {
@@ -750,8 +750,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 78,
-        "tempC": 26
+        "tempF": 77,
+        "tempC": 25
       },
       "moneyline": {
         "away": "-148",
@@ -794,8 +794,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 87,
-        "tempC": 31
+        "tempF": 85,
+        "tempC": 29
       },
       "moneyline": {
         "away": "+550",
@@ -838,8 +838,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
         "away": "+340",
@@ -882,12 +882,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 76,
-        "tempC": 24
+        "tempF": 74,
+        "tempC": 23
       },
       "moneyline": {
-        "away": "-230",
-        "home": "+190"
+        "away": "-225",
+        "home": "+185"
       },
       "detail": "10/18 - 4:25 PM EDT",
       "final": false,
@@ -907,7 +907,7 @@
         "winner": null,
         "record": "4-1"
       },
-      "line": "BUF -4.5",
+      "line": "BUF -5.5",
       "overUnder": 53.5,
       "venue": "Allegiant Stadium",
       "city": "Las Vegas",
@@ -1015,8 +1015,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly clear",
-        "tempF": 62,
-        "tempC": 17
+        "tempF": 61,
+        "tempC": 16
       },
       "moneyline": {
         "away": "+105",
@@ -1099,8 +1099,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 71,
-        "tempC": 22
+        "tempF": 70,
+        "tempC": 21
       },
       "moneyline": {
         "away": "-218",
@@ -1142,9 +1142,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 69,
-        "tempC": 21
+        "text": "Cloudy",
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
         "away": "-125",
@@ -1186,7 +1186,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
+        "text": "Mostly cloudy",
         "tempF": 53,
         "tempC": 12
       },
@@ -1230,9 +1230,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 60,
-        "tempC": 16
+        "text": "Sunny",
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
         "away": "+180",
@@ -1274,9 +1274,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 65,
-        "tempC": 18
+        "text": "Sunny",
+        "tempF": 62,
+        "tempC": 17
       },
       "moneyline": {
         "away": "+136",
@@ -1318,8 +1318,8 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Hazy sunshine",
-        "tempF": 76,
+        "text": "Cloudy",
+        "tempF": 75,
         "tempC": 24
       },
       "moneyline": {
@@ -1363,8 +1363,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 76,
-        "tempC": 24
+        "tempF": 78,
+        "tempC": 26
       },
       "moneyline": null,
       "detail": "10/25 - 4:05 PM EDT",
@@ -1403,8 +1403,8 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 65,
+        "text": "Intermittent clouds",
+        "tempF": 64,
         "tempC": 18
       },
       "moneyline": {
@@ -1447,9 +1447,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 73,
-        "tempC": 23
+        "text": "Hazy sunshine",
+        "tempF": 71,
+        "tempC": 22
       },
       "moneyline": {
         "away": "-310",
@@ -1491,7 +1491,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Intermittent clouds",
         "tempF": 57,
         "tempC": 14
       },
@@ -1532,9 +1532,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly clear",
-        "tempF": 59,
-        "tempC": 15
+        "text": "Cloudy",
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": null,
       "detail": "10/26 - 8:15 PM EDT",
