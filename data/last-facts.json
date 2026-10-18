@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 17 Oct, 11:18 pm",
+  "now_perth": "Sun, 18 Oct, 11:57 am",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Sunny",
-      "tempF": 61,
+      "tempF": 60,
       "tempC": 16
     },
     "moneyline": {
-      "away": "+145",
-      "home": "-175"
+      "away": "+150",
+      "home": "-180"
     },
     "detail": "10/25 - 1:00 PM EDT",
     "final": false,
@@ -281,6 +281,12 @@
   },
   "news_bengals": [
     {
+      "headline": "How can the Bengals improve after the bye week?",
+      "summary": "Ben Baby on what the Bengals need to address coming out of their Week 6 bye.",
+      "published": "2026-10-18T01:28:21Z",
+      "url": "https://www.espn.com/video/clip/_/id/50206372/how-bengals-improve-bye-week"
+    },
+    {
       "headline": "NFL Week 6 betting: Odds, lines and totals for every game",
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
       "published": "2026-10-16T17:30:10Z",
@@ -301,13 +307,13 @@
     {
       "headline": "NFL Week 6 preview: Picks, predictions, schedule, betting odds, fantasy tips",
       "summary": "Patrick Mahomes vs. Justin Herbert? C.J. Stroud vs. Trevor Lawrence? There are 13 more games in Week 6, and we have picks, predictions and more for all of them.",
-      "published": "2026-10-16T13:58:22Z",
+      "published": "2026-10-18T01:24:06Z",
       "url": "https://www.espn.com/nfl/story/_/id/50188997/week-6-picks-predictions-schedule-fantasy-odds-2026"
     },
     {
       "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
       "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
-      "published": "2026-10-16T17:34:01Z",
+      "published": "2026-10-17T17:07:04Z",
       "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
     },
     {
@@ -321,12 +327,6 @@
       "summary": "In the preseason, we made bold predictions for every NFL team, from Jordan Love's MVP case to Isaiah Likely's catch total. Which ones are on track? Which seem unlikely?",
       "published": "2026-10-14T13:20:56Z",
       "url": "https://www.espn.com/nfl/story/_/id/50163007/2026-season-evaluating-preseason-predictions-updates"
-    },
-    {
-      "headline": "Bengals tight end Tanner Hudson out for season with torn pec",
-      "summary": "Bengals TE Tanner Hudson suffered a torn pectoral in last Sunday's win over the Dolphins that will sideline him for the season, his agent told ESPN.",
-      "published": "2026-10-13T16:43:38Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50174705/bengals-tight-end-tanner-hudson-season-torn-pec"
     }
   ],
   "news_opponent": [
@@ -468,7 +468,7 @@
         "record": "1-4"
       },
       "line": "JAX -2.5",
-      "overUnder": 42.5,
+      "overUnder": 41.5,
       "venue": "Wembley Stadium",
       "city": "London",
       "tv": [
@@ -530,8 +530,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 57,
-        "tempC": 14
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
         "away": "-166",
@@ -578,8 +578,8 @@
         "tempC": 14
       },
       "moneyline": {
-        "away": "+270",
-        "home": "-340"
+        "away": "+260",
+        "home": "-325"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -599,7 +599,7 @@
         "winner": null,
         "record": "0-5"
       },
-      "line": "IND -7",
+      "line": "IND -6.5",
       "overUnder": 44.5,
       "venue": "Lucas Oil Stadium",
       "city": "Indianapolis",
@@ -622,8 +622,8 @@
         "tempC": 11
       },
       "moneyline": {
-        "away": "+270",
-        "home": "-340"
+        "away": "+280",
+        "home": "-355"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -666,8 +666,8 @@
         "tempC": 14
       },
       "moneyline": {
-        "away": "-110",
-        "home": "-110"
+        "away": "-108",
+        "home": "-112"
       },
       "detail": "10/18 - 1:00 PM EDT",
       "final": false,
@@ -687,7 +687,7 @@
         "winner": null,
         "record": "1-4"
       },
-      "line": "NO -1.5",
+      "line": "NYG -1.5",
       "overUnder": 46.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
@@ -706,7 +706,7 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 55,
+        "tempF": 56,
         "tempC": 13
       },
       "moneyline": {
@@ -749,7 +749,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
+        "text": "Intermittent clouds",
         "tempF": 77,
         "tempC": 25
       },
@@ -794,8 +794,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 85,
-        "tempC": 29
+        "tempF": 86,
+        "tempC": 30
       },
       "moneyline": {
         "away": "+550",
@@ -842,8 +842,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "+340",
-        "home": "-440"
+        "away": "+330",
+        "home": "-425"
       },
       "detail": "10/18 - 4:25 PM EDT",
       "final": false,
@@ -886,8 +886,8 @@
         "tempC": 23
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-258",
+        "home": "+210"
       },
       "detail": "10/18 - 4:25 PM EDT",
       "final": false,
@@ -930,8 +930,8 @@
         "tempC": 12
       },
       "moneyline": {
-        "away": "-102",
-        "home": "-118"
+        "away": "-105",
+        "home": "-115"
       },
       "detail": "10/18 - 8:20 PM EDT",
       "final": false,
@@ -970,12 +970,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 66,
-        "tempC": 19
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+330",
-        "home": "-425"
+        "away": "+360",
+        "home": "-470"
       },
       "detail": "10/19 - 8:15 PM EDT",
       "final": false,
@@ -1015,7 +1015,7 @@
       "clock": null,
       "weather": {
         "text": "Mostly clear",
-        "tempF": 61,
+        "tempF": 60,
         "tempC": 16
       },
       "moneyline": {
@@ -1099,12 +1099,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 70,
+        "tempF": 69,
         "tempC": 21
       },
       "moneyline": {
-        "away": "-218",
-        "home": "+180"
+        "away": "-205",
+        "home": "+170"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1143,8 +1143,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 69,
+        "tempC": 21
       },
       "moneyline": {
         "away": "-125",
@@ -1187,8 +1187,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 53,
-        "tempC": 12
+        "tempF": 55,
+        "tempC": 13
       },
       "moneyline": {
         "away": "+210",
@@ -1323,8 +1323,8 @@
         "tempC": 24
       },
       "moneyline": {
-        "away": "+285",
-        "home": "-360"
+        "away": "+275",
+        "home": "-345"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1448,12 +1448,12 @@
       "clock": null,
       "weather": {
         "text": "Hazy sunshine",
-        "tempF": 71,
-        "tempC": 22
+        "tempF": 73,
+        "tempC": 23
       },
       "moneyline": {
-        "away": "-310",
-        "home": "+250"
+        "away": "-298",
+        "home": "+240"
       },
       "detail": "10/25 - 4:25 PM EDT",
       "final": false,
@@ -1492,7 +1492,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 57,
+        "tempF": 58,
         "tempC": 14
       },
       "moneyline": null,
@@ -1533,7 +1533,7 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 60,
+        "tempF": 61,
         "tempC": 16
       },
       "moneyline": null,
