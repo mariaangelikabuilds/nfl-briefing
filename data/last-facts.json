@@ -1,5 +1,5 @@
 {
-  "now_perth": "Mon, 19 Oct, 12:06 pm",
+  "now_perth": "Tue, 20 Oct, 2:35 am",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": {
       "text": "Sunny",
-      "tempF": 57,
-      "tempC": 14
+      "tempF": 56,
+      "tempC": 13
     },
     "moneyline": {
       "away": "+130",
@@ -35,7 +35,7 @@
       "record": "3-2"
     },
     "line": "BAL -3",
-    "overUnder": 50.5,
+    "overUnder": 51.5,
     "venue": "M&T Bank Stadium",
     "city": "Baltimore",
     "tv": [
@@ -281,9 +281,27 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 7 betting odds: Lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
+      "published": "2026-10-19T15:00:31Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "published": "2026-10-19T14:23:56Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-19T10:00:01Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
       "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
       "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
-      "published": "2026-10-19T00:56:05Z",
+      "published": "2026-10-19T04:17:26Z",
       "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
     },
     {
@@ -309,38 +327,44 @@
       "summary": "Ben Baby on what the Bengals need to address coming out of their Week 6 bye.",
       "published": "2026-10-18T01:28:21Z",
       "url": "https://www.espn.com/video/clip/_/id/50206372/how-bengals-improve-bye-week"
-    },
-    {
-      "headline": "NFL Week 6 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
-      "published": "2026-10-16T17:30:10Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals"
-    },
-    {
-      "headline": "Is 2026 the year for Joe Burrow and the Bengals?",
-      "summary": "Ben Baby breaks down Burrow's successful start to the 2026 season and how the Bengals are \"overperforming.\"",
-      "published": "2026-10-16T15:35:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/50196714/is-2026-year-joe-burrow-bengals"
-    },
-    {
-      "headline": "Ranking all eight NFL divisions this season by strength: NFC North at No. 1?",
-      "summary": "Why do we have the NFC North at No. 1 in our annual division power ranking -- even ahead of the mighty NFC West? And is the NFC South at the bottom of our list ... again?",
-      "published": "2026-10-16T10:38:23Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50181965/2026-nfl-season-ranking-eight-nfl-divisions-best-worst"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "NFL Week 7 betting odds: Lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
+      "published": "2026-10-19T15:00:31Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "published": "2026-10-19T14:23:56Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-19T10:00:01Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
+      "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+      "published": "2026-10-19T04:46:54Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
+    },
+    {
+      "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+      "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+      "published": "2026-10-19T04:17:26Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
+    },
     {
       "headline": "Sunday's top plays from around the NFL",
       "summary": "Sunday's top plays from around the NFL",
       "published": "2026-10-19T03:18:48Z",
       "url": "https://www.espn.com/video/clip/_/id/50216041/sunday-top-plays-nfl"
-    },
-    {
-      "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-      "published": "2026-10-19T02:51:57Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
     },
     {
       "headline": "Ravens blow another double-digit lead",
@@ -353,30 +377,6 @@
       "summary": "The Panthers picked at Philadelphia's roots after their road win, but more teams turned petty following their respective Week 6 wins.",
       "published": "2026-10-19T01:51:47Z",
       "url": "https://www.espn.com/nfl/story/_/id/50214221/nfl-week-6-top-trolls"
-    },
-    {
-      "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
-      "published": "2026-10-19T00:56:05Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
-    },
-    {
-      "headline": "Packers LB Zaire Franklin leads NFL Week 6's best arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-18T23:58:17Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals"
-    },
-    {
-      "headline": "Derrick Henry takes blame as fumbling woes costly for Ravens",
-      "summary": "Derrick Henry's fumble in the fourth quarter led to Cleveland's only touchdown drive of the game.",
-      "published": "2026-10-19T02:03:15Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50213686/derrick-henry-takes-blame-fumbling-woes-costly-ravens"
-    },
-    {
-      "headline": "What are the longest field goals in NFL history?",
-      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "published": "2026-10-18T20:33:41Z",
-      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history"
     }
   ],
   "league_week": 7,
@@ -1118,12 +1118,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 66,
-        "tempC": 19
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+350",
-        "home": "-455"
+        "away": "+310",
+        "home": "-395"
       },
       "detail": "10/19 - 8:15 PM EDT",
       "final": false,
@@ -1144,7 +1144,7 @@
         "record": "1-3-1"
       },
       "line": "SF -7.5",
-      "overUnder": 52.5,
+      "overUnder": 51.5,
       "venue": "Levi's Stadium",
       "city": "Santa Clara",
       "tv": [
@@ -1162,7 +1162,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly cloudy",
+        "text": "Clear",
         "tempF": 60,
         "tempC": 16
       },
@@ -1188,8 +1188,8 @@
         "winner": null,
         "record": "4-2"
       },
-      "line": "CHI -2.5",
-      "overUnder": 49.5,
+      "line": "CHI -3",
+      "overUnder": 50.5,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [
@@ -1207,8 +1207,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "-142",
-        "home": "+120"
+        "away": "-162",
+        "home": "+136"
       },
       "detail": "10/25 - 9:30 AM EDT",
       "final": false,
@@ -1228,7 +1228,7 @@
         "winner": null,
         "record": "4-2"
       },
-      "line": "PIT -2.5",
+      "line": "PIT -3",
       "overUnder": 44.5,
       "venue": "Stade de France",
       "city": "Saint-Denis",
@@ -1246,13 +1246,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 66,
-        "tempC": 19
+        "text": "Sunny",
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-218",
+        "home": "+180"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1290,9 +1290,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 62,
-        "tempC": 17
+        "text": "Mostly sunny",
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
         "away": "-125",
@@ -1317,7 +1317,7 @@
         "record": "4-2"
       },
       "line": "CLE -1.5",
-      "overUnder": 36.5,
+      "overUnder": 38.5,
       "venue": "Nissan Stadium",
       "city": "Nashville",
       "tv": [
@@ -1334,13 +1334,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 55,
-        "tempC": 13
+        "text": "Partly sunny",
+        "tempF": 58,
+        "tempC": 14
       },
       "moneyline": {
-        "away": "+215",
-        "home": "-265"
+        "away": "+200",
+        "home": "-245"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1360,8 +1360,8 @@
         "winner": null,
         "record": "2-4"
       },
-      "line": "MIN -6",
-      "overUnder": 42.5,
+      "line": "MIN -5.5",
+      "overUnder": 41.5,
       "venue": "U.S. Bank Stadium",
       "city": "Minneapolis",
       "tv": [
@@ -1379,12 +1379,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 58,
+        "tempF": 57,
         "tempC": 14
       },
       "moneyline": {
-        "away": "+185",
-        "home": "-225"
+        "away": "+190",
+        "home": "-230"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1423,12 +1423,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 58,
+        "tempF": 57,
         "tempC": 14
       },
       "moneyline": {
-        "away": "+150",
-        "home": "-180"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1449,7 +1449,7 @@
         "record": "1-5"
       },
       "line": "CAR -3",
-      "overUnder": 43.5,
+      "overUnder": 44.5,
       "venue": "Bank of America Stadium",
       "city": "Charlotte",
       "tv": [
@@ -1467,8 +1467,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 72,
-        "tempC": 22
+        "tempF": 73,
+        "tempC": 23
       },
       "moneyline": {
         "away": "+370",
@@ -1493,7 +1493,7 @@
         "record": "3-2-1"
       },
       "line": "HOU -9.5",
-      "overUnder": 43.5,
+      "overUnder": 42.5,
       "venue": "Reliant Stadium",
       "city": "Houston",
       "tv": [
@@ -1515,8 +1515,8 @@
         "tempC": 26
       },
       "moneyline": {
-        "away": "-205",
-        "home": "+170"
+        "away": "-230",
+        "home": "+190"
       },
       "detail": "10/25 - 4:05 PM EDT",
       "final": false,
@@ -1554,11 +1554,14 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 65,
+        "text": "Intermittent clouds",
+        "tempF": 64,
         "tempC": 18
       },
-      "moneyline": null,
+      "moneyline": {
+        "away": "+140",
+        "home": "-166"
+      },
       "detail": "10/25 - 4:25 PM EDT",
       "final": false,
       "home": {
@@ -1575,10 +1578,10 @@
         "name": "Green Bay Packers",
         "score": null,
         "winner": null,
-        "record": "3-2"
+        "record": "4-2"
       },
-      "line": null,
-      "overUnder": null,
+      "line": "DET -3",
+      "overUnder": 52.5,
       "venue": "Ford Field",
       "city": "Detroit",
       "tv": [
@@ -1596,8 +1599,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 74,
-        "tempC": 23
+        "tempF": 72,
+        "tempC": 22
       },
       "moneyline": {
         "away": "-258",
@@ -1622,7 +1625,7 @@
         "record": "2-4"
       },
       "line": "LAR -5.5",
-      "overUnder": 46.5,
+      "overUnder": 47.5,
       "venue": "Allegiant Stadium",
       "city": "Las Vegas",
       "tv": [
@@ -1639,13 +1642,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 58,
+        "text": "Mostly cloudy",
+        "tempF": 57,
         "tempC": 14
       },
       "moneyline": {
-        "away": "+110",
-        "home": "-130"
+        "away": "+114",
+        "home": "-135"
       },
       "detail": "10/25 - 8:20 PM EDT",
       "final": false,
@@ -1684,10 +1687,13 @@
       "clock": null,
       "weather": {
         "text": "Clear",
-        "tempF": 61,
+        "tempF": 60,
         "tempC": 16
       },
-      "moneyline": null,
+      "moneyline": {
+        "away": "-225",
+        "home": "+185"
+      },
       "detail": "10/26 - 8:15 PM EDT",
       "final": false,
       "home": {
@@ -1704,10 +1710,10 @@
         "name": "Dallas Cowboys",
         "score": null,
         "winner": null,
-        "record": "2-3"
+        "record": "2-4"
       },
-      "line": null,
-      "overUnder": null,
+      "line": "DAL -4.5",
+      "overUnder": 44.5,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "tv": [

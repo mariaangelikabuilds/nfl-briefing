@@ -94,6 +94,16 @@
     "401873007"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Browns 13, Ravens 10. Cleveland pushed Baltimore to 4-2 and a three-way tie at the top. Jamison Hensley's clip: Ravens blew another double-digit lead, and Derrick Henry took blame for his fumble.",
+        "Chiefs are 5-0 after a 22-6 win over the Chargers, who fall to 0-6. Kenneth Walker III went 19 car, 128 yds, 2 TD. Next up: at Seattle, Mon 26 Oct 8:20 am Perth, Seahawks -2.5.",
+        "Steelers won 26-19 in OT at Tampa behind Aaron Rodgers at 33/49, 253 yds, 2 TD, 1 INT. They are in Paris next, Sun 25 Oct 9:30 pm Perth, laying 2.5 to the Saints.",
+        "Bills beat the Raiders 33-30 to move to 5-1. Kirk Cousins threw for 313 and two scores in the loss.",
+        "49ers are 5-0 and host Washington on Tue 20 Oct, 8:15 am Perth, favoured by 7.5 with a total of 52.5.",
+        "Panthers 25, Eagles 14. Chuba Hubbard ran 28 times for 120 and a score. Philadelphia sits 2-4 before Dallas on Tue 27 Oct, 8:15 am Perth."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401873012",
     "postgame": {
@@ -106,17 +116,7 @@
       "division_meaning": "Baltimore sits 4-1 on a W3 run. Cincinnati, Cleveland and Pittsburgh are all 3-2. The Bengals' +19 point differential is second in the North behind the Ravens' +27.",
       "the_take": "A win over an 0-5 team that you got outgained in is not a fix. Ben Baby's piece says the Bengals know they can play better. Giving up 217 on the ground travels badly to Baltimore on Mon, 26 Oct, 1:00 am."
     },
-    "postgame_for": "401872982",
-    "league": {
-      "lines": [
-        "Browns 13, Ravens 10. Cleveland pushed Baltimore to 4-2 and a three-way tie at the top. Jamison Hensley's clip: Ravens blew another double-digit lead, and Derrick Henry took blame for his fumble.",
-        "Chiefs are 5-0 after a 22-6 win over the Chargers, who fall to 0-6. Kenneth Walker III went 19 car, 128 yds, 2 TD. Next up: at Seattle, Mon 26 Oct 8:20 am Perth, Seahawks -2.5.",
-        "Steelers won 26-19 in OT at Tampa behind Aaron Rodgers at 33/49, 253 yds, 2 TD, 1 INT. They are in Paris next, Sun 25 Oct 9:30 pm Perth, laying 2.5 to the Saints.",
-        "Bills beat the Raiders 33-30 to move to 5-1. Kirk Cousins threw for 313 and two scores in the loss.",
-        "49ers are 5-0 and host Washington on Tue 20 Oct, 8:15 am Perth, favoured by 7.5 with a total of 52.5.",
-        "Panthers 25, Eagles 14. Chuba Hubbard ran 28 times for 120 and a score. Philadelphia sits 2-4 before Dallas on Tue 27 Oct, 8:15 am Perth."
-      ]
-    }
+    "postgame_for": "401872982"
   },
   "written_at": "2026-10-19T04:06:26.475Z",
   "last_error": null
