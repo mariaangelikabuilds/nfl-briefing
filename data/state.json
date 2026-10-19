@@ -79,19 +79,21 @@
     "401872992",
     "401872993",
     "401872994",
-    "401872995"
+    "401872995",
+    "401872996",
+    "401872997",
+    "401872998",
+    "401872999",
+    "401873000",
+    "401873001",
+    "401873002",
+    "401873003",
+    "401873004",
+    "401873005",
+    "401873006",
+    "401873007"
   ],
   "briefing": {
-    "league": {
-      "lines": [
-        " Ravens at Browns, Mon 19 Oct 1:00 am Perth, BAL -3.5, total 40.5. ESPN reports a source says Lamar Jackson has a realistic chance to play after not practising Wednesday.",
-        "Denver beat Seattle 17-14 in OT. Sam Darnold went 27/51 for 278 yards and 2 INTs. Jaxon Smith-Njigba had 12 catches for 134 yards. Broncos 4-2, Seahawks 3-3.",
-        "Chiefs 4-0 host the 0-5 Chargers at KC -8.5, Mon 19 Oct 4:25 am Perth. Niners 5-0 host Washington on Tuesday 8:15 am, SF -7.5.",
-        "Steelers at Buccaneers, PIT -2.5, total 39.5. Pittsburgh sits 3-2 in the North, then plays the Saints in Saint-Denis in Week 7.",
-        "Texans 1-4 vs Jaguars 4-1 from Wembley, Sun 18 Oct 9:30 pm Perth, JAX -2.5, total 42.5.",
-        "Cowboys at Packers on Sunday night, GB -1.5 with a 53.5 total. Both 3-2 and 2-3 respectively, so NFC playoff seeding starts to bite."
-      ]
-    },
     "pregame": null,
     "pregame_for": "401873012",
     "postgame": {
@@ -104,8 +106,18 @@
       "division_meaning": "Baltimore sits 4-1 on a W3 run. Cincinnati, Cleveland and Pittsburgh are all 3-2. The Bengals' +19 point differential is second in the North behind the Ravens' +27.",
       "the_take": "A win over an 0-5 team that you got outgained in is not a fix. Ben Baby's piece says the Bengals know they can play better. Giving up 217 on the ground travels badly to Baltimore on Mon, 26 Oct, 1:00 am."
     },
-    "postgame_for": "401872982"
+    "postgame_for": "401872982",
+    "league": {
+      "lines": [
+        "Browns 13, Ravens 10. Cleveland pushed Baltimore to 4-2 and a three-way tie at the top. Jamison Hensley's clip: Ravens blew another double-digit lead, and Derrick Henry took blame for his fumble.",
+        "Chiefs are 5-0 after a 22-6 win over the Chargers, who fall to 0-6. Kenneth Walker III went 19 car, 128 yds, 2 TD. Next up: at Seattle, Mon 26 Oct 8:20 am Perth, Seahawks -2.5.",
+        "Steelers won 26-19 in OT at Tampa behind Aaron Rodgers at 33/49, 253 yds, 2 TD, 1 INT. They are in Paris next, Sun 25 Oct 9:30 pm Perth, laying 2.5 to the Saints.",
+        "Bills beat the Raiders 33-30 to move to 5-1. Kirk Cousins threw for 313 and two scores in the loss.",
+        "49ers are 5-0 and host Washington on Tue 20 Oct, 8:15 am Perth, favoured by 7.5 with a total of 52.5.",
+        "Panthers 25, Eagles 14. Chuba Hubbard ran 28 times for 120 and a score. Philadelphia sits 2-4 before Dallas on Tue 27 Oct, 8:15 am Perth."
+      ]
+    }
   },
-  "written_at": "2026-10-16T04:00:20.476Z",
+  "written_at": "2026-10-19T04:06:26.475Z",
   "last_error": null
 }
