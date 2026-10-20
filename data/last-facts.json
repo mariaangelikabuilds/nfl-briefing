@@ -1,5 +1,5 @@
 {
-  "now_perth": "Tue, 20 Oct, 12:19 pm",
+  "now_perth": "Wed, 21 Oct, 12:38 am",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -9,7 +9,7 @@
     "clock": null,
     "weather": {
       "text": "Sunny",
-      "tempF": 60,
+      "tempF": 61,
       "tempC": 16
     },
     "moneyline": {
@@ -34,7 +34,7 @@
       "winner": null,
       "record": "3-2"
     },
-    "line": "BAL -2.5",
+    "line": "BAL -3",
     "overUnder": 51.5,
     "venue": "M&T Bank Stadium",
     "city": "Baltimore",
@@ -331,6 +331,18 @@
   ],
   "news_opponent": [
     {
+      "headline": "NFL Power Rankings: How all 32 teams stack up for Week 7, plus offensive issues",
+      "summary": "How does every NFL team stack up heading into Week 7? We made our 1-32 list and picked the biggest offensive problem for every team.",
+      "published": "2026-10-20T10:42:05Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50218886/nfl-power-rankings-week-7-teams-biggest-issue-offense"
+    },
+    {
+      "headline": "'It's Groundhog Day:' Why Ravens are NFL's worst at blowing double-digit leads",
+      "summary": "Here is a look at the trends in the Ravens failing to hold double-digit leads.",
+      "published": "2026-10-20T10:00:10Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50219611/ravens-nfl-worst-blowing-double-digit-leads"
+    },
+    {
       "headline": "Lamar Jackson remains day-to-day with ankle injury",
       "summary": "Jamison Hensley details Lamar Jackson's injury status with the Ravens.",
       "published": "2026-10-20T00:24:27Z",
@@ -341,6 +353,12 @@
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "published": "2026-10-19T23:19:59Z",
       "url": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals"
+    },
+    {
+      "headline": "Inside NFL's field-stitching process from Rio to Paris",
+      "summary": "How does the NFL install new fields in stadiums not made for them? The man known as Papa Turf walked us through it.",
+      "published": "2026-10-20T10:35:01Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50219846/nfl-field-turf-grass-international"
     },
     {
       "headline": "NFL Week 7 betting odds: Lines and totals for every game",
@@ -359,24 +377,6 @@
       "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
       "published": "2026-10-19T10:00:01Z",
       "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-      "published": "2026-10-19T04:46:54Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
-    },
-    {
-      "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
-      "published": "2026-10-19T04:17:26Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
-    },
-    {
-      "headline": "Sunday's top plays from around the NFL",
-      "summary": "Sunday's top plays from around the NFL",
-      "published": "2026-10-19T03:18:48Z",
-      "url": "https://www.espn.com/video/clip/_/id/50216041/sunday-top-plays-nfl"
     }
   ],
   "league_week": 7,
@@ -1174,13 +1174,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Clear",
-        "tempF": 61,
+        "text": "Mostly clear",
+        "tempF": 60,
         "tempC": 16
       },
       "moneyline": {
-        "away": "+130",
-        "home": "-155"
+        "away": "+124",
+        "home": "-148"
       },
       "detail": "10/22 - 8:15 PM EDT",
       "final": false,
@@ -1219,8 +1219,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "-185",
-        "home": "+154"
+        "away": "-180",
+        "home": "+150"
       },
       "detail": "10/25 - 9:30 AM EDT",
       "final": false,
@@ -1259,12 +1259,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "-205",
-        "home": "+170"
+        "away": "-175",
+        "home": "+145"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1284,8 +1284,8 @@
         "winner": null,
         "record": "6-0"
       },
-      "line": "SF -3.5",
-      "overUnder": 49.5,
+      "line": "SF -3",
+      "overUnder": 50.5,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "tv": [
@@ -1302,13 +1302,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 70,
-        "tempC": 21
+        "text": "Partly sunny",
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "-125",
-        "home": "+105"
+        "away": "-130",
+        "home": "+110"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1346,9 +1346,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 60,
-        "tempC": 16
+        "text": "Hazy sunshine",
+        "tempF": 54,
+        "tempC": 12
       },
       "moneyline": {
         "away": "+225",
@@ -1391,12 +1391,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 62,
+        "tempF": 63,
         "tempC": 17
       },
       "moneyline": {
-        "away": "+190",
-        "home": "-230"
+        "away": "+195",
+        "home": "-238"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1435,7 +1435,7 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 60,
+        "tempF": 61,
         "tempC": 16
       },
       "moneyline": {
@@ -1479,12 +1479,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 77,
-        "tempC": 25
+        "tempF": 75,
+        "tempC": 24
       },
       "moneyline": {
-        "away": "+380",
-        "home": "-500"
+        "away": "+390",
+        "home": "-520"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1522,13 +1522,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 78,
-        "tempC": 26
+        "text": "Sunny",
+        "tempF": 77,
+        "tempC": 25
       },
       "moneyline": {
-        "away": "-230",
-        "home": "+190"
+        "away": "-238",
+        "home": "+195"
       },
       "detail": "10/25 - 4:05 PM EDT",
       "final": false,
@@ -1567,12 +1567,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 65,
-        "tempC": 18
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "+140",
-        "home": "-166"
+        "away": "+136",
+        "home": "-162"
       },
       "detail": "10/25 - 4:25 PM EDT",
       "final": false,
@@ -1610,9 +1610,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 73,
-        "tempC": 23
+        "text": "Sunny",
+        "tempF": 72,
+        "tempC": 22
       },
       "moneyline": {
         "away": "-225",
@@ -1654,9 +1654,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 56,
-        "tempC": 13
+        "text": "Intermittent clouds",
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
         "away": "+120",
@@ -1699,12 +1699,12 @@
       "clock": null,
       "weather": {
         "text": "Clear",
-        "tempF": 62,
+        "tempF": 63,
         "tempC": 17
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-218",
+        "home": "+180"
       },
       "detail": "10/26 - 8:15 PM EDT",
       "final": false,
