@@ -1,5 +1,5 @@
 {
-  "now_perth": "Wed, 21 Oct, 12:08 pm",
+  "now_perth": "Thu, 22 Oct, 12:57 am",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": {
       "text": "Sunny",
-      "tempF": 59,
-      "tempC": 15
+      "tempF": 60,
+      "tempC": 16
     },
     "moneyline": {
       "away": "+124",
@@ -35,7 +35,7 @@
       "record": "3-2"
     },
     "line": "BAL -3",
-    "overUnder": 51.5,
+    "overUnder": 50.5,
     "venue": "M&T Bank Stadium",
     "city": "Baltimore",
     "tv": [
@@ -1175,8 +1175,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly clear",
-        "tempF": 60,
-        "tempC": 16
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
         "away": "+130",
@@ -1302,13 +1302,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 70,
-        "tempC": 21
+        "text": "Mostly sunny",
+        "tempF": 72,
+        "tempC": 22
       },
       "moneyline": {
         "away": "-130",
-        "home": "+110"
+        "home": "+105"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1346,9 +1346,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 54,
-        "tempC": 12
+        "text": "Showers",
+        "tempF": 52,
+        "tempC": 11
       },
       "moneyline": {
         "away": "+235",
@@ -1391,12 +1391,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 62,
+        "tempF": 63,
         "tempC": 17
       },
       "moneyline": {
-        "away": "+190",
-        "home": "-230"
+        "away": "+185",
+        "home": "-225"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1417,7 +1417,7 @@
         "record": "0-5"
       },
       "line": "NYJ -4.5",
-      "overUnder": 38.5,
+      "overUnder": 39.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
@@ -1434,13 +1434,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
+        "text": "Partly sunny",
         "tempF": 63,
         "tempC": 17
       },
       "moneyline": {
-        "away": "+154",
-        "home": "-185"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1523,12 +1523,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 79,
-        "tempC": 26
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
-        "away": "-238",
-        "home": "+195"
+        "away": "-230",
+        "home": "+190"
       },
       "detail": "10/25 - 4:05 PM EDT",
       "final": false,
@@ -1571,8 +1571,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "+136",
-        "home": "-162"
+        "away": "+140",
+        "home": "-166"
       },
       "detail": "10/25 - 4:25 PM EDT",
       "final": false,
@@ -1611,12 +1611,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 73,
-        "tempC": 23
+        "tempF": 72,
+        "tempC": 22
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-218",
+        "home": "+180"
       },
       "detail": "10/25 - 4:25 PM EDT",
       "final": false,
@@ -1654,8 +1654,8 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 56,
+        "text": "Intermittent clouds",
+        "tempF": 55,
         "tempC": 13
       },
       "moneyline": {
@@ -1699,7 +1699,7 @@
       "clock": null,
       "weather": {
         "text": "Clear",
-        "tempF": 60,
+        "tempF": 61,
         "tempC": 16
       },
       "moneyline": {
