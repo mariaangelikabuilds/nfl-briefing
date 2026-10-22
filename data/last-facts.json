@@ -1,5 +1,5 @@
 {
-  "now_perth": "Thu, 22 Oct, 12:57 am",
+  "now_perth": "Thu, 22 Oct, 12:08 pm",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Sunny",
-      "tempF": 60,
-      "tempC": 16
+      "tempF": 59,
+      "tempC": 15
     },
     "moneyline": {
-      "away": "+124",
-      "home": "-148"
+      "away": "-122",
+      "home": "+102"
     },
     "detail": "10/25 - 1:00 PM EDT",
     "final": false,
@@ -34,8 +34,8 @@
       "winner": null,
       "record": "3-2"
     },
-    "line": "BAL -3",
-    "overUnder": 50.5,
+    "line": "CIN -1.5",
+    "overUnder": 48.5,
     "venue": "M&T Bank Stadium",
     "city": "Baltimore",
     "tv": [
@@ -281,6 +281,18 @@
   },
   "news_bengals": [
     {
+      "headline": "Burrow, Bengals understand importance of Ravens matchup",
+      "summary": "Ben Baby details how Joe Burrow and the Bengals are preparing for their huge matchup vs. the Ravens.",
+      "published": "2026-10-22T02:50:18Z",
+      "url": "https://www.espn.com/video/clip/_/id/50244336/burrow-bengals-understand-importance-ravens-matchup"
+    },
+    {
+      "headline": "NFL Week 7 latest intel, buzz questions, news, fantasy tips: What we're hearing",
+      "summary": "Will the Seahawks stick with Sam Darnold past this season? Could Vita Vea get trade interest? What's next for the NFC East teams? And could the Colts make more changes?",
+      "published": "2026-10-21T16:06:52Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50228657/week-7-buzz-fantasy-predictions-graziano-fowler-2026"
+    },
+    {
       "headline": "NFL Week 7 betting odds: Lines and totals for every game",
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
       "published": "2026-10-20T17:20:09Z",
@@ -315,21 +327,15 @@
       "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
       "published": "2026-10-19T04:17:26Z",
       "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
-    },
-    {
-      "headline": "What are the longest field goals in NFL history?",
-      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "published": "2026-10-18T20:33:41Z",
-      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history"
-    },
-    {
-      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
-      "published": "2026-10-18T11:16:20Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "Ravens' Lamar Jackson returns to practice but status remains unclear vs. Bengals",
+      "summary": "After practice, Jackson was favoring his injured left ankle, walking into the team facility with a noticeable limp.",
+      "published": "2026-10-21T20:54:38Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50241195/lamar-jackson-practice-unclear-vs-bengals-week-7"
+    },
     {
       "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
       "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
@@ -371,12 +377,6 @@
       "summary": "How does the NFL install new fields in stadiums not made for them? The man known as Papa Turf walked us through it.",
       "published": "2026-10-20T10:35:01Z",
       "url": "https://www.espn.com/nfl/story/_/id/50219846/nfl-field-turf-grass-international"
-    },
-    {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "published": "2026-10-19T14:23:56Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     }
   ],
   "league_week": 7,
@@ -1175,8 +1175,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly clear",
-        "tempF": 59,
-        "tempC": 15
+        "tempF": 61,
+        "tempC": 16
       },
       "moneyline": {
         "away": "+130",
@@ -1219,8 +1219,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "-185",
-        "home": "+154"
+        "away": "-180",
+        "home": "+150"
       },
       "detail": "10/25 - 9:30 AM EDT",
       "final": false,
@@ -1263,8 +1263,8 @@
         "tempC": 18
       },
       "moneyline": {
-        "away": "-180",
-        "home": "+150"
+        "away": "-155",
+        "home": "+130"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1285,7 +1285,7 @@
         "record": "6-0"
       },
       "line": "SF -3",
-      "overUnder": 50.5,
+      "overUnder": 49.5,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "tv": [
@@ -1303,12 +1303,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 72,
+        "tempF": 71,
         "tempC": 22
       },
       "moneyline": {
         "away": "-130",
-        "home": "+105"
+        "home": "+110"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1347,12 +1347,12 @@
       "clock": null,
       "weather": {
         "text": "Showers",
-        "tempF": 52,
-        "tempC": 11
+        "tempF": 50,
+        "tempC": 10
       },
       "moneyline": {
-        "away": "+235",
-        "home": "-290"
+        "away": "+225",
+        "home": "-278"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1395,8 +1395,8 @@
         "tempC": 17
       },
       "moneyline": {
-        "away": "+185",
-        "home": "-225"
+        "away": "+195",
+        "home": "-238"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1434,13 +1434,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 63,
+        "text": "Mostly sunny",
+        "tempF": 62,
         "tempC": 17
       },
       "moneyline": {
-        "away": "+145",
-        "home": "-175"
+        "away": "+140",
+        "home": "-166"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1460,7 +1460,7 @@
         "winner": null,
         "record": "1-5"
       },
-      "line": "CAR -3.5",
+      "line": "CAR -3",
       "overUnder": 44.5,
       "venue": "Bank of America Stadium",
       "city": "Charlotte",
@@ -1479,12 +1479,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 76,
+        "tempF": 75,
         "tempC": 24
       },
       "moneyline": {
-        "away": "+400",
-        "home": "-535"
+        "away": "+390",
+        "home": "-520"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1504,7 +1504,7 @@
         "winner": null,
         "record": "3-2-1"
       },
-      "line": "HOU -10",
+      "line": "HOU -10.5",
       "overUnder": 42.5,
       "venue": "Reliant Stadium",
       "city": "Houston",
@@ -1611,7 +1611,7 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 72,
+        "tempF": 71,
         "tempC": 22
       },
       "moneyline": {
@@ -1655,7 +1655,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 55,
+        "tempF": 56,
         "tempC": 13
       },
       "moneyline": {
@@ -1699,12 +1699,12 @@
       "clock": null,
       "weather": {
         "text": "Clear",
-        "tempF": 61,
-        "tempC": 16
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-218",
+        "home": "+180"
       },
       "detail": "10/26 - 8:15 PM EDT",
       "final": false,
