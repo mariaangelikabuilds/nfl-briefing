@@ -1,5 +1,5 @@
 {
-  "now_perth": "Thu, 22 Oct, 12:08 pm",
+  "now_perth": "Fri, 23 Oct, 12:56 am",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": {
       "text": "Sunny",
-      "tempF": 59,
-      "tempC": 15
+      "tempF": 60,
+      "tempC": 16
     },
     "moneyline": {
       "away": "-122",
@@ -281,6 +281,18 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
+      "summary": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
+      "published": "2026-10-22T14:52:37Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+    },
+    {
+      "headline": "What a win over the Ravens would mean for the Bengals",
+      "summary": "What a win over the Ravens would mean for the Bengals",
+      "published": "2026-10-22T13:42:06Z",
+      "url": "https://www.espn.com/video/clip/_/id/50248509/what-win-ravens-mean-bengals"
+    },
+    {
       "headline": "Burrow, Bengals understand importance of Ravens matchup",
       "summary": "Ben Baby details how Joe Burrow and the Bengals are preparing for their huge matchup vs. the Ravens.",
       "published": "2026-10-22T02:50:18Z",
@@ -315,21 +327,21 @@
       "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
       "published": "2026-10-19T14:23:56Z",
       "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-19T10:00:01Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
-      "published": "2026-10-19T04:17:26Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
+      "summary": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
+      "published": "2026-10-22T14:52:37Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+    },
+    {
+      "headline": "What a win over the Ravens would mean for the Bengals",
+      "summary": "What a win over the Ravens would mean for the Bengals",
+      "published": "2026-10-22T13:42:06Z",
+      "url": "https://www.espn.com/video/clip/_/id/50248509/what-win-ravens-mean-bengals"
+    },
     {
       "headline": "Ravens' Lamar Jackson returns to practice but status remains unclear vs. Bengals",
       "summary": "After practice, Jackson was favoring his injured left ankle, walking into the team facility with a noticeable limp.",
@@ -365,18 +377,6 @@
       "summary": "Jamison Hensley details Lamar Jackson's injury status with the Ravens.",
       "published": "2026-10-20T00:24:27Z",
       "url": "https://www.espn.com/video/clip/_/id/50222499/lamar-jackson-remains-day-day-ankle-injury"
-    },
-    {
-      "headline": "49ers WR Mike Evans reps Bay Area with Curry jersey, leads NFL Week 6's arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-19T23:19:59Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals"
-    },
-    {
-      "headline": "Inside NFL's field-stitching process from Rio to Paris",
-      "summary": "How does the NFL install new fields in stadiums not made for them? The man known as Papa Turf walked us through it.",
-      "published": "2026-10-20T10:35:01Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50219846/nfl-field-turf-grass-international"
     }
   ],
   "league_week": 7,
@@ -1219,8 +1219,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "-180",
-        "home": "+150"
+        "away": "-175",
+        "home": "+145"
       },
       "detail": "10/25 - 9:30 AM EDT",
       "final": false,
@@ -1259,12 +1259,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 65,
+        "tempF": 64,
         "tempC": 18
       },
       "moneyline": {
-        "away": "-155",
-        "home": "+130"
+        "away": "-148",
+        "home": "+124"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1284,7 +1284,7 @@
         "winner": null,
         "record": "6-0"
       },
-      "line": "SF -3",
+      "line": "SF -2.5",
       "overUnder": 49.5,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
@@ -1346,9 +1346,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Showers",
-        "tempF": 50,
-        "tempC": 10
+        "text": "Cloudy",
+        "tempF": 53,
+        "tempC": 12
       },
       "moneyline": {
         "away": "+225",
@@ -1391,12 +1391,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+195",
-        "home": "-238"
+        "away": "+185",
+        "home": "-225"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1435,8 +1435,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 62,
-        "tempC": 17
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
         "away": "+140",
@@ -1478,8 +1478,8 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 75,
+        "text": "Partly sunny",
+        "tempF": 76,
         "tempC": 24
       },
       "moneyline": {
@@ -1523,12 +1523,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 80,
-        "tempC": 27
+        "tempF": 79,
+        "tempC": 26
       },
       "moneyline": {
-        "away": "-230",
-        "home": "+190"
+        "away": "-238",
+        "home": "+195"
       },
       "detail": "10/25 - 4:05 PM EDT",
       "final": false,
@@ -1566,7 +1566,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
+        "text": "Partly sunny",
         "tempF": 67,
         "tempC": 19
       },
@@ -1636,7 +1636,7 @@
         "winner": null,
         "record": "2-4"
       },
-      "line": "LAR -4.5",
+      "line": "LAR -3.5",
       "overUnder": 48.5,
       "venue": "Allegiant Stadium",
       "city": "Las Vegas",
@@ -1655,7 +1655,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 56,
+        "tempF": 55,
         "tempC": 13
       },
       "moneyline": {
@@ -1680,7 +1680,7 @@
         "winner": null,
         "record": "5-0"
       },
-      "line": "SEA -2.5",
+      "line": "SEA -3",
       "overUnder": 42.5,
       "venue": "Lumen Field",
       "city": "Seattle",
@@ -1699,12 +1699,12 @@
       "clock": null,
       "weather": {
         "text": "Clear",
-        "tempF": 59,
-        "tempC": 15
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": {
-        "away": "-218",
-        "home": "+180"
+        "away": "-225",
+        "home": "+185"
       },
       "detail": "10/26 - 8:15 PM EDT",
       "final": false,
