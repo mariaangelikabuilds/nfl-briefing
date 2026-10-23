@@ -1,5 +1,5 @@
 {
-  "now_perth": "Fri, 23 Oct, 12:56 am",
+  "now_perth": "Fri, 23 Oct, 12:12 pm",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Sunny",
-      "tempF": 60,
-      "tempC": 16
+      "tempF": 59,
+      "tempC": 15
     },
     "moneyline": {
-      "away": "-122",
-      "home": "+102"
+      "away": "-102",
+      "home": "-118"
     },
     "detail": "10/25 - 1:00 PM EDT",
     "final": false,
@@ -34,7 +34,7 @@
       "winner": null,
       "record": "3-2"
     },
-    "line": "CIN -1.5",
+    "line": "BAL -1.5",
     "overUnder": 48.5,
     "venue": "M&T Bank Stadium",
     "city": "Baltimore",
@@ -281,10 +281,34 @@
   },
   "news_bengals": [
     {
+      "headline": "What are the longest field goals in NFL history?",
+      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
+      "published": "2026-10-23T03:27:16Z",
+      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history"
+    },
+    {
+      "headline": "Trey Hendrickson is set to face the Bengals for the first time since signing with Baltimore",
+      "summary": "— Trey Hendrickson is finally looking healthier — just in time for a matchup with his former team.",
+      "published": "2026-10-22T23:47:08Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873012"
+    },
+    {
       "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
       "summary": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-      "published": "2026-10-22T14:52:37Z",
+      "published": "2026-10-23T03:24:34Z",
       "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+    },
+    {
+      "headline": "Bears QB Caleb Williams leads NFL Week 7's best arrivals",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-10-22T22:13:38Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals"
+    },
+    {
+      "headline": "Ravens' Trey Hendrickson on facing Bengals: 'It's not about me'",
+      "summary": "Ravens outside linebacker Trey Hendrickson made it clear Wednesday that he was not interested in talking about his upcoming reunion with the Bengals, sidestepping repeated questions about his first game against his former team.",
+      "published": "2026-10-22T18:32:34Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50250751/ravens-hendrickson-facing-bengals-not-me"
     },
     {
       "headline": "What a win over the Ravens would mean for the Bengals",
@@ -303,38 +327,44 @@
       "summary": "Will the Seahawks stick with Sam Darnold past this season? Could Vita Vea get trade interest? What's next for the NFC East teams? And could the Colts make more changes?",
       "published": "2026-10-21T16:06:52Z",
       "url": "https://www.espn.com/nfl/story/_/id/50228657/week-7-buzz-fantasy-predictions-graziano-fowler-2026"
-    },
-    {
-      "headline": "NFL Week 7 betting odds: Lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
-      "published": "2026-10-20T17:20:09Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals"
-    },
-    {
-      "headline": "NFL Power Rankings: How all 32 teams stack up for Week 7, plus offensive issues",
-      "summary": "How does every NFL team stack up heading into Week 7? We made our 1-32 list and picked the biggest offensive problem for every team.",
-      "published": "2026-10-20T14:42:42Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50218886/nfl-power-rankings-week-7-teams-biggest-issue-offense"
-    },
-    {
-      "headline": "49ers WR Mike Evans reps Bay Area with Curry jersey, leads NFL Week 6's arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-19T23:19:59Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals"
-    },
-    {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "published": "2026-10-19T14:23:56Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     }
   ],
   "news_opponent": [
     {
+      "headline": "What are the longest field goals in NFL history?",
+      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
+      "published": "2026-10-23T03:27:16Z",
+      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history"
+    },
+    {
+      "headline": "Trey Hendrickson is set to face the Bengals for the first time since signing with Baltimore",
+      "summary": "— Trey Hendrickson is finally looking healthier — just in time for a matchup with his former team.",
+      "published": "2026-10-22T23:47:08Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873012"
+    },
+    {
       "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
       "summary": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-      "published": "2026-10-22T14:52:37Z",
+      "published": "2026-10-23T03:24:34Z",
       "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+    },
+    {
+      "headline": "Bears QB Caleb Williams leads NFL Week 7's best arrivals",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-10-22T22:13:38Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals"
+    },
+    {
+      "headline": "Ravens' Humphrey expresses displeasure over 'slander' against QB Jackson",
+      "summary": "Ravens cornerback Marlon Humphrey voiced his displeasure over what he called \"slander\" against quarterback Lamar Jackson.",
+      "published": "2026-10-22T22:39:30Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50252129/ravens-humphrey-calls-slander-qb-lamar-jackson"
+    },
+    {
+      "headline": "Ravens' Trey Hendrickson on facing Bengals: 'It's not about me'",
+      "summary": "Ravens outside linebacker Trey Hendrickson made it clear Wednesday that he was not interested in talking about his upcoming reunion with the Bengals, sidestepping repeated questions about his first game against his former team.",
+      "published": "2026-10-22T18:32:34Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50250751/ravens-hendrickson-facing-bengals-not-me"
     },
     {
       "headline": "What a win over the Ravens would mean for the Bengals",
@@ -347,36 +377,6 @@
       "summary": "After practice, Jackson was favoring his injured left ankle, walking into the team facility with a noticeable limp.",
       "published": "2026-10-21T20:54:38Z",
       "url": "https://www.espn.com/nfl/story/_/id/50241195/lamar-jackson-practice-unclear-vs-bengals-week-7"
-    },
-    {
-      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "published": "2026-10-20T19:28:49Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
-    },
-    {
-      "headline": "NFL Week 7 betting odds: Lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
-      "published": "2026-10-20T17:20:09Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals"
-    },
-    {
-      "headline": "NFL Power Rankings: How all 32 teams stack up for Week 7, plus offensive issues",
-      "summary": "How does every NFL team stack up heading into Week 7? We made our 1-32 list and picked the biggest offensive problem for every team.",
-      "published": "2026-10-20T14:42:42Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50218886/nfl-power-rankings-week-7-teams-biggest-issue-offense"
-    },
-    {
-      "headline": "'It's Groundhog Day': Why Ravens lead the NFL in blown double-digit leads",
-      "summary": "Here is a look at the trends in the Ravens failing to hold double-digit leads.",
-      "published": "2026-10-20T14:20:40Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50219611/ravens-nfl-worst-blowing-double-digit-leads"
-    },
-    {
-      "headline": "Lamar Jackson remains day-to-day with ankle injury",
-      "summary": "Jamison Hensley details Lamar Jackson's injury status with the Ravens.",
-      "published": "2026-10-20T00:24:27Z",
-      "url": "https://www.espn.com/video/clip/_/id/50222499/lamar-jackson-remains-day-day-ankle-injury"
     }
   ],
   "league_week": 7,
@@ -1171,43 +1171,55 @@
       "week": 7,
       "kickoff": "2026-10-23T00:15Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Mostly clear",
-        "tempF": 61,
-        "tempC": 16
-      },
-      "moneyline": {
-        "away": "+130",
-        "home": "-155"
-      },
-      "detail": "10/22 - 8:15 PM EDT",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "3",
         "abbr": "CHI",
         "name": "Chicago Bears",
-        "score": null,
-        "winner": null,
-        "record": "4-2"
+        "score": 30,
+        "winner": true,
+        "record": "5-2"
       },
       "away": {
         "id": "17",
         "abbr": "NE",
         "name": "New England Patriots",
-        "score": null,
-        "winner": null,
-        "record": "4-2"
+        "score": 24,
+        "winner": false,
+        "record": "4-3"
       },
-      "line": "CHI -3",
-      "overUnder": 50.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [
         "Prime Video"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "24/31, 321 YDS, 2 TD, 1 INT",
+          "player": "Drake Maye",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "22 CAR, 78 YDS, 1 TD",
+          "player": "D'Andre Swift",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "4 REC, 130 YDS, 1 TD",
+          "player": "Luther Burden III",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Fri, 23 Oct, 8:15 am"
     },
     {
@@ -1259,8 +1271,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
         "away": "-148",
@@ -1347,12 +1359,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 53,
-        "tempC": 12
+        "tempF": 52,
+        "tempC": 11
       },
       "moneyline": {
-        "away": "+225",
-        "home": "-278"
+        "away": "+230",
+        "home": "-285"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1391,8 +1403,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
         "away": "+185",
@@ -1435,12 +1447,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "+140",
-        "home": "-166"
+        "away": "+136",
+        "home": "-162"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1479,8 +1491,8 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 76,
-        "tempC": 24
+        "tempF": 77,
+        "tempC": 25
       },
       "moneyline": {
         "away": "+390",
@@ -1527,8 +1539,8 @@
         "tempC": 26
       },
       "moneyline": {
-        "away": "-238",
-        "home": "+195"
+        "away": "-230",
+        "home": "+190"
       },
       "detail": "10/25 - 4:05 PM EDT",
       "final": false,
@@ -1571,8 +1583,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "+140",
-        "home": "-166"
+        "away": "+142",
+        "home": "-170"
       },
       "detail": "10/25 - 4:25 PM EDT",
       "final": false,
@@ -1611,12 +1623,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 71,
+        "tempF": 72,
         "tempC": 22
       },
       "moneyline": {
-        "away": "-218",
-        "home": "+180"
+        "away": "-192",
+        "home": "+160"
       },
       "detail": "10/25 - 4:25 PM EDT",
       "final": false,
@@ -1655,8 +1667,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 55,
-        "tempC": 13
+        "tempF": 52,
+        "tempC": 11
       },
       "moneyline": {
         "away": "+124",
@@ -1703,8 +1715,8 @@
         "tempC": 16
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-218",
+        "home": "+180"
       },
       "detail": "10/26 - 8:15 PM EDT",
       "final": false,

@@ -92,19 +92,10 @@
     "401873005",
     "401873006",
     "401873007",
-    "401873008"
+    "401873008",
+    "401873010"
   ],
   "briefing": {
-    "league": {
-      "lines": [
-        " San Francisco is the last unbeaten at 6-0 after holding off Washington 23-17. Jayden Daniels went 29/40 for 300 yards and 2 TD and still lost. They host Atlanta Monday 1:00 am as SF -3.5.",
-        "Kansas City sits 5-0 after a 22-6 win over the Chargers, who are 0-6. Kenneth Walker III ran 19 for 128 and 2 TD. Seattle is a 2.5-point home favourite on Monday at 8:20 am.",
-        "Pittsburgh needed overtime to beat Tampa 26-19 and is 4-2. They meet the Saints in Paris on Sunday at 9:30 pm, PIT -3.5, total 44.5.",
-        "Cleveland beat Baltimore 10-13 the other way: Browns 13, Ravens 10, with Tyler Huntley 19/31, 165 yards, 1 TD. The Browns are only 1.5-point favourites at Tennessee.",
-        "Minnesota is 5-0 and lays 6.5 at home to the Colts. Houston, 2-4 after beating Jacksonville 34-31 in London, is a 10-point favourite over the Giants.",
-        "Thursday's opener is New England at Chicago, both 4-2, Bears -3 with a 50.5 total, Friday 8:15 am Perth time on Prime Video."
-      ]
-    },
     "pregame": null,
     "pregame_for": "401873012",
     "postgame": {
@@ -117,8 +108,18 @@
       "division_meaning": "Baltimore sits 4-1 on a W3 run. Cincinnati, Cleveland and Pittsburgh are all 3-2. The Bengals' +19 point differential is second in the North behind the Ravens' +27.",
       "the_take": "A win over an 0-5 team that you got outgained in is not a fix. Ben Baby's piece says the Bengals know they can play better. Giving up 217 on the ground travels badly to Baltimore on Mon, 26 Oct, 1:00 am."
     },
-    "postgame_for": "401872982"
+    "postgame_for": "401872982",
+    "league": {
+      "lines": [
+        " SF is 6-0 after beating Washington 23-17, Christian McCaffrey 16 car, 64 yds, 2 TD. Next up Atlanta on Mon, 26 Oct, 1:00 am Perth, SF -2.5, total 49.5.",
+        "Kansas City sits 5-0 after a 22-6 win over the 0-6 Chargers, Kenneth Walker III 19 car, 128 yds, 2 TD. Seattle hosts them Mon, 26 Oct, 8:20 am Perth as SEA -3.",
+        "Minnesota is the other 5-0 team and hosts Indianapolis at MIN -6.5, total 41.5. The Colts are 2-4 after losing 26-20 at home to the 1-5 Titans.",
+        "Chicago moved to 5-2 Friday morning, 30-24 over New England. Luther Burden III went 4 rec, 130 yds, 1 TD. The Patriots fall to 4-3.",
+        "Steelers play Saints in Saint-Denis, Sun, 25 Oct, 9:30 pm Perth, PIT -3.5. Pittsburgh is 4-2 off a 26-19 overtime win at Tampa.",
+        "Packers at Lions Mon, 26 Oct, 4:25 am Perth, DET -3 with a 53.5 total. Green Bay is 4-2 after handling Dallas 23-13 at Lambeau."
+      ]
+    }
   },
-  "written_at": "2026-10-20T04:19:06.105Z",
+  "written_at": "2026-10-23T04:12:18.564Z",
   "last_error": null
 }
