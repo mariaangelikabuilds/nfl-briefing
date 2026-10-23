@@ -1,5 +1,5 @@
 {
-  "now_perth": "Fri, 23 Oct, 12:12 pm",
+  "now_perth": "Sat, 24 Oct, 12:48 am",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -13,8 +13,8 @@
       "tempC": 15
     },
     "moneyline": {
-      "away": "-102",
-      "home": "-118"
+      "away": "+105",
+      "home": "-125"
     },
     "detail": "10/25 - 1:00 PM EDT",
     "final": false,
@@ -281,6 +281,12 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 7 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "summary": "Cowboys at Eagles? Bengals at Ravens? The Steelers and Saints in Paris? There are 13 more games in Week 7, and we have picks, predictions and more for all of them.",
+      "published": "2026-10-23T15:58:55Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026"
+    },
+    {
       "headline": "What are the longest field goals in NFL history?",
       "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
       "published": "2026-10-23T03:27:16Z",
@@ -321,12 +327,6 @@
       "summary": "Ben Baby details how Joe Burrow and the Bengals are preparing for their huge matchup vs. the Ravens.",
       "published": "2026-10-22T02:50:18Z",
       "url": "https://www.espn.com/video/clip/_/id/50244336/burrow-bengals-understand-importance-ravens-matchup"
-    },
-    {
-      "headline": "NFL Week 7 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-      "summary": "Will the Seahawks stick with Sam Darnold past this season? Could Vita Vea get trade interest? What's next for the NFC East teams? And could the Colts make more changes?",
-      "published": "2026-10-21T16:06:52Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50228657/week-7-buzz-fantasy-predictions-graziano-fowler-2026"
     }
   ],
   "news_opponent": [
@@ -1252,7 +1252,7 @@
         "winner": null,
         "record": "4-2"
       },
-      "line": "PIT -3.5",
+      "line": "PIT -3",
       "overUnder": 44.5,
       "venue": "Stade de France",
       "city": "Saint-Denis",
@@ -1271,8 +1271,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
         "away": "-148",
@@ -1315,8 +1315,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 71,
-        "tempC": 22
+        "tempF": 70,
+        "tempC": 21
       },
       "moneyline": {
         "away": "-130",
@@ -1359,12 +1359,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 52,
-        "tempC": 11
+        "tempF": 49,
+        "tempC": 9
       },
       "moneyline": {
-        "away": "+230",
-        "home": "-285"
+        "away": "+225",
+        "home": "-278"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1490,9 +1490,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 77,
-        "tempC": 25
+        "text": "Mostly sunny",
+        "tempF": 78,
+        "tempC": 26
       },
       "moneyline": {
         "away": "+390",
@@ -1539,8 +1539,8 @@
         "tempC": 26
       },
       "moneyline": {
-        "away": "-230",
-        "home": "+190"
+        "away": "-238",
+        "home": "+195"
       },
       "detail": "10/25 - 4:05 PM EDT",
       "final": false,
@@ -1578,13 +1578,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
+        "text": "Intermittent clouds",
         "tempF": 67,
         "tempC": 19
       },
       "moneyline": {
-        "away": "+142",
-        "home": "-170"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "10/25 - 4:25 PM EDT",
       "final": false,
@@ -1671,8 +1671,8 @@
         "tempC": 11
       },
       "moneyline": {
-        "away": "+124",
-        "home": "-148"
+        "away": "+120",
+        "home": "-142"
       },
       "detail": "10/25 - 8:20 PM EDT",
       "final": false,
@@ -1711,8 +1711,8 @@
       "clock": null,
       "weather": {
         "text": "Clear",
-        "tempF": 60,
-        "tempC": 16
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
         "away": "-218",
