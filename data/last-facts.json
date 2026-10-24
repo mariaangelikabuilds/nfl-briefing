@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 24 Oct, 12:48 am",
+  "now_perth": "Sat, 24 Oct, 12:04 pm",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Sunny",
-      "tempF": 59,
-      "tempC": 15
+      "tempF": 60,
+      "tempC": 16
     },
     "moneyline": {
-      "away": "+105",
-      "home": "-125"
+      "away": "-115",
+      "home": "-105"
     },
     "detail": "10/25 - 1:00 PM EDT",
     "final": false,
@@ -34,7 +34,7 @@
       "winner": null,
       "record": "3-2"
     },
-    "line": "BAL -1.5",
+    "line": "CIN -1.5",
     "overUnder": 48.5,
     "venue": "M&T Bank Stadium",
     "city": "Baltimore",
@@ -100,7 +100,7 @@
     ],
     "kickoff_perth": "Mon, 12 Oct, 1:00 am"
   },
-  "write_pregame": false,
+  "write_pregame": true,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -281,9 +281,39 @@
   },
   "news_bengals": [
     {
+      "headline": "Bengals, Hendrickson downplaying matchup",
+      "summary": "Ben Baby details how Trey Hendrickson and the Bengals are preparing to face each other.",
+      "published": "2026-10-23T23:43:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/50261525/bengals-hendrickson-downplaying-matchup"
+    },
+    {
+      "headline": "Boye Mafe's proud of his culture",
+      "summary": "Ben Baby details how Boye Mafe honors his culture when he's on the field.",
+      "published": "2026-10-23T23:33:53Z",
+      "url": "https://www.espn.com/video/clip/_/id/50261478/boye-mafe-proud-culture"
+    },
+    {
+      "headline": "Ravens' Lamar Jackson (high ankle sprain) unsure if he'll play",
+      "summary": "Ravens quarterback Lamar Jackson said he's dealing with a high ankle sprain and is unsure if he'll play this week against the Bengals, but is \"heading in the right direction\" after missing the past two games.",
+      "published": "2026-10-23T20:55:19Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50260001/ravens-lamar-jackson-high-ankle-sprain-unsure-play"
+    },
+    {
+      "headline": "NFL Week 7 betting odds: Lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
+      "published": "2026-10-23T18:45:06Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
+      "summary": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
+      "published": "2026-10-23T18:23:48Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+    },
+    {
       "headline": "NFL Week 7 preview: Picks, predictions, schedule, betting odds, fantasy tips",
       "summary": "Cowboys at Eagles? Bengals at Ravens? The Steelers and Saints in Paris? There are 13 more games in Week 7, and we have picks, predictions and more for all of them.",
-      "published": "2026-10-23T15:58:55Z",
+      "published": "2026-10-23T17:32:21Z",
       "url": "https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026"
     },
     {
@@ -297,39 +327,39 @@
       "summary": "— Trey Hendrickson is finally looking healthier — just in time for a matchup with his former team.",
       "published": "2026-10-22T23:47:08Z",
       "url": "http://www.espn.com/nfl/preview?gameId=401873012"
+    }
+  ],
+  "news_opponent": [
+    {
+      "headline": "Will Lamar Jackson make Sunday's game?",
+      "summary": "Jamison Hensley recaps Lamar Jackson's comments on his ankle injury.",
+      "published": "2026-10-23T23:11:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/50261362/will-lamar-jackson-make-sunday-game"
+    },
+    {
+      "headline": "Lamar Jackson 'heading in the right direction' but unsure of return",
+      "summary": "Lamar Jackson 'heading in the right direction' but unsure of return",
+      "published": "2026-10-23T20:54:53Z",
+      "url": "https://www.espn.com/video/clip/_/id/50260393/lamar-jackson-heading-right-direction-unsure-return"
+    },
+    {
+      "headline": "Ravens' Lamar Jackson (high ankle sprain) unsure if he'll play",
+      "summary": "Ravens quarterback Lamar Jackson said he's dealing with a high ankle sprain and is unsure if he'll play this week against the Bengals, but is \"heading in the right direction\" after missing the past two games.",
+      "published": "2026-10-23T20:55:19Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50260001/ravens-lamar-jackson-high-ankle-sprain-unsure-play"
+    },
+    {
+      "headline": "NFL Week 7 betting odds: Lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
+      "published": "2026-10-23T18:45:06Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals"
     },
     {
       "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
       "summary": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-      "published": "2026-10-23T03:24:34Z",
+      "published": "2026-10-23T18:23:48Z",
       "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
     },
-    {
-      "headline": "Bears QB Caleb Williams leads NFL Week 7's best arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-22T22:13:38Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals"
-    },
-    {
-      "headline": "Ravens' Trey Hendrickson on facing Bengals: 'It's not about me'",
-      "summary": "Ravens outside linebacker Trey Hendrickson made it clear Wednesday that he was not interested in talking about his upcoming reunion with the Bengals, sidestepping repeated questions about his first game against his former team.",
-      "published": "2026-10-22T18:32:34Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50250751/ravens-hendrickson-facing-bengals-not-me"
-    },
-    {
-      "headline": "What a win over the Ravens would mean for the Bengals",
-      "summary": "What a win over the Ravens would mean for the Bengals",
-      "published": "2026-10-22T13:42:06Z",
-      "url": "https://www.espn.com/video/clip/_/id/50248509/what-win-ravens-mean-bengals"
-    },
-    {
-      "headline": "Burrow, Bengals understand importance of Ravens matchup",
-      "summary": "Ben Baby details how Joe Burrow and the Bengals are preparing for their huge matchup vs. the Ravens.",
-      "published": "2026-10-22T02:50:18Z",
-      "url": "https://www.espn.com/video/clip/_/id/50244336/burrow-bengals-understand-importance-ravens-matchup"
-    }
-  ],
-  "news_opponent": [
     {
       "headline": "What are the longest field goals in NFL history?",
       "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
@@ -343,40 +373,10 @@
       "url": "http://www.espn.com/nfl/preview?gameId=401873012"
     },
     {
-      "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-      "summary": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-      "published": "2026-10-23T03:24:34Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
-    },
-    {
       "headline": "Bears QB Caleb Williams leads NFL Week 7's best arrivals",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "published": "2026-10-22T22:13:38Z",
       "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals"
-    },
-    {
-      "headline": "Ravens' Humphrey expresses displeasure over 'slander' against QB Jackson",
-      "summary": "Ravens cornerback Marlon Humphrey voiced his displeasure over what he called \"slander\" against quarterback Lamar Jackson.",
-      "published": "2026-10-22T22:39:30Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50252129/ravens-humphrey-calls-slander-qb-lamar-jackson"
-    },
-    {
-      "headline": "Ravens' Trey Hendrickson on facing Bengals: 'It's not about me'",
-      "summary": "Ravens outside linebacker Trey Hendrickson made it clear Wednesday that he was not interested in talking about his upcoming reunion with the Bengals, sidestepping repeated questions about his first game against his former team.",
-      "published": "2026-10-22T18:32:34Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50250751/ravens-hendrickson-facing-bengals-not-me"
-    },
-    {
-      "headline": "What a win over the Ravens would mean for the Bengals",
-      "summary": "What a win over the Ravens would mean for the Bengals",
-      "published": "2026-10-22T13:42:06Z",
-      "url": "https://www.espn.com/video/clip/_/id/50248509/what-win-ravens-mean-bengals"
-    },
-    {
-      "headline": "Ravens' Lamar Jackson returns to practice but status remains unclear vs. Bengals",
-      "summary": "After practice, Jackson was favoring his injured left ankle, walking into the team facility with a noticeable limp.",
-      "published": "2026-10-21T20:54:38Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50241195/lamar-jackson-practice-unclear-vs-bengals-week-7"
     }
   ],
   "league_week": 7,
@@ -1231,8 +1231,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "-175",
-        "home": "+145"
+        "away": "-162",
+        "home": "+136"
       },
       "detail": "10/25 - 9:30 AM EDT",
       "final": false,
@@ -1315,12 +1315,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 70,
-        "tempC": 21
+        "tempF": 71,
+        "tempC": 22
       },
       "moneyline": {
-        "away": "-130",
-        "home": "+110"
+        "away": "-135",
+        "home": "+114"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1340,8 +1340,8 @@
         "winner": null,
         "record": "4-2"
       },
-      "line": "CLE -1.5",
-      "overUnder": 37.5,
+      "line": "CLE -2.5",
+      "overUnder": 36.5,
       "venue": "Nissan Stadium",
       "city": "Nashville",
       "tv": [
@@ -1363,8 +1363,8 @@
         "tempC": 9
       },
       "moneyline": {
-        "away": "+225",
-        "home": "-278"
+        "away": "+235",
+        "home": "-290"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1447,12 +1447,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+136",
-        "home": "-162"
+        "away": "+130",
+        "home": "-155"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1491,8 +1491,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 78,
-        "tempC": 26
+        "tempF": 76,
+        "tempC": 24
       },
       "moneyline": {
         "away": "+390",
@@ -1535,7 +1535,7 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 79,
+        "tempF": 78,
         "tempC": 26
       },
       "moneyline": {
@@ -1578,13 +1578,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
+        "text": "Hazy sunshine",
         "tempF": 67,
         "tempC": 19
       },
       "moneyline": {
-        "away": "+145",
-        "home": "-175"
+        "away": "+150",
+        "home": "-180"
       },
       "detail": "10/25 - 4:25 PM EDT",
       "final": false,
@@ -1627,8 +1627,8 @@
         "tempC": 22
       },
       "moneyline": {
-        "away": "-192",
-        "home": "+160"
+        "away": "-175",
+        "home": "+145"
       },
       "detail": "10/25 - 4:25 PM EDT",
       "final": false,
@@ -1648,7 +1648,7 @@
         "winner": null,
         "record": "2-4"
       },
-      "line": "LAR -3.5",
+      "line": "LAR -3",
       "overUnder": 48.5,
       "venue": "Allegiant Stadium",
       "city": "Las Vegas",
@@ -1667,12 +1667,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 52,
-        "tempC": 11
+        "tempF": 53,
+        "tempC": 12
       },
       "moneyline": {
-        "away": "+120",
-        "home": "-142"
+        "away": "+124",
+        "home": "-148"
       },
       "detail": "10/25 - 8:20 PM EDT",
       "final": false,
@@ -1711,8 +1711,8 @@
       "clock": null,
       "weather": {
         "text": "Clear",
-        "tempF": 59,
-        "tempC": 15
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": {
         "away": "-218",

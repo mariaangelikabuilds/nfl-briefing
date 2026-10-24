@@ -96,17 +96,21 @@
     "401873010"
   ],
   "briefing": {
-    "league": {
-      "lines": [
-        " SF is 6-0 after beating Washington 23-17, Christian McCaffrey 16 car, 64 yds, 2 TD. Next up Atlanta on Mon, 26 Oct, 1:00 am Perth, SF -2.5, total 49.5.",
-        "Kansas City sits 5-0 after a 22-6 win over the 0-6 Chargers, Kenneth Walker III 19 car, 128 yds, 2 TD. Seattle hosts them Mon, 26 Oct, 8:20 am Perth as SEA -3.",
-        "Minnesota is the other 5-0 team and hosts Indianapolis at MIN -6.5, total 41.5. The Colts are 2-4 after losing 26-20 at home to the 1-5 Titans.",
-        "Chicago moved to 5-2 Friday morning, 30-24 over New England. Luther Burden III went 4 rec, 130 yds, 1 TD. The Patriots fall to 4-3.",
-        "Steelers play Saints in Saint-Denis, Sun, 25 Oct, 9:30 pm Perth, PIT -3.5. Pittsburgh is 4-2 off a 26-19 overtime win at Tampa.",
-        "Packers at Lions Mon, 26 Oct, 4:25 am Perth, DET -3 with a 53.5 total. Green Bay is 4-2 after handling Dallas 23-13 at Lambeau."
-      ]
+    "pregame": {
+      "matchup_read": "Bengals at Baltimore, Mon 1:00 am Perth, M&T Bank Stadium, sunny and 16C. Cincinnati is 3-2 and laid as a 1.5 point road favourite with a 48.5 total. Baltimore is 4-2 but off a 10-13 loss in Cleveland.",
+      "storylines": [
+        "Lamar Jackson says he has a high ankle sprain and is unsure if he plays, per ESPN. He has missed the past two games but is \"heading in the right direction\".",
+        "Trey Hendrickson faces his old team for the first time since signing with Baltimore. ESPN's preview says he is finally looking healthier.",
+        "Ben Baby reports both Hendrickson and the Bengals are downplaying the matchup.",
+        "Burrow went 23/32 for 190 and 4 TD in the 31-24 win at Miami. Efficient, not explosive, at 5.9 yards per pass."
+      ],
+      "watch_for": [
+        "Cincinnati's run defence. Miami ran for 217 on 34 carries at 6.4 a pop and still lost.",
+        "Third down. The Bengals were 9-13 in Miami and will need that rate again if Baltimore controls the clock.",
+        "The Hendrickson snap count and who Cincinnati slides help to on his side."
+      ],
+      "the_call": "Bengals cover the 1.5. If Jackson is limited or out, Baltimore's offence stalls like it did in the 10-point day at Cleveland, and Burrow only needs an average game to win it."
     },
-    "pregame": null,
     "pregame_for": "401873012",
     "postgame": {
       "what_decided_it": "Turnovers. Miami outgained Cincinnati 331 to 307 and ran for 217 at 6.4 a pop, but coughed it up three times to the Bengals' one. Burrow turned short fields into four touchdowns.",
@@ -118,8 +122,18 @@
       "division_meaning": "Baltimore sits 4-1 on a W3 run. Cincinnati, Cleveland and Pittsburgh are all 3-2. The Bengals' +19 point differential is second in the North behind the Ravens' +27.",
       "the_take": "A win over an 0-5 team that you got outgained in is not a fix. Ben Baby's piece says the Bengals know they can play better. Giving up 217 on the ground travels badly to Baltimore on Mon, 26 Oct, 1:00 am."
     },
-    "postgame_for": "401872982"
+    "postgame_for": "401872982",
+    "league": {
+      "lines": [
+        "Chiefs at Seahawks Monday 8:20 am Perth, and Seattle is a 3 point home favourite over a 5-0 Kansas City side. Total 42.5.",
+        "Steelers and Saints in Paris, Sunday 9:30 pm Perth. Pittsburgh is 4-2 and favoured by 3, total 44.5.",
+        "Undefeated San Francisco, 6-0 after beating Washington 23-17, is only 2.5 at Atlanta.",
+        "Cowboys at Eagles on Tuesday 8:15 am Perth. Dallas -4.5 with both sides 2-4. Philadelphia lost 14-25 to Carolina last week.",
+        "Browns, 4-2 and tied atop the North, are 2.5 point favourites at Tennessee with a 36.5 total.",
+        "Bears beat New England 30-24 Friday morning. Luther Burden III had 4 rec, 130 yds, 1 TD."
+      ]
+    }
   },
-  "written_at": "2026-10-23T04:12:18.564Z",
+  "written_at": "2026-10-24T04:04:02.138Z",
   "last_error": null
 }
