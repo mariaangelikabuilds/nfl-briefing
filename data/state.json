@@ -96,6 +96,16 @@
     "401873010"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Chiefs at Seahawks Monday 8:20 am Perth, and Seattle is a 3 point home favourite over a 5-0 Kansas City side. Total 42.5.",
+        "Steelers and Saints in Paris, Sunday 9:30 pm Perth. Pittsburgh is 4-2 and favoured by 3, total 44.5.",
+        "Undefeated San Francisco, 6-0 after beating Washington 23-17, is only 2.5 at Atlanta.",
+        "Cowboys at Eagles on Tuesday 8:15 am Perth. Dallas -4.5 with both sides 2-4. Philadelphia lost 14-25 to Carolina last week.",
+        "Browns, 4-2 and tied atop the North, are 2.5 point favourites at Tennessee with a 36.5 total.",
+        "Bears beat New England 30-24 Friday morning. Luther Burden III had 4 rec, 130 yds, 1 TD."
+      ]
+    },
     "pregame": {
       "matchup_read": "Bengals at Baltimore, Mon 1:00 am Perth, M&T Bank Stadium, sunny and 16C. Cincinnati is 3-2 and laid as a 1.5 point road favourite with a 48.5 total. Baltimore is 4-2 but off a 10-13 loss in Cleveland.",
       "storylines": [
@@ -122,17 +132,7 @@
       "division_meaning": "Baltimore sits 4-1 on a W3 run. Cincinnati, Cleveland and Pittsburgh are all 3-2. The Bengals' +19 point differential is second in the North behind the Ravens' +27.",
       "the_take": "A win over an 0-5 team that you got outgained in is not a fix. Ben Baby's piece says the Bengals know they can play better. Giving up 217 on the ground travels badly to Baltimore on Mon, 26 Oct, 1:00 am."
     },
-    "postgame_for": "401872982",
-    "league": {
-      "lines": [
-        "Chiefs at Seahawks Monday 8:20 am Perth, and Seattle is a 3 point home favourite over a 5-0 Kansas City side. Total 42.5.",
-        "Steelers and Saints in Paris, Sunday 9:30 pm Perth. Pittsburgh is 4-2 and favoured by 3, total 44.5.",
-        "Undefeated San Francisco, 6-0 after beating Washington 23-17, is only 2.5 at Atlanta.",
-        "Cowboys at Eagles on Tuesday 8:15 am Perth. Dallas -4.5 with both sides 2-4. Philadelphia lost 14-25 to Carolina last week.",
-        "Browns, 4-2 and tied atop the North, are 2.5 point favourites at Tennessee with a 36.5 total.",
-        "Bears beat New England 30-24 Friday morning. Luther Burden III had 4 rec, 130 yds, 1 TD."
-      ]
-    }
+    "postgame_for": "401872982"
   },
   "written_at": "2026-10-24T04:04:02.138Z",
   "last_error": null

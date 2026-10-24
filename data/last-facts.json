@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 24 Oct, 12:04 pm",
+  "now_perth": "Sat, 24 Oct, 11:41 pm",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Sunny",
-      "tempF": 60,
+      "tempF": 61,
       "tempC": 16
     },
     "moneyline": {
-      "away": "-115",
-      "home": "-105"
+      "away": "-118",
+      "home": "-102"
     },
     "detail": "10/25 - 1:00 PM EDT",
     "final": false,
@@ -35,7 +35,7 @@
       "record": "3-2"
     },
     "line": "CIN -1.5",
-    "overUnder": 48.5,
+    "overUnder": 47.5,
     "venue": "M&T Bank Stadium",
     "city": "Baltimore",
     "tv": [
@@ -100,7 +100,7 @@
     ],
     "kickoff_perth": "Mon, 12 Oct, 1:00 am"
   },
-  "write_pregame": true,
+  "write_pregame": false,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -281,6 +281,18 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 7 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+      "summary": "Touchdowns for Tucker Kraft and Germie Bernard? Cardinals pull another upset? Revenge game for Trey Hendrickson? Let's predict 15 things for Week 7.",
+      "published": "2026-10-24T10:00:03Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50249972/week-7-predictions-upsets-fantasy-sleepers-stats-2026"
+    },
+    {
+      "headline": "Inside the silent messages Boye Mafe sends every game day",
+      "summary": "The Bengals defensive end uses sign language to say \"I love you\" to his mother, Bola, who died of pancreatic cancer in 2018.",
+      "published": "2026-10-24T10:00:12Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50258881/cincinnati-bengals-boye-mafe-sign-language"
+    },
+    {
       "headline": "Bengals, Hendrickson downplaying matchup",
       "summary": "Ben Baby details how Trey Hendrickson and the Bengals are preparing to face each other.",
       "published": "2026-10-23T23:43:28Z",
@@ -315,18 +327,6 @@
       "summary": "Cowboys at Eagles? Bengals at Ravens? The Steelers and Saints in Paris? There are 13 more games in Week 7, and we have picks, predictions and more for all of them.",
       "published": "2026-10-23T17:32:21Z",
       "url": "https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026"
-    },
-    {
-      "headline": "What are the longest field goals in NFL history?",
-      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "published": "2026-10-23T03:27:16Z",
-      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history"
-    },
-    {
-      "headline": "Trey Hendrickson is set to face the Bengals for the first time since signing with Baltimore",
-      "summary": "— Trey Hendrickson is finally looking healthier — just in time for a matchup with his former team.",
-      "published": "2026-10-22T23:47:08Z",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873012"
     }
   ],
   "news_opponent": [
@@ -1271,7 +1271,7 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 64,
+        "tempF": 65,
         "tempC": 18
       },
       "moneyline": {
@@ -1315,12 +1315,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 71,
-        "tempC": 22
+        "tempF": 70,
+        "tempC": 21
       },
       "moneyline": {
-        "away": "-135",
-        "home": "+114"
+        "away": "-130",
+        "home": "+110"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1446,9 +1446,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 64,
-        "tempC": 18
+        "text": "Sunny",
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
         "away": "+130",
@@ -1495,8 +1495,8 @@
         "tempC": 24
       },
       "moneyline": {
-        "away": "+390",
-        "home": "-520"
+        "away": "+380",
+        "home": "-500"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1516,7 +1516,7 @@
         "winner": null,
         "record": "3-2-1"
       },
-      "line": "HOU -10.5",
+      "line": "HOU -10",
       "overUnder": 42.5,
       "venue": "Reliant Stadium",
       "city": "Houston",
@@ -1535,12 +1535,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 78,
+        "tempF": 79,
         "tempC": 26
       },
       "moneyline": {
-        "away": "-238",
-        "home": "+195"
+        "away": "-230",
+        "home": "+190"
       },
       "detail": "10/25 - 4:05 PM EDT",
       "final": false,
@@ -1579,8 +1579,8 @@
       "clock": null,
       "weather": {
         "text": "Hazy sunshine",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
         "away": "+150",
@@ -1666,9 +1666,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 53,
-        "tempC": 12
+        "text": "Cloudy",
+        "tempF": 52,
+        "tempC": 11
       },
       "moneyline": {
         "away": "+124",
@@ -1710,7 +1710,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Clear",
+        "text": "Mostly clear",
         "tempF": 60,
         "tempC": 16
       },
