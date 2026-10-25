@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sun, 25 Oct, 12:06 pm",
+  "now_perth": "Sun, 25 Oct, 11:52 pm",
   "bengals_next": {
     "id": "401873012",
     "week": 7,
@@ -13,8 +13,8 @@
       "tempC": 17
     },
     "moneyline": {
-      "away": "-148",
-      "home": "+124"
+      "away": "-155",
+      "home": "+130"
     },
     "detail": "10/25 - 1:00 PM EDT",
     "final": false,
@@ -281,6 +281,12 @@
   },
   "news_bengals": [
     {
+      "headline": "Week 7 NFL highlights: Best plays, moments, touchdowns, more",
+      "summary": "Check here for Sunday's top moments, starting with Aaron Rodgers, Jaylen Warren, Tyler Shough and Alvin Kamara in France.",
+      "published": "2026-10-25T15:17:27Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026"
+    },
+    {
       "headline": "Inside the silent messages Boye Mafe sends every game day",
       "summary": "The Bengals defensive end uses sign language to say \"I love you\" to his mother, Bola, who died of pancreatic cancer in 2018.",
       "published": "2026-10-24T23:35:44Z",
@@ -321,15 +327,21 @@
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
       "published": "2026-10-23T18:45:06Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals"
-    },
-    {
-      "headline": "NFL Week 7 preview: Picks, predictions, schedule, betting odds, fantasy tips",
-      "summary": "Cowboys at Eagles? Bengals at Ravens? The Steelers and Saints in Paris? There are 13 more games in Week 7, and we have picks, predictions and more for all of them.",
-      "published": "2026-10-23T17:32:21Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "Week 7 NFL highlights: Best plays, moments, touchdowns, more",
+      "summary": "Check here for Sunday's top moments, starting with Aaron Rodgers, Jaylen Warren, Tyler Shough and Alvin Kamara in France.",
+      "published": "2026-10-25T15:17:27Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026"
+    },
+    {
+      "headline": "Why Derrick Henry has taken Jets RB Braelon Allen under his wing",
+      "summary": "After Henry saw Allen wearing his shirt in college, he reached out to him, and the two running backs have kept in touch since.",
+      "published": "2026-10-25T13:38:22Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50260368/jets-braelon-allen-encouraged-derrick-henry"
+    },
     {
       "headline": "Ravens rule out Lamar Jackson (ankle) vs. Bengals; Tyler 'Snoop' Huntley to start",
       "summary": "The Baltimore Ravens have ruled QB Lamar Jackson out of Sundays game vs. the Cincinnati Bengals as he continues to deal with a high ankle sprain. Tyler \"Snoop\" Huntley will get the start.",
@@ -365,18 +377,6 @@
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
       "published": "2026-10-23T18:45:06Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals"
-    },
-    {
-      "headline": "What are the longest field goals in NFL history?",
-      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "published": "2026-10-23T03:27:16Z",
-      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history"
-    },
-    {
-      "headline": "Trey Hendrickson is set to face the Bengals for the first time since signing with Baltimore",
-      "summary": "— Trey Hendrickson is finally looking healthier — just in time for a matchup with his former team.",
-      "published": "2026-10-22T23:47:08Z",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873012"
     }
   ],
   "league_week": 7,
@@ -1227,14 +1227,11 @@
       "week": 7,
       "kickoff": "2026-10-25T13:30Z",
       "timeValid": true,
-      "state": "pre",
-      "clock": null,
+      "state": "in",
+      "clock": "0:50 Q3",
       "weather": null,
-      "moneyline": {
-        "away": "-166",
-        "home": "+140"
-      },
-      "detail": "10/25 - 9:30 AM EDT",
+      "moneyline": null,
+      "detail": "0:50 - 3rd",
       "final": false,
       "home": {
         "id": "18",
@@ -1252,8 +1249,8 @@
         "winner": null,
         "record": "4-2"
       },
-      "line": "PIT -3",
-      "overUnder": 43.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Stade de France",
       "city": "Saint-Denis",
       "tv": [
@@ -1271,12 +1268,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 65,
-        "tempC": 18
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "-148",
-        "home": "+124"
+        "away": "-142",
+        "home": "+120"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1297,7 +1294,7 @@
         "record": "6-0"
       },
       "line": "SF -2.5",
-      "overUnder": 50.5,
+      "overUnder": 49.5,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "tv": [
@@ -1315,12 +1312,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 70,
-        "tempC": 21
+        "tempF": 72,
+        "tempC": 22
       },
       "moneyline": {
-        "away": "-130",
-        "home": "+110"
+        "away": "-135",
+        "home": "+114"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1358,9 +1355,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 50,
-        "tempC": 10
+        "text": "Showers",
+        "tempF": 51,
+        "tempC": 11
       },
       "moneyline": {
         "away": "+260",
@@ -1403,7 +1400,7 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 63,
+        "tempF": 62,
         "tempC": 17
       },
       "moneyline": {
@@ -1428,7 +1425,7 @@
         "winner": null,
         "record": "0-5"
       },
-      "line": "NYJ -4.5",
+      "line": "NYJ -3.5",
       "overUnder": 39.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
@@ -1446,13 +1443,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 63,
-        "tempC": 17
+        "text": "Mostly sunny",
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+130",
-        "home": "-155"
+        "away": "+140",
+        "home": "-166"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1490,13 +1487,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
+        "text": "Intermittent clouds",
         "tempF": 76,
         "tempC": 24
       },
       "moneyline": {
-        "away": "+370",
-        "home": "-485"
+        "away": "+400",
+        "home": "-535"
       },
       "detail": "10/25 - 1:00 PM EDT",
       "final": false,
@@ -1516,7 +1513,7 @@
         "winner": null,
         "record": "3-2-1"
       },
-      "line": "HOU -10",
+      "line": "HOU -10.5",
       "overUnder": 42.5,
       "venue": "Reliant Stadium",
       "city": "Houston",
@@ -1535,12 +1532,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 79,
-        "tempC": 26
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-230",
+        "home": "+190"
       },
       "detail": "10/25 - 4:05 PM EDT",
       "final": false,
@@ -1561,7 +1558,7 @@
         "record": "4-2"
       },
       "line": "DEN -4.5",
-      "overUnder": 43.5,
+      "overUnder": 42.5,
       "venue": "State Farm Stadium",
       "city": "Glendale",
       "tv": [
@@ -1578,7 +1575,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Hazy sunshine",
+        "text": "Partly sunny",
         "tempF": 67,
         "tempC": 19
       },
@@ -1605,7 +1602,7 @@
         "record": "4-2"
       },
       "line": "DET -3.5",
-      "overUnder": 54.5,
+      "overUnder": 55.5,
       "venue": "Ford Field",
       "city": "Detroit",
       "tv": [
@@ -1622,13 +1619,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 72,
+        "text": "Mostly sunny",
+        "tempF": 71,
         "tempC": 22
       },
       "moneyline": {
-        "away": "-175",
-        "home": "+145"
+        "away": "-185",
+        "home": "+154"
       },
       "detail": "10/25 - 4:25 PM EDT",
       "final": false,
@@ -1648,7 +1645,7 @@
         "winner": null,
         "record": "2-4"
       },
-      "line": "LAR -3",
+      "line": "LAR -3.5",
       "overUnder": 48.5,
       "venue": "Allegiant Stadium",
       "city": "Las Vegas",
@@ -1667,12 +1664,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 55,
+        "tempF": 56,
         "tempC": 13
       },
       "moneyline": {
-        "away": "+120",
-        "home": "-142"
+        "away": "+124",
+        "home": "-148"
       },
       "detail": "10/25 - 8:20 PM EDT",
       "final": false,
@@ -1715,8 +1712,8 @@
         "tempC": 15
       },
       "moneyline": {
-        "away": "-218",
-        "home": "+180"
+        "away": "-205",
+        "home": "+170"
       },
       "detail": "10/26 - 8:15 PM EDT",
       "final": false,
