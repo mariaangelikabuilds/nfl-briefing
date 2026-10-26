@@ -1,5 +1,5 @@
 {
-  "now_perth": "Mon, 26 Oct, 12:10 pm",
+  "now_perth": "Tue, 27 Oct, 2:33 am",
   "bengals_next": {
     "id": "401873031",
     "week": 8,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Rain",
-      "tempF": 66,
-      "tempC": 19
+      "tempF": 68,
+      "tempC": 20
     },
     "moneyline": {
-      "away": "+440",
-      "home": "-600"
+      "away": "+470",
+      "home": "-650"
     },
     "detail": "11/1 - 1:00 PM EST",
     "final": false,
@@ -35,7 +35,7 @@
       "record": "1-6"
     },
     "line": "CIN -10",
-    "overUnder": 47.5,
+    "overUnder": 46.5,
     "venue": "Paycor Stadium",
     "city": "Cincinnati",
     "tv": [
@@ -101,7 +101,7 @@
     "kickoff_perth": "Mon, 26 Oct, 1:00 am"
   },
   "write_pregame": false,
-  "write_postgame": true,
+  "write_postgame": false,
   "division": {
     "name": "AFC North",
     "rows": [
@@ -281,9 +281,27 @@
   },
   "news_bengals": [
     {
+      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "published": "2026-10-26T17:30:07Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
+    },
+    {
+      "headline": "NFL Week 8 betting odds: Lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
+      "published": "2026-10-26T17:39:24Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-26T10:00:11Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
       "headline": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games",
       "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.",
-      "published": "2026-10-26T04:00:17Z",
+      "published": "2026-10-26T04:29:51Z",
       "url": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026"
     },
     {
@@ -293,47 +311,53 @@
       "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026"
     },
     {
+      "headline": "Judging overreactions to NFL Week 7: McCarthy-led Giants are NFC East favorites?",
+      "summary": "Will J.J. McCarthy bring the Giants to the postseason? Are the Vikings headed for a bye? How bad do the 49ers need Mike Evans back? Let's overreact to Sunday's games.",
+      "published": "2026-10-26T11:01:42Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50278065/week-7-overreactions-2026-graziano-mccarthy-giants-bengals"
+    },
+    {
       "headline": "How Ja'Marr Chase's halftime speech sparked Bengals comeback",
       "summary": "Ben Baby recaps Ja'Marr Chase's halftime speech and the Bengals' historic comeback over the Ravens.",
       "published": "2026-10-26T00:14:52Z",
       "url": "https://www.espn.com/video/clip/_/id/50282803/how-jamarr-chase-half-speech-sparked-bengals-comeback"
     },
     {
-      "headline": "Judging overreactions to NFL Week 7: McCarthy-led Giants are NFC East favorites?",
-      "summary": "Are Giants playoff bound? Are Vikings the NFC top seed? How bad do 49ers need Mike Evans back? We're judging overreactions to Sunday's games.",
-      "published": "2026-10-26T02:03:04Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50278065/week-7-overreactions-2026-graziano-mccarthy-giants-bengals"
-    },
-    {
       "headline": "Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "published": "2026-10-25T23:18:44Z",
       "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals"
-    },
-    {
-      "headline": "Chase's fiery halftime speech inspires Bengals to comeback win vs. Ravens",
-      "summary": "Ja'Marr Chase unloaded on his Bengals teammates in a halftime speech that inspired Cincinnati to a comeback victory over the Ravens.",
-      "published": "2026-10-26T02:05:32Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50281493/jamarr-chase-fiery-half-speech-inspires-bengals-win"
-    },
-    {
-      "headline": "Cincinnati Bengals vs. Baltimore Ravens Game Highlights",
-      "summary": "Cincinnati Bengals vs. Baltimore Ravens Game Highlights",
-      "published": "2026-10-25T20:54:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/50280298/cincinnati-bengals-vs-baltimore-ravens-game-highlights"
-    },
-    {
-      "headline": "Burrow throws 4 TD passes as Bengals storm past Jackson-less Ravens in 2nd half of 35-13 win",
-      "summary": "— For 30 minutes, it was hard to tell which team was playing its backup quarterback, Cincinnati or Baltimore.",
-      "published": "2026-10-25T22:02:47Z",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873012"
     }
   ],
   "news_opponent": [
     {
+      "headline": "NFL Week 8 betting odds: Lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
+      "published": "2026-10-26T17:39:24Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-26T10:00:11Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
+      "headline": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.",
+      "published": "2026-10-26T04:29:51Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026"
+    },
+    {
+      "headline": "Seahawks troll Taylor Swift, Travis Kelce to top NFL Week 7's petty posts",
+      "summary": "The Seattle Seahawks' petty post at Taylor Swift and Kansas City Chiefs' Travis Kelce leads the way for NFL's Week 7 trolls.",
+      "published": "2026-10-26T04:35:25Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50280779/nfl-week-7-trolls"
+    },
+    {
       "headline": "Week 7 NFL highlights: Best plays, moments, touchdowns, more",
       "summary": "Check here for Sunday's top moments and TDs from J.J. McCarthy, Bucky Irving, Jonathan Taylor, Aaron Rodgers and more.",
-      "published": "2026-10-26T01:33:50Z",
+      "published": "2026-10-26T04:06:05Z",
       "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026"
     },
     {
@@ -343,40 +367,16 @@
       "url": "https://www.espn.com/video/clip/_/id/50283595/what-went-wrong-titans-week-7"
     },
     {
-      "headline": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.",
-      "published": "2026-10-26T02:01:50Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026"
-    },
-    {
       "headline": "Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "published": "2026-10-25T23:18:44Z",
       "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals"
     },
     {
-      "headline": "Falcons hand 49ers first loss, deliver petty post to top NFL Week 7 trolls",
-      "summary": "The Atlanta Falcons' petty jab at the San Francisco 49ers leads the way for NFL's Week 7 trolls.",
-      "published": "2026-10-25T22:01:52Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50280779/nfl-week-7-trolls"
-    },
-    {
       "headline": "Browns win in epic fashion for second week in a row",
       "summary": "Browns win in epic fashion for second week in a row ",
       "published": "2026-10-25T21:28:33Z",
       "url": "https://www.espn.com/video/clip/_/id/50280322/browns-win-epic-fashion-second-week-row"
-    },
-    {
-      "headline": "Deshaun Watson leads another game-winning drive as the Browns beat the Titans 27-24",
-      "summary": "— Deshaun Watson keeps turning in game-winning drives, and his career revival is keeping the Cleveland Browns atop the AFC North.",
-      "published": "2026-10-25T22:20:49Z",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873013"
-    },
-    {
-      "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-      "summary": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-      "published": "2026-10-24T17:02:08Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
     }
   ],
   "league_week": 8,
@@ -1061,13 +1061,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly clear",
-        "tempF": 59,
-        "tempC": 15
+        "text": "Clear",
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-218",
+        "home": "+180"
       },
       "detail": "10/26 - 8:15 PM EDT",
       "final": false,
@@ -1088,7 +1088,7 @@
         "record": "2-4"
       },
       "line": "DAL -4.5",
-      "overUnder": 43.5,
+      "overUnder": 44.5,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "tv": [
@@ -1112,8 +1112,8 @@
         "tempC": 14
       },
       "moneyline": {
-        "away": "+170",
-        "home": "-205"
+        "away": "+160",
+        "home": "-192"
       },
       "detail": "10/29 - 8:15 PM EDT",
       "final": false,
@@ -1133,7 +1133,7 @@
         "winner": null,
         "record": "3-3"
       },
-      "line": "GB -4.5",
+      "line": "GB -3.5",
       "overUnder": 47.5,
       "venue": "Lambeau Field",
       "city": "Green Bay",
@@ -1152,8 +1152,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+160",
-        "home": "-192"
+        "away": "+154",
+        "home": "-185"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1191,7 +1191,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
+        "text": "Mostly cloudy",
         "tempF": 72,
         "tempC": 22
       },
@@ -1218,7 +1218,7 @@
         "record": "2-5"
       },
       "line": "DAL -6.5",
-      "overUnder": 52.5,
+      "overUnder": 54.5,
       "venue": "AT&T Stadium",
       "city": "Arlington",
       "tv": [
@@ -1240,8 +1240,8 @@
         "tempC": 18
       },
       "moneyline": {
-        "away": "+136",
-        "home": "-162"
+        "away": "+140",
+        "home": "-166"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1280,12 +1280,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 61,
-        "tempC": 16
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "-108",
-        "home": "-112"
+        "away": "-112",
+        "home": "-108"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1305,7 +1305,7 @@
         "winner": null,
         "record": "3-4"
       },
-      "line": "NYJ -1.5",
+      "line": "LV -1.5",
       "overUnder": 44.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
@@ -1324,12 +1324,12 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 60,
-        "tempC": 16
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "+160",
-        "home": "-192"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1350,7 +1350,7 @@
         "record": "5-2"
       },
       "line": "PIT -3.5",
-      "overUnder": 39.5,
+      "overUnder": 38.5,
       "venue": "Acrisure Stadium",
       "city": "Pittsburgh",
       "tv": [
@@ -1367,13 +1367,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 83,
-        "tempC": 28
+        "text": "Mostly cloudy w/ t-storms",
+        "tempF": 85,
+        "tempC": 29
       },
       "moneyline": {
-        "away": "+105",
-        "home": "-125"
+        "away": "+114",
+        "home": "-135"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1393,8 +1393,8 @@
         "winner": null,
         "record": "3-4"
       },
-      "line": "TB -1.5",
-      "overUnder": 45.5,
+      "line": "TB -2.5",
+      "overUnder": 46.5,
       "venue": "Raymond James Stadium",
       "city": "Tampa",
       "tv": [
@@ -1411,13 +1411,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 79,
-        "tempC": 26
+        "text": "Thunderstorms",
+        "tempF": 82,
+        "tempC": 28
       },
       "moneyline": {
-        "away": "+280",
-        "home": "-355"
+        "away": "+285",
+        "home": "-360"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1456,12 +1456,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 70,
-        "tempC": 21
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "+270",
-        "home": "-340"
+        "away": "+230",
+        "home": "-285"
       },
       "detail": "11/1 - 4:05 PM EST",
       "final": false,
@@ -1481,8 +1481,8 @@
         "winner": null,
         "record": "0-6"
       },
-      "line": "LAR -7",
-      "overUnder": 44.5,
+      "line": "LAR -6.5",
+      "overUnder": 43.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
       "tv": [
@@ -1500,7 +1500,7 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 65,
+        "tempF": 64,
         "tempC": 18
       },
       "moneyline": {
@@ -1543,9 +1543,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 85,
-        "tempC": 29
+        "text": "Partly sunny w/ t-storms",
+        "tempF": 82,
+        "tempC": 28
       },
       "moneyline": {
         "away": "-380",
@@ -1569,7 +1569,7 @@
         "winner": null,
         "record": "4-3"
       },
-      "line": "NE -7.5",
+      "line": "NE -7",
       "overUnder": 44.5,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
@@ -1587,13 +1587,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
-        "tempF": 62,
-        "tempC": 17
+        "text": "Mostly cloudy",
+        "tempF": 58,
+        "tempC": 14
       },
       "moneyline": {
-        "away": "+154",
-        "home": "-185"
+        "away": "+160",
+        "home": "-192"
       },
       "detail": "11/1 - 8:20 PM EST",
       "final": false,
@@ -1631,8 +1631,8 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly clear",
-        "tempF": 52,
+        "text": "Hazy moonlight",
+        "tempF": 51,
         "tempC": 11
       },
       "moneyline": {

@@ -108,6 +108,16 @@
     "401873022"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Minnesota is 6-0 after grinding past Indianapolis 16-10, and now gets Detroit at Ford Field in Week 8, Lions -3, total 46.5, Mon 2 Nov 2:00 am Perth.",
+        "Seattle hammered Kansas City 20-3, Jaxon Smith-Njigba 9 rec, 150 yds, 1 TD. The Chiefs fall to 5-1 and visit Denver next, KC -1.5, total 41.5.",
+        "Atlanta handed San Francisco its first loss 29-20. Brock Purdy threw two picks. The 49ers are 6-1.",
+        "Cleveland won 27-24 at Tennessee behind Tony Pollard's 25 car, 129 yds, 3 TD. Browns and Steelers meet in Pittsburgh in Week 8, PIT -3.5, total 39.5.",
+        "Pittsburgh took the Paris game 16-10 over New Orleans, Jaylen Warren 18 car, 101 yds. Steelers 5-2.",
+        "Dallas and Philadelphia, both 2-4, play Tue 27 Oct 8:15 am Perth, Cowboys -4.5, total 43.5."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401873031",
     "postgame": {
@@ -120,17 +130,7 @@
       "division_meaning": "Cleveland and Pittsburgh sit 5-2, Cincinnati 4-2 on a W2 streak with a plus-41 point differential, best in the division. Baltimore drops to 4-3 and L2.",
       "the_take": "Point differential says the Bengals are the best team in this division even from third place. ESPN credits a fiery Chase halftime speech for the comeback; the 5-5 red zone trip chart says scheme held up too."
     },
-    "postgame_for": "401873012",
-    "league": {
-      "lines": [
-        "Minnesota is 6-0 after grinding past Indianapolis 16-10, and now gets Detroit at Ford Field in Week 8, Lions -3, total 46.5, Mon 2 Nov 2:00 am Perth.",
-        "Seattle hammered Kansas City 20-3, Jaxon Smith-Njigba 9 rec, 150 yds, 1 TD. The Chiefs fall to 5-1 and visit Denver next, KC -1.5, total 41.5.",
-        "Atlanta handed San Francisco its first loss 29-20. Brock Purdy threw two picks. The 49ers are 6-1.",
-        "Cleveland won 27-24 at Tennessee behind Tony Pollard's 25 car, 129 yds, 3 TD. Browns and Steelers meet in Pittsburgh in Week 8, PIT -3.5, total 39.5.",
-        "Pittsburgh took the Paris game 16-10 over New Orleans, Jaylen Warren 18 car, 101 yds. Steelers 5-2.",
-        "Dallas and Philadelphia, both 2-4, play Tue 27 Oct 8:15 am Perth, Cowboys -4.5, total 43.5."
-      ]
-    }
+    "postgame_for": "401873012"
   },
   "written_at": "2026-10-26T04:10:08.200Z",
   "last_error": null
