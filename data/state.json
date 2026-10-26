@@ -93,47 +93,45 @@
     "401873006",
     "401873007",
     "401873008",
-    "401873010"
+    "401873010",
+    "401873011",
+    "401873012",
+    "401873013",
+    "401873014",
+    "401873015",
+    "401873016",
+    "401873017",
+    "401873018",
+    "401873019",
+    "401873020",
+    "401873021",
+    "401873022"
   ],
   "briefing": {
+    "pregame": null,
+    "pregame_for": "401873031",
+    "postgame": {
+      "what_decided_it": "Red zone math and the second half. Cincinnati went 5-5 in the red zone, Baltimore 0-3. Yards were nearly even, 357 to 359, but the Bengals scored every trip and took no turnovers.",
+      "standouts": [
+        "Joe Burrow: 22/30, 292 yds, 4 TD, 0 INT. Efficient, 9.2 yards per pass attempt as a team.",
+        "Tee Higgins: 6 rec, 148 yds, 1 TD. Ja'Marr Chase added 5 rec, 62 yds and a score.",
+        "Defense: 4 sacks for 22 yards and a pick of Tyler Huntley, who still went 23/34 for 298."
+      ],
+      "division_meaning": "Cleveland and Pittsburgh sit 5-2, Cincinnati 4-2 on a W2 streak with a plus-41 point differential, best in the division. Baltimore drops to 4-3 and L2.",
+      "the_take": "Point differential says the Bengals are the best team in this division even from third place. ESPN credits a fiery Chase halftime speech for the comeback; the 5-5 red zone trip chart says scheme held up too."
+    },
+    "postgame_for": "401873012",
     "league": {
       "lines": [
-        "Chiefs at Seahawks Monday 8:20 am Perth, and Seattle is a 3 point home favourite over a 5-0 Kansas City side. Total 42.5.",
-        "Steelers and Saints in Paris, Sunday 9:30 pm Perth. Pittsburgh is 4-2 and favoured by 3, total 44.5.",
-        "Undefeated San Francisco, 6-0 after beating Washington 23-17, is only 2.5 at Atlanta.",
-        "Cowboys at Eagles on Tuesday 8:15 am Perth. Dallas -4.5 with both sides 2-4. Philadelphia lost 14-25 to Carolina last week.",
-        "Browns, 4-2 and tied atop the North, are 2.5 point favourites at Tennessee with a 36.5 total.",
-        "Bears beat New England 30-24 Friday morning. Luther Burden III had 4 rec, 130 yds, 1 TD."
+        "Minnesota is 6-0 after grinding past Indianapolis 16-10, and now gets Detroit at Ford Field in Week 8, Lions -3, total 46.5, Mon 2 Nov 2:00 am Perth.",
+        "Seattle hammered Kansas City 20-3, Jaxon Smith-Njigba 9 rec, 150 yds, 1 TD. The Chiefs fall to 5-1 and visit Denver next, KC -1.5, total 41.5.",
+        "Atlanta handed San Francisco its first loss 29-20. Brock Purdy threw two picks. The 49ers are 6-1.",
+        "Cleveland won 27-24 at Tennessee behind Tony Pollard's 25 car, 129 yds, 3 TD. Browns and Steelers meet in Pittsburgh in Week 8, PIT -3.5, total 39.5.",
+        "Pittsburgh took the Paris game 16-10 over New Orleans, Jaylen Warren 18 car, 101 yds. Steelers 5-2.",
+        "Dallas and Philadelphia, both 2-4, play Tue 27 Oct 8:15 am Perth, Cowboys -4.5, total 43.5."
       ]
-    },
-    "pregame": {
-      "matchup_read": "Bengals at Baltimore, Mon 1:00 am Perth, M&T Bank Stadium, sunny and 16C. Cincinnati is 3-2 and laid as a 1.5 point road favourite with a 48.5 total. Baltimore is 4-2 but off a 10-13 loss in Cleveland.",
-      "storylines": [
-        "Lamar Jackson says he has a high ankle sprain and is unsure if he plays, per ESPN. He has missed the past two games but is \"heading in the right direction\".",
-        "Trey Hendrickson faces his old team for the first time since signing with Baltimore. ESPN's preview says he is finally looking healthier.",
-        "Ben Baby reports both Hendrickson and the Bengals are downplaying the matchup.",
-        "Burrow went 23/32 for 190 and 4 TD in the 31-24 win at Miami. Efficient, not explosive, at 5.9 yards per pass."
-      ],
-      "watch_for": [
-        "Cincinnati's run defence. Miami ran for 217 on 34 carries at 6.4 a pop and still lost.",
-        "Third down. The Bengals were 9-13 in Miami and will need that rate again if Baltimore controls the clock.",
-        "The Hendrickson snap count and who Cincinnati slides help to on his side."
-      ],
-      "the_call": "Bengals cover the 1.5. If Jackson is limited or out, Baltimore's offence stalls like it did in the 10-point day at Cleveland, and Burrow only needs an average game to win it."
-    },
-    "pregame_for": "401873012",
-    "postgame": {
-      "what_decided_it": "Turnovers. Miami outgained Cincinnati 331 to 307 and ran for 217 at 6.4 a pop, but coughed it up three times to the Bengals' one. Burrow turned short fields into four touchdowns.",
-      "standouts": [
-        "Joe Burrow: 23/32, 190 yards, 4 TD, 0 INT. Not a volume day, 5.9 yards per pass, but clean and sharp inside the 20.",
-        "Ja'Marr Chase: 6 catches, 77 yards, 1 TD. Still the first read that always works.",
-        "Per the ESPN recap headline, Battle had a pair of interceptions. Malik Willis finished 15/27, 137 yards, 1 TD, 2 INT."
-      ],
-      "division_meaning": "Baltimore sits 4-1 on a W3 run. Cincinnati, Cleveland and Pittsburgh are all 3-2. The Bengals' +19 point differential is second in the North behind the Ravens' +27.",
-      "the_take": "A win over an 0-5 team that you got outgained in is not a fix. Ben Baby's piece says the Bengals know they can play better. Giving up 217 on the ground travels badly to Baltimore on Mon, 26 Oct, 1:00 am."
-    },
-    "postgame_for": "401872982"
+    }
   },
-  "written_at": "2026-10-24T04:04:02.138Z",
+  "written_at": "2026-10-26T04:10:08.200Z",
   "last_error": null
 }
