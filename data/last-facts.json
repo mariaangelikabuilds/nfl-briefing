@@ -1,5 +1,5 @@
 {
-  "now_perth": "Wed, 28 Oct, 1:47 am",
+  "now_perth": "Wed, 28 Oct, 1:00 pm",
   "bengals_next": {
     "id": "401873031",
     "week": 8,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Cloudy",
-      "tempF": 64,
-      "tempC": 18
+      "tempF": 63,
+      "tempC": 17
     },
     "moneyline": {
-      "away": "+470",
-      "home": "-650"
+      "away": "+380",
+      "home": "-500"
     },
     "detail": "11/1 - 1:00 PM EST",
     "final": false,
@@ -281,6 +281,12 @@
   },
   "news_bengals": [
     {
+      "headline": "Bengals put TE Erick All Jr. on IR; believed to be torn ACL, per source",
+      "summary": "Bengals put TE Erick All Jr. on injured reserve Tuesday with an injury that's believed to be a torn ACL, a source told NFL Network's Ian Rapoport.",
+      "published": "2026-10-27T18:43:53Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50299803/bengals-te-all-put-ir-likely-due-torn-acl-per-source"
+    },
+    {
       "headline": "NFL Week 8 betting odds: Lines and totals for every game",
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
       "published": "2026-10-27T15:06:04Z",
@@ -321,12 +327,6 @@
       "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
       "published": "2026-10-26T20:47:06Z",
       "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-26T10:00:11Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
     }
   ],
   "news_opponent": [
@@ -1120,8 +1120,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 54,
-        "tempC": 12
+        "tempF": 55,
+        "tempC": 13
       },
       "moneyline": {
         "away": "+154",
@@ -1146,7 +1146,7 @@
         "record": "3-3"
       },
       "line": "GB -3.5",
-      "overUnder": 48.5,
+      "overUnder": 47.5,
       "venue": "Lambeau Field",
       "city": "Green Bay",
       "tv": [
@@ -1164,8 +1164,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+154",
-        "home": "-185"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1185,8 +1185,8 @@
         "winner": null,
         "record": "4-3"
       },
-      "line": "BUF -3.5",
-      "overUnder": 53.5,
+      "line": "BUF -3",
+      "overUnder": 54.5,
       "venue": "Highmark Stadium",
       "city": "Orchard Park",
       "tv": [
@@ -1204,12 +1204,12 @@
       "clock": null,
       "weather": {
         "text": "Hazy sunshine",
-        "tempF": 71,
-        "tempC": 22
+        "tempF": 74,
+        "tempC": 23
       },
       "moneyline": {
-        "away": "+260",
-        "home": "-325"
+        "away": "+250",
+        "home": "-310"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1248,8 +1248,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 65,
-        "tempC": 18
+        "tempF": 62,
+        "tempC": 17
       },
       "moneyline": {
         "away": "+142",
@@ -1292,12 +1292,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 66,
-        "tempC": 19
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "-110",
-        "home": "-110"
+        "away": "+102",
+        "home": "-122"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1317,7 +1317,7 @@
         "winner": null,
         "record": "3-4"
       },
-      "line": "LV -1.5",
+      "line": "NYJ -1.5",
       "overUnder": 45.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
@@ -1336,12 +1336,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 66,
+        "tempF": 67,
         "tempC": 19
       },
       "moneyline": {
-        "away": "+142",
-        "home": "-170"
+        "away": "+154",
+        "home": "-185"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1380,12 +1380,12 @@
       "clock": null,
       "weather": {
         "text": "Thunderstorms",
-        "tempF": 84,
-        "tempC": 29
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
-        "away": "+114",
-        "home": "-135"
+        "away": "+120",
+        "home": "-142"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1406,7 +1406,7 @@
         "record": "3-4"
       },
       "line": "TB -2.5",
-      "overUnder": 46.5,
+      "overUnder": 45.5,
       "venue": "Raymond James Stadium",
       "city": "Tampa",
       "tv": [
@@ -1424,7 +1424,7 @@
       "clock": null,
       "weather": {
         "text": "Thunderstorms",
-        "tempF": 78,
+        "tempF": 79,
         "tempC": 26
       },
       "moneyline": {
@@ -1449,7 +1449,7 @@
         "winner": null,
         "record": "2-5"
       },
-      "line": "JAX -8.5",
+      "line": "JAX -9.5",
       "overUnder": 46.5,
       "venue": "EverBank Stadium",
       "city": "Jacksonville",
@@ -1468,8 +1468,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 70,
-        "tempC": 21
+        "tempF": 72,
+        "tempC": 22
       },
       "moneyline": {
         "away": "+235",
@@ -1494,7 +1494,7 @@
         "record": "0-6"
       },
       "line": "LAR -6.5",
-      "overUnder": 44.5,
+      "overUnder": 45.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
       "tv": [
@@ -1512,12 +1512,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 61,
-        "tempC": 16
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "-125",
-        "home": "+105"
+        "away": "-122",
+        "home": "+102"
       },
       "detail": "11/1 - 4:25 PM EST",
       "final": false,
@@ -1556,12 +1556,12 @@
       "clock": null,
       "weather": {
         "text": "Thunderstorms",
-        "tempF": 83,
-        "tempC": 28
+        "tempF": 81,
+        "tempC": 27
       },
       "moneyline": {
-        "away": "-395",
-        "home": "+310"
+        "away": "-340",
+        "home": "+270"
       },
       "detail": "11/1 - 4:25 PM EST",
       "final": false,
@@ -1581,8 +1581,8 @@
         "winner": null,
         "record": "4-3"
       },
-      "line": "NE -7.5",
-      "overUnder": 44.5,
+      "line": "NE -7",
+      "overUnder": 43.5,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
       "tv": [
@@ -1600,8 +1600,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 58,
-        "tempC": 14
+        "tempF": 56,
+        "tempC": 13
       },
       "moneyline": {
         "away": "+180",
@@ -1644,7 +1644,7 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 51,
+        "tempF": 52,
         "tempC": 11
       },
       "moneyline": {
