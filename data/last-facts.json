@@ -1,5 +1,5 @@
 {
-  "now_perth": "Thu, 29 Oct, 2:12 am",
+  "now_perth": "Thu, 29 Oct, 1:13 pm",
   "bengals_next": {
     "id": "401873031",
     "week": 8,
@@ -13,8 +13,8 @@
       "tempC": 19
     },
     "moneyline": {
-      "away": "+380",
-      "home": "-500"
+      "away": "+390",
+      "home": "-520"
     },
     "detail": "11/1 - 1:00 PM EST",
     "final": false,
@@ -34,7 +34,7 @@
       "winner": null,
       "record": "1-6"
     },
-    "line": "CIN -10.5",
+    "line": "CIN -10",
     "overUnder": 46.5,
     "venue": "Paycor Stadium",
     "city": "Cincinnati",
@@ -281,15 +281,39 @@
   },
   "news_bengals": [
     {
+      "headline": "How Shemar Stewart can get back on the field for Cincinnati",
+      "summary": "Ben Baby reports on Shemar Stewart's mindset after the first healthy scratch of his career.",
+      "published": "2026-10-28T23:59:15Z",
+      "url": "https://www.espn.com/video/clip/_/id/50312214/how-shemar-stewart-get-back-field-cincinnati"
+    },
+    {
+      "headline": "Shemar Stewart focuses on giving Bengals 'confidence' to play him",
+      "summary": "After watching his teammates play Sunday when he was a healthy scratch, Bengals DE Shemar Stewart knows what he has to show and prove moving forward.",
+      "published": "2026-10-28T23:49:19Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50311866/shemar-stewart-focused-giving-bengals-confidence-play-him"
+    },
+    {
+      "headline": "NFL survivor power rankings: Why this is the week to use Bengals, Patriots",
+      "summary": "ESPN NFL survivor pool strategy, predictions and ranking the top six options for Week 8.",
+      "published": "2026-10-28T20:14:39Z",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/50310012/nfl-survivor-week-8-survivor-pool-strategy-advice-picks"
+    },
+    {
+      "headline": "NFL Week 8 betting odds: Lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
+      "published": "2026-10-28T17:12:08Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals"
+    },
+    {
       "headline": "NFL Week 8 latest intel, buzz questions, news, fantasy tips: What we're hearing",
       "summary": "Are changes coming for the Jets? Could the Chiefs add at the trade deadline? Will the Colts keep unloading? And what's going on in the AFC North standings?",
-      "published": "2026-10-28T15:16:11Z",
+      "published": "2026-10-28T16:40:39Z",
       "url": "https://www.espn.com/nfl/story/_/id/50297734/week-8-buzz-fantasy-predictions-graziano-fowler-2026"
     },
     {
       "headline": "2026 NFL trade deadline: Ranking the top 25 candidates to move, plus team fits",
       "summary": "Could the Colts listen on Jonathan Taylor? Would Josh Sweat help a contender's defense? We stacked the top players who might move before the Nov. 10 deadline.",
-      "published": "2026-10-28T14:55:14Z",
+      "published": "2026-10-29T00:45:59Z",
       "url": "https://www.espn.com/nfl/story/_/id/50278445/2026-nfl-trade-deadline-ranking-top-25-candidates-available"
     },
     {
@@ -299,42 +323,24 @@
       "url": "https://www.espn.com/nfl/story/_/id/50299803/bengals-te-all-put-ir-likely-due-torn-acl-per-source"
     },
     {
-      "headline": "NFL Week 8 betting odds: Lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
-      "published": "2026-10-27T15:06:04Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals"
-    },
-    {
       "headline": "NFL Power Rankings: How all 32 teams stack up for Week 8, plus offseason adds",
       "summary": "How does every NFL team stack up heading into Week 8? We made our 1-32 list and picked the best offseason addition -- coach or player -- for every team.",
       "published": "2026-10-27T14:24:33Z",
       "url": "https://www.espn.com/nfl/story/_/id/50288293/nfl-power-rankings-week-8-teams-best-offseason-additions"
-    },
-    {
-      "headline": "What are the longest field goals in NFL history?",
-      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "published": "2026-10-26T04:07:12Z",
-      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history"
-    },
-    {
-      "headline": "Jay-Z's road to the Super Bowl: Were the clues there all along?",
-      "summary": "With Hov headed to SoFi Stadium's halftime stage in Los Angeles, we revisit the breadcrumbs that might have pointed us there.",
-      "published": "2026-10-27T03:06:13Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50244728/jay-z-super-bowl-half-hints"
-    },
-    {
-      "headline": "Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-26T22:50:32Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals"
     }
   ],
   "news_opponent": [
     {
       "headline": "NFL Week 8 betting odds: Lines and totals for every game",
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
-      "published": "2026-10-27T15:06:04Z",
+      "published": "2026-10-28T17:12:08Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "2026 NFL trade deadline: Ranking the top 25 candidates to move, plus team fits",
+      "summary": "Could the Colts listen on Jonathan Taylor? Would Josh Sweat help a contender's defense? We stacked the top players who might move before the Nov. 10 deadline.",
+      "published": "2026-10-29T00:45:59Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50278445/2026-nfl-trade-deadline-ranking-top-25-candidates-available"
     },
     {
       "headline": "NFL Power Rankings: How all 32 teams stack up for Week 8, plus offseason adds",
@@ -371,12 +377,6 @@
       "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
       "published": "2026-10-26T10:00:11Z",
       "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.",
-      "published": "2026-10-26T04:29:51Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026"
     }
   ],
   "league_week": 8,
@@ -1124,8 +1124,8 @@
         "tempC": 11
       },
       "moneyline": {
-        "away": "+154",
-        "home": "-185"
+        "away": "+160",
+        "home": "-192"
       },
       "detail": "10/29 - 8:15 PM EDT",
       "final": false,
@@ -1208,12 +1208,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 75,
-        "tempC": 24
+        "tempF": 74,
+        "tempC": 23
       },
       "moneyline": {
-        "away": "+280",
-        "home": "-355"
+        "away": "+260",
+        "home": "-325"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1252,7 +1252,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 63,
+        "tempF": 62,
         "tempC": 17
       },
       "moneyline": {
@@ -1296,12 +1296,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 66,
-        "tempC": 19
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+102",
-        "home": "-122"
+        "away": "+105",
+        "home": "-125"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1384,12 +1384,12 @@
       "clock": null,
       "weather": {
         "text": "Thunderstorms",
-        "tempF": 82,
-        "tempC": 28
+        "tempF": 78,
+        "tempC": 26
       },
       "moneyline": {
-        "away": "+114",
-        "home": "-135"
+        "away": "+120",
+        "home": "-142"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1428,8 +1428,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 80,
-        "tempC": 27
+        "tempF": 79,
+        "tempC": 26
       },
       "moneyline": {
         "away": "+370",
@@ -1453,7 +1453,7 @@
         "winner": null,
         "record": "2-5"
       },
-      "line": "JAX -9.5",
+      "line": "JAX -10",
       "overUnder": 46.5,
       "venue": "EverBank Stadium",
       "city": "Jacksonville",
@@ -1476,8 +1476,8 @@
         "tempC": 22
       },
       "moneyline": {
-        "away": "+240",
-        "home": "-298"
+        "away": "+225",
+        "home": "-278"
       },
       "detail": "11/1 - 4:05 PM EST",
       "final": false,
@@ -1560,7 +1560,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 82,
+        "tempF": 83,
         "tempC": 28
       },
       "moneyline": {
@@ -1608,8 +1608,8 @@
         "tempC": 12
       },
       "moneyline": {
-        "away": "+195",
-        "home": "-238"
+        "away": "+190",
+        "home": "-230"
       },
       "detail": "11/1 - 8:20 PM EST",
       "final": false,
@@ -1629,7 +1629,7 @@
         "winner": null,
         "record": "2-5"
       },
-      "line": "WSH -5.5",
+      "line": "WSH -6",
       "overUnder": 40.5,
       "venue": "Northwest Stadium",
       "city": "Landover",
@@ -1648,8 +1648,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 55,
-        "tempC": 13
+        "tempF": 53,
+        "tempC": 12
       },
       "moneyline": {
         "away": "+140",
