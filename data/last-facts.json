@@ -1,5 +1,5 @@
 {
-  "now_perth": "Thu, 29 Oct, 1:13 pm",
+  "now_perth": "Fri, 30 Oct, 2:17 am",
   "bengals_next": {
     "id": "401873031",
     "week": 8,
@@ -8,13 +8,13 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Cloudy",
+      "text": "Mostly cloudy",
       "tempF": 66,
       "tempC": 19
     },
     "moneyline": {
-      "away": "+390",
-      "home": "-520"
+      "away": "+455",
+      "home": "-625"
     },
     "detail": "11/1 - 1:00 PM EST",
     "final": false,
@@ -34,7 +34,7 @@
       "winner": null,
       "record": "1-6"
     },
-    "line": "CIN -10",
+    "line": "CIN -11.5",
     "overUnder": 46.5,
     "venue": "Paycor Stadium",
     "city": "Cincinnati",
@@ -281,6 +281,18 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut 'Rivalries' look",
+      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by \"Rivalries\" looks from Jacksonville and Detroit.",
+      "published": "2026-10-29T12:59:17Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms"
+    },
+    {
+      "headline": "Bowen: Four players (and a defense) that have changed my mind",
+      "summary": "Matt Bowen discusses a few disappointments, a couple of surprises and what to expect going forward.",
+      "published": "2026-10-29T12:39:26Z",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/50310913/fantasy-football-trade-value-midseason-trends"
+    },
+    {
       "headline": "How Shemar Stewart can get back on the field for Cincinnati",
       "summary": "Ben Baby reports on Shemar Stewart's mindset after the first healthy scratch of his career.",
       "published": "2026-10-28T23:59:15Z",
@@ -315,18 +327,6 @@
       "summary": "Could the Colts listen on Jonathan Taylor? Would Josh Sweat help a contender's defense? We stacked the top players who might move before the Nov. 10 deadline.",
       "published": "2026-10-29T00:45:59Z",
       "url": "https://www.espn.com/nfl/story/_/id/50278445/2026-nfl-trade-deadline-ranking-top-25-candidates-available"
-    },
-    {
-      "headline": "Bengals put TE Erick All Jr. on IR; believed to be torn ACL, per source",
-      "summary": "Bengals put TE Erick All Jr. on injured reserve Tuesday with an injury that's believed to be a torn ACL, a source told NFL Network's Ian Rapoport.",
-      "published": "2026-10-28T10:40:41Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50299803/bengals-te-all-put-ir-likely-due-torn-acl-per-source"
-    },
-    {
-      "headline": "NFL Power Rankings: How all 32 teams stack up for Week 8, plus offseason adds",
-      "summary": "How does every NFL team stack up heading into Week 8? We made our 1-32 list and picked the best offseason addition -- coach or player -- for every team.",
-      "published": "2026-10-27T14:24:33Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50288293/nfl-power-rankings-week-8-teams-best-offseason-additions"
     }
   ],
   "news_opponent": [
@@ -1119,9 +1119,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 52,
-        "tempC": 11
+        "text": "Partly cloudy",
+        "tempF": 53,
+        "tempC": 12
       },
       "moneyline": {
         "away": "+160",
@@ -1146,7 +1146,7 @@
         "record": "3-3"
       },
       "line": "GB -3.5",
-      "overUnder": 47.5,
+      "overUnder": 46.5,
       "venue": "Lambeau Field",
       "city": "Green Bay",
       "tv": [
@@ -1163,13 +1163,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
+        "text": "Partly sunny",
         "tempF": 65,
         "tempC": 18
       },
       "moneyline": {
-        "away": "+145",
-        "home": "-175"
+        "away": "+142",
+        "home": "-170"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1252,7 +1252,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 62,
+        "tempF": 63,
         "tempC": 17
       },
       "moneyline": {
@@ -1295,13 +1295,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 65,
-        "tempC": 18
+        "text": "Mostly sunny",
+        "tempF": 62,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "+105",
-        "home": "-125"
+        "away": "+102",
+        "home": "-122"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1340,8 +1340,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
         "away": "+160",
@@ -1384,12 +1384,12 @@
       "clock": null,
       "weather": {
         "text": "Thunderstorms",
-        "tempF": 78,
-        "tempC": 26
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
         "away": "+120",
-        "home": "-142"
+        "home": "OFF"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1428,12 +1428,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 79,
-        "tempC": 26
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
-        "away": "+370",
-        "home": "-485"
+        "away": "+380",
+        "home": "-500"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1471,13 +1471,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 71,
+        "text": "Mostly cloudy",
+        "tempF": 72,
         "tempC": 22
       },
       "moneyline": {
-        "away": "+225",
-        "home": "-278"
+        "away": "+220",
+        "home": "-270"
       },
       "detail": "11/1 - 4:05 PM EST",
       "final": false,
@@ -1515,9 +1515,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 65,
-        "tempC": 18
+        "text": "Intermittent clouds",
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": {
         "away": "-118",
@@ -1560,12 +1560,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 83,
-        "tempC": 28
+        "tempF": 81,
+        "tempC": 27
       },
       "moneyline": {
-        "away": "-310",
-        "home": "+250"
+        "away": "-325",
+        "home": "+260"
       },
       "detail": "11/1 - 4:25 PM EST",
       "final": false,
@@ -1603,13 +1603,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly cloudy",
-        "tempF": 54,
-        "tempC": 12
+        "text": "Intermittent clouds",
+        "tempF": 50,
+        "tempC": 10
       },
       "moneyline": {
-        "away": "+190",
-        "home": "-230"
+        "away": "+195",
+        "home": "-238"
       },
       "detail": "11/1 - 8:20 PM EST",
       "final": false,
@@ -1647,7 +1647,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
+        "text": "Hazy moonlight",
         "tempF": 53,
         "tempC": 12
       },
