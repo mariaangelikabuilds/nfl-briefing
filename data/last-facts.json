@@ -1,5 +1,5 @@
 {
-  "now_perth": "Fri, 30 Oct, 2:17 am",
+  "now_perth": "Fri, 30 Oct, 1:13 pm",
   "bengals_next": {
     "id": "401873031",
     "week": 8,
@@ -13,8 +13,8 @@
       "tempC": 19
     },
     "moneyline": {
-      "away": "+455",
-      "home": "-625"
+      "away": "+490",
+      "home": "-675"
     },
     "detail": "11/1 - 1:00 PM EST",
     "final": false,
@@ -34,7 +34,7 @@
       "winner": null,
       "record": "1-6"
     },
-    "line": "CIN -11.5",
+    "line": "CIN -12.5",
     "overUnder": 46.5,
     "venue": "Paycor Stadium",
     "city": "Cincinnati",
@@ -281,10 +281,28 @@
   },
   "news_bengals": [
     {
-      "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut 'Rivalries' look",
-      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by \"Rivalries\" looks from Jacksonville and Detroit.",
-      "published": "2026-10-29T12:59:17Z",
+      "headline": "NFL Week 8's best arrivals, led by Panthers' Bryce Young",
+      "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
+      "published": "2026-10-30T00:01:06Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion"
+    },
+    {
+      "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
+      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
+      "published": "2026-10-30T00:30:13Z",
       "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms"
+    },
+    {
+      "headline": "Burrow, Bengals go into November with momentum as they host struggling Titans",
+      "summary": "Joe Burrow and the Cincinnati Bengals find themselves in an unusual position going into November — healthy and with momentum.",
+      "published": "2026-10-29T17:44:53Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873031"
+    },
+    {
+      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "published": "2026-10-29T16:06:00Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
     },
     {
       "headline": "Bowen: Four players (and a defense) that have changed my mind",
@@ -307,76 +325,58 @@
     {
       "headline": "NFL survivor power rankings: Why this is the week to use Bengals, Patriots",
       "summary": "ESPN NFL survivor pool strategy, predictions and ranking the top six options for Week 8.",
-      "published": "2026-10-28T20:14:39Z",
+      "published": "2026-10-29T13:37:18Z",
       "url": "https://www.espn.com/fantasy/football/story/_/id/50310012/nfl-survivor-week-8-survivor-pool-strategy-advice-picks"
-    },
-    {
-      "headline": "NFL Week 8 betting odds: Lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
-      "published": "2026-10-28T17:12:08Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals"
-    },
-    {
-      "headline": "NFL Week 8 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-      "summary": "Are changes coming for the Jets? Could the Chiefs add at the trade deadline? Will the Colts keep unloading? And what's going on in the AFC North standings?",
-      "published": "2026-10-28T16:40:39Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50297734/week-8-buzz-fantasy-predictions-graziano-fowler-2026"
-    },
-    {
-      "headline": "2026 NFL trade deadline: Ranking the top 25 candidates to move, plus team fits",
-      "summary": "Could the Colts listen on Jonathan Taylor? Would Josh Sweat help a contender's defense? We stacked the top players who might move before the Nov. 10 deadline.",
-      "published": "2026-10-29T00:45:59Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50278445/2026-nfl-trade-deadline-ranking-top-25-candidates-available"
     }
   ],
   "news_opponent": [
     {
-      "headline": "NFL Week 8 betting odds: Lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
-      "published": "2026-10-28T17:12:08Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals"
+      "headline": "NFL Week 8's best arrivals, led by Panthers' Bryce Young",
+      "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
+      "published": "2026-10-30T00:01:06Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion"
     },
     {
-      "headline": "2026 NFL trade deadline: Ranking the top 25 candidates to move, plus team fits",
-      "summary": "Could the Colts listen on Jonathan Taylor? Would Josh Sweat help a contender's defense? We stacked the top players who might move before the Nov. 10 deadline.",
-      "published": "2026-10-29T00:45:59Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50278445/2026-nfl-trade-deadline-ranking-top-25-candidates-available"
+      "headline": "Jeffery Simmons traded to Bears: Does dealing multiple first-round picks work?",
+      "summary": "The Bears' aggressive move for Simmons marks the 10th time in the past decade that a team has traded multiple first-round picks for a star player. But the hit rate isn't great.",
+      "published": "2026-10-30T01:26:24Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50319184/jeffery-simmons-trade-two-first-round-picks-bears-titans"
     },
     {
-      "headline": "NFL Power Rankings: How all 32 teams stack up for Week 8, plus offseason adds",
-      "summary": "How does every NFL team stack up heading into Week 8? We made our 1-32 list and picked the best offseason addition -- coach or player -- for every team.",
-      "published": "2026-10-27T14:24:33Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50288293/nfl-power-rankings-week-8-teams-best-offseason-additions"
+      "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
+      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
+      "published": "2026-10-30T00:30:13Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms"
     },
     {
-      "headline": "What are the longest field goals in NFL history?",
-      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "published": "2026-10-26T04:07:12Z",
-      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history"
+      "headline": "Burrow, Bengals go into November with momentum as they host struggling Titans",
+      "summary": "Joe Burrow and the Cincinnati Bengals find themselves in an unusual position going into November — healthy and with momentum.",
+      "published": "2026-10-29T17:44:53Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873031"
     },
     {
-      "headline": "Jay-Z's road to the Super Bowl: Were the clues there all along?",
-      "summary": "With Hov headed to SoFi Stadium's halftime stage in Los Angeles, we revisit the breadcrumbs that might have pointed us there.",
-      "published": "2026-10-27T03:06:13Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50244728/jay-z-super-bowl-half-hints"
+      "headline": "Bears get Jeffery Simmons: Key intel on blockbuster trade",
+      "summary": "Is Jeffery Simmons the key missing piece for the Bears' Super Bowl puzzle? Here are key takeaways from the blockbuster trade.",
+      "published": "2026-10-29T19:32:27Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50319153/jeffery-simmons-trade-titans-bears-draft-picks-deadline"
     },
     {
-      "headline": "Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-26T22:50:32Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals"
+      "headline": "NFL trade deadline grades: Jeffery Simmons, DeForest Buckner, Quenton Nelson",
+      "summary": "Did the Bears give up too much to go all-in with Simmons? How did the Colts do in their DeForest Buckner and Quenton Nelson deals?",
+      "published": "2026-10-30T04:25:16Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals"
     },
     {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "published": "2026-10-26T20:47:06Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
+      "headline": "How Jeffery Simmons landed with the Bears",
+      "summary": "How Jeffery Simmons landed with the Bears",
+      "published": "2026-10-29T16:35:53Z",
+      "url": "https://www.espn.com/video/clip/_/id/50319483/how-jeffery-simmons-landed-bears"
     },
     {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-26T10:00:11Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+      "headline": "'A league-changing move!' Kimes reacts to Bears' trade for Jeffery Simmons",
+      "summary": "'A league-changing move!' Kimes reacts to Bears' trade for Jeffery Simmons",
+      "published": "2026-10-29T15:02:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/50318514/a-league-changing-move-kimes-reacts-bears-trade-jeffery-simmons"
     }
   ],
   "league_week": 8,
@@ -1116,43 +1116,55 @@
       "week": 8,
       "kickoff": "2026-10-30T00:15Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Partly cloudy",
-        "tempF": 53,
-        "tempC": 12
-      },
-      "moneyline": {
-        "away": "+160",
-        "home": "-192"
-      },
-      "detail": "10/29 - 8:15 PM EDT",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "9",
         "abbr": "GB",
         "name": "Green Bay Packers",
-        "score": null,
-        "winner": null,
-        "record": "4-3"
+        "score": 27,
+        "winner": true,
+        "record": "5-3"
       },
       "away": {
         "id": "29",
         "abbr": "CAR",
         "name": "Carolina Panthers",
-        "score": null,
-        "winner": null,
-        "record": "3-3"
+        "score": 19,
+        "winner": false,
+        "record": "3-4"
       },
-      "line": "GB -3.5",
-      "overUnder": 46.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Lambeau Field",
       "city": "Green Bay",
       "tv": [
         "Prime Video"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "30/41, 288 YDS, 3 TD, 1 INT",
+          "player": "Jordan Love",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "22 CAR, 81 YDS, 1 TD",
+          "player": "Chuba Hubbard",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "8 REC, 113 YDS",
+          "player": "Christian Watson",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Fri, 30 Oct, 8:15 am"
     },
     {
@@ -1168,8 +1180,8 @@
         "tempC": 18
       },
       "moneyline": {
-        "away": "+142",
-        "home": "-170"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1208,12 +1220,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 74,
+        "tempF": 73,
         "tempC": 23
       },
       "moneyline": {
-        "away": "+260",
-        "home": "-325"
+        "away": "+250",
+        "home": "-310"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1252,8 +1264,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
         "away": "+142",
@@ -1340,8 +1352,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
         "away": "+160",
@@ -1384,8 +1396,8 @@
       "clock": null,
       "weather": {
         "text": "Thunderstorms",
-        "tempF": 80,
-        "tempC": 27
+        "tempF": 76,
+        "tempC": 24
       },
       "moneyline": {
         "away": "+120",
@@ -1428,8 +1440,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 80,
-        "tempC": 27
+        "tempF": 79,
+        "tempC": 26
       },
       "moneyline": {
         "away": "+380",
@@ -1560,8 +1572,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 81,
-        "tempC": 27
+        "tempF": 82,
+        "tempC": 28
       },
       "moneyline": {
         "away": "-325",
@@ -1604,12 +1616,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 50,
-        "tempC": 10
+        "tempF": 51,
+        "tempC": 11
       },
       "moneyline": {
-        "away": "+195",
-        "home": "-238"
+        "away": "+210",
+        "home": "-258"
       },
       "detail": "11/1 - 8:20 PM EST",
       "final": false,
@@ -1652,8 +1664,8 @@
         "tempC": 12
       },
       "moneyline": {
-        "away": "+140",
-        "home": "-166"
+        "away": "+142",
+        "home": "-170"
       },
       "detail": "11/2 - 8:15 PM EST",
       "final": false,
