@@ -110,6 +110,16 @@
     "401873023"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Browns at Steelers is the AFC North game of the week, both 5-2, PIT -3.5 with a 39.5 total. Kickoff Mon, 2 Nov, 2:00 am Perth.",
+        "Ravens go to Buffalo at 4-3 after the Baltimore loss. BUF -3, total 54.5, same 2:00 am Monday window.",
+        "Vikings are 6-0 and travel to Detroit as 3-point dogs, 46.5 total. Lions beat Green Bay 20-17 in Week 7.",
+        "Chiefs at Denver is the late one, KC -1.5 at 40.5. Seattle handled Kansas City 20-3 last week, Denver won 30-16 in Arizona.",
+        "Jeffery Simmons traded from Tennessee to Chicago for two first-round picks, per ESPN headlines. Bears visit Seattle Tue, 3 Nov, 9:15 am Perth.",
+        "Packers already banked Week 8, 27-19 over Carolina, Jordan Love 30/41 for 288 and 3 TD."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401873031",
     "postgame": {
@@ -122,17 +132,7 @@
       "division_meaning": "Cleveland and Pittsburgh sit 5-2, Cincinnati 4-2 on a W2 streak with a plus-41 point differential, best in the division. Baltimore drops to 4-3 and L2.",
       "the_take": "Point differential says the Bengals are the best team in this division even from third place. ESPN credits a fiery Chase halftime speech for the comeback; the 5-5 red zone trip chart says scheme held up too."
     },
-    "postgame_for": "401873012",
-    "league": {
-      "lines": [
-        "Browns at Steelers is the AFC North game of the week, both 5-2, PIT -3.5 with a 39.5 total. Kickoff Mon, 2 Nov, 2:00 am Perth.",
-        "Ravens go to Buffalo at 4-3 after the Baltimore loss. BUF -3, total 54.5, same 2:00 am Monday window.",
-        "Vikings are 6-0 and travel to Detroit as 3-point dogs, 46.5 total. Lions beat Green Bay 20-17 in Week 7.",
-        "Chiefs at Denver is the late one, KC -1.5 at 40.5. Seattle handled Kansas City 20-3 last week, Denver won 30-16 in Arizona.",
-        "Jeffery Simmons traded from Tennessee to Chicago for two first-round picks, per ESPN headlines. Bears visit Seattle Tue, 3 Nov, 9:15 am Perth.",
-        "Packers already banked Week 8, 27-19 over Carolina, Jordan Love 30/41 for 288 and 3 TD."
-      ]
-    }
+    "postgame_for": "401873012"
   },
   "written_at": "2026-10-30T05:13:17.770Z",
   "last_error": null

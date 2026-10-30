@@ -1,5 +1,5 @@
 {
-  "now_perth": "Fri, 30 Oct, 1:13 pm",
+  "now_perth": "Sat, 31 Oct, 1:53 am",
   "bengals_next": {
     "id": "401873031",
     "week": 8,
@@ -8,9 +8,9 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Mostly cloudy",
-      "tempF": 66,
-      "tempC": 19
+      "text": "Cloudy",
+      "tempF": 70,
+      "tempC": 21
     },
     "moneyline": {
       "away": "+490",
@@ -281,6 +281,18 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 8 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "summary": "Browns vs. Steelers? Battle of L.A.? Caleb Williams vs. the Seahawks' D? There are 13 more games in Week 8, and we have picks, predictions and more for all of them.",
+      "published": "2026-10-30T15:21:11Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50312157/week-8-picks-predictions-schedule-fantasy-odds-2026"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-30T15:17:41Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
       "headline": "NFL Week 8's best arrivals, led by Panthers' Bryce Young",
       "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
       "published": "2026-10-30T00:01:06Z",
@@ -315,21 +327,33 @@
       "summary": "Ben Baby reports on Shemar Stewart's mindset after the first healthy scratch of his career.",
       "published": "2026-10-28T23:59:15Z",
       "url": "https://www.espn.com/video/clip/_/id/50312214/how-shemar-stewart-get-back-field-cincinnati"
-    },
-    {
-      "headline": "Shemar Stewart focuses on giving Bengals 'confidence' to play him",
-      "summary": "After watching his teammates play Sunday when he was a healthy scratch, Bengals DE Shemar Stewart knows what he has to show and prove moving forward.",
-      "published": "2026-10-28T23:49:19Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50311866/shemar-stewart-focused-giving-bengals-confidence-play-him"
-    },
-    {
-      "headline": "NFL survivor power rankings: Why this is the week to use Bengals, Patriots",
-      "summary": "ESPN NFL survivor pool strategy, predictions and ranking the top six options for Week 8.",
-      "published": "2026-10-29T13:37:18Z",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/50310012/nfl-survivor-week-8-survivor-pool-strategy-advice-picks"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "Why Jeremiah Smith is a generational NFL draft receiver prospect for 2027",
+      "summary": "Smith could be the first wideout to be selected No. 1 in the draft in 31 years. What makes him so special? Who are his comps? Which NFL teams could pick him?",
+      "published": "2026-10-30T10:25:31Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/50288294/2027-nfl-draft-ohio-state-receiver-jeremiah-smith-generational"
+    },
+    {
+      "headline": "NFL Week 8 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "summary": "Browns vs. Steelers? Battle of L.A.? Caleb Williams vs. the Seahawks' D? There are 13 more games in Week 8, and we have picks, predictions and more for all of them.",
+      "published": "2026-10-30T10:53:12Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50312157/week-8-picks-predictions-schedule-fantasy-odds-2026"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-30T10:36:51Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
+      "headline": "How the Jeffery Simmons trade came to be",
+      "summary": "Turron Davenport peels back the curtain and details how the Jeffery Simmons trade happened between the Titans and Bears.",
+      "published": "2026-10-30T04:47:23Z",
+      "url": "https://www.espn.com/video/clip/_/id/50325273/how-jeffery-simmons-trade-came-be"
+    },
     {
       "headline": "NFL Week 8's best arrivals, led by Panthers' Bryce Young",
       "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
@@ -353,30 +377,6 @@
       "summary": "Joe Burrow and the Cincinnati Bengals find themselves in an unusual position going into November — healthy and with momentum.",
       "published": "2026-10-29T17:44:53Z",
       "url": "http://www.espn.com/nfl/preview?gameId=401873031"
-    },
-    {
-      "headline": "Bears get Jeffery Simmons: Key intel on blockbuster trade",
-      "summary": "Is Jeffery Simmons the key missing piece for the Bears' Super Bowl puzzle? Here are key takeaways from the blockbuster trade.",
-      "published": "2026-10-29T19:32:27Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50319153/jeffery-simmons-trade-titans-bears-draft-picks-deadline"
-    },
-    {
-      "headline": "NFL trade deadline grades: Jeffery Simmons, DeForest Buckner, Quenton Nelson",
-      "summary": "Did the Bears give up too much to go all-in with Simmons? How did the Colts do in their DeForest Buckner and Quenton Nelson deals?",
-      "published": "2026-10-30T04:25:16Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals"
-    },
-    {
-      "headline": "How Jeffery Simmons landed with the Bears",
-      "summary": "How Jeffery Simmons landed with the Bears",
-      "published": "2026-10-29T16:35:53Z",
-      "url": "https://www.espn.com/video/clip/_/id/50319483/how-jeffery-simmons-landed-bears"
-    },
-    {
-      "headline": "'A league-changing move!' Kimes reacts to Bears' trade for Jeffery Simmons",
-      "summary": "'A league-changing move!' Kimes reacts to Bears' trade for Jeffery Simmons",
-      "published": "2026-10-29T15:02:32Z",
-      "url": "https://www.espn.com/video/clip/_/id/50318514/a-league-changing-move-kimes-reacts-bears-trade-jeffery-simmons"
     }
   ],
   "league_week": 8,
@@ -1219,7 +1219,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
+        "text": "Cloudy",
         "tempF": 73,
         "tempC": 23
       },
@@ -1264,7 +1264,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 64,
+        "tempF": 65,
         "tempC": 18
       },
       "moneyline": {
@@ -1352,8 +1352,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 67,
-        "tempC": 19
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
         "away": "+160",
@@ -1395,13 +1395,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Thunderstorms",
-        "tempF": 76,
-        "tempC": 24
+        "text": "Cloudy",
+        "tempF": 81,
+        "tempC": 27
       },
       "moneyline": {
         "away": "+120",
-        "home": "OFF"
+        "home": "-142"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1422,7 +1422,7 @@
         "record": "3-4"
       },
       "line": "TB -2.5",
-      "overUnder": 44.5,
+      "overUnder": 43.5,
       "venue": "Raymond James Stadium",
       "city": "Tampa",
       "tv": [
@@ -1439,13 +1439,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 79,
-        "tempC": 26
+        "text": "Showers",
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
-        "away": "+380",
-        "home": "-500"
+        "away": "+370",
+        "home": "-485"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1483,7 +1483,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
+        "text": "Partly sunny",
         "tempF": 72,
         "tempC": 22
       },
@@ -1528,7 +1528,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 60,
+        "tempF": 61,
         "tempC": 16
       },
       "moneyline": {
@@ -1572,8 +1572,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 82,
-        "tempC": 28
+        "tempF": 81,
+        "tempC": 27
       },
       "moneyline": {
         "away": "-325",
@@ -1615,7 +1615,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
+        "text": "Partly cloudy",
         "tempF": 51,
         "tempC": 11
       },
