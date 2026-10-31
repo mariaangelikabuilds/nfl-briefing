@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 31 Oct, 1:53 am",
+  "now_perth": "Sat, 31 Oct, 12:56 pm",
   "bengals_next": {
     "id": "401873031",
     "week": 8,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": {
       "text": "Cloudy",
-      "tempF": 70,
-      "tempC": 21
+      "tempF": 68,
+      "tempC": 20
     },
     "moneyline": {
       "away": "+490",
@@ -100,7 +100,7 @@
     ],
     "kickoff_perth": "Mon, 26 Oct, 1:00 am"
   },
-  "write_pregame": false,
+  "write_pregame": true,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -281,6 +281,24 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
+      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
+      "published": "2026-10-31T02:02:22Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms"
+    },
+    {
+      "headline": "NFL Week 8 betting odds: Lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
+      "published": "2026-10-30T18:48:32Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "published": "2026-10-30T18:20:36Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
+    },
+    {
       "headline": "NFL Week 8 preview: Picks, predictions, schedule, betting odds, fantasy tips",
       "summary": "Browns vs. Steelers? Battle of L.A.? Caleb Williams vs. the Seahawks' D? There are 13 more games in Week 8, and we have picks, predictions and more for all of them.",
       "published": "2026-10-30T15:21:11Z",
@@ -299,37 +317,37 @@
       "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion"
     },
     {
-      "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
-      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "published": "2026-10-30T00:30:13Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms"
-    },
-    {
       "headline": "Burrow, Bengals go into November with momentum as they host struggling Titans",
       "summary": "Joe Burrow and the Cincinnati Bengals find themselves in an unusual position going into November — healthy and with momentum.",
       "published": "2026-10-29T17:44:53Z",
       "url": "http://www.espn.com/nfl/preview?gameId=401873031"
     },
     {
-      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "published": "2026-10-29T16:06:00Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
-    },
-    {
       "headline": "Bowen: Four players (and a defense) that have changed my mind",
       "summary": "Matt Bowen discusses a few disappointments, a couple of surprises and what to expect going forward.",
       "published": "2026-10-29T12:39:26Z",
       "url": "https://www.espn.com/fantasy/football/story/_/id/50310913/fantasy-football-trade-value-midseason-trends"
-    },
-    {
-      "headline": "How Shemar Stewart can get back on the field for Cincinnati",
-      "summary": "Ben Baby reports on Shemar Stewart's mindset after the first healthy scratch of his career.",
-      "published": "2026-10-28T23:59:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/50312214/how-shemar-stewart-get-back-field-cincinnati"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
+      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
+      "published": "2026-10-31T02:02:22Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms"
+    },
+    {
+      "headline": "NFL Week 8 betting odds: Lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
+      "published": "2026-10-30T18:48:32Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "Inside how Titans were convinced to trade their best player",
+      "summary": "Titans GM Mike Borgonzi got an offer he couldn't refuse, and now Jeffery Simmons is a Chicago Bear.",
+      "published": "2026-10-30T16:04:40Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50327830/titans-call-too-good-pass-next-trading-jeffery-simmons"
+    },
     {
       "headline": "Why Jeremiah Smith is a generational NFL draft receiver prospect for 2027",
       "summary": "Smith could be the first wideout to be selected No. 1 in the draft in 31 years. What makes him so special? Who are his comps? Which NFL teams could pick him?",
@@ -339,13 +357,13 @@
     {
       "headline": "NFL Week 8 preview: Picks, predictions, schedule, betting odds, fantasy tips",
       "summary": "Browns vs. Steelers? Battle of L.A.? Caleb Williams vs. the Seahawks' D? There are 13 more games in Week 8, and we have picks, predictions and more for all of them.",
-      "published": "2026-10-30T10:53:12Z",
+      "published": "2026-10-30T15:21:11Z",
       "url": "https://www.espn.com/nfl/story/_/id/50312157/week-8-picks-predictions-schedule-fantasy-odds-2026"
     },
     {
       "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
       "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-30T10:36:51Z",
+      "published": "2026-10-30T15:17:41Z",
       "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
     },
     {
@@ -359,24 +377,6 @@
       "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
       "published": "2026-10-30T00:01:06Z",
       "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion"
-    },
-    {
-      "headline": "Jeffery Simmons traded to Bears: Does dealing multiple first-round picks work?",
-      "summary": "The Bears' aggressive move for Simmons marks the 10th time in the past decade that a team has traded multiple first-round picks for a star player. But the hit rate isn't great.",
-      "published": "2026-10-30T01:26:24Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50319184/jeffery-simmons-trade-two-first-round-picks-bears-titans"
-    },
-    {
-      "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
-      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "published": "2026-10-30T00:30:13Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms"
-    },
-    {
-      "headline": "Burrow, Bengals go into November with momentum as they host struggling Titans",
-      "summary": "Joe Burrow and the Cincinnati Bengals find themselves in an unusual position going into November — healthy and with momentum.",
-      "published": "2026-10-29T17:44:53Z",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873031"
     }
   ],
   "league_week": 8,
@@ -1180,8 +1180,8 @@
         "tempC": 18
       },
       "moneyline": {
-        "away": "+145",
-        "home": "-175"
+        "away": "+142",
+        "home": "-170"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1224,8 +1224,8 @@
         "tempC": 23
       },
       "moneyline": {
-        "away": "+250",
-        "home": "-310"
+        "away": "+245",
+        "home": "-305"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1352,8 +1352,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 68,
-        "tempC": 20
+        "tempF": 67,
+        "tempC": 19
       },
       "moneyline": {
         "away": "+160",
@@ -1400,8 +1400,8 @@
         "tempC": 27
       },
       "moneyline": {
-        "away": "+120",
-        "home": "-142"
+        "away": "+114",
+        "home": "-135"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1440,12 +1440,12 @@
       "clock": null,
       "weather": {
         "text": "Showers",
-        "tempF": 80,
-        "tempC": 27
+        "tempF": 78,
+        "tempC": 26
       },
       "moneyline": {
-        "away": "+370",
-        "home": "-485"
+        "away": "+380",
+        "home": "-500"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1484,12 +1484,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 72,
-        "tempC": 22
+        "tempF": 73,
+        "tempC": 23
       },
       "moneyline": {
-        "away": "+220",
-        "home": "-270"
+        "away": "+225",
+        "home": "-278"
       },
       "detail": "11/1 - 4:05 PM EST",
       "final": false,
@@ -1528,8 +1528,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 61,
-        "tempC": 16
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
         "away": "-118",
@@ -1572,7 +1572,7 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 81,
+        "tempF": 80,
         "tempC": 27
       },
       "moneyline": {
@@ -1616,12 +1616,12 @@
       "clock": null,
       "weather": {
         "text": "Partly cloudy",
-        "tempF": 51,
-        "tempC": 11
+        "tempF": 50,
+        "tempC": 10
       },
       "moneyline": {
-        "away": "+210",
-        "home": "-258"
+        "away": "+205",
+        "home": "-250"
       },
       "detail": "11/1 - 8:20 PM EST",
       "final": false,
@@ -1641,7 +1641,7 @@
         "winner": null,
         "record": "2-5"
       },
-      "line": "WSH -6",
+      "line": "WSH -5.5",
       "overUnder": 40.5,
       "venue": "Northwest Stadium",
       "city": "Landover",
@@ -1659,9 +1659,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Hazy moonlight",
-        "tempF": 53,
-        "tempC": 12
+        "text": "Intermittent clouds",
+        "tempF": 51,
+        "tempC": 11
       },
       "moneyline": {
         "away": "+142",

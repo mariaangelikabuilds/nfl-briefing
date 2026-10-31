@@ -110,17 +110,21 @@
     "401873023"
   ],
   "briefing": {
-    "league": {
-      "lines": [
-        "Browns at Steelers is the AFC North game of the week, both 5-2, PIT -3.5 with a 39.5 total. Kickoff Mon, 2 Nov, 2:00 am Perth.",
-        "Ravens go to Buffalo at 4-3 after the Baltimore loss. BUF -3, total 54.5, same 2:00 am Monday window.",
-        "Vikings are 6-0 and travel to Detroit as 3-point dogs, 46.5 total. Lions beat Green Bay 20-17 in Week 7.",
-        "Chiefs at Denver is the late one, KC -1.5 at 40.5. Seattle handled Kansas City 20-3 last week, Denver won 30-16 in Arizona.",
-        "Jeffery Simmons traded from Tennessee to Chicago for two first-round picks, per ESPN headlines. Bears visit Seattle Tue, 3 Nov, 9:15 am Perth.",
-        "Packers already banked Week 8, 27-19 over Carolina, Jordan Love 30/41 for 288 and 3 TD."
-      ]
+    "pregame": {
+      "matchup_read": "Cincinnati hosts Tennessee at Paycor, Mon 2 Nov, 2:00 am Perth, cloudy and 20C. Bengals are 4-2 and laid 35 on Baltimore. Titans are 1-6. The line is CIN -12.5 with a total of 46.5.",
+      "storylines": [
+        "ESPN's preview frames it simply: Burrow and the Bengals go into November healthy and with momentum, hosting a struggling Titans side.",
+        "Tennessee traded its best player. ESPN reports GM Mike Borgonzi sent Jeffery Simmons to Chicago after an offer he could not refuse.",
+        "Cincinnati sits third in the AFC North at 4-2 behind Cleveland and Pittsburgh at 5-2, but leads the division in point differential at +41.",
+        "Last week Burrow went 22/30 for 292 and 4 TD in Baltimore, with the Bengals 5-for-5 in the red zone."
+      ],
+      "watch_for": [
+        "Red zone finishing. Cincinnati converted all five trips in Baltimore. Against a 1-6 team, that is how -12.5 gets covered early.",
+        "Tee Higgins after 6 rec, 148 yds, 1 TD. Baltimore could not handle him and Chase still got 5 for 62 and a score.",
+        "The run game. Chase Brown had 11 for 39 and the team averaged 3.7 a carry. A 12.5-point favourite usually needs to close games on the ground."
+      ],
+      "the_call": "Bengals win and cover. Tennessee just lost 27-24 at home to Cleveland, and Cincinnati is scoring 7.0 yards a play with zero turnovers last week. Take the under too at 46.5 if Cincy runs clock."
     },
-    "pregame": null,
     "pregame_for": "401873031",
     "postgame": {
       "what_decided_it": "Red zone math and the second half. Cincinnati went 5-5 in the red zone, Baltimore 0-3. Yards were nearly even, 357 to 359, but the Bengals scored every trip and took no turnovers.",
@@ -132,8 +136,18 @@
       "division_meaning": "Cleveland and Pittsburgh sit 5-2, Cincinnati 4-2 on a W2 streak with a plus-41 point differential, best in the division. Baltimore drops to 4-3 and L2.",
       "the_take": "Point differential says the Bengals are the best team in this division even from third place. ESPN credits a fiery Chase halftime speech for the comeback; the 5-5 red zone trip chart says scheme held up too."
     },
-    "postgame_for": "401873012"
+    "postgame_for": "401873012",
+    "league": {
+      "lines": [
+        "Browns at Steelers is the division game that matters, both 5-2, PIT -3.5 with a 39.5 total. Mon 2 Nov, 2:00 am Perth.",
+        "Minnesota is 6-0 and goes to Detroit as a 3-point dog, total 46.5. Lions are 4-2 after beating Green Bay 20-17.",
+        "Kansas City at Denver, KC -1.5, total 40.5. The Chiefs are 5-1 but just got held to 3 in Seattle. Broncos are 5-2.",
+        "Baltimore at Buffalo, BUF -3, total 54.5. The Ravens are 4-3 on an L2 and were beaten 35-13 at home by Cincinnati.",
+        "Chargers are 0-6 and travel to the Rams as 6.5-point dogs. Jacksonville, 4-2, is -10 over Indianapolis in Jacksonville showers.",
+        "Eagles are 2-5 after losing 38-21 to Dallas, and they are 5.5-point dogs at 1-4-1 Washington on Sunday night."
+      ]
+    }
   },
-  "written_at": "2026-10-30T05:13:17.770Z",
+  "written_at": "2026-10-31T04:56:59.654Z",
   "last_error": null
 }
