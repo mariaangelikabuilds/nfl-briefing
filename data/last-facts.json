@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sun, 1 Nov, 1:26 pm",
+  "now_perth": "Mon, 2 Nov, 1:49 am",
   "bengals_next": {
     "id": "401873031",
     "week": 8,
@@ -8,13 +8,13 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Cloudy",
-      "tempF": 68,
-      "tempC": 20
+      "text": "Mostly cloudy",
+      "tempF": 72,
+      "tempC": 22
     },
     "moneyline": {
-      "away": "+500",
-      "home": "-700"
+      "away": "+600",
+      "home": "-900"
     },
     "detail": "11/1 - 1:00 PM EST",
     "final": false,
@@ -34,8 +34,8 @@
       "winner": null,
       "record": "1-6"
     },
-    "line": "CIN -12.5",
-    "overUnder": 46.5,
+    "line": "CIN -13.5",
+    "overUnder": 45.5,
     "venue": "Paycor Stadium",
     "city": "Cincinnati",
     "tv": [
@@ -331,6 +331,12 @@
   ],
   "news_opponent": [
     {
+      "headline": "Sources: Bears, Titans used Myles Garrett deal as framework for Simmons trade",
+      "summary": "The Bears and Titans came up with a Jeffery Simmons proposal that was based off this year's Myles Garrett trade, sources told ESPN.",
+      "published": "2026-11-01T14:41:28Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50343678/bears-trade-jeffery-simmons-based-myles-garrett-deal"
+    },
+    {
       "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
       "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
       "published": "2026-10-31T21:53:28Z",
@@ -371,12 +377,6 @@
       "summary": "Turron Davenport peels back the curtain and details how the Jeffery Simmons trade happened between the Titans and Bears.",
       "published": "2026-10-30T04:47:23Z",
       "url": "https://www.espn.com/video/clip/_/id/50325273/how-jeffery-simmons-trade-came-be"
-    },
-    {
-      "headline": "NFL Week 8's best arrivals, led by Panthers' Bryce Young",
-      "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
-      "published": "2026-10-30T00:01:06Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion"
     }
   ],
   "league_week": 8,
@@ -1175,13 +1175,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 68,
-        "tempC": 20
+        "text": "1",
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+140",
-        "home": "-166"
+        "away": "+136",
+        "home": "-162"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1219,13 +1219,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
+        "text": "Cloudy",
         "tempF": 75,
         "tempC": 24
       },
       "moneyline": {
-        "away": "+260",
-        "home": "-325"
+        "away": "+270",
+        "home": "-340"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1264,8 +1264,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
         "away": "+142",
@@ -1312,8 +1312,8 @@
         "tempC": 16
       },
       "moneyline": {
-        "away": "+102",
-        "home": "-122"
+        "away": "+105",
+        "home": "-125"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1356,8 +1356,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "+160",
-        "home": "-192"
+        "away": "+164",
+        "home": "-198"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1378,7 +1378,7 @@
         "record": "5-2"
       },
       "line": "PIT -3.5",
-      "overUnder": 39.5,
+      "overUnder": 38.5,
       "venue": "Acrisure Stadium",
       "city": "Pittsburgh",
       "tv": [
@@ -1396,12 +1396,12 @@
       "clock": null,
       "weather": {
         "text": "Thunderstorms",
-        "tempF": 78,
-        "tempC": 26
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
-        "away": "+105",
-        "home": "-125"
+        "away": "+110",
+        "home": "-130"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1421,7 +1421,7 @@
         "winner": null,
         "record": "3-4"
       },
-      "line": "TB -1.5",
+      "line": "TB -2.5",
       "overUnder": 43.5,
       "venue": "Raymond James Stadium",
       "city": "Tampa",
@@ -1439,9 +1439,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 78,
-        "tempC": 26
+        "text": "Showers",
+        "tempF": 76,
+        "tempC": 24
       },
       "moneyline": {
         "away": "+370",
@@ -1466,7 +1466,7 @@
         "record": "2-5"
       },
       "line": "JAX -10",
-      "overUnder": 46.5,
+      "overUnder": 45.5,
       "venue": "EverBank Stadium",
       "city": "Jacksonville",
       "tv": [
@@ -1488,8 +1488,8 @@
         "tempC": 22
       },
       "moneyline": {
-        "away": "+215",
-        "home": "-265"
+        "away": "+220",
+        "home": "-270"
       },
       "detail": "11/1 - 4:05 PM EST",
       "final": false,
@@ -1528,12 +1528,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 62,
+        "tempF": 63,
         "tempC": 17
       },
       "moneyline": {
-        "away": "-115",
-        "home": "-105"
+        "away": "-112",
+        "home": "-108"
       },
       "detail": "11/1 - 4:25 PM EST",
       "final": false,
@@ -1554,7 +1554,7 @@
         "record": "5-1"
       },
       "line": "KC -1.5",
-      "overUnder": 40.5,
+      "overUnder": 41.5,
       "venue": "Empower Field at Mile High",
       "city": "Denver",
       "tv": [
@@ -1572,8 +1572,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy w/ t-storms",
-        "tempF": 80,
-        "tempC": 27
+        "tempF": 78,
+        "tempC": 26
       },
       "moneyline": {
         "away": "-340",
@@ -1598,7 +1598,7 @@
         "record": "4-3"
       },
       "line": "NE -7",
-      "overUnder": 43.5,
+      "overUnder": 41.5,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
       "tv": [
@@ -1620,8 +1620,8 @@
         "tempC": 10
       },
       "moneyline": {
-        "away": "+210",
-        "home": "-258"
+        "away": "+220",
+        "home": "-270"
       },
       "detail": "11/1 - 8:20 PM EST",
       "final": false,
@@ -1660,8 +1660,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 51,
-        "tempC": 11
+        "tempF": 50,
+        "tempC": 10
       },
       "moneyline": {
         "away": "+140",
