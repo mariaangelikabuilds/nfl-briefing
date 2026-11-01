@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sun, 1 Nov, 1:05 am",
+  "now_perth": "Sun, 1 Nov, 1:26 pm",
   "bengals_next": {
     "id": "401873031",
     "week": 8,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Cloudy",
-      "tempF": 67,
-      "tempC": 19
+      "tempF": 68,
+      "tempC": 20
     },
     "moneyline": {
-      "away": "+490",
-      "home": "-675"
+      "away": "+500",
+      "home": "-700"
     },
     "detail": "11/1 - 1:00 PM EST",
     "final": false,
@@ -281,16 +281,22 @@
   },
   "news_bengals": [
     {
-      "headline": "Joe Burrow's trust makes Tee Higgins level up for Bengals",
-      "summary": "No receiver in the NFL has been better on tight window throws this season than the Bengals' Tee Higgins.",
-      "published": "2026-10-31T10:00:00Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50331179/cincinnati-bengals-tee-higgins-joe-burrow"
+      "headline": "Why is Tee Higgins having such a great season?",
+      "summary": "Ben Baby explains why Tee Higgins is having one of the best seasons of his career.",
+      "published": "2026-11-01T02:56:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/50343730/why-tee-higgins-having-such-great-season"
     },
     {
       "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
       "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "published": "2026-10-31T02:02:22Z",
+      "published": "2026-10-31T21:53:28Z",
       "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms"
+    },
+    {
+      "headline": "Joe Burrow's trust makes Tee Higgins level up for Bengals",
+      "summary": "No receiver in the NFL has been better on tight window throws this season than the Bengals' Tee Higgins.",
+      "published": "2026-10-31T10:00:00Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50331179/cincinnati-bengals-tee-higgins-joe-burrow"
     },
     {
       "headline": "NFL Week 8 betting odds: Lines and totals for every game",
@@ -321,19 +327,13 @@
       "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
       "published": "2026-10-30T00:01:06Z",
       "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion"
-    },
-    {
-      "headline": "Burrow, Bengals go into November with momentum as they host struggling Titans",
-      "summary": "Joe Burrow and the Cincinnati Bengals find themselves in an unusual position going into November — healthy and with momentum.",
-      "published": "2026-10-29T17:44:53Z",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873031"
     }
   ],
   "news_opponent": [
     {
       "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
       "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "published": "2026-10-31T02:02:22Z",
+      "published": "2026-10-31T21:53:28Z",
       "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms"
     },
     {
@@ -1180,8 +1180,8 @@
         "tempC": 20
       },
       "moneyline": {
-        "away": "+142",
-        "home": "-170"
+        "away": "+140",
+        "home": "-166"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1220,12 +1220,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 76,
+        "tempF": 75,
         "tempC": 24
       },
       "moneyline": {
-        "away": "+250",
-        "home": "-310"
+        "away": "+260",
+        "home": "-325"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1264,8 +1264,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
         "away": "+142",
@@ -1308,8 +1308,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 59,
-        "tempC": 15
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": {
         "away": "+102",
@@ -1334,7 +1334,7 @@
         "record": "3-4"
       },
       "line": "NYJ -1.5",
-      "overUnder": 45.5,
+      "overUnder": 46.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
@@ -1352,7 +1352,7 @@
       "clock": null,
       "weather": {
         "text": "Hazy sunshine",
-        "tempF": 67,
+        "tempF": 66,
         "tempC": 19
       },
       "moneyline": {
@@ -1378,7 +1378,7 @@
         "record": "5-2"
       },
       "line": "PIT -3.5",
-      "overUnder": 38.5,
+      "overUnder": 39.5,
       "venue": "Acrisure Stadium",
       "city": "Pittsburgh",
       "tv": [
@@ -1400,8 +1400,8 @@
         "tempC": 26
       },
       "moneyline": {
-        "away": "+114",
-        "home": "-135"
+        "away": "+105",
+        "home": "-125"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1421,7 +1421,7 @@
         "winner": null,
         "record": "3-4"
       },
-      "line": "TB -2.5",
+      "line": "TB -1.5",
       "overUnder": 43.5,
       "venue": "Raymond James Stadium",
       "city": "Tampa",
@@ -1440,12 +1440,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 79,
+        "tempF": 78,
         "tempC": 26
       },
       "moneyline": {
-        "away": "+380",
-        "home": "-500"
+        "away": "+370",
+        "home": "-485"
       },
       "detail": "11/1 - 1:00 PM EST",
       "final": false,
@@ -1484,12 +1484,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 74,
-        "tempC": 23
+        "tempF": 72,
+        "tempC": 22
       },
       "moneyline": {
-        "away": "+225",
-        "home": "-278"
+        "away": "+215",
+        "home": "-265"
       },
       "detail": "11/1 - 4:05 PM EST",
       "final": false,
@@ -1528,12 +1528,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 63,
+        "tempF": 62,
         "tempC": 17
       },
       "moneyline": {
-        "away": "-118",
-        "home": "-102"
+        "away": "-115",
+        "home": "-105"
       },
       "detail": "11/1 - 4:25 PM EST",
       "final": false,
@@ -1572,12 +1572,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy w/ t-storms",
-        "tempF": 79,
-        "tempC": 26
+        "tempF": 80,
+        "tempC": 27
       },
       "moneyline": {
-        "away": "-325",
-        "home": "+260"
+        "away": "-340",
+        "home": "+270"
       },
       "detail": "11/1 - 4:25 PM EST",
       "final": false,
@@ -1616,8 +1616,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 51,
-        "tempC": 11
+        "tempF": 50,
+        "tempC": 10
       },
       "moneyline": {
         "away": "+210",
@@ -1664,8 +1664,8 @@
         "tempC": 11
       },
       "moneyline": {
-        "away": "+142",
-        "home": "-170"
+        "away": "+140",
+        "home": "-166"
       },
       "detail": "11/2 - 8:15 PM EST",
       "final": false,
