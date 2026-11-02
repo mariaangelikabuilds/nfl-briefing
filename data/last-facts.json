@@ -1,279 +1,271 @@
 {
-  "now_perth": "Mon, 2 Nov, 1:49 am",
+  "now_perth": "Mon, 2 Nov, 1:25 pm",
   "bengals_next": {
-    "id": "401873031",
-    "week": 8,
-    "kickoff": "2026-11-01T18:00Z",
+    "id": "401873038",
+    "week": 9,
+    "kickoff": "2026-11-08T14:30Z",
     "timeValid": true,
     "state": "pre",
     "clock": null,
-    "weather": {
-      "text": "Mostly cloudy",
-      "tempF": 72,
-      "tempC": 22
-    },
+    "weather": null,
     "moneyline": {
-      "away": "+600",
-      "home": "-900"
+      "away": "-166",
+      "home": "+140"
     },
-    "detail": "11/1 - 1:00 PM EST",
+    "detail": "11/8 - 9:30 AM EST",
     "final": false,
     "home": {
+      "id": "1",
+      "abbr": "ATL",
+      "name": "Atlanta Falcons",
+      "score": null,
+      "winner": null,
+      "record": "3-5"
+    },
+    "away": {
       "id": "4",
       "abbr": "CIN",
       "name": "Cincinnati Bengals",
       "score": null,
       "winner": null,
-      "record": "4-2"
+      "record": "5-2"
     },
-    "away": {
-      "id": "10",
-      "abbr": "TEN",
-      "name": "Tennessee Titans",
-      "score": null,
-      "winner": null,
-      "record": "1-6"
-    },
-    "line": "CIN -13.5",
-    "overUnder": 45.5,
-    "venue": "Paycor Stadium",
-    "city": "Cincinnati",
+    "line": "CIN -3",
+    "overUnder": 51.5,
+    "venue": "Santiago Bernabéu",
+    "city": "Madrid",
     "tv": [
-      "CBS"
+      "NFL Net"
     ],
     "leaders": [],
-    "kickoff_perth": "Mon, 2 Nov, 2:00 am"
+    "kickoff_perth": "Sun, 8 Nov, 10:30 pm"
   },
   "bengals_last": {
-    "id": "401873012",
-    "week": 7,
-    "kickoff": "2026-10-25T17:00Z",
+    "id": "401873031",
+    "week": 8,
+    "kickoff": "2026-11-01T18:00Z",
     "timeValid": true,
     "state": "post",
     "clock": null,
     "weather": null,
     "moneyline": null,
-    "detail": "Final",
+    "detail": "Final/OT",
     "final": true,
     "home": {
-      "id": "33",
-      "abbr": "BAL",
-      "name": "Baltimore Ravens",
-      "score": 13,
-      "winner": false,
-      "record": "4-3"
-    },
-    "away": {
       "id": "4",
       "abbr": "CIN",
       "name": "Cincinnati Bengals",
-      "score": 35,
+      "score": 43,
       "winner": true,
-      "record": "4-2"
+      "record": "5-2"
+    },
+    "away": {
+      "id": "10",
+      "abbr": "TEN",
+      "name": "Tennessee Titans",
+      "score": 36,
+      "winner": false,
+      "record": "1-7"
     },
     "line": null,
     "overUnder": null,
-    "venue": "M&T Bank Stadium",
-    "city": "Baltimore",
+    "venue": "Paycor Stadium",
+    "city": "Cincinnati",
     "tv": [
       "CBS"
     ],
     "leaders": [
       {
         "stat": "passingYards",
-        "line": "23/34, 298 YDS, 1 TD, 1 INT",
-        "player": "Tyler Huntley",
+        "line": "38/48, 462 YDS, 5 TD, 3 INT",
+        "player": "Joe Burrow",
         "team": null
       },
       {
         "stat": "rushingYards",
-        "line": "17 CAR, 45 YDS",
-        "player": "Derrick Henry",
+        "line": "21 CAR, 117 YDS, 2 TD",
+        "player": "Tony Pollard",
         "team": null
       },
       {
         "stat": "receivingYards",
-        "line": "6 REC, 148 YDS, 1 TD",
+        "line": "10 REC, 155 YDS, 2 TD",
         "player": "Tee Higgins",
         "team": null
       }
     ],
-    "kickoff_perth": "Mon, 26 Oct, 1:00 am"
+    "kickoff_perth": "Mon, 2 Nov, 2:00 am"
   },
   "write_pregame": false,
-  "write_postgame": false,
+  "write_postgame": true,
   "division": {
     "name": "AFC North",
     "rows": [
       {
-        "abbr": "CLE",
-        "name": "Cleveland Browns",
-        "wins": "5",
-        "losses": "2",
-        "ties": "0",
-        "streak": "W2",
-        "diff": "-13"
-      },
-      {
         "abbr": "PIT",
         "name": "Pittsburgh Steelers",
-        "wins": "5",
+        "wins": "6",
         "losses": "2",
         "ties": "0",
-        "streak": "W3",
-        "diff": "+15"
+        "streak": "W4",
+        "diff": "+36"
       },
       {
         "abbr": "CIN",
         "name": "Cincinnati Bengals",
-        "wins": "4",
+        "wins": "5",
         "losses": "2",
         "ties": "0",
-        "streak": "W2",
-        "diff": "+41"
+        "streak": "W3",
+        "diff": "+48"
+      },
+      {
+        "abbr": "CLE",
+        "name": "Cleveland Browns",
+        "wins": "5",
+        "losses": "3",
+        "ties": "0",
+        "streak": "L1",
+        "diff": "-34"
       },
       {
         "abbr": "BAL",
         "name": "Baltimore Ravens",
         "wins": "4",
-        "losses": "3",
+        "losses": "4",
         "ties": "0",
-        "streak": "L2",
-        "diff": "+2"
+        "streak": "L3",
+        "diff": "-24"
       }
     ]
   },
   "last_game_boxscore": {
     "teams": [
       {
-        "abbr": "CIN",
+        "abbr": "TEN",
         "stats": {
-          "firstDowns": "21",
-          "firstDownsPassing": "12",
+          "firstDowns": "23",
+          "firstDownsPassing": "14",
           "firstDownsRushing": "7",
           "firstDownsPenalty": "2",
-          "thirdDownEff": "6-11",
-          "fourthDownEff": "0-0",
-          "totalOffensivePlays": "51",
-          "totalYards": "357",
-          "yardsPerPlay": "7.0",
-          "totalDrives": "10",
-          "netPassingYards": "284",
-          "completionAttempts": "22/30",
-          "yardsPerPass": "9.2",
+          "thirdDownEff": "5-12",
+          "fourthDownEff": "1-2",
+          "totalOffensivePlays": "70",
+          "totalYards": "440",
+          "yardsPerPlay": "6.3",
+          "totalDrives": "14",
+          "netPassingYards": "282",
+          "completionAttempts": "26/40",
+          "yardsPerPass": "6.7",
           "interceptions": "0",
-          "sacksYardsLost": "1-8",
-          "rushingYards": "73",
-          "rushingAttempts": "20",
-          "yardsPerRushAttempt": "3.7",
-          "redZoneAttempts": "5-5",
-          "totalPenaltiesYards": "1-15",
-          "turnovers": "0",
-          "fumblesLost": "0",
+          "sacksYardsLost": "2-22",
+          "rushingYards": "158",
+          "rushingAttempts": "28",
+          "yardsPerRushAttempt": "5.6",
+          "redZoneAttempts": "3-4",
+          "totalPenaltiesYards": "10-73",
+          "turnovers": "2",
+          "fumblesLost": "2",
           "defensiveTouchdowns": "0",
-          "possessionTime": "25:00"
+          "possessionTime": "32:11"
         }
       },
       {
-        "abbr": "BAL",
+        "abbr": "CIN",
         "stats": {
-          "firstDowns": "17",
-          "firstDownsPassing": "13",
-          "firstDownsRushing": "3",
-          "firstDownsPenalty": "1",
-          "thirdDownEff": "9-16",
-          "fourthDownEff": "0-2",
-          "totalOffensivePlays": "65",
-          "totalYards": "359",
-          "yardsPerPlay": "5.5",
-          "totalDrives": "10",
-          "netPassingYards": "276",
-          "completionAttempts": "23/34",
-          "yardsPerPass": "7.3",
-          "interceptions": "1",
-          "sacksYardsLost": "4-22",
-          "rushingYards": "83",
-          "rushingAttempts": "27",
-          "yardsPerRushAttempt": "3.1",
-          "redZoneAttempts": "0-3",
-          "totalPenaltiesYards": "10-57",
-          "turnovers": "1",
-          "fumblesLost": "0",
+          "firstDowns": "29",
+          "firstDownsPassing": "22",
+          "firstDownsRushing": "5",
+          "firstDownsPenalty": "2",
+          "thirdDownEff": "7-10",
+          "fourthDownEff": "0-1",
+          "totalOffensivePlays": "70",
+          "totalYards": "510",
+          "yardsPerPlay": "7.3",
+          "totalDrives": "14",
+          "netPassingYards": "435",
+          "completionAttempts": "38/48",
+          "yardsPerPass": "8.5",
+          "interceptions": "3",
+          "sacksYardsLost": "3-27",
+          "rushingYards": "75",
+          "rushingAttempts": "19",
+          "yardsPerRushAttempt": "3.9",
+          "redZoneAttempts": "5-6",
+          "totalPenaltiesYards": "8-67",
+          "turnovers": "4",
+          "fumblesLost": "1",
           "defensiveTouchdowns": "0",
-          "possessionTime": "35:00"
+          "possessionTime": "32:12"
         }
       }
     ],
     "players": {
+      "TEN": {
+        "passing": [
+          {
+            "name": "Cam Ward",
+            "line": "26/40, 304 yds, 2 TD, 0 INT"
+          }
+        ],
+        "rushing": [
+          {
+            "name": "Tony Pollard",
+            "line": "21 car, 117 yds, 2 TD"
+          },
+          {
+            "name": "Cam Ward",
+            "line": "7 car, 41 yds, 0 TD"
+          }
+        ],
+        "receiving": [
+          {
+            "name": "Gunnar Helm",
+            "line": "5 rec, 76 yds, 0 TD"
+          },
+          {
+            "name": "Chimere Dike",
+            "line": "5 rec, 71 yds, 1 TD"
+          },
+          {
+            "name": "Wan'Dale Robinson",
+            "line": "6 rec, 57 yds, 1 TD"
+          }
+        ]
+      },
       "CIN": {
         "passing": [
           {
             "name": "Joe Burrow",
-            "line": "22/30, 292 yds, 4 TD, 0 INT"
+            "line": "38/48, 462 yds, 5 TD, 3 INT"
           }
         ],
         "rushing": [
           {
             "name": "Chase Brown",
-            "line": "11 car, 39 yds, 0 TD"
-          },
-          {
-            "name": "Samaje Perine",
-            "line": "4 car, 16 yds, 1 TD"
+            "line": "12 car, 55 yds, 0 TD"
           },
           {
             "name": "Joe Burrow",
-            "line": "2 car, 12 yds, 0 TD"
+            "line": "3 car, 10 yds, 1 TD"
+          },
+          {
+            "name": "Samaje Perine",
+            "line": "4 car, 10 yds, 0 TD"
           }
         ],
         "receiving": [
           {
             "name": "Tee Higgins",
-            "line": "6 rec, 148 yds, 1 TD"
+            "line": "10 rec, 155 yds, 2 TD"
           },
           {
             "name": "Ja'Marr Chase",
-            "line": "5 rec, 62 yds, 1 TD"
+            "line": "11 rec, 141 yds, 1 TD"
           },
           {
-            "name": "Erick All Jr.",
-            "line": "3 rec, 26 yds, 0 TD"
-          }
-        ]
-      },
-      "BAL": {
-        "passing": [
-          {
-            "name": "Tyler Huntley",
-            "line": "23/34, 298 yds, 1 TD, 1 INT"
-          }
-        ],
-        "rushing": [
-          {
-            "name": "Derrick Henry",
-            "line": "17 car, 45 yds, 0 TD"
-          },
-          {
-            "name": "Rasheen Ali",
-            "line": "4 car, 19 yds, 0 TD"
-          },
-          {
-            "name": "Tyler Huntley",
-            "line": "3 car, 12 yds, 0 TD"
-          }
-        ],
-        "receiving": [
-          {
-            "name": "Zay Flowers",
-            "line": "8 rec, 137 yds, 1 TD"
-          },
-          {
-            "name": "Josh Cuevas",
-            "line": "2 rec, 35 yds, 0 TD"
-          },
-          {
-            "name": "Rashod Bateman",
-            "line": "2 rec, 33 yds, 0 TD"
+            "name": "Mike Gesicki",
+            "line": "4 rec, 76 yds, 1 TD"
           }
         ]
       }
@@ -281,836 +273,106 @@
   },
   "news_bengals": [
     {
-      "headline": "Why is Tee Higgins having such a great season?",
-      "summary": "Ben Baby explains why Tee Higgins is having one of the best seasons of his career.",
-      "published": "2026-11-01T02:56:11Z",
-      "url": "https://www.espn.com/video/clip/_/id/50343730/why-tee-higgins-having-such-great-season"
+      "headline": "Bengals beat Titans in OT",
+      "summary": "Ben Baby recaps the Bengals' nail-biter against the Titans, highlighting why a championship-hungry Cincinnati team must learn to play a \"complete game.\"",
+      "published": "2026-11-02T00:59:23Z",
+      "url": "https://www.espn.com/video/clip/_/id/50353806/bengals-beat-titans-ot"
     },
     {
-      "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
-      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "published": "2026-10-31T21:53:28Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms"
+      "headline": "NFL Week 8: Big takeaways, questions and fantasy spin from Sunday's games",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 8.",
+      "published": "2026-11-02T00:56:48Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50349340/week-8-sunday-games-takeaways-questions-2026"
     },
     {
-      "headline": "Joe Burrow's trust makes Tee Higgins level up for Bengals",
-      "summary": "No receiver in the NFL has been better on tight window throws this season than the Bengals' Tee Higgins.",
-      "published": "2026-10-31T10:00:00Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50331179/cincinnati-bengals-tee-higgins-joe-burrow"
+      "headline": "Ja'Marr Chase's 'competitiveness' comes out at right time in Bengals' OT win",
+      "summary": "Visibly frustrated earlier in the game, Cincinnati Bengals star wide receiver Ja'Marr Chase cooled off in time to help his club to a 43-36 overtime victory over the Tennessee Titans on Sunday at Paycor Stadium.",
+      "published": "2026-11-02T00:54:55Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50353331/frustrated-chase-spikes-helmet-helping-bengals-win"
     },
     {
-      "headline": "NFL Week 8 betting odds: Lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
-      "published": "2026-10-30T18:48:32Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals"
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "published": "2026-11-02T00:19:51Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     },
     {
-      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "published": "2026-10-30T18:20:36Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
+      "headline": "Tennessee Titans vs. Cincinnati Bengals: Game Highlights",
+      "summary": "Tennessee Titans vs. Cincinnati Bengals: Game Highlights",
+      "published": "2026-11-01T22:29:06Z",
+      "url": "https://www.espn.com/video/clip/_/id/50351818/game-highlights"
     },
     {
-      "headline": "NFL Week 8 preview: Picks, predictions, schedule, betting odds, fantasy tips",
-      "summary": "Browns vs. Steelers? Battle of L.A.? Caleb Williams vs. the Seahawks' D? There are 13 more games in Week 8, and we have picks, predictions and more for all of them.",
-      "published": "2026-10-30T15:21:11Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50312157/week-8-picks-predictions-schedule-fantasy-odds-2026"
+      "headline": "Joe Burrow throws 5 TD passes, then runs for score in OT as Bengals rally for 43-36 win over Titans",
+      "summary": "— Bengals defensive tackle Dexter Lawrence had some simple advice for Joe Burrow as the franchise quarterback prepared to take the field with Cincinnati trailing the Tennessee Titans by a touchdown in the fourth quarter.",
+      "published": "2026-11-02T00:42:47Z",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873031"
     },
     {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-30T15:17:41Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "NFL Week 8's best arrivals, led by Panthers' Bryce Young",
+      "headline": "NFL Week 8's best arrivals, led by Rams' Quentin Lake",
       "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
-      "published": "2026-10-30T00:01:06Z",
+      "published": "2026-11-01T21:05:01Z",
       "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion"
+    },
+    {
+      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+      "published": "2026-11-01T18:46:44Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
     }
   ],
   "news_opponent": [
     {
-      "headline": "Sources: Bears, Titans used Myles Garrett deal as framework for Simmons trade",
-      "summary": "The Bears and Titans came up with a Jeffery Simmons proposal that was based off this year's Myles Garrett trade, sources told ESPN.",
-      "published": "2026-11-01T14:41:28Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50343678/bears-trade-jeffery-simmons-based-myles-garrett-deal"
+      "headline": "NFL Week 8: Big takeaways, questions and fantasy spin from Sunday's games",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 8.",
+      "published": "2026-11-02T00:56:48Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50349340/week-8-sunday-games-takeaways-questions-2026"
     },
     {
-      "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
-      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "published": "2026-10-31T21:53:28Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms"
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "published": "2026-11-02T00:19:51Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     },
     {
-      "headline": "NFL Week 8 betting odds: Lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
-      "published": "2026-10-30T18:48:32Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals"
+      "headline": "Falcons fall to Bucs in rain-soaked shutout",
+      "summary": "Marc Raimondi recaps the Falcons' loss to the Buccaneers Sunday afternoon.",
+      "published": "2026-11-01T23:50:01Z",
+      "url": "https://www.espn.com/video/clip/_/id/50352928/falcons-fall-bucs-rain-soaked-shutout"
     },
     {
-      "headline": "Inside how Titans were convinced to trade their best player",
-      "summary": "Titans GM Mike Borgonzi got an offer he couldn't refuse, and now Jeffery Simmons is a Chicago Bear.",
-      "published": "2026-10-30T16:04:40Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50327830/titans-call-too-good-pass-next-trading-jeffery-simmons"
+      "headline": "Bucs down Falcons without pass completion; Bucky Irving, Kenny Gainwell run wild",
+      "summary": "Baker Mayfield didn't complete a pass, but the Buccaneers beat the Falcons 16-0 behind Bucky Irving and Kenny Gainwell's rushing on a wet, sloppy field.",
+      "published": "2026-11-01T23:04:56Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50351129/buccaneers-silence-falcons-pass-completion"
     },
     {
-      "headline": "Why Jeremiah Smith is a generational NFL draft receiver prospect for 2027",
-      "summary": "Smith could be the first wideout to be selected No. 1 in the draft in 31 years. What makes him so special? Who are his comps? Which NFL teams could pick him?",
-      "published": "2026-10-30T10:25:31Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/50288294/2027-nfl-draft-ohio-state-receiver-jeremiah-smith-generational"
+      "headline": "Buccaneers beat Falcons 16-0 despite failing to complete a single pass in wet, sloppy conditions",
+      "summary": "— Baker Mayfield threw more downfield blocks than he had completions.",
+      "published": "2026-11-01T22:17:47Z",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873025"
     },
     {
-      "headline": "NFL Week 8 preview: Picks, predictions, schedule, betting odds, fantasy tips",
-      "summary": "Browns vs. Steelers? Battle of L.A.? Caleb Williams vs. the Seahawks' D? There are 13 more games in Week 8, and we have picks, predictions and more for all of them.",
-      "published": "2026-10-30T15:21:11Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50312157/week-8-picks-predictions-schedule-fantasy-odds-2026"
+      "headline": "NFL Week 8's best arrivals, led by Rams' Quentin Lake",
+      "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
+      "published": "2026-11-01T21:05:01Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion"
     },
     {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-30T15:17:41Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+      "headline": "Atlanta Falcons vs. Tampa Bay Buccaneers: Game Highlights",
+      "summary": "Atlanta Falcons vs. Tampa Bay Buccaneers: Game Highlights",
+      "published": "2026-11-01T21:07:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/50350958/game-highlights"
     },
     {
-      "headline": "How the Jeffery Simmons trade came to be",
-      "summary": "Turron Davenport peels back the curtain and details how the Jeffery Simmons trade happened between the Titans and Bears.",
-      "published": "2026-10-30T04:47:23Z",
-      "url": "https://www.espn.com/video/clip/_/id/50325273/how-jeffery-simmons-trade-came-be"
+      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+      "published": "2026-11-01T18:46:44Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
     }
   ],
-  "league_week": 8,
+  "league_week": 9,
   "league_games": [
-    {
-      "id": "401873010",
-      "week": 7,
-      "kickoff": "2026-10-23T00:15Z",
-      "timeValid": true,
-      "state": "post",
-      "clock": null,
-      "weather": null,
-      "moneyline": null,
-      "detail": "Final",
-      "final": true,
-      "home": {
-        "id": "3",
-        "abbr": "CHI",
-        "name": "Chicago Bears",
-        "score": 30,
-        "winner": true,
-        "record": "5-2"
-      },
-      "away": {
-        "id": "17",
-        "abbr": "NE",
-        "name": "New England Patriots",
-        "score": 24,
-        "winner": false,
-        "record": "4-3"
-      },
-      "line": null,
-      "overUnder": null,
-      "venue": "Soldier Field",
-      "city": "Chicago",
-      "tv": [
-        "Prime Video"
-      ],
-      "leaders": [
-        {
-          "stat": "passingYards",
-          "line": "24/31, 321 YDS, 2 TD, 1 INT",
-          "player": "Drake Maye",
-          "team": null
-        },
-        {
-          "stat": "rushingYards",
-          "line": "22 CAR, 78 YDS, 1 TD",
-          "player": "D'Andre Swift",
-          "team": null
-        },
-        {
-          "stat": "receivingYards",
-          "line": "4 REC, 130 YDS, 1 TD",
-          "player": "Luther Burden III",
-          "team": null
-        }
-      ],
-      "kickoff_perth": "Fri, 23 Oct, 8:15 am"
-    },
-    {
-      "id": "401873011",
-      "week": 7,
-      "kickoff": "2026-10-25T13:30Z",
-      "timeValid": true,
-      "state": "post",
-      "clock": null,
-      "weather": null,
-      "moneyline": null,
-      "detail": "Final",
-      "final": true,
-      "home": {
-        "id": "18",
-        "abbr": "NO",
-        "name": "New Orleans Saints",
-        "score": 10,
-        "winner": false,
-        "record": "2-5"
-      },
-      "away": {
-        "id": "23",
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers",
-        "score": 16,
-        "winner": true,
-        "record": "5-2"
-      },
-      "line": null,
-      "overUnder": null,
-      "venue": "Stade de France",
-      "city": "Saint-Denis",
-      "tv": [
-        "NFL Net"
-      ],
-      "leaders": [
-        {
-          "stat": "passingYards",
-          "line": "30/38, 278 YDS, 1 TD, 1 INT",
-          "player": "Tyler Shough",
-          "team": null
-        },
-        {
-          "stat": "rushingYards",
-          "line": "18 CAR, 101 YDS",
-          "player": "Jaylen Warren",
-          "team": null
-        },
-        {
-          "stat": "receivingYards",
-          "line": "7 REC, 57 YDS",
-          "player": "Alvin Kamara",
-          "team": null
-        }
-      ],
-      "kickoff_perth": "Sun, 25 Oct, 9:30 pm"
-    },
-    {
-      "id": "401873017",
-      "week": 7,
-      "kickoff": "2026-10-25T17:00Z",
-      "timeValid": true,
-      "state": "post",
-      "clock": null,
-      "weather": null,
-      "moneyline": null,
-      "detail": "Final",
-      "final": true,
-      "home": {
-        "id": "1",
-        "abbr": "ATL",
-        "name": "Atlanta Falcons",
-        "score": 29,
-        "winner": true,
-        "record": "3-4"
-      },
-      "away": {
-        "id": "25",
-        "abbr": "SF",
-        "name": "San Francisco 49ers",
-        "score": 20,
-        "winner": false,
-        "record": "6-1"
-      },
-      "line": null,
-      "overUnder": null,
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta",
-      "tv": [
-        "Fox"
-      ],
-      "leaders": [
-        {
-          "stat": "passingYards",
-          "line": "27/40, 288 YDS, 1 TD, 2 INT",
-          "player": "Brock Purdy",
-          "team": null
-        },
-        {
-          "stat": "rushingYards",
-          "line": "12 CAR, 63 YDS, 1 TD",
-          "player": "Kaelon Black",
-          "team": null
-        },
-        {
-          "stat": "receivingYards",
-          "line": "8 REC, 88 YDS",
-          "player": "George Kittle",
-          "team": null
-        }
-      ],
-      "kickoff_perth": "Mon, 26 Oct, 1:00 am"
-    },
-    {
-      "id": "401873013",
-      "week": 7,
-      "kickoff": "2026-10-25T17:00Z",
-      "timeValid": true,
-      "state": "post",
-      "clock": null,
-      "weather": null,
-      "moneyline": null,
-      "detail": "Final",
-      "final": true,
-      "home": {
-        "id": "10",
-        "abbr": "TEN",
-        "name": "Tennessee Titans",
-        "score": 24,
-        "winner": false,
-        "record": "1-6"
-      },
-      "away": {
-        "id": "5",
-        "abbr": "CLE",
-        "name": "Cleveland Browns",
-        "score": 27,
-        "winner": true,
-        "record": "5-2"
-      },
-      "line": null,
-      "overUnder": null,
-      "venue": "Nissan Stadium",
-      "city": "Nashville",
-      "tv": [
-        "CBS"
-      ],
-      "leaders": [
-        {
-          "stat": "passingYards",
-          "line": "25/36, 308 YDS, 1 INT",
-          "player": "Deshaun Watson",
-          "team": null
-        },
-        {
-          "stat": "rushingYards",
-          "line": "25 CAR, 129 YDS, 3 TD",
-          "player": "Tony Pollard",
-          "team": null
-        },
-        {
-          "stat": "receivingYards",
-          "line": "8 REC, 129 YDS",
-          "player": "KC Concepcion",
-          "team": null
-        }
-      ],
-      "kickoff_perth": "Mon, 26 Oct, 1:00 am"
-    },
-    {
-      "id": "401873014",
-      "week": 7,
-      "kickoff": "2026-10-25T17:00Z",
-      "timeValid": true,
-      "state": "post",
-      "clock": null,
-      "weather": null,
-      "moneyline": null,
-      "detail": "Final",
-      "final": true,
-      "home": {
-        "id": "16",
-        "abbr": "MIN",
-        "name": "Minnesota Vikings",
-        "score": 16,
-        "winner": true,
-        "record": "6-0"
-      },
-      "away": {
-        "id": "11",
-        "abbr": "IND",
-        "name": "Indianapolis Colts",
-        "score": 10,
-        "winner": false,
-        "record": "2-5"
-      },
-      "line": null,
-      "overUnder": null,
-      "venue": "U.S. Bank Stadium",
-      "city": "Minneapolis",
-      "tv": [
-        "CBS"
-      ],
-      "leaders": [
-        {
-          "stat": "passingYards",
-          "line": "14/24, 150 YDS, 1 TD",
-          "player": "Kyler Murray",
-          "team": null
-        },
-        {
-          "stat": "rushingYards",
-          "line": "18 CAR, 95 YDS, 1 TD",
-          "player": "Jonathan Taylor",
-          "team": null
-        },
-        {
-          "stat": "receivingYards",
-          "line": "4 REC, 44 YDS",
-          "player": "Justin Jefferson",
-          "team": null
-        }
-      ],
-      "kickoff_perth": "Mon, 26 Oct, 1:00 am"
-    },
-    {
-      "id": "401873015",
-      "week": 7,
-      "kickoff": "2026-10-25T17:00Z",
-      "timeValid": true,
-      "state": "post",
-      "clock": null,
-      "weather": null,
-      "moneyline": null,
-      "detail": "Final",
-      "final": true,
-      "home": {
-        "id": "20",
-        "abbr": "NYJ",
-        "name": "New York Jets",
-        "score": 25,
-        "winner": false,
-        "record": "2-5"
-      },
-      "away": {
-        "id": "15",
-        "abbr": "MIA",
-        "name": "Miami Dolphins",
-        "score": 28,
-        "winner": true,
-        "record": "1-5"
-      },
-      "line": null,
-      "overUnder": null,
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford",
-      "tv": [
-        "CBS"
-      ],
-      "leaders": [
-        {
-          "stat": "passingYards",
-          "line": "23/30, 287 YDS, 3 TD, 1 INT",
-          "player": "Geno Smith",
-          "team": null
-        },
-        {
-          "stat": "rushingYards",
-          "line": "17 CAR, 104 YDS",
-          "player": "Braelon Allen",
-          "team": null
-        },
-        {
-          "stat": "receivingYards",
-          "line": "5 REC, 115 YDS, 1 TD",
-          "player": "Omar Cooper Jr.",
-          "team": null
-        }
-      ],
-      "kickoff_perth": "Mon, 26 Oct, 1:00 am"
-    },
-    {
-      "id": "401873018",
-      "week": 7,
-      "kickoff": "2026-10-25T17:00Z",
-      "timeValid": true,
-      "state": "post",
-      "clock": null,
-      "weather": null,
-      "moneyline": null,
-      "detail": "Final",
-      "final": true,
-      "home": {
-        "id": "29",
-        "abbr": "CAR",
-        "name": "Carolina Panthers",
-        "score": 13,
-        "winner": false,
-        "record": "3-3"
-      },
-      "away": {
-        "id": "27",
-        "abbr": "TB",
-        "name": "Tampa Bay Buccaneers",
-        "score": 43,
-        "winner": true,
-        "record": "2-5"
-      },
-      "line": null,
-      "overUnder": null,
-      "venue": "Bank of America Stadium",
-      "city": "Charlotte",
-      "tv": [
-        "Fox"
-      ],
-      "leaders": [
-        {
-          "stat": "passingYards",
-          "line": "14/27, 163 YDS, 1 TD, 2 INT",
-          "player": "Bryce Young",
-          "team": null
-        },
-        {
-          "stat": "rushingYards",
-          "line": "24 CAR, 106 YDS, 2 TD",
-          "player": "Bucky Irving",
-          "team": null
-        },
-        {
-          "stat": "receivingYards",
-          "line": "1 REC, 50 YDS, 1 TD",
-          "player": "Darren Waller",
-          "team": null
-        }
-      ],
-      "kickoff_perth": "Mon, 26 Oct, 1:00 am"
-    },
-    {
-      "id": "401873016",
-      "week": 7,
-      "kickoff": "2026-10-25T17:00Z",
-      "timeValid": true,
-      "state": "post",
-      "clock": null,
-      "weather": null,
-      "moneyline": null,
-      "detail": "Final/OT",
-      "final": true,
-      "home": {
-        "id": "34",
-        "abbr": "HOU",
-        "name": "Houston Texans",
-        "score": 21,
-        "winner": false,
-        "record": "2-5"
-      },
-      "away": {
-        "id": "19",
-        "abbr": "NYG",
-        "name": "New York Giants",
-        "score": 27,
-        "winner": true,
-        "record": "4-2-1"
-      },
-      "line": null,
-      "overUnder": null,
-      "venue": "Reliant Stadium",
-      "city": "Houston",
-      "tv": [
-        "Fox"
-      ],
-      "leaders": [
-        {
-          "stat": "passingYards",
-          "line": "20/28, 252 YDS",
-          "player": "J.J. McCarthy",
-          "team": null
-        },
-        {
-          "stat": "rushingYards",
-          "line": "17 CAR, 124 YDS, 1 TD",
-          "player": "Cam Skattebo",
-          "team": null
-        },
-        {
-          "stat": "receivingYards",
-          "line": "7 REC, 111 YDS",
-          "player": "Malik Nabers",
-          "team": null
-        }
-      ],
-      "kickoff_perth": "Mon, 26 Oct, 1:00 am"
-    },
-    {
-      "id": "401873019",
-      "week": 7,
-      "kickoff": "2026-10-25T20:05Z",
-      "timeValid": true,
-      "state": "post",
-      "clock": null,
-      "weather": null,
-      "moneyline": null,
-      "detail": "Final",
-      "final": true,
-      "home": {
-        "id": "22",
-        "abbr": "ARI",
-        "name": "Arizona Cardinals",
-        "score": 16,
-        "winner": false,
-        "record": "2-5"
-      },
-      "away": {
-        "id": "7",
-        "abbr": "DEN",
-        "name": "Denver Broncos",
-        "score": 30,
-        "winner": true,
-        "record": "5-2"
-      },
-      "line": null,
-      "overUnder": null,
-      "venue": "State Farm Stadium",
-      "city": "Glendale",
-      "tv": [
-        "CBS"
-      ],
-      "leaders": [
-        {
-          "stat": "passingYards",
-          "line": "27/48, 272 YDS, 1 TD",
-          "player": "Jacoby Brissett",
-          "team": null
-        },
-        {
-          "stat": "rushingYards",
-          "line": "7 CAR, 73 YDS, 1 TD",
-          "player": "Bo Nix",
-          "team": null
-        },
-        {
-          "stat": "receivingYards",
-          "line": "10 REC, 111 YDS, 1 TD",
-          "player": "Trey McBride",
-          "team": null
-        }
-      ],
-      "kickoff_perth": "Mon, 26 Oct, 4:05 am"
-    },
-    {
-      "id": "401873020",
-      "week": 7,
-      "kickoff": "2026-10-25T20:25Z",
-      "timeValid": true,
-      "state": "post",
-      "clock": null,
-      "weather": null,
-      "moneyline": null,
-      "detail": "Final",
-      "final": true,
-      "home": {
-        "id": "8",
-        "abbr": "DET",
-        "name": "Detroit Lions",
-        "score": 20,
-        "winner": true,
-        "record": "4-2"
-      },
-      "away": {
-        "id": "9",
-        "abbr": "GB",
-        "name": "Green Bay Packers",
-        "score": 17,
-        "winner": false,
-        "record": "4-3"
-      },
-      "line": null,
-      "overUnder": null,
-      "venue": "Ford Field",
-      "city": "Detroit",
-      "tv": [
-        "Fox"
-      ],
-      "leaders": [
-        {
-          "stat": "passingYards",
-          "line": "22/32, 303 YDS, 2 TD",
-          "player": "Jared Goff",
-          "team": null
-        },
-        {
-          "stat": "rushingYards",
-          "line": "29 CAR, 116 YDS",
-          "player": "Jahmyr Gibbs",
-          "team": null
-        },
-        {
-          "stat": "receivingYards",
-          "line": "9 REC, 153 YDS",
-          "player": "Amon-Ra St. Brown",
-          "team": null
-        }
-      ],
-      "kickoff_perth": "Mon, 26 Oct, 4:25 am"
-    },
-    {
-      "id": "401873021",
-      "week": 7,
-      "kickoff": "2026-10-25T20:25Z",
-      "timeValid": true,
-      "state": "post",
-      "clock": null,
-      "weather": null,
-      "moneyline": null,
-      "detail": "Final",
-      "final": true,
-      "home": {
-        "id": "13",
-        "abbr": "LV",
-        "name": "Las Vegas Raiders",
-        "score": 21,
-        "winner": false,
-        "record": "3-4"
-      },
-      "away": {
-        "id": "14",
-        "abbr": "LAR",
-        "name": "Los Angeles Rams",
-        "score": 35,
-        "winner": true,
-        "record": "3-4"
-      },
-      "line": null,
-      "overUnder": null,
-      "venue": "Allegiant Stadium",
-      "city": "Las Vegas",
-      "tv": [
-        "Fox"
-      ],
-      "leaders": [
-        {
-          "stat": "passingYards",
-          "line": "26/44, 295 YDS, 2 TD",
-          "player": "Kirk Cousins",
-          "team": null
-        },
-        {
-          "stat": "rushingYards",
-          "line": "16 CAR, 99 YDS, 1 TD",
-          "player": "Kyren Williams",
-          "team": null
-        },
-        {
-          "stat": "receivingYards",
-          "line": "5 REC, 103 YDS, 1 TD",
-          "player": "Tre Tucker",
-          "team": null
-        }
-      ],
-      "kickoff_perth": "Mon, 26 Oct, 4:25 am"
-    },
-    {
-      "id": "401873022",
-      "week": 7,
-      "kickoff": "2026-10-26T00:20Z",
-      "timeValid": true,
-      "state": "post",
-      "clock": null,
-      "weather": null,
-      "moneyline": null,
-      "detail": "Final",
-      "final": true,
-      "home": {
-        "id": "26",
-        "abbr": "SEA",
-        "name": "Seattle Seahawks",
-        "score": 20,
-        "winner": true,
-        "record": "4-3"
-      },
-      "away": {
-        "id": "12",
-        "abbr": "KC",
-        "name": "Kansas City Chiefs",
-        "score": 3,
-        "winner": false,
-        "record": "5-1"
-      },
-      "line": null,
-      "overUnder": null,
-      "venue": "Lumen Field",
-      "city": "Seattle",
-      "tv": [
-        "NBC"
-      ],
-      "leaders": [
-        {
-          "stat": "passingYards",
-          "line": "20/28, 257 YDS, 1 TD, 1 INT",
-          "player": "Sam Darnold",
-          "team": null
-        },
-        {
-          "stat": "rushingYards",
-          "line": "24 CAR, 100 YDS, 1 TD",
-          "player": "Emanuel Wilson",
-          "team": null
-        },
-        {
-          "stat": "receivingYards",
-          "line": "9 REC, 150 YDS, 1 TD",
-          "player": "Jaxon Smith-Njigba",
-          "team": null
-        }
-      ],
-      "kickoff_perth": "Mon, 26 Oct, 8:20 am"
-    },
-    {
-      "id": "401873009",
-      "week": 7,
-      "kickoff": "2026-10-27T00:15Z",
-      "timeValid": true,
-      "state": "post",
-      "clock": null,
-      "weather": null,
-      "moneyline": null,
-      "detail": "Final",
-      "final": true,
-      "home": {
-        "id": "21",
-        "abbr": "PHI",
-        "name": "Philadelphia Eagles",
-        "score": 21,
-        "winner": false,
-        "record": "2-5"
-      },
-      "away": {
-        "id": "6",
-        "abbr": "DAL",
-        "name": "Dallas Cowboys",
-        "score": 38,
-        "winner": true,
-        "record": "3-4"
-      },
-      "line": null,
-      "overUnder": null,
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia",
-      "tv": [
-        "ESPN",
-        "ABC",
-        "Disney+"
-      ],
-      "leaders": [
-        {
-          "stat": "passingYards",
-          "line": "15/27, 212 YDS, 3 TD",
-          "player": "Dak Prescott",
-          "team": null
-        },
-        {
-          "stat": "rushingYards",
-          "line": "25 CAR, 155 YDS, 1 TD",
-          "player": "Javonte Williams",
-          "team": null
-        },
-        {
-          "stat": "receivingYards",
-          "line": "5 REC, 74 YDS, 2 TD",
-          "player": "CeeDee Lamb",
-          "team": null
-        }
-      ],
-      "kickoff_perth": "Tue, 27 Oct, 8:15 am"
-    },
     {
       "id": "401873023",
       "week": 8,
@@ -1172,43 +434,55 @@
       "week": 8,
       "kickoff": "2026-11-01T18:00Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "1",
-        "tempF": 65,
-        "tempC": 18
-      },
-      "moneyline": {
-        "away": "+136",
-        "home": "-162"
-      },
-      "detail": "11/1 - 1:00 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "2",
         "abbr": "BUF",
         "name": "Buffalo Bills",
-        "score": null,
-        "winner": null,
-        "record": "5-1"
+        "score": 36,
+        "winner": true,
+        "record": "6-1"
       },
       "away": {
         "id": "33",
         "abbr": "BAL",
         "name": "Baltimore Ravens",
-        "score": null,
-        "winner": null,
-        "record": "4-3"
+        "score": 10,
+        "winner": false,
+        "record": "4-4"
       },
-      "line": "BUF -3",
-      "overUnder": 54.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Highmark Stadium",
       "city": "Orchard Park",
       "tv": [
         "CBS"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "21/34, 289 YDS, 2 TD, 1 INT",
+          "player": "Josh Allen",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "21 CAR, 80 YDS, 1 TD",
+          "player": "James Cook III",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "4 REC, 86 YDS, 1 TD",
+          "player": "Dalton Kincaid",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 2 Nov, 2:00 am"
     },
     {
@@ -1216,43 +490,55 @@
       "week": 8,
       "kickoff": "2026-11-01T18:00Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Cloudy",
-        "tempF": 75,
-        "tempC": 24
-      },
-      "moneyline": {
-        "away": "+270",
-        "home": "-340"
-      },
-      "detail": "11/1 - 1:00 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final/OT",
+      "final": true,
       "home": {
         "id": "6",
         "abbr": "DAL",
         "name": "Dallas Cowboys",
-        "score": null,
-        "winner": null,
-        "record": "3-4"
+        "score": 30,
+        "winner": false,
+        "record": "3-5"
       },
       "away": {
         "id": "22",
         "abbr": "ARI",
         "name": "Arizona Cardinals",
-        "score": null,
-        "winner": null,
-        "record": "2-5"
+        "score": 33,
+        "winner": true,
+        "record": "3-5"
       },
-      "line": "DAL -7",
-      "overUnder": 54.5,
+      "line": null,
+      "overUnder": null,
       "venue": "AT&T Stadium",
       "city": "Arlington",
       "tv": [
         "Fox"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "19/29, 195 YDS, 1 TD",
+          "player": "Dak Prescott",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "11 CAR, 147 YDS, 1 TD",
+          "player": "Tyler Allgeier",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "8 REC, 111 YDS, 1 TD",
+          "player": "Michael Wilson",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 2 Nov, 2:00 am"
     },
     {
@@ -1260,43 +546,55 @@
       "week": 8,
       "kickoff": "2026-11-01T18:00Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Cloudy",
-        "tempF": 65,
-        "tempC": 18
-      },
-      "moneyline": {
-        "away": "+142",
-        "home": "-170"
-      },
-      "detail": "11/1 - 1:00 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "8",
         "abbr": "DET",
         "name": "Detroit Lions",
-        "score": null,
-        "winner": null,
-        "record": "4-2"
+        "score": 19,
+        "winner": true,
+        "record": "5-2"
       },
       "away": {
         "id": "16",
         "abbr": "MIN",
         "name": "Minnesota Vikings",
-        "score": null,
-        "winner": null,
-        "record": "6-0"
+        "score": 15,
+        "winner": false,
+        "record": "6-1"
       },
-      "line": "DET -3",
-      "overUnder": 46.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Ford Field",
       "city": "Detroit",
       "tv": [
         "Fox"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "17/29, 210 YDS, 2 TD, 1 INT",
+          "player": "Kyler Murray",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "23 CAR, 153 YDS, 1 TD",
+          "player": "Jahmyr Gibbs",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "4 REC, 70 YDS, 1 TD",
+          "player": "Jameson Williams",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 2 Nov, 2:00 am"
     },
     {
@@ -1304,43 +602,55 @@
       "week": 8,
       "kickoff": "2026-11-01T18:00Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Mostly sunny",
-        "tempF": 60,
-        "tempC": 16
-      },
-      "moneyline": {
-        "away": "+105",
-        "home": "-125"
-      },
-      "detail": "11/1 - 1:00 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "20",
         "abbr": "NYJ",
         "name": "New York Jets",
-        "score": null,
-        "winner": null,
-        "record": "2-5"
+        "score": 33,
+        "winner": false,
+        "record": "2-6"
       },
       "away": {
         "id": "13",
         "abbr": "LV",
         "name": "Las Vegas Raiders",
-        "score": null,
-        "winner": null,
-        "record": "3-4"
+        "score": 38,
+        "winner": true,
+        "record": "4-4"
       },
-      "line": "NYJ -1.5",
-      "overUnder": 46.5,
+      "line": null,
+      "overUnder": null,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
         "Fox"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "20/32, 290 YDS, 2 TD, 1 INT",
+          "player": "Geno Smith",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "21 CAR, 147 YDS, 1 TD",
+          "player": "Braelon Allen",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "7 REC, 142 YDS, 1 TD",
+          "player": "Adonai Mitchell",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 2 Nov, 2:00 am"
     },
     {
@@ -1348,43 +658,55 @@
       "week": 8,
       "kickoff": "2026-11-01T18:00Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Hazy sunshine",
-        "tempF": 66,
-        "tempC": 19
-      },
-      "moneyline": {
-        "away": "+164",
-        "home": "-198"
-      },
-      "detail": "11/1 - 1:00 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "23",
         "abbr": "PIT",
         "name": "Pittsburgh Steelers",
-        "score": null,
-        "winner": null,
-        "record": "5-2"
+        "score": 27,
+        "winner": true,
+        "record": "6-2"
       },
       "away": {
         "id": "5",
         "abbr": "CLE",
         "name": "Cleveland Browns",
-        "score": null,
-        "winner": null,
-        "record": "5-2"
+        "score": 6,
+        "winner": false,
+        "record": "5-3"
       },
-      "line": "PIT -3.5",
-      "overUnder": 38.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Acrisure Stadium",
       "city": "Pittsburgh",
       "tv": [
         "CBS"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "27/39, 324 YDS",
+          "player": "Deshaun Watson",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "17 CAR, 143 YDS, 1 TD",
+          "player": "Jaylen Warren",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "10 REC, 154 YDS",
+          "player": "Harold Fannin Jr.",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 2 Nov, 2:00 am"
     },
     {
@@ -1392,43 +714,55 @@
       "week": 8,
       "kickoff": "2026-11-01T18:00Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Thunderstorms",
-        "tempF": 80,
-        "tempC": 27
-      },
-      "moneyline": {
-        "away": "+110",
-        "home": "-130"
-      },
-      "detail": "11/1 - 1:00 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "27",
         "abbr": "TB",
         "name": "Tampa Bay Buccaneers",
-        "score": null,
-        "winner": null,
-        "record": "2-5"
+        "score": 16,
+        "winner": true,
+        "record": "3-5"
       },
       "away": {
         "id": "1",
         "abbr": "ATL",
         "name": "Atlanta Falcons",
-        "score": null,
-        "winner": null,
-        "record": "3-4"
+        "score": 0,
+        "winner": false,
+        "record": "3-5"
       },
-      "line": "TB -2.5",
-      "overUnder": 43.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Raymond James Stadium",
       "city": "Tampa",
       "tv": [
         "Fox"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "8/24, 125 YDS, 4 INT",
+          "player": "Michael Penix Jr.",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "27 CAR, 170 YDS, 1 TD",
+          "player": "Bucky Irving",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "2 REC, 95 YDS",
+          "player": "Jahan Dotson",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 2 Nov, 2:00 am"
     },
     {
@@ -1436,43 +770,55 @@
       "week": 8,
       "kickoff": "2026-11-01T18:00Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Showers",
-        "tempF": 76,
-        "tempC": 24
-      },
-      "moneyline": {
-        "away": "+370",
-        "home": "-485"
-      },
-      "detail": "11/1 - 1:00 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "30",
         "abbr": "JAX",
         "name": "Jacksonville Jaguars",
-        "score": null,
-        "winner": null,
-        "record": "4-2"
+        "score": 42,
+        "winner": true,
+        "record": "5-2"
       },
       "away": {
         "id": "11",
         "abbr": "IND",
         "name": "Indianapolis Colts",
-        "score": null,
-        "winner": null,
-        "record": "2-5"
+        "score": 7,
+        "winner": false,
+        "record": "2-6"
       },
-      "line": "JAX -10",
-      "overUnder": 45.5,
+      "line": null,
+      "overUnder": null,
       "venue": "EverBank Stadium",
       "city": "Jacksonville",
       "tv": [
         "CBS"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "10/14, 210 YDS, 3 TD",
+          "player": "Trevor Lawrence",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "16 CAR, 104 YDS, 1 TD",
+          "player": "Bhayshul Tuten",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "7 REC, 67 YDS",
+          "player": "Keenan Allen",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 2 Nov, 2:00 am"
     },
     {
@@ -1480,43 +826,55 @@
       "week": 8,
       "kickoff": "2026-11-01T21:05Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Mostly sunny",
-        "tempF": 72,
-        "tempC": 22
-      },
-      "moneyline": {
-        "away": "+220",
-        "home": "-270"
-      },
-      "detail": "11/1 - 4:05 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "14",
         "abbr": "LAR",
         "name": "Los Angeles Rams",
-        "score": null,
-        "winner": null,
-        "record": "3-4"
+        "score": 24,
+        "winner": true,
+        "record": "4-4"
       },
       "away": {
         "id": "24",
         "abbr": "LAC",
         "name": "Los Angeles Chargers",
-        "score": null,
-        "winner": null,
-        "record": "0-6"
+        "score": 9,
+        "winner": false,
+        "record": "0-7"
       },
-      "line": "LAR -6.5",
-      "overUnder": 45.5,
+      "line": null,
+      "overUnder": null,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
       "tv": [
         "Fox"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "24/32, 257 YDS, 2 INT",
+          "player": "Justin Herbert",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "11 CAR, 73 YDS, 1 TD",
+          "player": "Blake Corum",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "4 REC, 86 YDS",
+          "player": "Ladd McConkey",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 2 Nov, 5:05 am"
     },
     {
@@ -1524,43 +882,55 @@
       "week": 8,
       "kickoff": "2026-11-01T21:25Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 63,
-        "tempC": 17
-      },
-      "moneyline": {
-        "away": "-112",
-        "home": "-108"
-      },
-      "detail": "11/1 - 4:25 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "7",
         "abbr": "DEN",
         "name": "Denver Broncos",
-        "score": null,
-        "winner": null,
-        "record": "5-2"
+        "score": 28,
+        "winner": true,
+        "record": "6-2"
       },
       "away": {
         "id": "12",
         "abbr": "KC",
         "name": "Kansas City Chiefs",
-        "score": null,
-        "winner": null,
-        "record": "5-1"
+        "score": 24,
+        "winner": false,
+        "record": "5-2"
       },
-      "line": "KC -1.5",
-      "overUnder": 41.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Empower Field at Mile High",
       "city": "Denver",
       "tv": [
         "CBS"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "30/41, 321 YDS, 3 TD",
+          "player": "Patrick Mahomes",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "21 CAR, 69 YDS",
+          "player": "Kenneth Walker III",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "5 REC, 128 YDS, 1 TD",
+          "player": "Emmett Johnson",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 2 Nov, 5:25 am"
     },
     {
@@ -1568,43 +938,55 @@
       "week": 8,
       "kickoff": "2026-11-01T21:25Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Mostly cloudy w/ t-storms",
-        "tempF": 78,
-        "tempC": 26
-      },
-      "moneyline": {
-        "away": "-340",
-        "home": "+270"
-      },
-      "detail": "11/1 - 4:25 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "15",
         "abbr": "MIA",
         "name": "Miami Dolphins",
-        "score": null,
-        "winner": null,
-        "record": "1-5"
+        "score": 19,
+        "winner": false,
+        "record": "1-6"
       },
       "away": {
         "id": "17",
         "abbr": "NE",
         "name": "New England Patriots",
-        "score": null,
-        "winner": null,
-        "record": "4-3"
+        "score": 24,
+        "winner": true,
+        "record": "5-3"
       },
-      "line": "NE -7",
-      "overUnder": 41.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
       "tv": [
         "CBS"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "21/32, 211 YDS, 2 TD, 1 INT",
+          "player": "Malik Willis",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "19 CAR, 82 YDS",
+          "player": "Rhamondre Stevenson",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "3 REC, 76 YDS, 1 TD",
+          "player": "DeMario Douglas",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 2 Nov, 5:25 am"
     },
     {
@@ -1612,43 +994,55 @@
       "week": 8,
       "kickoff": "2026-11-02T01:20Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 50,
-        "tempC": 10
-      },
-      "moneyline": {
-        "away": "+220",
-        "home": "-270"
-      },
-      "detail": "11/1 - 8:20 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "28",
         "abbr": "WSH",
         "name": "Washington Commanders",
-        "score": null,
-        "winner": null,
-        "record": "1-4-1"
+        "score": 27,
+        "winner": true,
+        "record": "2-4-1"
       },
       "away": {
         "id": "21",
         "abbr": "PHI",
         "name": "Philadelphia Eagles",
-        "score": null,
-        "winner": null,
-        "record": "2-5"
+        "score": 10,
+        "winner": false,
+        "record": "2-6"
       },
-      "line": "WSH -6",
-      "overUnder": 40.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Northwest Stadium",
       "city": "Landover",
       "tv": [
         "NBC"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "16/29, 217 YDS, 1 TD",
+          "player": "Jayden Daniels",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "11 CAR, 55 YDS, 1 TD",
+          "player": "Rachaad White",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "3 REC, 81 YDS",
+          "player": "Treylon Burks",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 2 Nov, 9:20 am"
     },
     {
@@ -1664,8 +1058,8 @@
         "tempC": 10
       },
       "moneyline": {
-        "away": "+140",
-        "home": "-166"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "11/2 - 8:15 PM EST",
       "final": false,
@@ -1694,6 +1088,623 @@
       ],
       "leaders": [],
       "kickoff_perth": "Tue, 3 Nov, 9:15 am"
+    },
+    {
+      "id": "401873037",
+      "week": 9,
+      "kickoff": "2026-11-06T01:15Z",
+      "timeValid": true,
+      "state": "pre",
+      "clock": null,
+      "weather": {
+        "text": "Mostly cloudy",
+        "tempF": 64,
+        "tempC": 18
+      },
+      "moneyline": {
+        "away": "-410",
+        "home": "+320"
+      },
+      "detail": "11/5 - 8:15 PM EST",
+      "final": false,
+      "home": {
+        "id": "33",
+        "abbr": "BAL",
+        "name": "Baltimore Ravens",
+        "score": null,
+        "winner": null,
+        "record": "4-4"
+      },
+      "away": {
+        "id": "30",
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars",
+        "score": null,
+        "winner": null,
+        "record": "5-2"
+      },
+      "line": "JAX -8.5",
+      "overUnder": 43.5,
+      "venue": "M&T Bank Stadium",
+      "city": "Baltimore",
+      "tv": [
+        "Prime Video"
+      ],
+      "leaders": [],
+      "kickoff_perth": "Fri, 6 Nov, 9:15 am"
+    },
+    {
+      "id": "401873040",
+      "week": 9,
+      "kickoff": "2026-11-08T18:00Z",
+      "timeValid": true,
+      "state": "pre",
+      "clock": null,
+      "weather": {
+        "text": "Mostly cloudy",
+        "tempF": 54,
+        "tempC": 12
+      },
+      "moneyline": {
+        "away": "-265",
+        "home": "+215"
+      },
+      "detail": "11/8 - 1:00 PM EST",
+      "final": false,
+      "home": {
+        "id": "11",
+        "abbr": "IND",
+        "name": "Indianapolis Colts",
+        "score": null,
+        "winner": null,
+        "record": "2-6"
+      },
+      "away": {
+        "id": "6",
+        "abbr": "DAL",
+        "name": "Dallas Cowboys",
+        "score": null,
+        "winner": null,
+        "record": "3-5"
+      },
+      "line": "DAL -6",
+      "overUnder": 52.5,
+      "venue": "Lucas Oil Stadium",
+      "city": "Indianapolis",
+      "tv": [
+        "Fox"
+      ],
+      "leaders": [],
+      "kickoff_perth": "Mon, 9 Nov, 2:00 am"
+    },
+    {
+      "id": "401873045",
+      "week": 9,
+      "kickoff": "2026-11-08T18:00Z",
+      "timeValid": true,
+      "state": "pre",
+      "clock": null,
+      "weather": {
+        "text": "Partly sunny",
+        "tempF": 52,
+        "tempC": 11
+      },
+      "moneyline": {
+        "away": "+390",
+        "home": "-520"
+      },
+      "detail": "11/8 - 1:00 PM EST",
+      "final": false,
+      "home": {
+        "id": "12",
+        "abbr": "KC",
+        "name": "Kansas City Chiefs",
+        "score": null,
+        "winner": null,
+        "record": "5-2"
+      },
+      "away": {
+        "id": "20",
+        "abbr": "NYJ",
+        "name": "New York Jets",
+        "score": null,
+        "winner": null,
+        "record": "2-6"
+      },
+      "line": "KC -10",
+      "overUnder": 45.5,
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "tv": [
+        "CBS"
+      ],
+      "leaders": [],
+      "kickoff_perth": "Mon, 9 Nov, 2:00 am"
+    },
+    {
+      "id": "401873042",
+      "week": 9,
+      "kickoff": "2026-11-08T18:00Z",
+      "timeValid": true,
+      "state": "pre",
+      "clock": null,
+      "weather": {
+        "text": "Partly sunny",
+        "tempF": 81,
+        "tempC": 27
+      },
+      "moneyline": {
+        "away": "-355",
+        "home": "+280"
+      },
+      "detail": "11/8 - 1:00 PM EST",
+      "final": false,
+      "home": {
+        "id": "15",
+        "abbr": "MIA",
+        "name": "Miami Dolphins",
+        "score": null,
+        "winner": null,
+        "record": "1-6"
+      },
+      "away": {
+        "id": "8",
+        "abbr": "DET",
+        "name": "Detroit Lions",
+        "score": null,
+        "winner": null,
+        "record": "5-2"
+      },
+      "line": "DET -7",
+      "overUnder": 48.5,
+      "venue": "Hard Rock Stadium",
+      "city": "Miami Gardens",
+      "tv": [
+        "Fox"
+      ],
+      "leaders": [],
+      "kickoff_perth": "Mon, 9 Nov, 2:00 am"
+    },
+    {
+      "id": "401873039",
+      "week": 9,
+      "kickoff": "2026-11-08T18:00Z",
+      "timeValid": true,
+      "state": "pre",
+      "clock": null,
+      "weather": {
+        "text": "Hazy sunshine",
+        "tempF": 72,
+        "tempC": 22
+      },
+      "moneyline": {
+        "away": "+124",
+        "home": "-148"
+      },
+      "detail": "11/8 - 1:00 PM EST",
+      "final": false,
+      "home": {
+        "id": "18",
+        "abbr": "NO",
+        "name": "New Orleans Saints",
+        "score": null,
+        "winner": null,
+        "record": "2-5"
+      },
+      "away": {
+        "id": "5",
+        "abbr": "CLE",
+        "name": "Cleveland Browns",
+        "score": null,
+        "winner": null,
+        "record": "5-3"
+      },
+      "line": "NO -3",
+      "overUnder": 43.5,
+      "venue": "Caesars Superdome",
+      "city": "New Orleans",
+      "tv": [
+        "CBS"
+      ],
+      "leaders": [],
+      "kickoff_perth": "Mon, 9 Nov, 2:00 am"
+    },
+    {
+      "id": "401873044",
+      "week": 9,
+      "kickoff": "2026-11-08T18:00Z",
+      "timeValid": true,
+      "state": "pre",
+      "clock": null,
+      "weather": {
+        "text": "Partly sunny",
+        "tempF": 61,
+        "tempC": 16
+      },
+      "moneyline": {
+        "away": "-142",
+        "home": "+120"
+      },
+      "detail": "11/8 - 1:00 PM EST",
+      "final": false,
+      "home": {
+        "id": "21",
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles",
+        "score": null,
+        "winner": null,
+        "record": "2-6"
+      },
+      "away": {
+        "id": "19",
+        "abbr": "NYG",
+        "name": "New York Giants",
+        "score": null,
+        "winner": null,
+        "record": "4-2-1"
+      },
+      "line": "NYG -2.5",
+      "overUnder": 40.5,
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "tv": [
+        "Fox"
+      ],
+      "leaders": [],
+      "kickoff_perth": "Mon, 9 Nov, 2:00 am"
+    },
+    {
+      "id": "401873043",
+      "week": 9,
+      "kickoff": "2026-11-08T18:00Z",
+      "timeValid": true,
+      "state": "pre",
+      "clock": null,
+      "weather": {
+        "text": "Mostly sunny",
+        "tempF": 60,
+        "tempC": 16
+      },
+      "moneyline": {
+        "away": "-225",
+        "home": "+185"
+      },
+      "detail": "11/8 - 1:00 PM EST",
+      "final": false,
+      "home": {
+        "id": "28",
+        "abbr": "WSH",
+        "name": "Washington Commanders",
+        "score": null,
+        "winner": null,
+        "record": "2-4-1"
+      },
+      "away": {
+        "id": "14",
+        "abbr": "LAR",
+        "name": "Los Angeles Rams",
+        "score": null,
+        "winner": null,
+        "record": "4-4"
+      },
+      "line": "LAR -5.5",
+      "overUnder": 48.5,
+      "venue": "Northwest Stadium",
+      "city": "Landover",
+      "tv": [
+        "Fox"
+      ],
+      "leaders": [],
+      "kickoff_perth": "Mon, 9 Nov, 2:00 am"
+    },
+    {
+      "id": "401873041",
+      "week": 9,
+      "kickoff": "2026-11-08T18:00Z",
+      "timeValid": true,
+      "state": "pre",
+      "clock": null,
+      "weather": {
+        "text": "Mostly cloudy",
+        "tempF": 66,
+        "tempC": 19
+      },
+      "moneyline": {
+        "away": "-155",
+        "home": "+130"
+      },
+      "detail": "11/8 - 1:00 PM EST",
+      "final": false,
+      "home": {
+        "id": "29",
+        "abbr": "CAR",
+        "name": "Carolina Panthers",
+        "score": null,
+        "winner": null,
+        "record": "3-4"
+      },
+      "away": {
+        "id": "7",
+        "abbr": "DEN",
+        "name": "Denver Broncos",
+        "score": null,
+        "winner": null,
+        "record": "6-2"
+      },
+      "line": "DEN -3",
+      "overUnder": 44.5,
+      "venue": "Bank of America Stadium",
+      "city": "Charlotte",
+      "tv": [
+        "CBS"
+      ],
+      "leaders": [],
+      "kickoff_perth": "Mon, 9 Nov, 2:00 am"
+    },
+    {
+      "id": "401873046",
+      "week": 9,
+      "kickoff": "2026-11-08T21:05Z",
+      "timeValid": true,
+      "state": "pre",
+      "clock": null,
+      "weather": {
+        "text": "Hazy sunshine",
+        "tempF": 81,
+        "tempC": 27
+      },
+      "moneyline": {
+        "away": "-218",
+        "home": "+180"
+      },
+      "detail": "11/8 - 4:05 PM EST",
+      "final": false,
+      "home": {
+        "id": "24",
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers",
+        "score": null,
+        "winner": null,
+        "record": "0-7"
+      },
+      "away": {
+        "id": "34",
+        "abbr": "HOU",
+        "name": "Houston Texans",
+        "score": null,
+        "winner": null,
+        "record": "2-5"
+      },
+      "line": "HOU -4.5",
+      "overUnder": 42.5,
+      "venue": "SoFi Stadium",
+      "city": "Inglewood",
+      "tv": [
+        "CBS"
+      ],
+      "leaders": [],
+      "kickoff_perth": "Mon, 9 Nov, 5:05 am"
+    },
+    {
+      "id": "401873049",
+      "week": 9,
+      "kickoff": "2026-11-08T21:25Z",
+      "timeValid": true,
+      "state": "pre",
+      "clock": null,
+      "weather": {
+        "text": "Sunny",
+        "tempF": 56,
+        "tempC": 13
+      },
+      "moneyline": {
+        "away": "+124",
+        "home": "-148"
+      },
+      "detail": "11/8 - 4:25 PM EST",
+      "final": false,
+      "home": {
+        "id": "17",
+        "abbr": "NE",
+        "name": "New England Patriots",
+        "score": null,
+        "winner": null,
+        "record": "5-3"
+      },
+      "away": {
+        "id": "9",
+        "abbr": "GB",
+        "name": "Green Bay Packers",
+        "score": null,
+        "winner": null,
+        "record": "5-3"
+      },
+      "line": "NE -3",
+      "overUnder": 47.5,
+      "venue": "Gillette Stadium",
+      "city": "Foxborough",
+      "tv": [
+        "Fox"
+      ],
+      "leaders": [],
+      "kickoff_perth": "Mon, 9 Nov, 5:25 am"
+    },
+    {
+      "id": "401873047",
+      "week": 9,
+      "kickoff": "2026-11-08T21:25Z",
+      "timeValid": true,
+      "state": "pre",
+      "clock": null,
+      "weather": {
+        "text": "Hazy sunshine",
+        "tempF": 75,
+        "tempC": 24
+      },
+      "moneyline": {
+        "away": "+380",
+        "home": "-500"
+      },
+      "detail": "11/8 - 4:25 PM EST",
+      "final": false,
+      "home": {
+        "id": "25",
+        "abbr": "SF",
+        "name": "San Francisco 49ers",
+        "score": null,
+        "winner": null,
+        "record": "6-1"
+      },
+      "away": {
+        "id": "13",
+        "abbr": "LV",
+        "name": "Las Vegas Raiders",
+        "score": null,
+        "winner": null,
+        "record": "4-4"
+      },
+      "line": "SF -9.5",
+      "overUnder": 51.5,
+      "venue": "Levi's Stadium",
+      "city": "Santa Clara",
+      "tv": [
+        "Fox"
+      ],
+      "leaders": [],
+      "kickoff_perth": "Mon, 9 Nov, 5:25 am"
+    },
+    {
+      "id": "401873048",
+      "week": 9,
+      "kickoff": "2026-11-08T21:25Z",
+      "timeValid": true,
+      "state": "pre",
+      "clock": null,
+      "weather": {
+        "text": "Rain",
+        "tempF": 57,
+        "tempC": 14
+      },
+      "moneyline": {
+        "away": "+525",
+        "home": "-750"
+      },
+      "detail": "11/8 - 4:25 PM EST",
+      "final": false,
+      "home": {
+        "id": "26",
+        "abbr": "SEA",
+        "name": "Seattle Seahawks",
+        "score": null,
+        "winner": null,
+        "record": "4-3"
+      },
+      "away": {
+        "id": "22",
+        "abbr": "ARI",
+        "name": "Arizona Cardinals",
+        "score": null,
+        "winner": null,
+        "record": "3-5"
+      },
+      "line": "SEA -11.5",
+      "overUnder": 44.5,
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "tv": [
+        "Fox"
+      ],
+      "leaders": [],
+      "kickoff_perth": "Mon, 9 Nov, 5:25 am"
+    },
+    {
+      "id": "401873050",
+      "week": 9,
+      "kickoff": "2026-11-09T01:20Z",
+      "timeValid": true,
+      "state": "pre",
+      "clock": null,
+      "weather": {
+        "text": "Cloudy",
+        "tempF": 49,
+        "tempC": 9
+      },
+      "moneyline": {
+        "away": "+205",
+        "home": "-250"
+      },
+      "detail": "11/8 - 8:20 PM EST",
+      "final": false,
+      "home": {
+        "id": "3",
+        "abbr": "CHI",
+        "name": "Chicago Bears",
+        "score": null,
+        "winner": null,
+        "record": "5-2"
+      },
+      "away": {
+        "id": "27",
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers",
+        "score": null,
+        "winner": null,
+        "record": "3-5"
+      },
+      "line": "CHI -6",
+      "overUnder": 46.5,
+      "venue": "Soldier Field",
+      "city": "Chicago",
+      "tv": [
+        "NBC"
+      ],
+      "leaders": [],
+      "kickoff_perth": "Mon, 9 Nov, 9:20 am"
+    },
+    {
+      "id": "401873051",
+      "week": 9,
+      "kickoff": "2026-11-10T01:15Z",
+      "timeValid": true,
+      "state": "pre",
+      "clock": null,
+      "weather": {
+        "text": "Clear",
+        "tempF": 48,
+        "tempC": 9
+      },
+      "moneyline": {
+        "away": "-148",
+        "home": "+124"
+      },
+      "detail": "11/9 - 8:15 PM EST",
+      "final": false,
+      "home": {
+        "id": "16",
+        "abbr": "MIN",
+        "name": "Minnesota Vikings",
+        "score": null,
+        "winner": null,
+        "record": "6-1"
+      },
+      "away": {
+        "id": "2",
+        "abbr": "BUF",
+        "name": "Buffalo Bills",
+        "score": null,
+        "winner": null,
+        "record": "6-1"
+      },
+      "line": "BUF -2.5",
+      "overUnder": 46.5,
+      "venue": "U.S. Bank Stadium",
+      "city": "Minneapolis",
+      "tv": [
+        "ESPN",
+        "ABC"
+      ],
+      "leaders": [],
+      "kickoff_perth": "Tue, 10 Nov, 9:15 am"
     }
   ]
 }
