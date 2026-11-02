@@ -122,6 +122,16 @@
     "401873035"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Denver beat Kansas City 28-24 to move to 6-2. Mahomes threw for 321 and 3 TD and still lost. The AFC top seed runs through Mile High right now.",
+        "Buffalo buried Baltimore 36-10. The Ravens are 4-4 and host Jacksonville on Friday 9:15 am Perth as 8.5-point dogs, which tells you where they stand.",
+        "Detroit edged Minnesota 19-15 behind Jahmyr Gibbs, 23 carries for 153 and a TD. Vikings drop to 6-1 and get Buffalo next, BUF -2.5.",
+        "Jacksonville smashed Indianapolis 42-7. Trevor Lawrence went 10/14 for 210 and 3 TD. The Jags are 5-2 and the AFC's quiet problem.",
+        "Tampa Bay beat Atlanta 16-0 without a single completed pass. Michael Penix Jr. went 8/24 with 4 INT. That is the Falcons team Cincinnati sees in Madrid.",
+        "Chicago at Seattle closes Week 8 on Tue, 3 Nov, 9:15 am Perth. SEA -3, total 46.5."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401873038",
     "postgame": {
@@ -134,17 +144,7 @@
       "division_meaning": "Pittsburgh stays ahead at 6-2 after hammering Cleveland 27-6. Cincinnati sits 5-2 on a three-game run with the best point differential in the North at +48. Cleveland 5-3, Baltimore 4-4 and sliding.",
       "the_take": "A 1-7 team hung 36 on you and the defence allowed 6.3 a play. Ben Baby's line about needing a complete game is right. Burrow's three picks against Atlanta's level of team is survivable, elsewhere it is not."
     },
-    "postgame_for": "401873031",
-    "league": {
-      "lines": [
-        "Denver beat Kansas City 28-24 to move to 6-2. Mahomes threw for 321 and 3 TD and still lost. The AFC top seed runs through Mile High right now.",
-        "Buffalo buried Baltimore 36-10. The Ravens are 4-4 and host Jacksonville on Friday 9:15 am Perth as 8.5-point dogs, which tells you where they stand.",
-        "Detroit edged Minnesota 19-15 behind Jahmyr Gibbs, 23 carries for 153 and a TD. Vikings drop to 6-1 and get Buffalo next, BUF -2.5.",
-        "Jacksonville smashed Indianapolis 42-7. Trevor Lawrence went 10/14 for 210 and 3 TD. The Jags are 5-2 and the AFC's quiet problem.",
-        "Tampa Bay beat Atlanta 16-0 without a single completed pass. Michael Penix Jr. went 8/24 with 4 INT. That is the Falcons team Cincinnati sees in Madrid.",
-        "Chicago at Seattle closes Week 8 on Tue, 3 Nov, 9:15 am Perth. SEA -3, total 46.5."
-      ]
-    }
+    "postgame_for": "401873031"
   },
   "written_at": "2026-11-02T05:25:17.337Z",
   "last_error": null
