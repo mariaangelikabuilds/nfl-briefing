@@ -123,6 +123,16 @@
     "401873036"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        " Monday night is the week: Bills at Vikings, 6-1 against 6-1, BUF -3.5, total 46.5, 9:15 am Perth Tue 10 Nov on ESPN/ABC.",
+        " Jaguars at Ravens Friday 9:15 am Perth. JAX -8.5, total 42.5. Baltimore is 4-4 on a three-game slide after losing 36-10 in Buffalo.",
+        " Denver is 6-2 after beating Kansas City 28-24 in Week 8. Next up: Broncos at Panthers, DEN -3, total 43.5.",
+        " Browns at Saints, NO -2.5, total 43.5. Cleveland is 5-3 and coming off a 27-6 loss in Pittsburgh.",
+        " Chicago is 6-2 after a 34-17 win in Seattle. The Bears host Tampa Bay on Sunday night, CHI -6, total 46.5.",
+        " Chargers are 0-7 after losing 24-9 to the Rams. They host Houston, HOU -4.5, total 40.5."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401873038",
     "postgame": {
@@ -135,17 +145,7 @@
       "division_meaning": "Pittsburgh stays ahead at 6-2 after hammering Cleveland 27-6. Cincinnati sits 5-2 on a three-game run with the best point differential in the North at +48. Cleveland 5-3, Baltimore 4-4 and sliding.",
       "the_take": "A 1-7 team hung 36 on you and the defence allowed 6.3 a play. Ben Baby's line about needing a complete game is right. Burrow's three picks against Atlanta's level of team is survivable, elsewhere it is not."
     },
-    "postgame_for": "401873031",
-    "league": {
-      "lines": [
-        " Monday night is the week: Bills at Vikings, 6-1 against 6-1, BUF -3.5, total 46.5, 9:15 am Perth Tue 10 Nov on ESPN/ABC.",
-        " Jaguars at Ravens Friday 9:15 am Perth. JAX -8.5, total 42.5. Baltimore is 4-4 on a three-game slide after losing 36-10 in Buffalo.",
-        " Denver is 6-2 after beating Kansas City 28-24 in Week 8. Next up: Broncos at Panthers, DEN -3, total 43.5.",
-        " Browns at Saints, NO -2.5, total 43.5. Cleveland is 5-3 and coming off a 27-6 loss in Pittsburgh.",
-        " Chicago is 6-2 after a 34-17 win in Seattle. The Bears host Tampa Bay on Sunday night, CHI -6, total 46.5.",
-        " Chargers are 0-7 after losing 24-9 to the Rams. They host Houston, HOU -4.5, total 40.5."
-      ]
-    }
+    "postgame_for": "401873031"
   },
   "written_at": "2026-11-03T06:04:08.192Z",
   "last_error": null
