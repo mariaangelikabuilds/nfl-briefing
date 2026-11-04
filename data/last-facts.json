@@ -1,5 +1,5 @@
 {
-  "now_perth": "Wed, 4 Nov, 1:43 pm",
+  "now_perth": "Thu, 5 Nov, 3:36 am",
   "bengals_next": {
     "id": "401873038",
     "week": 9,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": null,
     "moneyline": {
-      "away": "-162",
-      "home": "+136"
+      "away": "-155",
+      "home": "+130"
     },
     "detail": "11/8 - 9:30 AM EST",
     "final": false,
@@ -273,6 +273,12 @@
   },
   "news_bengals": [
     {
+      "headline": "2026 NFL trade deadline: Players to watch, buzz and goals for all 32 teams",
+      "summary": "We outlined deadline plans for all 32 teams, including who could be dealt before 4 p.m. ET on Tuesday. Here's what you need to know.",
+      "published": "2026-11-04T15:12:03Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50370030/trade-deadline-team-preview-goals-buzz-players-deals-2026"
+    },
+    {
       "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
       "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
       "published": "2026-11-03T22:00:54Z",
@@ -313,15 +319,15 @@
       "summary": "Hendrickson has two sacks in Baltimore; Lawrence, Allen and Mafe have produced 13.5 in Cincinnati.",
       "published": "2026-11-03T15:33:42Z",
       "url": "https://www.espn.com/nfl/story/_/id/50361464/cincinnati-bengals-hendrickson"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-11-03T11:26:43Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "2026 NFL trade deadline: Players to watch, buzz and goals for all 32 teams",
+      "summary": "We outlined deadline plans for all 32 teams, including who could be dealt before 4 p.m. ET on Tuesday. Here's what you need to know.",
+      "published": "2026-11-04T15:12:03Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50370030/trade-deadline-team-preview-goals-buzz-players-deals-2026"
+    },
     {
       "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
       "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
@@ -363,12 +369,6 @@
       "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
       "published": "2026-11-02T23:57:49Z",
       "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion"
-    },
-    {
-      "headline": "NFL Week 8: Big takeaways, questions and fantasy spin from Sunday's games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 8.",
-      "published": "2026-11-02T05:21:34Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50349340/week-8-sunday-games-takeaways-questions-2026"
     }
   ],
   "league_week": 9,
@@ -1114,8 +1114,8 @@
         "tempC": 18
       },
       "moneyline": {
-        "away": "-535",
-        "home": "+400"
+        "away": "-550",
+        "home": "+410"
       },
       "detail": "11/5 - 8:15 PM EST",
       "final": false,
@@ -1136,7 +1136,7 @@
         "record": "5-2"
       },
       "line": "JAX -10",
-      "overUnder": 40.5,
+      "overUnder": 39.5,
       "venue": "M&T Bank Stadium",
       "city": "Baltimore",
       "tv": [
@@ -1153,13 +1153,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 54,
+        "text": "Mostly sunny",
+        "tempF": 53,
         "tempC": 12
       },
       "moneyline": {
-        "away": "-285",
-        "home": "+230"
+        "away": "-245",
+        "home": "+200"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1179,7 +1179,7 @@
         "winner": null,
         "record": "3-5"
       },
-      "line": "DAL -6",
+      "line": "DAL -5.5",
       "overUnder": 51.5,
       "venue": "Lucas Oil Stadium",
       "city": "Indianapolis",
@@ -1198,12 +1198,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 62,
-        "tempC": 17
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
-        "away": "+425",
-        "home": "-575"
+        "away": "+440",
+        "home": "-600"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1223,7 +1223,7 @@
         "winner": null,
         "record": "2-6"
       },
-      "line": "KC -9.5",
+      "line": "KC -10",
       "overUnder": 47.5,
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
@@ -1241,9 +1241,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 84,
-        "tempC": 29
+        "text": "Partly sunny",
+        "tempF": 87,
+        "tempC": 31
       },
       "moneyline": {
         "away": "-355",
@@ -1286,12 +1286,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 66,
-        "tempC": 19
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "-102",
-        "home": "-118"
+        "away": "+136",
+        "home": "-162"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1311,7 +1311,7 @@
         "winner": null,
         "record": "5-3"
       },
-      "line": "NO -1.5",
+      "line": "NO -3",
       "overUnder": 42.5,
       "venue": "Caesars Superdome",
       "city": "New Orleans",
@@ -1329,13 +1329,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 57,
-        "tempC": 14
+        "text": "Mostly sunny",
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
-        "away": "-170",
-        "home": "+142"
+        "away": "-162",
+        "home": "+136"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1356,7 +1356,7 @@
         "record": "4-2-1"
       },
       "line": "NYG -3.5",
-      "overUnder": 39.5,
+      "overUnder": 38.5,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "tv": [
@@ -1378,8 +1378,8 @@
         "tempC": 15
       },
       "moneyline": {
-        "away": "-238",
-        "home": "+195"
+        "away": "-230",
+        "home": "+190"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1418,12 +1418,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 65,
+        "tempF": 64,
         "tempC": 18
       },
       "moneyline": {
-        "away": "-142",
-        "home": "+120"
+        "away": "-148",
+        "home": "+124"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1443,8 +1443,8 @@
         "winner": null,
         "record": "6-2"
       },
-      "line": "DEN -3",
-      "overUnder": 43.5,
+      "line": "DEN -2.5",
+      "overUnder": 44.5,
       "venue": "Bank of America Stadium",
       "city": "Charlotte",
       "tv": [
@@ -1461,9 +1461,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 85,
-        "tempC": 29
+        "text": "Mostly sunny",
+        "tempF": 86,
+        "tempC": 30
       },
       "moneyline": {
         "away": "-218",
@@ -1549,13 +1549,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 73,
-        "tempC": 23
+        "text": "Mostly sunny",
+        "tempF": 71,
+        "tempC": 22
       },
       "moneyline": {
-        "away": "+400",
-        "home": "-535"
+        "away": "+390",
+        "home": "-520"
       },
       "detail": "11/8 - 4:25 PM EST",
       "final": false,
@@ -1593,13 +1593,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 58,
-        "tempC": 14
+        "text": "Rain",
+        "tempF": 56,
+        "tempC": 13
       },
       "moneyline": {
-        "away": "+500",
-        "home": "-700"
+        "away": "+350",
+        "home": "-455"
       },
       "detail": "11/8 - 4:25 PM EST",
       "final": false,
@@ -1619,8 +1619,8 @@
         "winner": null,
         "record": "3-5"
       },
-      "line": "SEA -12.5",
-      "overUnder": 41.5,
+      "line": "SEA -8.5",
+      "overUnder": 40.5,
       "venue": "Lumen Field",
       "city": "Seattle",
       "tv": [
@@ -1638,12 +1638,12 @@
       "clock": null,
       "weather": {
         "text": "Clear",
-        "tempF": 50,
-        "tempC": 10
+        "tempF": 51,
+        "tempC": 11
       },
       "moneyline": {
-        "away": "+235",
-        "home": "-290"
+        "away": "+240",
+        "home": "-298"
       },
       "detail": "11/8 - 8:20 PM EST",
       "final": false,
@@ -1682,12 +1682,12 @@
       "clock": null,
       "weather": {
         "text": "Clear",
-        "tempF": 51,
-        "tempC": 11
+        "tempF": 49,
+        "tempC": 9
       },
       "moneyline": {
-        "away": "-175",
-        "home": "+145"
+        "away": "-180",
+        "home": "+150"
       },
       "detail": "11/9 - 8:15 PM EST",
       "final": false,
