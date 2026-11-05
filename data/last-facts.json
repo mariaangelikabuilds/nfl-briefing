@@ -1,5 +1,5 @@
 {
-  "now_perth": "Thu, 5 Nov, 1:59 pm",
+  "now_perth": "Fri, 6 Nov, 3:45 am",
   "bengals_next": {
     "id": "401873038",
     "week": 9,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": null,
     "moneyline": {
-      "away": "-155",
-      "home": "+130"
+      "away": "-170",
+      "home": "+142"
     },
     "detail": "11/8 - 9:30 AM EST",
     "final": false,
@@ -273,6 +273,30 @@
   },
   "news_bengals": [
     {
+      "headline": "Bengals' Burrow is looking to extend 3-game winning streak against Penix and Falcons in Madrid",
+      "summary": "Cincinnati's Joe Burrow and Atlanta's Michael Penix Jr. experienced dramatically different lead-in games to Sunday's matchup between the Bengals and Falcons in Madrid, Spain.",
+      "published": "2026-11-05T19:17:35Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873038"
+    },
+    {
+      "headline": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
+      "published": "2026-11-05T14:08:17Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms"
+    },
+    {
+      "headline": "Which team needs Jonathan Taylor the most?",
+      "summary": "Which team needs Jonathan Taylor the most?",
+      "published": "2026-11-05T13:42:52Z",
+      "url": "https://www.espn.com/video/clip/_/id/50388269/which-team-needs-jonathan-taylor-most"
+    },
+    {
+      "headline": "What 18 contenders should do at the NFL trade deadline: Who could get aggressive?",
+      "summary": "Should the Giants keep adding? Could the Bills go all-in? Would the Steelers stay conservative? Here's how 18 teams at or above .500 should approach the deadline.",
+      "published": "2026-11-05T18:32:13Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50360077/2026-nfl-trade-deadline-contenders-activity-add-subtract"
+    },
+    {
       "headline": "NFL Week 9 betting odds: Lines and totals for every game",
       "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
       "published": "2026-11-04T23:13:21Z",
@@ -295,34 +319,46 @@
       "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
       "published": "2026-11-04T20:22:52Z",
       "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
-    },
-    {
-      "headline": "Fantasy football D/ST outlook for Weeks 9-12: Fire up Texans, and how 'bout them Cowboys?",
-      "summary": "Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.",
-      "published": "2026-11-03T17:03:26Z",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/50369005/fantasy-football-defense-special-teams-streaming-week-9"
-    },
-    {
-      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "published": "2026-11-03T18:04:44Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
-    },
-    {
-      "headline": "Seven things Solak thinks for NFL Week 9: Bucs atop NFC South? RB trades coming?",
-      "summary": "Get ready for Week 9 with takes on the Bucs' division chances, why RBs could dominate the trade deadline and which teams should at least ask about Justin Herbert.",
-      "published": "2026-11-03T17:03:18Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50355612/week-9-seven-things-solak-thinks-trades-standings"
-    },
-    {
-      "headline": "NFL Power Rankings: Stacking all 32 teams for Week 9, plus best in-season trades",
-      "summary": "How does every NFL team stack up heading into Week 9? We made our 1-32 list and picked the best trade deadline acquisitions of all time.",
-      "published": "2026-11-03T16:44:34Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50359434/nfl-power-rankings-week-9-teams-best-season-trades-deadline"
     }
   ],
   "news_opponent": [
     {
+      "headline": "Bengals' Burrow is looking to extend 3-game winning streak against Penix and Falcons in Madrid",
+      "summary": "Cincinnati's Joe Burrow and Atlanta's Michael Penix Jr. experienced dramatically different lead-in games to Sunday's matchup between the Bengals and Falcons in Madrid, Spain.",
+      "published": "2026-11-05T19:17:35Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873038"
+    },
+    {
+      "headline": "Jude Bellingham visits Atlanta Falcons training session",
+      "summary": "Jude Bellingham visits Atlanta Falcons training session",
+      "published": "2026-11-05T18:01:50Z",
+      "url": "https://www.espn.com/video/clip/_/id/50390519/jude-bellingham-visits-atlanta-falcons-training-session"
+    },
+    {
+      "headline": "Bijan Robinson says win in Madrid could swing Falcons' season",
+      "summary": "The way Falcons running back Bijan Robinson framed it, Sunday's game against the Bengals at Madrid's historic Santiago Bernabeu Stadium could be a catalyst for an Atlanta team trying to reshape its season.",
+      "published": "2026-11-05T17:58:47Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50390044/bijan-robinson-says-win-madrid-wing-falcons-season"
+    },
+    {
+      "headline": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
+      "published": "2026-11-05T14:08:17Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms"
+    },
+    {
+      "headline": "What has gone right -- and wrong -- for 10 new NFL head coaches in 2026 season",
+      "summary": "There are 10 new head coaches in the NFL this season, which ties the most ever. How are things going for each of them after eight weeks?",
+      "published": "2026-11-05T11:30:27Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50369047/2026-nfl-season-10-new-coaches-midseason-good-bad"
+    },
+    {
+      "headline": "Millennial minds: How Doyle, Udinski leapt to head of the OC class",
+      "summary": "There are nine NFL offensive coordinators 35 or younger. How did these millennials land gigs so early in their careers?",
+      "published": "2026-11-05T13:48:33Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50380026/nfl-offensive-coordinator-doyle-udinski"
+    },
+    {
       "headline": "NFL Week 9 betting odds: Lines and totals for every game",
       "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
       "published": "2026-11-04T23:13:21Z",
@@ -333,42 +369,6 @@
       "summary": "Ben Baby breaks down the potential issues the Falcons could have covering the Bengals' wideouts.",
       "published": "2026-11-04T21:33:40Z",
       "url": "https://www.espn.com/video/clip/_/id/50380639/can-falcons-cover-higgins-chase"
-    },
-    {
-      "headline": "2026 NFL trade deadline: Players to watch, buzz and goals for all 32 teams",
-      "summary": "We outlined deadline plans for all 32 teams, including who could be dealt before 4 p.m. ET on Tuesday. Here's what you need to know.",
-      "published": "2026-11-04T20:00:47Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50370030/trade-deadline-team-preview-goals-buzz-players-deals-2026"
-    },
-    {
-      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
-      "published": "2026-11-04T20:22:52Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
-    },
-    {
-      "headline": "Fantasy football D/ST outlook for Weeks 9-12: Fire up Texans, and how 'bout them Cowboys?",
-      "summary": "Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.",
-      "published": "2026-11-03T17:03:26Z",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/50369005/fantasy-football-defense-special-teams-streaming-week-9"
-    },
-    {
-      "headline": "NFL Power Rankings: Stacking all 32 teams for Week 9, plus best in-season trades",
-      "summary": "How does every NFL team stack up heading into Week 9? We made our 1-32 list and picked the best trade deadline acquisitions of all time.",
-      "published": "2026-11-03T16:44:34Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50359434/nfl-power-rankings-week-9-teams-best-season-trades-deadline"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-11-03T11:26:43Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "Falcons' James Pearce back from suspension, expected to play",
-      "summary": "Pearce served an eight-game league suspension stemming from a February domestic violence arrest.",
-      "published": "2026-11-03T00:14:23Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50362043/falcons-james-pearce-back-suspension-expected-play"
     }
   ],
   "league_week": 9,
@@ -1110,12 +1110,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 67,
+        "tempF": 66,
         "tempC": 19
       },
       "moneyline": {
-        "away": "-520",
-        "home": "+390"
+        "away": "-500",
+        "home": "+380"
       },
       "detail": "11/5 - 8:15 PM EST",
       "final": false,
@@ -1154,12 +1154,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 55,
-        "tempC": 13
+        "tempF": 53,
+        "tempC": 12
       },
       "moneyline": {
-        "away": "-245",
-        "home": "+200"
+        "away": "-230",
+        "home": "+190"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1198,12 +1198,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 61,
-        "tempC": 16
+        "tempF": 62,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "+440",
-        "home": "-600"
+        "away": "+425",
+        "home": "-575"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1241,9 +1241,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 86,
-        "tempC": 30
+        "text": "Partly sunny w/ showers",
+        "tempF": 85,
+        "tempC": 29
       },
       "moneyline": {
         "away": "-355",
@@ -1330,8 +1330,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 57,
-        "tempC": 14
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
         "away": "-166",
@@ -1373,7 +1373,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
+        "text": "Mostly sunny",
         "tempF": 59,
         "tempC": 15
       },
@@ -1399,8 +1399,8 @@
         "winner": null,
         "record": "4-4"
       },
-      "line": "LAR -5.5",
-      "overUnder": 47.5,
+      "line": "LAR -4.5",
+      "overUnder": 48.5,
       "venue": "Northwest Stadium",
       "city": "Landover",
       "tv": [
@@ -1466,8 +1466,8 @@
         "tempC": 31
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-218",
+        "home": "+180"
       },
       "detail": "11/8 - 4:05 PM EST",
       "final": false,
@@ -1505,13 +1505,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 57,
-        "tempC": 14
+        "text": "Mostly cloudy",
+        "tempF": 56,
+        "tempC": 13
       },
       "moneyline": {
-        "away": "+145",
-        "home": "-175"
+        "away": "+140",
+        "home": "-166"
       },
       "detail": "11/8 - 4:25 PM EST",
       "final": false,
@@ -1531,7 +1531,7 @@
         "winner": null,
         "record": "5-3"
       },
-      "line": "NE -3.5",
+      "line": "NE -3",
       "overUnder": 45.5,
       "venue": "Gillette Stadium",
       "city": "Foxborough",
@@ -1550,12 +1550,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 71,
-        "tempC": 22
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "+400",
-        "home": "-535"
+        "away": "+390",
+        "home": "-520"
       },
       "detail": "11/8 - 4:25 PM EST",
       "final": false,
@@ -1576,7 +1576,7 @@
         "record": "4-4"
       },
       "line": "SF -10",
-      "overUnder": 52.5,
+      "overUnder": 51.5,
       "venue": "Levi's Stadium",
       "city": "Santa Clara",
       "tv": [
@@ -1594,8 +1594,8 @@
       "clock": null,
       "weather": {
         "text": "Showers",
-        "tempF": 55,
-        "tempC": 13
+        "tempF": 57,
+        "tempC": 14
       },
       "moneyline": {
         "away": "+350",
@@ -1638,12 +1638,12 @@
       "clock": null,
       "weather": {
         "text": "Clear",
-        "tempF": 51,
-        "tempC": 11
+        "tempF": 50,
+        "tempC": 10
       },
       "moneyline": {
-        "away": "+245",
-        "home": "-305"
+        "away": "+240",
+        "home": "-298"
       },
       "detail": "11/8 - 8:20 PM EST",
       "final": false,
@@ -1681,13 +1681,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Clear",
-        "tempF": 51,
+        "text": "Partly cloudy",
+        "tempF": 52,
         "tempC": 11
       },
       "moneyline": {
-        "away": "-180",
-        "home": "+150"
+        "away": "-170",
+        "home": "+142"
       },
       "detail": "11/9 - 8:15 PM EST",
       "final": false,
@@ -1707,8 +1707,8 @@
         "winner": null,
         "record": "6-1"
       },
-      "line": "BUF -3.5",
-      "overUnder": 45.5,
+      "line": "BUF -3",
+      "overUnder": 44.5,
       "venue": "U.S. Bank Stadium",
       "city": "Minneapolis",
       "tv": [
