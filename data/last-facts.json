@@ -1,5 +1,5 @@
 {
-  "now_perth": "Fri, 6 Nov, 3:45 am",
+  "now_perth": "Fri, 6 Nov, 1:56 pm",
   "bengals_next": {
     "id": "401873038",
     "week": 9,
@@ -132,10 +132,10 @@
         "abbr": "BAL",
         "name": "Baltimore Ravens",
         "wins": "4",
-        "losses": "4",
+        "losses": "5",
         "ties": "0",
-        "streak": "L3",
-        "diff": "-24"
+        "streak": "L4",
+        "diff": "-47"
       }
     ]
   },
@@ -273,16 +273,28 @@
   },
   "news_bengals": [
     {
-      "headline": "Bengals' Burrow is looking to extend 3-game winning streak against Penix and Falcons in Madrid",
-      "summary": "Cincinnati's Joe Burrow and Atlanta's Michael Penix Jr. experienced dramatically different lead-in games to Sunday's matchup between the Bengals and Falcons in Madrid, Spain.",
-      "published": "2026-11-05T19:17:35Z",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873038"
+      "headline": "NFL Week 9 arrivals: Trevor Lawrence doubles up on denim, Ethan Burke reps Ovechkin",
+      "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-06T00:38:13Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals"
     },
     {
       "headline": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
       "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
-      "published": "2026-11-05T14:08:17Z",
+      "published": "2026-11-06T00:53:52Z",
       "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms"
+    },
+    {
+      "headline": "NFL Week 9 betting odds: Lines and totals for every game",
+      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
+      "published": "2026-11-05T20:22:09Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "Bengals' Burrow is looking to extend 3-game winning streak against Penix and Falcons in Madrid",
+      "summary": "Cincinnati's Joe Burrow and Atlanta's Michael Penix Jr. experienced dramatically different lead-in games to Sunday's matchup between the Bengals and Falcons in Madrid, Spain.",
+      "published": "2026-11-05T19:17:35Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873038"
     },
     {
       "headline": "Which team needs Jonathan Taylor the most?",
@@ -297,12 +309,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50360077/2026-nfl-trade-deadline-contenders-activity-add-subtract"
     },
     {
-      "headline": "NFL Week 9 betting odds: Lines and totals for every game",
-      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
-      "published": "2026-11-04T23:13:21Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals"
-    },
-    {
       "headline": "Can the Falcons cover Higgins and Chase?",
       "summary": "Ben Baby breaks down the potential issues the Falcons could have covering the Bengals' wideouts.",
       "published": "2026-11-04T21:33:40Z",
@@ -313,15 +319,27 @@
       "summary": "We outlined deadline plans for all 32 teams, including who could be dealt before 4 p.m. ET on Tuesday. Here's what you need to know.",
       "published": "2026-11-04T20:00:47Z",
       "url": "https://www.espn.com/nfl/story/_/id/50370030/trade-deadline-team-preview-goals-buzz-players-deals-2026"
-    },
-    {
-      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
-      "published": "2026-11-04T20:22:52Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "NFL Week 9 arrivals: Trevor Lawrence doubles up on denim, Ethan Burke reps Ovechkin",
+      "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-06T00:38:13Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals"
+    },
+    {
+      "headline": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
+      "published": "2026-11-06T00:53:52Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms"
+    },
+    {
+      "headline": "NFL Week 9 betting odds: Lines and totals for every game",
+      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
+      "published": "2026-11-05T20:22:09Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals"
+    },
     {
       "headline": "Bengals' Burrow is looking to extend 3-game winning streak against Penix and Falcons in Madrid",
       "summary": "Cincinnati's Joe Burrow and Atlanta's Michael Penix Jr. experienced dramatically different lead-in games to Sunday's matchup between the Bengals and Falcons in Madrid, Spain.",
@@ -341,15 +359,9 @@
       "url": "https://www.espn.com/nfl/story/_/id/50390044/bijan-robinson-says-win-madrid-wing-falcons-season"
     },
     {
-      "headline": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
-      "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
-      "published": "2026-11-05T14:08:17Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms"
-    },
-    {
       "headline": "What has gone right -- and wrong -- for 10 new NFL head coaches in 2026 season",
       "summary": "There are 10 new head coaches in the NFL this season, which ties the most ever. How are things going for each of them after eight weeks?",
-      "published": "2026-11-05T11:30:27Z",
+      "published": "2026-11-05T20:08:45Z",
       "url": "https://www.espn.com/nfl/story/_/id/50369047/2026-nfl-season-10-new-coaches-midseason-good-bad"
     },
     {
@@ -357,18 +369,6 @@
       "summary": "There are nine NFL offensive coordinators 35 or younger. How did these millennials land gigs so early in their careers?",
       "published": "2026-11-05T13:48:33Z",
       "url": "https://www.espn.com/nfl/story/_/id/50380026/nfl-offensive-coordinator-doyle-udinski"
-    },
-    {
-      "headline": "NFL Week 9 betting odds: Lines and totals for every game",
-      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
-      "published": "2026-11-04T23:13:21Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals"
-    },
-    {
-      "headline": "Can the Falcons cover Higgins and Chase?",
-      "summary": "Ben Baby breaks down the potential issues the Falcons could have covering the Bengals' wideouts.",
-      "published": "2026-11-04T21:33:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/50380639/can-falcons-cover-higgins-chase"
     }
   ],
   "league_week": 9,
@@ -1106,43 +1106,55 @@
       "week": 9,
       "kickoff": "2026-11-06T01:15Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Cloudy",
-        "tempF": 66,
-        "tempC": 19
-      },
-      "moneyline": {
-        "away": "-500",
-        "home": "+380"
-      },
-      "detail": "11/5 - 8:15 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "33",
         "abbr": "BAL",
         "name": "Baltimore Ravens",
-        "score": null,
-        "winner": null,
-        "record": "4-4"
+        "score": 10,
+        "winner": false,
+        "record": "4-5"
       },
       "away": {
         "id": "30",
         "abbr": "JAX",
         "name": "Jacksonville Jaguars",
-        "score": null,
-        "winner": null,
-        "record": "5-2"
+        "score": 33,
+        "winner": true,
+        "record": "6-2"
       },
-      "line": "JAX -10",
-      "overUnder": 39.5,
+      "line": null,
+      "overUnder": null,
       "venue": "M&T Bank Stadium",
       "city": "Baltimore",
       "tv": [
         "Prime Video"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "16/26, 242 YDS, 1 TD",
+          "player": "Trevor Lawrence",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "9 CAR, 85 YDS, 1 TD",
+          "player": "Justice Hill",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "4 REC, 65 YDS",
+          "player": "Jakobi Meyers",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Fri, 6 Nov, 9:15 am"
     },
     {
@@ -1154,8 +1166,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 53,
-        "tempC": 12
+        "tempF": 56,
+        "tempC": 13
       },
       "moneyline": {
         "away": "-230",
@@ -1242,12 +1254,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny w/ showers",
-        "tempF": 85,
-        "tempC": 29
+        "tempF": 87,
+        "tempC": 31
       },
       "moneyline": {
-        "away": "-355",
-        "home": "+280"
+        "away": "-340",
+        "home": "+270"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1330,12 +1342,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 59,
-        "tempC": 15
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": {
-        "away": "-166",
-        "home": "+140"
+        "away": "-162",
+        "home": "+136"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1374,8 +1386,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 59,
-        "tempC": 15
+        "tempF": 61,
+        "tempC": 16
       },
       "moneyline": {
         "away": "-225",
@@ -1466,8 +1478,8 @@
         "tempC": 31
       },
       "moneyline": {
-        "away": "-218",
-        "home": "+180"
+        "away": "-238",
+        "home": "+195"
       },
       "detail": "11/8 - 4:05 PM EST",
       "final": false,
@@ -1487,7 +1499,7 @@
         "winner": null,
         "record": "2-5"
       },
-      "line": "HOU -4.5",
+      "line": "HOU -6",
       "overUnder": 40.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
@@ -1505,8 +1517,8 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 56,
+        "text": "Partly sunny",
+        "tempF": 55,
         "tempC": 13
       },
       "moneyline": {
@@ -1532,7 +1544,7 @@
         "record": "5-3"
       },
       "line": "NE -3",
-      "overUnder": 45.5,
+      "overUnder": 44.5,
       "venue": "Gillette Stadium",
       "city": "Foxborough",
       "tv": [
@@ -1554,8 +1566,8 @@
         "tempC": 20
       },
       "moneyline": {
-        "away": "+390",
-        "home": "-520"
+        "away": "+370",
+        "home": "-485"
       },
       "detail": "11/8 - 4:25 PM EST",
       "final": false,
@@ -1594,8 +1606,8 @@
       "clock": null,
       "weather": {
         "text": "Showers",
-        "tempF": 57,
-        "tempC": 14
+        "tempF": 56,
+        "tempC": 13
       },
       "moneyline": {
         "away": "+350",
@@ -1638,8 +1650,8 @@
       "clock": null,
       "weather": {
         "text": "Clear",
-        "tempF": 50,
-        "tempC": 10
+        "tempF": 51,
+        "tempC": 11
       },
       "moneyline": {
         "away": "+240",
@@ -1686,8 +1698,8 @@
         "tempC": 11
       },
       "moneyline": {
-        "away": "-170",
-        "home": "+142"
+        "away": "-175",
+        "home": "+145"
       },
       "detail": "11/9 - 8:15 PM EST",
       "final": false,
