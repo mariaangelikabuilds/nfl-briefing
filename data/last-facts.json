@@ -1,5 +1,5 @@
 {
-  "now_perth": "Fri, 6 Nov, 1:56 pm",
+  "now_perth": "Sat, 7 Nov, 3:08 am",
   "bengals_next": {
     "id": "401873038",
     "week": 9,
@@ -96,7 +96,7 @@
     ],
     "kickoff_perth": "Mon, 2 Nov, 2:00 am"
   },
-  "write_pregame": false,
+  "write_pregame": true,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -273,6 +273,24 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 9 betting odds: Lines and totals for every game",
+      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
+      "published": "2026-11-06T15:44:45Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "summary": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
+      "published": "2026-11-06T13:28:42Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
+    },
+    {
+      "headline": "NFL Week 9 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "summary": "Bills vs. Vikings? Drake Maye vs. Jordan Love? The NFL in Madrid? There are 14 more games in Week 9, and we have picks, predictions and more for all of them.",
+      "published": "2026-11-06T16:21:40Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50381724/week-9-picks-predictions-schedule-fantasy-odds-2026"
+    },
+    {
       "headline": "NFL Week 9 arrivals: Trevor Lawrence doubles up on denim, Ethan Burke reps Ovechkin",
       "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
       "published": "2026-11-06T00:38:13Z",
@@ -283,12 +301,6 @@
       "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
       "published": "2026-11-06T00:53:52Z",
       "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms"
-    },
-    {
-      "headline": "NFL Week 9 betting odds: Lines and totals for every game",
-      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
-      "published": "2026-11-05T20:22:09Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals"
     },
     {
       "headline": "Bengals' Burrow is looking to extend 3-game winning streak against Penix and Falcons in Madrid",
@@ -307,21 +319,33 @@
       "summary": "Should the Giants keep adding? Could the Bills go all-in? Would the Steelers stay conservative? Here's how 18 teams at or above .500 should approach the deadline.",
       "published": "2026-11-05T18:32:13Z",
       "url": "https://www.espn.com/nfl/story/_/id/50360077/2026-nfl-trade-deadline-contenders-activity-add-subtract"
-    },
-    {
-      "headline": "Can the Falcons cover Higgins and Chase?",
-      "summary": "Ben Baby breaks down the potential issues the Falcons could have covering the Bengals' wideouts.",
-      "published": "2026-11-04T21:33:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/50380639/can-falcons-cover-higgins-chase"
-    },
-    {
-      "headline": "2026 NFL trade deadline: Players to watch, buzz and goals for all 32 teams",
-      "summary": "We outlined deadline plans for all 32 teams, including who could be dealt before 4 p.m. ET on Tuesday. Here's what you need to know.",
-      "published": "2026-11-04T20:00:47Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50370030/trade-deadline-team-preview-goals-buzz-players-deals-2026"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "Week 9 betting preview: Analysis, best bets, TD predictions for Sunday",
+      "summary": "Our experts dive into the odds and player props for Week 9 and offer their betting tips and favorite plays.",
+      "published": "2026-11-06T17:50:08Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50389829/week-9-nfl-odds-touchdown-props-best-bets-sunday-games"
+    },
+    {
+      "headline": "NFL Week 9 betting odds: Lines and totals for every game",
+      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
+      "published": "2026-11-06T15:44:45Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "summary": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
+      "published": "2026-11-06T13:28:42Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
+    },
+    {
+      "headline": "NFL Week 9 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "summary": "Bills vs. Vikings? Drake Maye vs. Jordan Love? The NFL in Madrid? There are 14 more games in Week 9, and we have picks, predictions and more for all of them.",
+      "published": "2026-11-06T16:21:40Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50381724/week-9-picks-predictions-schedule-fantasy-odds-2026"
+    },
     {
       "headline": "NFL Week 9 arrivals: Trevor Lawrence doubles up on denim, Ethan Burke reps Ovechkin",
       "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
@@ -335,12 +359,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms"
     },
     {
-      "headline": "NFL Week 9 betting odds: Lines and totals for every game",
-      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
-      "published": "2026-11-05T20:22:09Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals"
-    },
-    {
       "headline": "Bengals' Burrow is looking to extend 3-game winning streak against Penix and Falcons in Madrid",
       "summary": "Cincinnati's Joe Burrow and Atlanta's Michael Penix Jr. experienced dramatically different lead-in games to Sunday's matchup between the Bengals and Falcons in Madrid, Spain.",
       "published": "2026-11-05T19:17:35Z",
@@ -351,24 +369,6 @@
       "summary": "Jude Bellingham visits Atlanta Falcons training session",
       "published": "2026-11-05T18:01:50Z",
       "url": "https://www.espn.com/video/clip/_/id/50390519/jude-bellingham-visits-atlanta-falcons-training-session"
-    },
-    {
-      "headline": "Bijan Robinson says win in Madrid could swing Falcons' season",
-      "summary": "The way Falcons running back Bijan Robinson framed it, Sunday's game against the Bengals at Madrid's historic Santiago Bernabeu Stadium could be a catalyst for an Atlanta team trying to reshape its season.",
-      "published": "2026-11-05T17:58:47Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50390044/bijan-robinson-says-win-madrid-wing-falcons-season"
-    },
-    {
-      "headline": "What has gone right -- and wrong -- for 10 new NFL head coaches in 2026 season",
-      "summary": "There are 10 new head coaches in the NFL this season, which ties the most ever. How are things going for each of them after eight weeks?",
-      "published": "2026-11-05T20:08:45Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50369047/2026-nfl-season-10-new-coaches-midseason-good-bad"
-    },
-    {
-      "headline": "Millennial minds: How Doyle, Udinski leapt to head of the OC class",
-      "summary": "There are nine NFL offensive coordinators 35 or younger. How did these millennials land gigs so early in their careers?",
-      "published": "2026-11-05T13:48:33Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50380026/nfl-offensive-coordinator-doyle-udinski"
     }
   ],
   "league_week": 9,
@@ -1209,13 +1209,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
+        "text": "Mostly sunny",
         "tempF": 62,
         "tempC": 17
       },
       "moneyline": {
-        "away": "+425",
-        "home": "-575"
+        "away": "+410",
+        "home": "-550"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1235,8 +1235,8 @@
         "winner": null,
         "record": "2-6"
       },
-      "line": "KC -10",
-      "overUnder": 47.5,
+      "line": "KC -9.5",
+      "overUnder": 48.5,
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
       "tv": [
@@ -1253,13 +1253,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny w/ showers",
-        "tempF": 87,
-        "tempC": 31
+        "text": "Partly sunny",
+        "tempF": 84,
+        "tempC": 29
       },
       "moneyline": {
-        "away": "-340",
-        "home": "+270"
+        "away": "-325",
+        "home": "+260"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1279,7 +1279,7 @@
         "winner": null,
         "record": "5-2"
       },
-      "line": "DET -7",
+      "line": "DET -6.5",
       "overUnder": 50.5,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
@@ -1297,8 +1297,8 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 64,
+        "text": "Partly sunny",
+        "tempF": 65,
         "tempC": 18
       },
       "moneyline": {
@@ -1385,13 +1385,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 61,
+        "text": "Sunny",
+        "tempF": 60,
         "tempC": 16
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-218",
+        "home": "+180"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1412,7 +1412,7 @@
         "record": "4-4"
       },
       "line": "LAR -4.5",
-      "overUnder": 48.5,
+      "overUnder": 47.5,
       "venue": "Northwest Stadium",
       "city": "Landover",
       "tv": [
@@ -1518,8 +1518,8 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 55,
-        "tempC": 13
+        "tempF": 57,
+        "tempC": 14
       },
       "moneyline": {
         "away": "+140",
@@ -1562,8 +1562,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 68,
-        "tempC": 20
+        "tempF": 69,
+        "tempC": 21
       },
       "moneyline": {
         "away": "+370",
@@ -1605,9 +1605,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Showers",
-        "tempF": 56,
-        "tempC": 13
+        "text": "Rain",
+        "tempF": 57,
+        "tempC": 14
       },
       "moneyline": {
         "away": "+350",
@@ -1654,8 +1654,8 @@
         "tempC": 11
       },
       "moneyline": {
-        "away": "+240",
-        "home": "-298"
+        "away": "+230",
+        "home": "-285"
       },
       "detail": "11/8 - 8:20 PM EST",
       "final": false,
@@ -1693,9 +1693,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly cloudy",
-        "tempF": 52,
-        "tempC": 11
+        "text": "Intermittent clouds",
+        "tempF": 49,
+        "tempC": 9
       },
       "moneyline": {
         "away": "-175",

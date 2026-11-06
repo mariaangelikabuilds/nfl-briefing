@@ -124,7 +124,21 @@
     "401873037"
   ],
   "briefing": {
-    "pregame": null,
+    "pregame": {
+      "matchup_read": "Bengals at Falcons in Madrid, Sun 8 Nov, 10:30 pm Perth, on NFL Net. Cincy is 5-2 and laying 3 at the Bernabeu, total 52.5. Atlanta is 3-5 and coming off a 16-0 shutout loss at Tampa Bay.",
+      "storylines": [
+        "Burrow is chasing a fourth straight win. He went 38/48 for 462 yards, 5 TD and 3 INT in the 43-36 overtime win over Tennessee.",
+        "Michael Penix Jr. went 8/24 for 125 yards and 4 INT in the Falcons' last outing, a 16-0 loss at Tampa Bay.",
+        "ESPN's preview frames it as Burrow's three-game streak against Penix and the Falcons in Madrid.",
+        "Pittsburgh sits 6-2 and leads the division, so Cincinnati cannot bank on sloppy wins piling up."
+      ],
+      "watch_for": [
+        "Turnovers. Cincinnati gave it away four times against Tennessee, three of them Burrow picks, and still won.",
+        "The run game. 19 carries for 75 yards at 3.9 a pop last week, with Chase Brown at 12 for 55.",
+        "Red zone work. Bengals were 5-6 inside the 20 against the Titans, and that efficiency carried a leaky defense."
+      ],
+      "the_call": "Bengals cover the 3 and the game goes over 52.5. Cincinnati put up 510 yards last week and Atlanta just got shut out with a four-interception day from its quarterback."
+    },
     "pregame_for": "401873038",
     "postgame": {
       "what_decided_it": "Cincinnati won the yardage fight, 510 to 440, and kept converting: 7-of-10 on third down, 5-of-6 in the red zone. Four turnovers nearly gave it away before Burrow ran one in to settle it 43-36 in OT.",
@@ -139,15 +153,14 @@
     "postgame_for": "401873031",
     "league": {
       "lines": [
-        "Bills at Vikings closes Week 9 on Tue, 10 Nov, 9:15 am Perth. Two 6-1 teams, BUF -3, total 44.5. Buffalo just buried Baltimore 36-10.",
-        "Jaguars rolled Baltimore 33-10 on Thursday to go 6-2. Trevor Lawrence 16/26, 242 yards, 1 TD. Ravens drop to 4-5 and have lost four straight.",
-        "Giants -3.5 at Philadelphia, total 38.5, Mon, 9 Nov, 2:00 am. The Eagles are 2-6 after losing 27-10 in Washington.",
-        "Chicago hosts Tampa Bay on Sunday night, CHI -6, total 47.5. The Bears are 6-2 after a 34-17 win at Seattle.",
-        "Denver is 6-2 following a 28-24 win over Kansas City, and is only -2.5 at Carolina this week.",
-        "San Francisco, 6-1, lays 10 at home to the 4-4 Raiders, who put up 38 at the Jets last week."
+        "Bills at Vikings on Tue 10 Nov, 9:15 am Perth. Both 6-1, Buffalo -3, total 44.5, on ESPN and ABC. Best game of the week.",
+        "Jacksonville is 6-2 after a 33-10 win in Baltimore. The Ravens are 4-5 and on a four-game slide.",
+        "Cleveland at New Orleans, Mon 9 Nov, 2:00 am Perth. The 5-3 Browns are getting 3 from a 2-5 Saints team, total 42.5.",
+        "Denver, 6-2 after beating Kansas City 28-24, is only -2.5 at Carolina. Chiefs host the 2-6 Jets as 9.5-point favourites.",
+        "San Francisco, 6-1, hosts the Raiders laying 10. Chicago, 6-2, hosts Tampa Bay by 6 on Sunday night."
       ]
     }
   },
-  "written_at": "2026-11-06T05:56:46.528Z",
+  "written_at": "2026-11-06T19:08:42.570Z",
   "last_error": null
 }
