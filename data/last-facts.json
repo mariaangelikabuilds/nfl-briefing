@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 7 Nov, 1:28 pm",
+  "now_perth": "Sun, 8 Nov, 1:39 am",
   "bengals_next": {
     "id": "401873038",
     "week": 9,
@@ -30,7 +30,7 @@
       "winner": null,
       "record": "5-2"
     },
-    "line": "CIN -3",
+    "line": "CIN -3.5",
     "overUnder": 52.5,
     "venue": "Santiago Bernabéu",
     "city": "Madrid",
@@ -273,6 +273,18 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 9 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+      "summary": "QB controversy in Minnesota? Browns upsetting the Saints? Touchdowns for two rookie RBs? Let's predict 15 things for Week 9.",
+      "published": "2026-11-07T11:38:29Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50390199/week-9-predictions-upsets-fantasy-sleepers-stats-2026"
+    },
+    {
+      "headline": "Bengals face Falcons S Jessie Bates III, evoking mixed emotions",
+      "summary": "Cincinnati hasn't been to the playoffs since Bates' departure, but Atlanta also hasn't reached the postseason since his arrival.",
+      "published": "2026-11-07T11:00:10Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50402286/jessie-bates-falcons-bengals"
+    },
+    {
       "headline": "Bengals proving their stardom in Madrid",
       "summary": "Ben Baby details Cincinnati's practice in Madrid where it is believed it had the largest number of attendees in franchise history.",
       "published": "2026-11-06T21:23:18Z",
@@ -299,7 +311,7 @@
     {
       "headline": "NFL Week 9 preview: Picks, predictions, schedule, betting odds, fantasy tips",
       "summary": "Bills vs. Vikings? Drake Maye vs. Jordan Love? The NFL in Madrid? There are 14 more games in Week 9, and we have picks, predictions and more for all of them.",
-      "published": "2026-11-06T16:21:40Z",
+      "published": "2026-11-07T02:39:52Z",
       "url": "https://www.espn.com/nfl/story/_/id/50381724/week-9-picks-predictions-schedule-fantasy-odds-2026"
     },
     {
@@ -307,21 +319,21 @@
       "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
       "published": "2026-11-06T00:38:13Z",
       "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals"
-    },
-    {
-      "headline": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
-      "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
-      "published": "2026-11-06T00:53:52Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms"
-    },
-    {
-      "headline": "Bengals' Burrow is looking to extend 3-game winning streak against Penix and Falcons in Madrid",
-      "summary": "Cincinnati's Joe Burrow and Atlanta's Michael Penix Jr. experienced dramatically different lead-in games to Sunday's matchup between the Bengals and Falcons in Madrid, Spain.",
-      "published": "2026-11-05T19:17:35Z",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873038"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "2026 NFL trade deadline: Proposing deals for Tony Pollard, Riq Woolen, others",
+      "summary": "Our NFL experts pitched trade offers they'd love to see get done before Tuesday's deadline, including moves for Tony Pollard, Riq Woolen, Jonathan Taylor and Jessie Bates III.",
+      "published": "2026-11-07T11:37:27Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50389499/2026-nfl-trade-deadline-offers-experts-taylor-woolen-pollard"
+    },
+    {
+      "headline": "Bengals face Falcons S Jessie Bates III, evoking mixed emotions",
+      "summary": "Cincinnati hasn't been to the playoffs since Bates' departure, but Atlanta also hasn't reached the postseason since his arrival.",
+      "published": "2026-11-07T11:00:10Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50402286/jessie-bates-falcons-bengals"
+    },
     {
       "headline": "James Pearce Jr. listed as questionable",
       "summary": "Marc Raimondi reports on James Pearce Jr.'s status being unclear for his season debut ahead of their next game in Madrid.",
@@ -349,7 +361,7 @@
     {
       "headline": "NFL Week 9 preview: Picks, predictions, schedule, betting odds, fantasy tips",
       "summary": "Bills vs. Vikings? Drake Maye vs. Jordan Love? The NFL in Madrid? There are 14 more games in Week 9, and we have picks, predictions and more for all of them.",
-      "published": "2026-11-06T16:21:40Z",
+      "published": "2026-11-07T02:39:52Z",
       "url": "https://www.espn.com/nfl/story/_/id/50381724/week-9-picks-predictions-schedule-fantasy-odds-2026"
     },
     {
@@ -357,18 +369,6 @@
       "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
       "published": "2026-11-06T00:38:13Z",
       "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals"
-    },
-    {
-      "headline": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
-      "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
-      "published": "2026-11-06T00:53:52Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms"
-    },
-    {
-      "headline": "Bengals' Burrow is looking to extend 3-game winning streak against Penix and Falcons in Madrid",
-      "summary": "Cincinnati's Joe Burrow and Atlanta's Michael Penix Jr. experienced dramatically different lead-in games to Sunday's matchup between the Bengals and Falcons in Madrid, Spain.",
-      "published": "2026-11-05T19:17:35Z",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873038"
     }
   ],
   "league_week": 9,
@@ -1166,12 +1166,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 56,
+        "tempF": 55,
         "tempC": 13
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-218",
+        "home": "+180"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1209,13 +1209,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 63,
-        "tempC": 17
+        "text": "Sunny",
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
-        "away": "+380",
-        "home": "-500"
+        "away": "+370",
+        "home": "-485"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1236,7 +1236,7 @@
         "record": "2-6"
       },
       "line": "KC -9.5",
-      "overUnder": 48.5,
+      "overUnder": 47.5,
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
       "tv": [
@@ -1253,13 +1253,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 84,
-        "tempC": 29
+        "text": "Mostly sunny",
+        "tempF": 86,
+        "tempC": 30
       },
       "moneyline": {
-        "away": "-290",
-        "home": "+235"
+        "away": "-305",
+        "home": "+245"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1298,12 +1298,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "+142",
-        "home": "-170"
+        "away": "+145",
+        "home": "-175"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1342,12 +1342,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 61,
+        "tempF": 60,
         "tempC": 16
       },
       "moneyline": {
-        "away": "-155",
-        "home": "+130"
+        "away": "-162",
+        "home": "+136"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1386,12 +1386,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 60,
-        "tempC": 16
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
-        "away": "-218",
-        "home": "+180"
+        "away": "-230",
+        "home": "+190"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1430,12 +1430,12 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 65,
-        "tempC": 18
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "-155",
-        "home": "+130"
+        "away": "-148",
+        "home": "+124"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1478,8 +1478,8 @@
         "tempC": 31
       },
       "moneyline": {
-        "away": "-238",
-        "home": "+195"
+        "away": "-245",
+        "home": "+200"
       },
       "detail": "11/8 - 4:05 PM EST",
       "final": false,
@@ -1517,9 +1517,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 57,
-        "tempC": 14
+        "text": "Sunny",
+        "tempF": 55,
+        "tempC": 13
       },
       "moneyline": {
         "away": "+142",
@@ -1566,8 +1566,8 @@
         "tempC": 20
       },
       "moneyline": {
-        "away": "+360",
-        "home": "-470"
+        "away": "+370",
+        "home": "-485"
       },
       "detail": "11/8 - 4:25 PM EST",
       "final": false,
@@ -1649,13 +1649,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Clear",
-        "tempF": 50,
-        "tempC": 10
+        "text": "Mostly clear",
+        "tempF": 52,
+        "tempC": 11
       },
       "moneyline": {
-        "away": "+230",
-        "home": "-285"
+        "away": "+220",
+        "home": "-270"
       },
       "detail": "11/8 - 8:20 PM EST",
       "final": false,
@@ -1693,7 +1693,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
+        "text": "Mostly clear",
         "tempF": 51,
         "tempC": 11
       },
