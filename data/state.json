@@ -124,6 +124,15 @@
     "401873037"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Bills at Vikings on Tue 10 Nov, 9:15 am Perth. Both 6-1, Buffalo -3, total 44.5, on ESPN and ABC. Best game of the week.",
+        "Jacksonville is 6-2 after a 33-10 win in Baltimore. The Ravens are 4-5 and on a four-game slide.",
+        "Cleveland at New Orleans, Mon 9 Nov, 2:00 am Perth. The 5-3 Browns are getting 3 from a 2-5 Saints team, total 42.5.",
+        "Denver, 6-2 after beating Kansas City 28-24, is only -2.5 at Carolina. Chiefs host the 2-6 Jets as 9.5-point favourites.",
+        "San Francisco, 6-1, hosts the Raiders laying 10. Chicago, 6-2, hosts Tampa Bay by 6 on Sunday night."
+      ]
+    },
     "pregame": {
       "matchup_read": "Bengals at Falcons in Madrid, Sun 8 Nov, 10:30 pm Perth, on NFL Net. Cincy is 5-2 and laying 3 at the Bernabeu, total 52.5. Atlanta is 3-5 and coming off a 16-0 shutout loss at Tampa Bay.",
       "storylines": [
@@ -150,16 +159,7 @@
       "division_meaning": "Pittsburgh stays ahead at 6-2 after hammering Cleveland 27-6. Cincinnati sits 5-2 on a three-game run with the best point differential in the North at +48. Cleveland 5-3, Baltimore 4-4 and sliding.",
       "the_take": "A 1-7 team hung 36 on you and the defence allowed 6.3 a play. Ben Baby's line about needing a complete game is right. Burrow's three picks against Atlanta's level of team is survivable, elsewhere it is not."
     },
-    "postgame_for": "401873031",
-    "league": {
-      "lines": [
-        "Bills at Vikings on Tue 10 Nov, 9:15 am Perth. Both 6-1, Buffalo -3, total 44.5, on ESPN and ABC. Best game of the week.",
-        "Jacksonville is 6-2 after a 33-10 win in Baltimore. The Ravens are 4-5 and on a four-game slide.",
-        "Cleveland at New Orleans, Mon 9 Nov, 2:00 am Perth. The 5-3 Browns are getting 3 from a 2-5 Saints team, total 42.5.",
-        "Denver, 6-2 after beating Kansas City 28-24, is only -2.5 at Carolina. Chiefs host the 2-6 Jets as 9.5-point favourites.",
-        "San Francisco, 6-1, hosts the Raiders laying 10. Chicago, 6-2, hosts Tampa Bay by 6 on Sunday night."
-      ]
-    }
+    "postgame_for": "401873031"
   },
   "written_at": "2026-11-06T19:08:42.570Z",
   "last_error": null

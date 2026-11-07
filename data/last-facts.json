@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 7 Nov, 3:08 am",
+  "now_perth": "Sat, 7 Nov, 1:28 pm",
   "bengals_next": {
     "id": "401873038",
     "week": 9,
@@ -9,8 +9,8 @@
     "clock": null,
     "weather": null,
     "moneyline": {
-      "away": "-170",
-      "home": "+142"
+      "away": "-180",
+      "home": "+150"
     },
     "detail": "11/8 - 9:30 AM EST",
     "final": false,
@@ -96,7 +96,7 @@
     ],
     "kickoff_perth": "Mon, 2 Nov, 2:00 am"
   },
-  "write_pregame": true,
+  "write_pregame": false,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -273,6 +273,18 @@
   },
   "news_bengals": [
     {
+      "headline": "Bengals proving their stardom in Madrid",
+      "summary": "Ben Baby details Cincinnati's practice in Madrid where it is believed it had the largest number of attendees in franchise history.",
+      "published": "2026-11-06T21:23:18Z",
+      "url": "https://www.espn.com/video/clip/_/id/50401815/bengals-proving-their-stardom-madrid"
+    },
+    {
+      "headline": "Joe Burrow makes time for art in Madrid ahead of Bengals-Falcons",
+      "summary": "While in Spain, the Bengals quarterback is finding time for one of his off-field interests: art.",
+      "published": "2026-11-06T19:05:40Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50400935/joe-burrow-madrid-art-museum-bengals-falcons"
+    },
+    {
       "headline": "NFL Week 9 betting odds: Lines and totals for every game",
       "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
       "published": "2026-11-06T15:44:45Z",
@@ -307,21 +319,15 @@
       "summary": "Cincinnati's Joe Burrow and Atlanta's Michael Penix Jr. experienced dramatically different lead-in games to Sunday's matchup between the Bengals and Falcons in Madrid, Spain.",
       "published": "2026-11-05T19:17:35Z",
       "url": "http://www.espn.com/nfl/preview?gameId=401873038"
-    },
-    {
-      "headline": "Which team needs Jonathan Taylor the most?",
-      "summary": "Which team needs Jonathan Taylor the most?",
-      "published": "2026-11-05T13:42:52Z",
-      "url": "https://www.espn.com/video/clip/_/id/50388269/which-team-needs-jonathan-taylor-most"
-    },
-    {
-      "headline": "What 18 contenders should do at the NFL trade deadline: Who could get aggressive?",
-      "summary": "Should the Giants keep adding? Could the Bills go all-in? Would the Steelers stay conservative? Here's how 18 teams at or above .500 should approach the deadline.",
-      "published": "2026-11-05T18:32:13Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50360077/2026-nfl-trade-deadline-contenders-activity-add-subtract"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "James Pearce Jr. listed as questionable",
+      "summary": "Marc Raimondi reports on James Pearce Jr.'s status being unclear for his season debut ahead of their next game in Madrid.",
+      "published": "2026-11-06T21:03:26Z",
+      "url": "https://www.espn.com/video/clip/_/id/50401772/james-pearce-jr-listed-questionable"
+    },
     {
       "headline": "Week 9 betting preview: Analysis, best bets, TD predictions for Sunday",
       "summary": "Our experts dive into the odds and player props for Week 9 and offer their betting tips and favorite plays.",
@@ -363,12 +369,6 @@
       "summary": "Cincinnati's Joe Burrow and Atlanta's Michael Penix Jr. experienced dramatically different lead-in games to Sunday's matchup between the Bengals and Falcons in Madrid, Spain.",
       "published": "2026-11-05T19:17:35Z",
       "url": "http://www.espn.com/nfl/preview?gameId=401873038"
-    },
-    {
-      "headline": "Jude Bellingham visits Atlanta Falcons training session",
-      "summary": "Jude Bellingham visits Atlanta Falcons training session",
-      "published": "2026-11-05T18:01:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/50390519/jude-bellingham-visits-atlanta-falcons-training-session"
     }
   ],
   "league_week": 9,
@@ -1170,8 +1170,8 @@
         "tempC": 13
       },
       "moneyline": {
-        "away": "-230",
-        "home": "+190"
+        "away": "-225",
+        "home": "+185"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1191,7 +1191,7 @@
         "winner": null,
         "record": "3-5"
       },
-      "line": "DAL -5.5",
+      "line": "DAL -4.5",
       "overUnder": 51.5,
       "venue": "Lucas Oil Stadium",
       "city": "Indianapolis",
@@ -1210,12 +1210,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 62,
+        "tempF": 63,
         "tempC": 17
       },
       "moneyline": {
-        "away": "+410",
-        "home": "-550"
+        "away": "+380",
+        "home": "-500"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1258,8 +1258,8 @@
         "tempC": 29
       },
       "moneyline": {
-        "away": "-325",
-        "home": "+260"
+        "away": "-290",
+        "home": "+235"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1280,7 +1280,7 @@
         "record": "5-2"
       },
       "line": "DET -6.5",
-      "overUnder": 50.5,
+      "overUnder": 49.5,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
       "tv": [
@@ -1298,12 +1298,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 65,
+        "tempF": 64,
         "tempC": 18
       },
       "moneyline": {
-        "away": "+136",
-        "home": "-162"
+        "away": "+142",
+        "home": "-170"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1323,7 +1323,7 @@
         "winner": null,
         "record": "5-3"
       },
-      "line": "NO -3",
+      "line": "NO -3.5",
       "overUnder": 42.5,
       "venue": "Caesars Superdome",
       "city": "New Orleans",
@@ -1342,12 +1342,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 60,
+        "tempF": 61,
         "tempC": 16
       },
       "moneyline": {
-        "away": "-162",
-        "home": "+136"
+        "away": "-155",
+        "home": "+130"
       },
       "detail": "11/8 - 1:00 PM EST",
       "final": false,
@@ -1367,7 +1367,7 @@
         "winner": null,
         "record": "4-2-1"
       },
-      "line": "NYG -3.5",
+      "line": "NYG -3",
       "overUnder": 38.5,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
@@ -1430,7 +1430,7 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 64,
+        "tempF": 65,
         "tempC": 18
       },
       "moneyline": {
@@ -1455,7 +1455,7 @@
         "winner": null,
         "record": "6-2"
       },
-      "line": "DEN -2.5",
+      "line": "DEN -3",
       "overUnder": 44.5,
       "venue": "Bank of America Stadium",
       "city": "Charlotte",
@@ -1474,7 +1474,7 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 87,
+        "tempF": 88,
         "tempC": 31
       },
       "moneyline": {
@@ -1522,8 +1522,8 @@
         "tempC": 14
       },
       "moneyline": {
-        "away": "+140",
-        "home": "-166"
+        "away": "+142",
+        "home": "-170"
       },
       "detail": "11/8 - 4:25 PM EST",
       "final": false,
@@ -1562,12 +1562,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 69,
-        "tempC": 21
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "+370",
-        "home": "-485"
+        "away": "+360",
+        "home": "-470"
       },
       "detail": "11/8 - 4:25 PM EST",
       "final": false,
@@ -1605,13 +1605,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
-        "tempF": 57,
-        "tempC": 14
+        "text": "Showers",
+        "tempF": 56,
+        "tempC": 13
       },
       "moneyline": {
-        "away": "+350",
-        "home": "-455"
+        "away": "+360",
+        "home": "-470"
       },
       "detail": "11/8 - 4:25 PM EST",
       "final": false,
@@ -1650,8 +1650,8 @@
       "clock": null,
       "weather": {
         "text": "Clear",
-        "tempF": 51,
-        "tempC": 11
+        "tempF": 50,
+        "tempC": 10
       },
       "moneyline": {
         "away": "+230",
@@ -1694,12 +1694,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 49,
-        "tempC": 9
+        "tempF": 51,
+        "tempC": 11
       },
       "moneyline": {
-        "away": "-175",
-        "home": "+145"
+        "away": "-170",
+        "home": "+142"
       },
       "detail": "11/9 - 8:15 PM EST",
       "final": false,
@@ -1720,7 +1720,7 @@
         "record": "6-1"
       },
       "line": "BUF -3",
-      "overUnder": 44.5,
+      "overUnder": 43.5,
       "venue": "U.S. Bank Stadium",
       "city": "Minneapolis",
       "tv": [
