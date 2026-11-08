@@ -121,46 +121,34 @@
     "401873034",
     "401873035",
     "401873036",
-    "401873037"
+    "401873037",
+    "401873038"
   ],
   "briefing": {
+    "pregame": null,
+    "pregame_for": "401873064",
+    "postgame": {
+      "what_decided_it": "Cincinnati was efficient and clean in Madrid. 7.1 yards per play, 6 of 10 on third down, zero turnovers, 3 of 4 in the red zone. Atlanta ran well at 6.5 a carry but threw for only 162 and took 12 penalties for 88 yards.",
+      "standouts": [
+        "Joe Burrow: 24/29, 271 yards, 3 TD, 0 INT. Nothing wasted.",
+        "Ja'Marr Chase: 10 catches, 155 yards, 1 TD.",
+        "Tee Higgins: 5 catches for only 32 yards but two touchdowns."
+      ],
+      "division_meaning": "Pittsburgh sits 6-2 on a four game win streak, Cincinnati 5-2 in the table and winners of three, with the best differential in the division at +48. Cleveland 5-3, Baltimore 4-5 and losers of four.",
+      "the_take": "The run game is the quiet part of this. 123 yards on 24 carries at 5.1 a pop meant Burrow never had to force anything. Do that against Pittsburgh and the North shifts."
+    },
+    "postgame_for": "401873038",
     "league": {
       "lines": [
-        "Bills at Vikings on Tue 10 Nov, 9:15 am Perth. Both 6-1, Buffalo -3, total 44.5, on ESPN and ABC. Best game of the week.",
-        "Jacksonville is 6-2 after a 33-10 win in Baltimore. The Ravens are 4-5 and on a four-game slide.",
-        "Cleveland at New Orleans, Mon 9 Nov, 2:00 am Perth. The 5-3 Browns are getting 3 from a 2-5 Saints team, total 42.5.",
-        "Denver, 6-2 after beating Kansas City 28-24, is only -2.5 at Carolina. Chiefs host the 2-6 Jets as 9.5-point favourites.",
-        "San Francisco, 6-1, hosts the Raiders laying 10. Chicago, 6-2, hosts Tampa Bay by 6 on Sunday night."
+        "Buffalo at Minnesota closes Week 9, 6-1 against 6-1, Tuesday 9:15 am Perth. Bills -3, total 43.5.",
+        "Jacksonville hammered Baltimore 33-10 in Week 9. Trevor Lawrence 16/26, 242 and a TD. Jaguars 6-2, Ravens 4-5.",
+        "Week 10 in Munich: Patriots at Lions, Sunday 10:30 pm Perth. New England -1.5, total 49.5, and the Pats are listed as the road favourite.",
+        "NFC North rematch at Lambeau in Week 10, Vikings at Packers, Green Bay -3 with a 40.5 total.",
+        "Chargers are 0-7 and go to Baltimore on Tuesday 17 Nov, 9:15 am Perth. Ravens only -2.5, total 37.5.",
+        "ESPN trade deadline grades flagged Baltimore adding Jacoby Brissett and Chicago paying up for Jeffery Simmons, per the headline."
       ]
-    },
-    "pregame": {
-      "matchup_read": "Bengals at Falcons in Madrid, Sun 8 Nov, 10:30 pm Perth, on NFL Net. Cincy is 5-2 and laying 3 at the Bernabeu, total 52.5. Atlanta is 3-5 and coming off a 16-0 shutout loss at Tampa Bay.",
-      "storylines": [
-        "Burrow is chasing a fourth straight win. He went 38/48 for 462 yards, 5 TD and 3 INT in the 43-36 overtime win over Tennessee.",
-        "Michael Penix Jr. went 8/24 for 125 yards and 4 INT in the Falcons' last outing, a 16-0 loss at Tampa Bay.",
-        "ESPN's preview frames it as Burrow's three-game streak against Penix and the Falcons in Madrid.",
-        "Pittsburgh sits 6-2 and leads the division, so Cincinnati cannot bank on sloppy wins piling up."
-      ],
-      "watch_for": [
-        "Turnovers. Cincinnati gave it away four times against Tennessee, three of them Burrow picks, and still won.",
-        "The run game. 19 carries for 75 yards at 3.9 a pop last week, with Chase Brown at 12 for 55.",
-        "Red zone work. Bengals were 5-6 inside the 20 against the Titans, and that efficiency carried a leaky defense."
-      ],
-      "the_call": "Bengals cover the 3 and the game goes over 52.5. Cincinnati put up 510 yards last week and Atlanta just got shut out with a four-interception day from its quarterback."
-    },
-    "pregame_for": "401873038",
-    "postgame": {
-      "what_decided_it": "Cincinnati won the yardage fight, 510 to 440, and kept converting: 7-of-10 on third down, 5-of-6 in the red zone. Four turnovers nearly gave it away before Burrow ran one in to settle it 43-36 in OT.",
-      "standouts": [
-        " Joe Burrow: 38/48, 462 yards, 5 TD, 3 INT, plus 3 carries for 10 yards and the OT rushing score. Volatile, but he carried it.",
-        "Tee Higgins: 10 catches, 155 yards, 2 TD. Ja'Marr Chase added 11 for 141 and a score after, per ESPN, spiking his helmet in frustration early.",
-        "Tennessee's Tony Pollard went for 21 carries, 117 yards, 2 TD against a Bengals front that gave up 5.6 a carry."
-      ],
-      "division_meaning": "Pittsburgh stays ahead at 6-2 after hammering Cleveland 27-6. Cincinnati sits 5-2 on a three-game run with the best point differential in the North at +48. Cleveland 5-3, Baltimore 4-4 and sliding.",
-      "the_take": "A 1-7 team hung 36 on you and the defence allowed 6.3 a play. Ben Baby's line about needing a complete game is right. Burrow's three picks against Atlanta's level of team is survivable, elsewhere it is not."
-    },
-    "postgame_for": "401873031"
+    }
   },
-  "written_at": "2026-11-06T19:08:42.570Z",
+  "written_at": "2026-11-08T17:48:44.414Z",
   "last_error": null
 }
