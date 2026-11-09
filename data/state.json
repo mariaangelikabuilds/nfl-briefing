@@ -122,7 +122,19 @@
     "401873035",
     "401873036",
     "401873037",
-    "401873038"
+    "401873038",
+    "401873039",
+    "401873040",
+    "401873041",
+    "401873042",
+    "401873043",
+    "401873044",
+    "401873045",
+    "401873046",
+    "401873047",
+    "401873048",
+    "401873049",
+    "401873050"
   ],
   "briefing": {
     "pregame": null,
@@ -140,15 +152,15 @@
     "postgame_for": "401873038",
     "league": {
       "lines": [
-        "Buffalo at Minnesota closes Week 9, 6-1 against 6-1, Tuesday 9:15 am Perth. Bills -3, total 43.5.",
-        "Jacksonville hammered Baltimore 33-10 in Week 9. Trevor Lawrence 16/26, 242 and a TD. Jaguars 6-2, Ravens 4-5.",
-        "Week 10 in Munich: Patriots at Lions, Sunday 10:30 pm Perth. New England -1.5, total 49.5, and the Pats are listed as the road favourite.",
-        "NFC North rematch at Lambeau in Week 10, Vikings at Packers, Green Bay -3 with a 40.5 total.",
-        "Chargers are 0-7 and go to Baltimore on Tuesday 17 Nov, 9:15 am Perth. Ravens only -2.5, total 37.5.",
-        "ESPN trade deadline grades flagged Baltimore adding Jacoby Brissett and Chicago paying up for Jeffery Simmons, per the headline."
+        " Bills at Vikings is the last Week 9 game, 6-1 against 6-1, Tue 10 Nov 9:15 am Perth. Buffalo is -3 on the road with a 43.5 total.",
+        "Jacksonville went into Baltimore and won 33-10, Trevor Lawrence 16/26 for 242 and a TD. The Jaguars are 6-2 and the Ravens are 4-5 on a four-game slide.",
+        "Cleveland lost 23-22 in overtime at New Orleans despite Shedeur Sanders going 19/31 for 297 and 2 TD. Browns now 5-4 and hosting Houston as 4.5-point home dogs.",
+        "Denver is the AFC's best record at 7-2 after a 26-21 win in Carolina. San Francisco sits 7-1 following a 38-17 handling of the Raiders.",
+        "Houston hung 44 on the Chargers, C.J. Stroud 21/35, 384 yards, 5 TD. Los Angeles is 0-8 and visits Baltimore on Tue 17 Nov, 9:15 am Perth.",
+        "Green Bay put 45 on New England behind Jordan Love's 372 yards and 3 TD, then hosts Minnesota in Week 10 as a 3-point favourite."
       ]
     }
   },
-  "written_at": "2026-11-08T17:48:44.414Z",
+  "written_at": "2026-11-09T05:39:37.382Z",
   "last_error": null
 }
