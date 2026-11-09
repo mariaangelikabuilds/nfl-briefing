@@ -137,6 +137,16 @@
     "401873050"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        " Bills at Vikings is the last Week 9 game, 6-1 against 6-1, Tue 10 Nov 9:15 am Perth. Buffalo is -3 on the road with a 43.5 total.",
+        "Jacksonville went into Baltimore and won 33-10, Trevor Lawrence 16/26 for 242 and a TD. The Jaguars are 6-2 and the Ravens are 4-5 on a four-game slide.",
+        "Cleveland lost 23-22 in overtime at New Orleans despite Shedeur Sanders going 19/31 for 297 and 2 TD. Browns now 5-4 and hosting Houston as 4.5-point home dogs.",
+        "Denver is the AFC's best record at 7-2 after a 26-21 win in Carolina. San Francisco sits 7-1 following a 38-17 handling of the Raiders.",
+        "Houston hung 44 on the Chargers, C.J. Stroud 21/35, 384 yards, 5 TD. Los Angeles is 0-8 and visits Baltimore on Tue 17 Nov, 9:15 am Perth.",
+        "Green Bay put 45 on New England behind Jordan Love's 372 yards and 3 TD, then hosts Minnesota in Week 10 as a 3-point favourite."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401873064",
     "postgame": {
@@ -149,17 +159,7 @@
       "division_meaning": "Pittsburgh sits 6-2 on a four game win streak, Cincinnati 5-2 in the table and winners of three, with the best differential in the division at +48. Cleveland 5-3, Baltimore 4-5 and losers of four.",
       "the_take": "The run game is the quiet part of this. 123 yards on 24 carries at 5.1 a pop meant Burrow never had to force anything. Do that against Pittsburgh and the North shifts."
     },
-    "postgame_for": "401873038",
-    "league": {
-      "lines": [
-        " Bills at Vikings is the last Week 9 game, 6-1 against 6-1, Tue 10 Nov 9:15 am Perth. Buffalo is -3 on the road with a 43.5 total.",
-        "Jacksonville went into Baltimore and won 33-10, Trevor Lawrence 16/26 for 242 and a TD. The Jaguars are 6-2 and the Ravens are 4-5 on a four-game slide.",
-        "Cleveland lost 23-22 in overtime at New Orleans despite Shedeur Sanders going 19/31 for 297 and 2 TD. Browns now 5-4 and hosting Houston as 4.5-point home dogs.",
-        "Denver is the AFC's best record at 7-2 after a 26-21 win in Carolina. San Francisco sits 7-1 following a 38-17 handling of the Raiders.",
-        "Houston hung 44 on the Chargers, C.J. Stroud 21/35, 384 yards, 5 TD. Los Angeles is 0-8 and visits Baltimore on Tue 17 Nov, 9:15 am Perth.",
-        "Green Bay put 45 on New England behind Jordan Love's 372 yards and 3 TD, then hosts Minnesota in Week 10 as a 3-point favourite."
-      ]
-    }
+    "postgame_for": "401873038"
   },
   "written_at": "2026-11-09T05:39:37.382Z",
   "last_error": null

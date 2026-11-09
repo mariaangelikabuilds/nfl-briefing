@@ -1,5 +1,5 @@
 {
-  "now_perth": "Mon, 9 Nov, 1:39 pm",
+  "now_perth": "Tue, 10 Nov, 6:09 am",
   "bengals_next": {
     "id": "401873064",
     "week": 10,
@@ -8,13 +8,13 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Showers",
-      "tempF": 43,
-      "tempC": 6
+      "text": "Partly cloudy",
+      "tempF": 41,
+      "tempC": 5
     },
     "moneyline": {
-      "away": "+142",
-      "home": "-170"
+      "away": "+150",
+      "home": "-180"
     },
     "detail": "11/15 - 8:20 PM EST",
     "final": false,
@@ -35,7 +35,7 @@
       "record": "6-2"
     },
     "line": "CIN -3.5",
-    "overUnder": 47.5,
+    "overUnder": 48.5,
     "venue": "Paycor Stadium",
     "city": "Cincinnati",
     "tv": [
@@ -281,15 +281,45 @@
   },
   "news_bengals": [
     {
+      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "summary": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
+      "published": "2026-11-09T17:14:01Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
+    },
+    {
+      "headline": "As the 'Peanut Punch' takes over NFL, how do teams counter it?",
+      "summary": "After Charles Tillman popularized the punch 14 years ago, it has really taken off this season.",
+      "published": "2026-11-09T16:55:50Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50380155/countering-peanut-punch-james-cook-skattebo"
+    },
+    {
+      "headline": "NFL Week 10 betting odds: Lines and totals for every game",
+      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
+      "published": "2026-11-09T14:34:46Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "Joe Burrow reaching new heights as Bengals face big test",
+      "summary": "Burrow led the Bengals to their fourth straight win, and AFC North rival Pittsburgh is on deck.",
+      "published": "2026-11-09T11:00:10Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50427816/bengals-joe-burrow-steelers-afc-north"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-11-09T11:00:04Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
       "headline": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
       "summary": "Check here for Sunday's top moments, TDs and analysis.",
-      "published": "2026-11-09T05:14:15Z",
+      "published": "2026-11-09T05:55:59Z",
       "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026"
     },
     {
       "headline": "NFL Week 9: Big takeaways, questions and fantasy spin from Sunday's games",
       "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 9.",
-      "published": "2026-11-09T05:24:21Z",
+      "published": "2026-11-09T05:58:13Z",
       "url": "https://www.espn.com/nfl/story/_/id/50369510/week-9-sunday-games-takeaways-questions-2026"
     },
     {
@@ -297,39 +327,45 @@
       "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
       "published": "2026-11-09T02:11:35Z",
       "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
+    }
+  ],
+  "news_opponent": [
+    {
+      "headline": "NFL trade deadline grades: Deals for Jessie Bates III, Davon Godchaux, more",
+      "summary": "Do Jessie Bates III and Davon Godchaux lift the Jaguars' defense? Wise move for Lions to add Andre Cisco? Let's evaluate 11 trades before the deadline.",
+      "published": "2026-11-09T20:21:38Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals"
     },
     {
-      "headline": "Saints reference Shedeur Sanders quote after win, leading NFL Week 9 trolls",
-      "summary": "The New Orleans Saints kept the receipts and poked fun at Shedeur Sanders to lead NFL Week 9 trolls.",
-      "published": "2026-11-09T01:36:38Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50426400/nfl-week-9-trolls"
-    },
-    {
-      "headline": "Judging overreactions to NFL Week 9 -- and what they mean for the trade deadline",
-      "summary": "Is it time for the Bengals to make a push? Should the Giants aggressively go after a running back? Will the receiver market go wild? We're overreacting to Sunday's games.",
-      "published": "2026-11-09T02:13:08Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50422026/week-9-overreactions-2026-graziano-trade-deadline-bengals-cowboys"
-    },
-    {
-      "headline": "NFL Week 9 arrivals: Caleb Williams rocks Supreme mascot zip-up before 'SNF'",
-      "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-09T00:31:42Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals"
-    },
-    {
-      "headline": "Bengals overcome Falcons in Week 9 blockbuster",
-      "summary": "Ben Baby recaps the Bengals' incredible performances against the Falcons.",
-      "published": "2026-11-08T23:35:10Z",
-      "url": "https://www.espn.com/video/clip/_/id/50426666/bengals-overcome-falcons-week-9-blockbuster"
+      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "summary": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
+      "published": "2026-11-09T17:14:01Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
     },
     {
       "headline": "As the 'Peanut Punch' takes over NFL, how do teams counter it?",
       "summary": "After Charles Tillman popularized the punch 14 years ago, it has really taken off this season.",
-      "published": "2026-11-08T22:38:11Z",
+      "published": "2026-11-09T16:55:50Z",
       "url": "https://www.espn.com/nfl/story/_/id/50380155/countering-peanut-punch-james-cook-skattebo"
-    }
-  ],
-  "news_opponent": [
+    },
+    {
+      "headline": "NFL Week 10 betting odds: Lines and totals for every game",
+      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
+      "published": "2026-11-09T14:34:46Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-11-09T11:00:04Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
+      "headline": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
+      "summary": "Check here for Sunday's top moments, TDs and analysis.",
+      "published": "2026-11-09T05:55:59Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026"
+    },
     {
       "headline": "How active NFL players continue to redefine all-time sack list",
       "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
@@ -337,46 +373,10 @@
       "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     },
     {
-      "headline": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Check here for Sunday's top moments, TDs and analysis.",
-      "published": "2026-11-09T00:55:43Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026"
-    },
-    {
       "headline": "Judging overreactions to NFL Week 9 -- and what they mean for the trade deadline",
       "summary": "Is it time for the Bengals to make a push? Should the Giants aggressively go after a running back? Will the receiver market go wild? We're overreacting to Sunday's games.",
       "published": "2026-11-09T02:13:08Z",
       "url": "https://www.espn.com/nfl/story/_/id/50422026/week-9-overreactions-2026-graziano-trade-deadline-bengals-cowboys"
-    },
-    {
-      "headline": "NFL Week 9 arrivals: Caleb Williams rocks Supreme mascot zip-up before 'SNF'",
-      "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-09T00:31:42Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals"
-    },
-    {
-      "headline": "As the 'Peanut Punch' takes over NFL, how do teams counter it?",
-      "summary": "After Charles Tillman popularized the punch 14 years ago, it has really taken off this season.",
-      "published": "2026-11-08T22:38:11Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50380155/countering-peanut-punch-james-cook-skattebo"
-    },
-    {
-      "headline": "Adam Schefter's players to watch at the trade deadline",
-      "summary": "Adam Schefter's players to watch at the trade deadline  ",
-      "published": "2026-11-08T16:27:11Z",
-      "url": "https://www.espn.com/video/clip/_/id/50420730/adam-schefter-players-watch-trade-deadline"
-    },
-    {
-      "headline": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
-      "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
-      "published": "2026-11-08T20:07:44Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms"
-    },
-    {
-      "headline": "Hall of Famer Jack Ham hospitalized, in stable condition after medical emergency",
-      "summary": "Hall of Fame linebacker and Penn State radio analyst Jack Ham experienced a medical emergency Saturday in Seattle and was in stable condition.",
-      "published": "2026-11-08T01:55:42Z",
-      "url": "https://www.espn.com/college-football/story/_/id/50410839/hall-famer-jack-ham-hospitalized-medical-emergency"
     }
   ],
   "league_week": 10,
@@ -1122,8 +1122,8 @@
         "tempC": 11
       },
       "moneyline": {
-        "away": "-175",
-        "home": "+145"
+        "away": "-192",
+        "home": "+160"
       },
       "detail": "11/9 - 8:15 PM EST",
       "final": false,
@@ -1143,8 +1143,8 @@
         "winner": null,
         "record": "6-1"
       },
-      "line": "BUF -3",
-      "overUnder": 43.5,
+      "line": "BUF -3.5",
+      "overUnder": 45.5,
       "venue": "U.S. Bank Stadium",
       "city": "Minneapolis",
       "tv": [
@@ -1162,7 +1162,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Showers",
         "tempF": 52,
         "tempC": 11
       },
@@ -1189,7 +1189,7 @@
         "record": "2-5-1"
       },
       "line": "NYG -1.5",
-      "overUnder": 43.5,
+      "overUnder": 42.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
@@ -1207,8 +1207,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+120",
-        "home": "-142"
+        "away": "+130",
+        "home": "-155"
       },
       "detail": "11/15 - 9:30 AM EST",
       "final": false,
@@ -1229,7 +1229,7 @@
         "record": "5-4"
       },
       "line": "DET -2.5",
-      "overUnder": 50.5,
+      "overUnder": 51.5,
       "venue": "FC Bayern Munich Stadium",
       "city": "Munich",
       "tv": [
@@ -1246,9 +1246,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 57,
-        "tempC": 14
+        "text": "Intermittent clouds",
+        "tempF": 54,
+        "tempC": 12
       },
       "moneyline": {
         "away": "-180",
@@ -1273,7 +1273,7 @@
         "record": "6-2"
       },
       "line": "KC -3.5",
-      "overUnder": 46.5,
+      "overUnder": 45.5,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "tv": [
@@ -1290,13 +1290,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 49,
-        "tempC": 9
+        "text": "Intermittent clouds",
+        "tempF": 46,
+        "tempC": 8
       },
       "moneyline": {
-        "away": "-192",
-        "home": "+160"
+        "away": "-225",
+        "home": "+185"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1334,13 +1334,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
+        "text": "Intermittent clouds",
         "tempF": 46,
         "tempC": 8
       },
       "moneyline": {
-        "away": "+142",
-        "home": "-170"
+        "away": "+150",
+        "home": "-180"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1360,8 +1360,8 @@
         "winner": null,
         "record": "6-1"
       },
-      "line": "GB -3",
-      "overUnder": 42.5,
+      "line": "GB -3.5",
+      "overUnder": 41.5,
       "venue": "Lambeau Field",
       "city": "Green Bay",
       "tv": [
@@ -1378,13 +1378,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 51,
+        "text": "Intermittent clouds",
+        "tempF": 52,
         "tempC": 11
       },
       "moneyline": {
-        "away": "-500",
-        "home": "+380"
+        "away": "-520",
+        "home": "+390"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1422,13 +1422,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 50,
-        "tempC": 10
+        "text": "Mostly sunny",
+        "tempF": 47,
+        "tempC": 8
       },
       "moneyline": {
-        "away": "+110",
-        "home": "-130"
+        "away": "+120",
+        "home": "-142"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1449,7 +1449,7 @@
         "record": "1-7"
       },
       "line": "IND -2.5",
-      "overUnder": 41.5,
+      "overUnder": 40.5,
       "venue": "Lucas Oil Stadium",
       "city": "Indianapolis",
       "tv": [
@@ -1466,13 +1466,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
+        "text": "Mostly cloudy w/ showers",
         "tempF": 62,
         "tempC": 17
       },
       "moneyline": {
-        "away": "-120",
-        "home": "+100"
+        "away": "+100",
+        "home": "-120"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1492,7 +1492,7 @@
         "winner": null,
         "record": "3-5"
       },
-      "line": "CAR -1.5",
+      "line": "NO -1.5",
       "overUnder": 47.5,
       "venue": "Caesars Superdome",
       "city": "New Orleans",
@@ -1510,13 +1510,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Mostly cloudy",
         "tempF": 51,
         "tempC": 11
       },
       "moneyline": {
-        "away": "-550",
-        "home": "+410"
+        "away": "-440",
+        "home": "+340"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1536,8 +1536,8 @@
         "winner": null,
         "record": "6-1"
       },
-      "line": "BUF -8.5",
-      "overUnder": 51.5,
+      "line": "BUF -7.5",
+      "overUnder": 50.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
@@ -1554,13 +1554,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 72,
-        "tempC": 22
+        "text": "Partly sunny",
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "-166",
-        "home": "+140"
+        "away": "-175",
+        "home": "+145"
       },
       "detail": "11/15 - 4:05 PM EST",
       "final": false,
@@ -1581,7 +1581,7 @@
         "record": "5-4"
       },
       "line": "SEA -3",
-      "overUnder": 42.5,
+      "overUnder": 43.5,
       "venue": "Allegiant Stadium",
       "city": "Las Vegas",
       "tv": [
@@ -1599,12 +1599,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 74,
+        "tempF": 73,
         "tempC": 23
       },
       "moneyline": {
-        "away": "-310",
-        "home": "+250"
+        "away": "-410",
+        "home": "+320"
       },
       "detail": "11/15 - 4:05 PM EST",
       "final": false,
@@ -1624,8 +1624,8 @@
         "winner": null,
         "record": "5-4"
       },
-      "line": "LAR -7",
-      "overUnder": 45.5,
+      "line": "LAR -8.5",
+      "overUnder": 43.5,
       "venue": "State Farm Stadium",
       "city": "Glendale",
       "tv": [
@@ -1642,13 +1642,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 66,
-        "tempC": 19
+        "text": "Intermittent clouds",
+        "tempF": 62,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-218",
+        "home": "+180"
       },
       "detail": "11/15 - 4:25 PM EST",
       "final": false,
@@ -1686,13 +1686,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly clear",
-        "tempF": 50,
-        "tempC": 10
+        "text": "Cloudy",
+        "tempF": 47,
+        "tempC": 8
       },
       "moneyline": {
-        "away": "+154",
-        "home": "-185"
+        "away": "+195",
+        "home": "-238"
       },
       "detail": "11/16 - 8:15 PM EST",
       "final": false,
@@ -1712,7 +1712,7 @@
         "winner": null,
         "record": "0-8"
       },
-      "line": "BAL -4.5",
+      "line": "BAL -5.5",
       "overUnder": 38.5,
       "venue": "M&T Bank Stadium",
       "city": "Baltimore",
