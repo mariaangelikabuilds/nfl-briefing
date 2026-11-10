@@ -134,19 +134,10 @@
     "401873047",
     "401873048",
     "401873049",
-    "401873050"
+    "401873050",
+    "401873051"
   ],
   "briefing": {
-    "league": {
-      "lines": [
-        " Bills at Vikings is the last Week 9 game, 6-1 against 6-1, Tue 10 Nov 9:15 am Perth. Buffalo is -3 on the road with a 43.5 total.",
-        "Jacksonville went into Baltimore and won 33-10, Trevor Lawrence 16/26 for 242 and a TD. The Jaguars are 6-2 and the Ravens are 4-5 on a four-game slide.",
-        "Cleveland lost 23-22 in overtime at New Orleans despite Shedeur Sanders going 19/31 for 297 and 2 TD. Browns now 5-4 and hosting Houston as 4.5-point home dogs.",
-        "Denver is the AFC's best record at 7-2 after a 26-21 win in Carolina. San Francisco sits 7-1 following a 38-17 handling of the Raiders.",
-        "Houston hung 44 on the Chargers, C.J. Stroud 21/35, 384 yards, 5 TD. Los Angeles is 0-8 and visits Baltimore on Tue 17 Nov, 9:15 am Perth.",
-        "Green Bay put 45 on New England behind Jordan Love's 372 yards and 3 TD, then hosts Minnesota in Week 10 as a 3-point favourite."
-      ]
-    },
     "pregame": null,
     "pregame_for": "401873064",
     "postgame": {
@@ -159,8 +150,18 @@
       "division_meaning": "Pittsburgh sits 6-2 on a four game win streak, Cincinnati 5-2 in the table and winners of three, with the best differential in the division at +48. Cleveland 5-3, Baltimore 4-5 and losers of four.",
       "the_take": "The run game is the quiet part of this. 123 yards on 24 carries at 5.1 a pop meant Burrow never had to force anything. Do that against Pittsburgh and the North shifts."
     },
-    "postgame_for": "401873038"
+    "postgame_for": "401873038",
+    "league": {
+      "lines": [
+        "Buffalo went to Minneapolis and won 23-6 behind James Cook III's 31 carries for 107 yards. Bills are 7-1, the best record in the AFC, and they get the 2-7 Jets as 8.5-point road favourites.",
+        "Denver is 7-2 after a 26-21 win at Carolina. San Francisco sits 7-1 and travels to Dallas as SF -3.5 with a 55.5 total, the fattest number on the Week 10 board.",
+        "Jacksonville is 6-2 and buried Baltimore 33-10 in Week 9. The Jaguars are laying 10.5 at 1-7 Tennessee next.",
+        "Cleveland lost 23-22 in overtime at New Orleans despite Shedeur Sanders going 19/31 for 297 and 2 TD. The 5-4 Browns host Houston as 4.5-point home dogs, total just 39.5.",
+        "Houston hung 44 on the winless Chargers, C.J. Stroud 21/35 for 384 and 5 TD. LAC is 0-8 and visits Baltimore on Tuesday 9:15 am Perth.",
+        "Chicago is 7-2 after beating Tampa 27-24, and Green Bay put 45 on New England with Jordan Love at 23/29, 372 yards, 3 TD. Packers host Minnesota at GB -4.5."
+      ]
+    }
   },
-  "written_at": "2026-11-09T05:39:37.382Z",
+  "written_at": "2026-11-10T06:48:32.066Z",
   "last_error": null
 }

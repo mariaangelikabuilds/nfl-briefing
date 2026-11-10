@@ -1,5 +1,5 @@
 {
-  "now_perth": "Tue, 10 Nov, 6:09 am",
+  "now_perth": "Tue, 10 Nov, 2:48 pm",
   "bengals_next": {
     "id": "401873064",
     "week": 10,
@@ -281,6 +281,12 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 9 arrivals: Justin Jefferson rocks black leather trench coat before 'MNF'",
+      "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-10T01:12:56Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals"
+    },
+    {
       "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
       "summary": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
       "published": "2026-11-09T17:14:01Z",
@@ -321,19 +327,25 @@
       "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 9.",
       "published": "2026-11-09T05:58:13Z",
       "url": "https://www.espn.com/nfl/story/_/id/50369510/week-9-sunday-games-takeaways-questions-2026"
-    },
-    {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "published": "2026-11-09T02:11:35Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     }
   ],
   "news_opponent": [
     {
-      "headline": "NFL trade deadline grades: Deals for Jessie Bates III, Davon Godchaux, more",
-      "summary": "Do Jessie Bates III and Davon Godchaux lift the Jaguars' defense? Wise move for Lions to add Andre Cisco? Let's evaluate 11 trades before the deadline.",
-      "published": "2026-11-09T20:21:38Z",
+      "headline": "NFL Week 9 arrivals: Justin Jefferson rocks black leather trench coat before 'MNF'",
+      "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-10T01:12:56Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals"
+    },
+    {
+      "headline": "Will the Steelers make a significant move before the trade deadline?",
+      "summary": "Brooke Pryor on Mike McCarthy focusing on the next game as the trade deadline approaches.",
+      "published": "2026-11-09T23:32:34Z",
+      "url": "https://www.espn.com/video/clip/_/id/50436550/will-steelers-make-significant-move-trade-deadline"
+    },
+    {
+      "headline": "NFL trade deadline grades: Deals for Jordan Davis, Jessie Bates III, Andre Cisco",
+      "summary": "The Jaguars are making a move, but did they massively overpay for Davis? What about Jessie Bates III? Let's evaluate 12 trades before the deadline.",
+      "published": "2026-11-09T23:51:42Z",
       "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals"
     },
     {
@@ -365,18 +377,6 @@
       "summary": "Check here for Sunday's top moments, TDs and analysis.",
       "published": "2026-11-09T05:55:59Z",
       "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026"
-    },
-    {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "published": "2026-11-09T02:11:35Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
-    },
-    {
-      "headline": "Judging overreactions to NFL Week 9 -- and what they mean for the trade deadline",
-      "summary": "Is it time for the Bengals to make a push? Should the Giants aggressively go after a running back? Will the receiver market go wild? We're overreacting to Sunday's games.",
-      "published": "2026-11-09T02:13:08Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50422026/week-9-overreactions-2026-graziano-trade-deadline-bengals-cowboys"
     }
   ],
   "league_week": 10,
@@ -1114,44 +1114,56 @@
       "week": 9,
       "kickoff": "2026-11-10T01:15Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Mostly clear",
-        "tempF": 52,
-        "tempC": 11
-      },
-      "moneyline": {
-        "away": "-192",
-        "home": "+160"
-      },
-      "detail": "11/9 - 8:15 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "16",
         "abbr": "MIN",
         "name": "Minnesota Vikings",
-        "score": null,
-        "winner": null,
-        "record": "6-1"
+        "score": 6,
+        "winner": false,
+        "record": "6-2"
       },
       "away": {
         "id": "2",
         "abbr": "BUF",
         "name": "Buffalo Bills",
-        "score": null,
-        "winner": null,
-        "record": "6-1"
+        "score": 23,
+        "winner": true,
+        "record": "7-1"
       },
-      "line": "BUF -3.5",
-      "overUnder": 45.5,
+      "line": null,
+      "overUnder": null,
       "venue": "U.S. Bank Stadium",
       "city": "Minneapolis",
       "tv": [
         "ESPN",
         "ABC"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "21/31, 234 YDS, 1 TD, 1 INT",
+          "player": "Josh Allen",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "31 CAR, 107 YDS, 1 TD",
+          "player": "James Cook III",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "3 REC, 58 YDS",
+          "player": "Justin Jefferson",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Tue, 10 Nov, 9:15 am"
     },
     {
@@ -1162,13 +1174,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Showers",
+        "text": "Rain",
         "tempF": 52,
         "tempC": 11
       },
       "moneyline": {
-        "away": "+105",
-        "home": "-125"
+        "away": "+114",
+        "home": "-135"
       },
       "detail": "11/12 - 8:15 PM EST",
       "final": false,
@@ -1188,7 +1200,7 @@
         "winner": null,
         "record": "2-5-1"
       },
-      "line": "NYG -1.5",
+      "line": "NYG -2.5",
       "overUnder": 42.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
@@ -1207,8 +1219,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+130",
-        "home": "-155"
+        "away": "+124",
+        "home": "-148"
       },
       "detail": "11/15 - 9:30 AM EST",
       "final": false,
@@ -1295,8 +1307,8 @@
         "tempC": 8
       },
       "moneyline": {
-        "away": "-225",
-        "home": "+185"
+        "away": "-230",
+        "home": "+190"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1339,8 +1351,8 @@
         "tempC": 8
       },
       "moneyline": {
-        "away": "+150",
-        "home": "-180"
+        "away": "+180",
+        "home": "-218"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1358,9 +1370,9 @@
         "name": "Minnesota Vikings",
         "score": null,
         "winner": null,
-        "record": "6-1"
+        "record": "6-2"
       },
-      "line": "GB -3.5",
+      "line": "GB -4.5",
       "overUnder": 41.5,
       "venue": "Lambeau Field",
       "city": "Green Bay",
@@ -1379,12 +1391,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 52,
-        "tempC": 11
+        "tempF": 54,
+        "tempC": 12
       },
       "moneyline": {
-        "away": "-520",
-        "home": "+390"
+        "away": "-600",
+        "home": "+440"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1404,7 +1416,7 @@
         "winner": null,
         "record": "6-2"
       },
-      "line": "JAX -9.5",
+      "line": "JAX -10.5",
       "overUnder": 46.5,
       "venue": "Nissan Stadium",
       "city": "Nashville",
@@ -1427,8 +1439,8 @@
         "tempC": 8
       },
       "moneyline": {
-        "away": "+120",
-        "home": "-142"
+        "away": "+114",
+        "home": "-135"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1467,8 +1479,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy w/ showers",
-        "tempF": 62,
-        "tempC": 17
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
         "away": "+100",
@@ -1515,8 +1527,8 @@
         "tempC": 11
       },
       "moneyline": {
-        "away": "-440",
-        "home": "+340"
+        "away": "-535",
+        "home": "+400"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1534,9 +1546,9 @@
         "name": "Buffalo Bills",
         "score": null,
         "winner": null,
-        "record": "6-1"
+        "record": "7-1"
       },
-      "line": "BUF -7.5",
+      "line": "BUF -8.5",
       "overUnder": 50.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
@@ -1559,8 +1571,8 @@
         "tempC": 20
       },
       "moneyline": {
-        "away": "-175",
-        "home": "+145"
+        "away": "-180",
+        "home": "+150"
       },
       "detail": "11/15 - 4:05 PM EST",
       "final": false,
@@ -1580,7 +1592,7 @@
         "winner": null,
         "record": "5-4"
       },
-      "line": "SEA -3",
+      "line": "SEA -3.5",
       "overUnder": 43.5,
       "venue": "Allegiant Stadium",
       "city": "Las Vegas",
@@ -1603,8 +1615,8 @@
         "tempC": 23
       },
       "moneyline": {
-        "away": "-410",
-        "home": "+320"
+        "away": "-455",
+        "home": "+350"
       },
       "detail": "11/15 - 4:05 PM EST",
       "final": false,
@@ -1624,8 +1636,8 @@
         "winner": null,
         "record": "5-4"
       },
-      "line": "LAR -8.5",
-      "overUnder": 43.5,
+      "line": "LAR -9.5",
+      "overUnder": 40.5,
       "venue": "State Farm Stadium",
       "city": "Glendale",
       "tv": [
@@ -1668,7 +1680,7 @@
         "winner": null,
         "record": "7-1"
       },
-      "line": "SF -4.5",
+      "line": "SF -3.5",
       "overUnder": 55.5,
       "venue": "AT&T Stadium",
       "city": "Arlington",
@@ -1691,8 +1703,8 @@
         "tempC": 8
       },
       "moneyline": {
-        "away": "+195",
-        "home": "-238"
+        "away": "+185",
+        "home": "-225"
       },
       "detail": "11/16 - 8:15 PM EST",
       "final": false,
