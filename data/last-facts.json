@@ -1,5 +1,5 @@
 {
-  "now_perth": "Tue, 10 Nov, 2:48 pm",
+  "now_perth": "Wed, 11 Nov, 3:30 am",
   "bengals_next": {
     "id": "401873064",
     "week": 10,
@@ -8,9 +8,9 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Partly cloudy",
-      "tempF": 41,
-      "tempC": 5
+      "text": "Clear",
+      "tempF": 39,
+      "tempC": 4
     },
     "moneyline": {
       "away": "+150",
@@ -35,7 +35,7 @@
       "record": "6-2"
     },
     "line": "CIN -3.5",
-    "overUnder": 48.5,
+    "overUnder": 49.5,
     "venue": "Paycor Stadium",
     "city": "Cincinnati",
     "tv": [
@@ -281,6 +281,18 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Power Rankings: Stacking all 32 teams for Week 10, plus important games left",
+      "summary": "How does every NFL team stack up as we hit midseason? We made our 1-32 list and picked key games in the second half of the season.",
+      "published": "2026-11-10T11:21:42Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50435694/nfl-power-rankings-week-10-most-important-games-remaining"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-11-10T11:24:34Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
       "headline": "NFL Week 9 arrivals: Justin Jefferson rocks black leather trench coat before 'MNF'",
       "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
       "published": "2026-11-10T01:12:56Z",
@@ -311,25 +323,31 @@
       "url": "https://www.espn.com/nfl/story/_/id/50427816/bengals-joe-burrow-steelers-afc-north"
     },
     {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-11-09T11:00:04Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
       "headline": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
       "summary": "Check here for Sunday's top moments, TDs and analysis.",
       "published": "2026-11-09T05:55:59Z",
       "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026"
-    },
-    {
-      "headline": "NFL Week 9: Big takeaways, questions and fantasy spin from Sunday's games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 9.",
-      "published": "2026-11-09T05:58:13Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50369510/week-9-sunday-games-takeaways-questions-2026"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "NFL trade deadline grades: Deals for Jordan Davis, Jessie Bates III, Andre Cisco",
+      "summary": "The Jaguars are making a move, but did they massively overpay for Davis? What about Jessie Bates III? Let's evaluate 12 trades before the deadline.",
+      "published": "2026-11-10T12:22:53Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals"
+    },
+    {
+      "headline": "NFL Power Rankings: Stacking all 32 teams for Week 10, plus important games left",
+      "summary": "How does every NFL team stack up as we hit midseason? We made our 1-32 list and picked key games in the second half of the season.",
+      "published": "2026-11-10T11:21:42Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50435694/nfl-power-rankings-week-10-most-important-games-remaining"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-11-10T11:24:34Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
     {
       "headline": "NFL Week 9 arrivals: Justin Jefferson rocks black leather trench coat before 'MNF'",
       "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
@@ -341,12 +359,6 @@
       "summary": "Brooke Pryor on Mike McCarthy focusing on the next game as the trade deadline approaches.",
       "published": "2026-11-09T23:32:34Z",
       "url": "https://www.espn.com/video/clip/_/id/50436550/will-steelers-make-significant-move-trade-deadline"
-    },
-    {
-      "headline": "NFL trade deadline grades: Deals for Jordan Davis, Jessie Bates III, Andre Cisco",
-      "summary": "The Jaguars are making a move, but did they massively overpay for Davis? What about Jessie Bates III? Let's evaluate 12 trades before the deadline.",
-      "published": "2026-11-09T23:51:42Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals"
     },
     {
       "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
@@ -365,18 +377,6 @@
       "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
       "published": "2026-11-09T14:34:46Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-11-09T11:00:04Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Check here for Sunday's top moments, TDs and analysis.",
-      "published": "2026-11-09T05:55:59Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026"
     }
   ],
   "league_week": 10,
@@ -1174,13 +1174,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
-        "tempF": 52,
-        "tempC": 11
+        "text": "Cloudy",
+        "tempF": 50,
+        "tempC": 10
       },
       "moneyline": {
-        "away": "+114",
-        "home": "-135"
+        "away": "+110",
+        "home": "-130"
       },
       "detail": "11/12 - 8:15 PM EST",
       "final": false,
@@ -1201,7 +1201,7 @@
         "record": "2-5-1"
       },
       "line": "NYG -2.5",
-      "overUnder": 42.5,
+      "overUnder": 41.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
@@ -1303,12 +1303,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 46,
-        "tempC": 8
+        "tempF": 44,
+        "tempC": 7
       },
       "moneyline": {
-        "away": "-230",
-        "home": "+190"
+        "away": "-225",
+        "home": "+185"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1346,13 +1346,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 46,
+        "text": "Mostly cloudy",
+        "tempF": 47,
         "tempC": 8
       },
       "moneyline": {
-        "away": "+180",
-        "home": "-218"
+        "away": "+190",
+        "home": "-230"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1372,8 +1372,8 @@
         "winner": null,
         "record": "6-2"
       },
-      "line": "GB -4.5",
-      "overUnder": 41.5,
+      "line": "GB -5.5",
+      "overUnder": 40.5,
       "venue": "Lambeau Field",
       "city": "Green Bay",
       "tv": [
@@ -1391,8 +1391,8 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 54,
-        "tempC": 12
+        "tempF": 51,
+        "tempC": 11
       },
       "moneyline": {
         "away": "-600",
@@ -1434,13 +1434,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 47,
-        "tempC": 8
+        "text": "Sunny",
+        "tempF": 48,
+        "tempC": 9
       },
       "moneyline": {
-        "away": "+114",
-        "home": "-135"
+        "away": "+120",
+        "home": "-142"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1478,13 +1478,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy w/ showers",
-        "tempF": 66,
-        "tempC": 19
+        "text": "Cloudy",
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+100",
-        "home": "-120"
+        "away": "+102",
+        "home": "-122"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1505,7 +1505,7 @@
         "record": "3-5"
       },
       "line": "NO -1.5",
-      "overUnder": 47.5,
+      "overUnder": 48.5,
       "venue": "Caesars Superdome",
       "city": "New Orleans",
       "tv": [
@@ -1522,13 +1522,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 51,
+        "text": "Sunny",
+        "tempF": 52,
         "tempC": 11
       },
       "moneyline": {
-        "away": "-535",
-        "home": "+400"
+        "away": "-485",
+        "home": "+370"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1567,12 +1567,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 68,
-        "tempC": 20
+        "tempF": 69,
+        "tempC": 21
       },
       "moneyline": {
-        "away": "-180",
-        "home": "+150"
+        "away": "-205",
+        "home": "+170"
       },
       "detail": "11/15 - 4:05 PM EST",
       "final": false,
@@ -1592,8 +1592,8 @@
         "winner": null,
         "record": "5-4"
       },
-      "line": "SEA -3.5",
-      "overUnder": 43.5,
+      "line": "SEA -4.5",
+      "overUnder": 42.5,
       "venue": "Allegiant Stadium",
       "city": "Las Vegas",
       "tv": [
@@ -1610,9 +1610,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
-        "tempF": 73,
-        "tempC": 23
+        "text": "Intermittent clouds",
+        "tempF": 75,
+        "tempC": 24
       },
       "moneyline": {
         "away": "-455",
@@ -1654,13 +1654,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 62,
-        "tempC": 17
+        "text": "Rain",
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
-        "away": "-218",
-        "home": "+180"
+        "away": "-205",
+        "home": "+170"
       },
       "detail": "11/15 - 4:25 PM EST",
       "final": false,
@@ -1698,13 +1698,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Intermittent clouds",
         "tempF": 47,
         "tempC": 8
       },
       "moneyline": {
-        "away": "+185",
-        "home": "-225"
+        "away": "+180",
+        "home": "-218"
       },
       "detail": "11/16 - 8:15 PM EST",
       "final": false,
