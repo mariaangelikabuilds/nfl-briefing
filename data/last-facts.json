@@ -1,5 +1,5 @@
 {
-  "now_perth": "Thu, 12 Nov, 3:26 am",
+  "now_perth": "Thu, 12 Nov, 2:42 pm",
   "bengals_next": {
     "id": "401873064",
     "week": 10,
@@ -281,6 +281,18 @@
   },
   "news_bengals": [
     {
+      "headline": "Zac Taylor says Bengals take responsibility for failed trade with Eagles",
+      "summary": "Zac Taylor says Bengals take responsibility for failed trade with Eagles",
+      "published": "2026-11-11T20:01:45Z",
+      "url": "https://www.espn.com/video/clip/_/id/50454635/zac-taylor-says-bengals-take-responsibility-failed-trade-eagles"
+    },
+    {
+      "headline": "Bengals' Zac Taylor apologizes for failed trade with Eagles: 'It was on our end'",
+      "summary": "Bengals coach Zac Taylor apologized for the failed trade for Eagles edge rusher Arnold Ebiketie ahead of Tuesday's deadline.",
+      "published": "2026-11-11T20:31:41Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50454351/bengals-zac-taylor-apologizes-failed-trade-eagles"
+    },
+    {
       "headline": "Questions on 2026 NFL trade deadline deals: Does Kirk Cousins lift the Vikings?",
       "summary": "Let's make sense of Kirk Cousins to the Vikings, Josh Downs to the Chiefs, the Jaguars getting aggressive, a wild Bengals comp-pick mixup and four teams' deadline silence.",
       "published": "2026-11-11T15:20:57Z",
@@ -315,18 +327,6 @@
       "summary": "Bengals QB Joe Burrow has overtaken Bills star Josh Allen as the betting favorite for NFL MVP honors, a development that could prove costly for sportsbooks.",
       "published": "2026-11-10T17:03:43Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50443081/sportsbook-liability-burrow-overtakes-allen-mvp-favorite"
-    },
-    {
-      "headline": "NFL Power Rankings: Stacking all 32 teams for Week 10, plus important games left",
-      "summary": "How does every NFL team stack up as we hit midseason? We made our 1-32 list and picked key games in the second half of the season.",
-      "published": "2026-11-10T15:35:36Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50435694/nfl-power-rankings-week-10-most-important-games-remaining"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-11-10T11:24:34Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
     }
   ],
   "news_opponent": [
@@ -1175,8 +1175,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 53,
-        "tempC": 12
+        "tempF": 52,
+        "tempC": 11
       },
       "moneyline": {
         "away": "+120",
@@ -1201,7 +1201,7 @@
         "record": "2-5-1"
       },
       "line": "NYG -2.5",
-      "overUnder": 41.5,
+      "overUnder": 40.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
@@ -1219,8 +1219,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+130",
-        "home": "-155"
+        "away": "+124",
+        "home": "-148"
       },
       "detail": "11/15 - 9:30 AM EST",
       "final": false,
@@ -1284,8 +1284,8 @@
         "winner": null,
         "record": "6-2"
       },
-      "line": "KC -3.5",
-      "overUnder": 45.5,
+      "line": "KC -3",
+      "overUnder": 46.5,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "tv": [
@@ -1329,7 +1329,7 @@
         "record": "3-5"
       },
       "line": "HOU -4.5",
-      "overUnder": 40.5,
+      "overUnder": 41.5,
       "venue": "Huntington Bank Field",
       "city": "Cleveland",
       "tv": [
@@ -1347,7 +1347,7 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 44,
+        "tempF": 45,
         "tempC": 7
       },
       "moneyline": {
@@ -1439,8 +1439,8 @@
         "tempC": 9
       },
       "moneyline": {
-        "away": "+160",
-        "home": "-192"
+        "away": "+170",
+        "home": "-205"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1523,12 +1523,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 51,
-        "tempC": 11
+        "tempF": 50,
+        "tempC": 10
       },
       "moneyline": {
-        "away": "-395",
-        "home": "+310"
+        "away": "-440",
+        "home": "+340"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1567,12 +1567,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 66,
-        "tempC": 19
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "-298",
-        "home": "+240"
+        "away": "-290",
+        "home": "+235"
       },
       "detail": "11/15 - 4:05 PM EST",
       "final": false,
@@ -1615,8 +1615,8 @@
         "tempC": 23
       },
       "moneyline": {
-        "away": "-425",
-        "home": "+330"
+        "away": "-520",
+        "home": "+390"
       },
       "detail": "11/15 - 4:05 PM EST",
       "final": false,
@@ -1655,8 +1655,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 55,
-        "tempC": 13
+        "tempF": 58,
+        "tempC": 14
       },
       "moneyline": {
         "away": "-205",
@@ -1680,7 +1680,7 @@
         "winner": null,
         "record": "7-1"
       },
-      "line": "SF -4.5",
+      "line": "SF -3.5",
       "overUnder": 55.5,
       "venue": "AT&T Stadium",
       "city": "Arlington",
@@ -1699,12 +1699,12 @@
       "clock": null,
       "weather": {
         "text": "Partly cloudy",
-        "tempF": 46,
-        "tempC": 8
+        "tempF": 43,
+        "tempC": 6
       },
       "moneyline": {
-        "away": "+180",
-        "home": "-218"
+        "away": "+185",
+        "home": "-225"
       },
       "detail": "11/16 - 8:15 PM EST",
       "final": false,
