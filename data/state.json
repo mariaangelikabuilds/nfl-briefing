@@ -139,6 +139,16 @@
     "401873052"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        " Bills at Jets, Mon 2:00 am Perth, BUF -8.5, total 50.5. Buffalo is 7-1 after handling Minnesota 23-6 behind James Cook III's 31 carries for 107 yards.",
+        " 49ers at Cowboys, Mon 5:25 am Perth, SF -3.5 with a 55.5 total. San Francisco sits 7-1 after a 38-17 win over the Raiders.",
+        " Vikings at Packers at Lambeau, GB -3, total 41.5. Green Bay is 6-3 off a 45-27 win in New England, Jordan Love 23/29 for 372 and 3 TD.",
+        " Texans at Browns, HOU -4.5, total 40.5. Cleveland is 5-4 and on an L2 after losing 23-22 in overtime at New Orleans.",
+        " Chargers at Ravens Tue 9:15 am Perth, BAL -4.5. Baltimore is 4-5 on an L4, the Chargers are 0-8.",
+        " Lions host the Patriots in Munich, Sun 10:30 pm Perth, DET -2.5, total 50.5."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401873064",
     "postgame": {
@@ -151,17 +161,7 @@
       "division_meaning": "Pittsburgh sits 6-2 on a four game win streak, Cincinnati 5-2 in the table and winners of three, with the best differential in the division at +48. Cleveland 5-3, Baltimore 4-5 and losers of four.",
       "the_take": "The run game is the quiet part of this. 123 yards on 24 carries at 5.1 a pop meant Burrow never had to force anything. Do that against Pittsburgh and the North shifts."
     },
-    "postgame_for": "401873038",
-    "league": {
-      "lines": [
-        " Bills at Jets, Mon 2:00 am Perth, BUF -8.5, total 50.5. Buffalo is 7-1 after handling Minnesota 23-6 behind James Cook III's 31 carries for 107 yards.",
-        " 49ers at Cowboys, Mon 5:25 am Perth, SF -3.5 with a 55.5 total. San Francisco sits 7-1 after a 38-17 win over the Raiders.",
-        " Vikings at Packers at Lambeau, GB -3, total 41.5. Green Bay is 6-3 off a 45-27 win in New England, Jordan Love 23/29 for 372 and 3 TD.",
-        " Texans at Browns, HOU -4.5, total 40.5. Cleveland is 5-4 and on an L2 after losing 23-22 in overtime at New Orleans.",
-        " Chargers at Ravens Tue 9:15 am Perth, BAL -4.5. Baltimore is 4-5 on an L4, the Chargers are 0-8.",
-        " Lions host the Patriots in Munich, Sun 10:30 pm Perth, DET -2.5, total 50.5."
-      ]
-    }
+    "postgame_for": "401873038"
   },
   "written_at": "2026-11-13T05:58:40.358Z",
   "last_error": null
