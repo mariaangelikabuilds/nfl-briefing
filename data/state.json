@@ -139,6 +139,16 @@
     "401873052"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Buffalo is 7-1 after a 23-6 win at Minnesota and now lays 8.5 at the Jets, total 50.5. Mon, 16 Nov, 2:00 am Perth.",
+        "San Francisco, 7-1 after beating Las Vegas 38-17, visits Dallas as a 4.5 point favourite in the rain, total 55.5. Mon, 16 Nov, 5:25 am.",
+        "Division rival Cleveland, 5-4, hosts Houston as a 4.5 point underdog with a 40.5 total. The Texans put 44 on the Chargers last week.",
+        "Jacksonville is 6-2 after a 33-10 win in Baltimore and is 10.5 at 1-7 Tennessee.",
+        "Baltimore, 4-5 and on an L4, hosts winless Los Angeles on Monday night, BAL -4.5, total 38.5. Tue, 17 Nov, 9:15 am Perth.",
+        "Minnesota at Green Bay in Munich week company: Lions host New England in Munich, DET -2.5, total 49.5, Sun, 15 Nov, 10:30 pm Perth."
+      ]
+    },
     "pregame": {
       "matchup_read": "Two 6-2 teams, both on W4, meet at Paycor for the AFC North lead. Cincinnati is home and laying 3.5 with a total of 49.5. Mostly cloudy, 43F, so conditions should not rewrite either plan.",
       "storylines": [
@@ -165,17 +175,7 @@
       "division_meaning": "Pittsburgh sits 6-2 on a four game win streak, Cincinnati 5-2 in the table and winners of three, with the best differential in the division at +48. Cleveland 5-3, Baltimore 4-5 and losers of four.",
       "the_take": "The run game is the quiet part of this. 123 yards on 24 carries at 5.1 a pop meant Burrow never had to force anything. Do that against Pittsburgh and the North shifts."
     },
-    "postgame_for": "401873038",
-    "league": {
-      "lines": [
-        "Buffalo is 7-1 after a 23-6 win at Minnesota and now lays 8.5 at the Jets, total 50.5. Mon, 16 Nov, 2:00 am Perth.",
-        "San Francisco, 7-1 after beating Las Vegas 38-17, visits Dallas as a 4.5 point favourite in the rain, total 55.5. Mon, 16 Nov, 5:25 am.",
-        "Division rival Cleveland, 5-4, hosts Houston as a 4.5 point underdog with a 40.5 total. The Texans put 44 on the Chargers last week.",
-        "Jacksonville is 6-2 after a 33-10 win in Baltimore and is 10.5 at 1-7 Tennessee.",
-        "Baltimore, 4-5 and on an L4, hosts winless Los Angeles on Monday night, BAL -4.5, total 38.5. Tue, 17 Nov, 9:15 am Perth.",
-        "Minnesota at Green Bay in Munich week company: Lions host New England in Munich, DET -2.5, total 49.5, Sun, 15 Nov, 10:30 pm Perth."
-      ]
-    }
+    "postgame_for": "401873038"
   },
   "written_at": "2026-11-14T05:48:06.569Z",
   "last_error": null

@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 14 Nov, 1:48 pm",
+  "now_perth": "Sun, 15 Nov, 1:50 am",
   "bengals_next": {
     "id": "401873064",
     "week": 10,
@@ -8,9 +8,9 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Mostly cloudy",
-      "tempF": 43,
-      "tempC": 6
+      "text": "Partly cloudy",
+      "tempF": 40,
+      "tempC": 4
     },
     "moneyline": {
       "away": "+154",
@@ -100,7 +100,7 @@
     ],
     "kickoff_perth": "Sun, 8 Nov, 10:30 pm"
   },
-  "write_pregame": true,
+  "write_pregame": false,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -281,6 +281,18 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 10 betting odds: Lines and totals for every game",
+      "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
+      "published": "2026-11-14T16:55:36Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "NFL reassigns backup refs to work games closer to home",
+      "summary": "The NFL, trying to avoid further travel issues from Friday's FAA ground stop, has reassigned officials to Week 10 games within driving distance of their homes.",
+      "published": "2026-11-14T16:35:07Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50479995/nfl-reassigns-backup-refs-work-games-closer-home"
+    },
+    {
       "headline": "Bengals confident heading into pivotal Steelers matchup",
       "summary": "Ben Baby reports on the Bengals' confidence and preparation ahead of a crucial AFC North showdown with the Steelers.",
       "published": "2026-11-13T23:09:34Z",
@@ -291,12 +303,6 @@
       "summary": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
       "published": "2026-11-13T19:27:16Z",
       "url": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms"
-    },
-    {
-      "headline": "NFL Week 10 betting odds: Lines and totals for every game",
-      "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
-      "published": "2026-11-13T15:46:27Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
     },
     {
       "headline": "It's a battle for the AFC North: Steelers at Bengals Week 10 primer",
@@ -321,26 +327,32 @@
       "summary": "Joe Burrow and the Cincinnati Bengals have been on a record run during their four-game winning streak.",
       "published": "2026-11-13T00:00:41Z",
       "url": "http://www.espn.com/nfl/preview?gameId=401873064"
-    },
-    {
-      "headline": "Who has the edge in Steelers-Bengals?",
-      "summary": "Who has the edge in Steelers-Bengals?",
-      "published": "2026-11-12T14:53:26Z",
-      "url": "https://www.espn.com/video/clip/_/id/50461832/who-edge-steelers-bengals"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "NFL Week 10 betting odds: Lines and totals for every game",
+      "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
+      "published": "2026-11-14T16:55:36Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "NFL reassigns backup refs to work games closer to home",
+      "summary": "The NFL, trying to avoid further travel issues from Friday's FAA ground stop, has reassigned officials to Week 10 games within driving distance of their homes.",
+      "published": "2026-11-14T16:35:07Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50479995/nfl-reassigns-backup-refs-work-games-closer-home"
+    },
+    {
+      "headline": "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+      "summary": "Touchdown for Chuba Hubbard? Fantasy upside for Aaron Rodgers? Trick play from the Raiders? Let's predict 15 things for Week 10.",
+      "published": "2026-11-14T11:53:16Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50453290/week-10-predictions-upsets-fantasy-sleepers-stats-2026"
+    },
     {
       "headline": "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
       "summary": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
       "published": "2026-11-13T19:27:16Z",
       "url": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms"
-    },
-    {
-      "headline": "NFL Week 10 betting odds: Lines and totals for every game",
-      "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
-      "published": "2026-11-13T15:46:27Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
     },
     {
       "headline": "Week 10 betting preview: Analysis, best bets, TD predictions for Sunday",
@@ -365,18 +377,6 @@
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "published": "2026-11-13T00:54:58Z",
       "url": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals"
-    },
-    {
-      "headline": "Steelers and Bengals meet for AFC North lead on Sunday night, both 6-2",
-      "summary": "Joe Burrow and the Cincinnati Bengals have been on a record run during their four-game winning streak.",
-      "published": "2026-11-13T00:00:41Z",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873064"
-    },
-    {
-      "headline": "\"White Chocolate\" is set to make his debut",
-      "summary": "Brooke Pryor breaks down the Steelers' secret weapon ahead of Sunday.",
-      "published": "2026-11-12T23:08:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/50465308/white-chocolate-set-make-debut"
     }
   ],
   "league_week": 10,
@@ -1271,12 +1271,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 54,
+        "tempF": 53,
         "tempC": 12
       },
       "moneyline": {
-        "away": "-175",
-        "home": "+145"
+        "away": "-170",
+        "home": "+142"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1314,7 +1314,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Showers",
         "tempF": 46,
         "tempC": 8
       },
@@ -1359,8 +1359,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 44,
-        "tempC": 7
+        "tempF": 42,
+        "tempC": 6
       },
       "moneyline": {
         "away": "+124",
@@ -1446,9 +1446,9 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 49,
-        "tempC": 9
+        "text": "Cloudy",
+        "tempF": 47,
+        "tempC": 8
       },
       "moneyline": {
         "away": "+180",
@@ -1491,7 +1491,7 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 63,
+        "tempF": 62,
         "tempC": 17
       },
       "moneyline": {
@@ -1622,13 +1622,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly sunny",
+        "text": "Sunny",
         "tempF": 75,
         "tempC": 24
       },
       "moneyline": {
-        "away": "-500",
-        "home": "+380"
+        "away": "-520",
+        "home": "+390"
       },
       "detail": "11/15 - 4:05 PM EST",
       "final": false,
@@ -1667,8 +1667,8 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 49,
-        "tempC": 9
+        "tempF": 51,
+        "tempC": 11
       },
       "moneyline": {
         "away": "-218",
