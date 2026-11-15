@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sun, 15 Nov, 1:50 am",
+  "now_perth": "Sun, 15 Nov, 1:48 pm",
   "bengals_next": {
     "id": "401873064",
     "week": 10,
@@ -9,7 +9,7 @@
     "clock": null,
     "weather": {
       "text": "Partly cloudy",
-      "tempF": 40,
+      "tempF": 39,
       "tempC": 4
     },
     "moneyline": {
@@ -331,6 +331,18 @@
   ],
   "news_opponent": [
     {
+      "headline": "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash",
+      "summary": "The Steelers have activated defensive tackle Derrick Harmon from injured reserve after he missed the past four games with a foot injury.",
+      "published": "2026-11-14T20:41:30Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50482239/steelers-activate-dt-derrick-harmon-injured-reserve"
+    },
+    {
+      "headline": "Week 10 betting preview: Analysis, best bets, TD predictions for Sunday",
+      "summary": "Our experts dive into the odds and player props for Week 10 and offer their betting tips and favorite plays.",
+      "published": "2026-11-14T17:44:31Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50463729/week-10-nfl-odds-touchdown-props-best-bets-sunday-games"
+    },
+    {
       "headline": "NFL Week 10 betting odds: Lines and totals for every game",
       "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
       "published": "2026-11-14T16:55:36Z",
@@ -355,12 +367,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms"
     },
     {
-      "headline": "Week 10 betting preview: Analysis, best bets, TD predictions for Sunday",
-      "summary": "Our experts dive into the odds and player props for Week 10 and offer their betting tips and favorite plays.",
-      "published": "2026-11-13T20:40:19Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50463729/week-10-nfl-odds-touchdown-props-best-bets-sunday-games"
-    },
-    {
       "headline": "It's a battle for the AFC North: Steelers at Bengals Week 10 primer",
       "summary": "Aaron Rodgers and Joe Burrow and their 6-2 teams face off Sunday night, and Ben Baby and Brooke Pryor break down the matchup.",
       "published": "2026-11-13T11:00:11Z",
@@ -371,12 +377,6 @@
       "summary": "Kirk Cousins' return to Minnesota? Patriots vs. Lions in Germany? There are 13 more games in Week 10, and we have picks, predictions and more for all of them.",
       "published": "2026-11-13T16:06:32Z",
       "url": "https://www.espn.com/nfl/story/_/id/50453355/week-10-picks-predictions-schedule-fantasy-odds-2026"
-    },
-    {
-      "headline": "Cam Skattebo dons custom 'Iron Man' mask for TNF, leads NFL Week 10 arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-13T00:54:58Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals"
     }
   ],
   "league_week": 10,
@@ -1271,12 +1271,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly sunny",
-        "tempF": 53,
+        "tempF": 54,
         "tempC": 12
       },
       "moneyline": {
-        "away": "-170",
-        "home": "+142"
+        "away": "-166",
+        "home": "+140"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1319,8 +1319,8 @@
         "tempC": 8
       },
       "moneyline": {
-        "away": "-238",
-        "home": "+195"
+        "away": "-225",
+        "home": "+185"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1359,8 +1359,8 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 42,
-        "tempC": 6
+        "tempF": 41,
+        "tempC": 5
       },
       "moneyline": {
         "away": "+124",
@@ -1447,7 +1447,7 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 47,
+        "tempF": 46,
         "tempC": 8
       },
       "moneyline": {
@@ -1472,8 +1472,8 @@
         "winner": null,
         "record": "1-7"
       },
-      "line": "IND -3.5",
-      "overUnder": 38.5,
+      "line": "IND -4.5",
+      "overUnder": 37.5,
       "venue": "Lucas Oil Stadium",
       "city": "Indianapolis",
       "tv": [
@@ -1491,12 +1491,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 62,
-        "tempC": 17
+        "tempF": 61,
+        "tempC": 16
       },
       "moneyline": {
-        "away": "+114",
-        "home": "-135"
+        "away": "+110",
+        "home": "-130"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1516,7 +1516,7 @@
         "winner": null,
         "record": "3-5"
       },
-      "line": "NO -2.5",
+      "line": "NO -1.5",
       "overUnder": 48.5,
       "venue": "Caesars Superdome",
       "city": "New Orleans",
@@ -1539,8 +1539,8 @@
         "tempC": 10
       },
       "moneyline": {
-        "away": "-425",
-        "home": "+330"
+        "away": "-380",
+        "home": "+300"
       },
       "detail": "11/15 - 1:00 PM EST",
       "final": false,
@@ -1560,8 +1560,8 @@
         "winner": null,
         "record": "7-1"
       },
-      "line": "BUF -8.5",
-      "overUnder": 50.5,
+      "line": "BUF -7.5",
+      "overUnder": 51.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
@@ -1583,8 +1583,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "-305",
-        "home": "+245"
+        "away": "-298",
+        "home": "+240"
       },
       "detail": "11/15 - 4:05 PM EST",
       "final": false,
@@ -1622,8 +1622,8 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 75,
+        "text": "Mostly sunny",
+        "tempF": 76,
         "tempC": 24
       },
       "moneyline": {
@@ -1649,7 +1649,7 @@
         "record": "5-4"
       },
       "line": "LAR -9.5",
-      "overUnder": 39.5,
+      "overUnder": 38.5,
       "venue": "State Farm Stadium",
       "city": "Glendale",
       "tv": [
@@ -1666,13 +1666,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
-        "tempF": 51,
-        "tempC": 11
+        "text": "Cloudy",
+        "tempF": 48,
+        "tempC": 9
       },
       "moneyline": {
-        "away": "-218",
-        "home": "+180"
+        "away": "-205",
+        "home": "+170"
       },
       "detail": "11/15 - 4:25 PM EST",
       "final": false,
@@ -1692,7 +1692,7 @@
         "winner": null,
         "record": "7-1"
       },
-      "line": "SF -4.5",
+      "line": "SF -3.5",
       "overUnder": 55.5,
       "venue": "AT&T Stadium",
       "city": "Arlington",
@@ -1715,8 +1715,8 @@
         "tempC": 5
       },
       "moneyline": {
-        "away": "+180",
-        "home": "-218"
+        "away": "+185",
+        "home": "-225"
       },
       "detail": "11/16 - 8:15 PM EST",
       "final": false,
