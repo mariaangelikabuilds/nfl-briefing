@@ -151,6 +151,16 @@
     "401873064"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Buffalo is 8-1 after 31-12 at the Jets, James Cook III ran 18 for 157 and a score. The Bills are the AFC's best record.",
+        "San Francisco won 46-40 at Dallas to go 8-1. Purdy 22/28 for 389 and 3 TD, McCaffrey 4 catches for 161 and 2 TD. They host Minnesota in Mexico City, SF -3.",
+        "Jacksonville hammered Tennessee 40-23 to reach 7-2. Lawrence 352 and 3 TD. They are -6.5 at the Giants next.",
+        "Mahomes threw 5 TDs in a 35-10 win at Atlanta. KC is 7-2 and -16.5 at home against Arizona.",
+        "Minnesota took Lambeau 30-10 and sits 7-2. Green Bay drops to 6-4.",
+        "Baltimore hosts winless LA Chargers Tuesday 9:15 am Perth, BAL -4.5 with a 38.5 total. Then the Ravens are a 2.5-point dog at Carolina."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401873078",
     "postgame": {
@@ -163,17 +173,7 @@
       "division_meaning": "Bengals are 7-2 on a W5 streak with a +85 differential and sole possession of first. Pittsburgh falls to 6-3, Cleveland is 6-4 after beating Houston 27-24, Baltimore 4-5 on an L4 slide.",
       "the_take": "Rodgers threw for 143 yards and Pittsburgh went 0-for-2 in the red zone. That defensive performance is the real story here, not the 409 passing yards everyone will post about."
     },
-    "postgame_for": "401873064",
-    "league": {
-      "lines": [
-        "Buffalo is 8-1 after 31-12 at the Jets, James Cook III ran 18 for 157 and a score. The Bills are the AFC's best record.",
-        "San Francisco won 46-40 at Dallas to go 8-1. Purdy 22/28 for 389 and 3 TD, McCaffrey 4 catches for 161 and 2 TD. They host Minnesota in Mexico City, SF -3.",
-        "Jacksonville hammered Tennessee 40-23 to reach 7-2. Lawrence 352 and 3 TD. They are -6.5 at the Giants next.",
-        "Mahomes threw 5 TDs in a 35-10 win at Atlanta. KC is 7-2 and -16.5 at home against Arizona.",
-        "Minnesota took Lambeau 30-10 and sits 7-2. Green Bay drops to 6-4.",
-        "Baltimore hosts winless LA Chargers Tuesday 9:15 am Perth, BAL -4.5 with a 38.5 total. Then the Ravens are a 2.5-point dog at Carolina."
-      ]
-    }
+    "postgame_for": "401873064"
   },
   "written_at": "2026-11-16T05:48:00.893Z",
   "last_error": null
