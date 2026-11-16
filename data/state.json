@@ -137,47 +137,44 @@
     "401873050",
     "401873051",
     "401873052",
-    "401873053"
+    "401873053",
+    "401873054",
+    "401873055",
+    "401873056",
+    "401873057",
+    "401873058",
+    "401873059",
+    "401873060",
+    "401873061",
+    "401873062",
+    "401873063",
+    "401873064"
   ],
   "briefing": {
-    "pregame": {
-      "matchup_read": "Two 6-2 teams, both on W4, meet at Paycor for the AFC North lead. Cincinnati is home and laying 3.5 with a total of 49.5. Mostly cloudy, 43F, so conditions should not rewrite either plan.",
-      "storylines": [
-        "Pittsburgh and Cincinnati are tied at 6-2, though the Bengals hold the better point differential at +65 to +36.",
-        "ESPN's primer frames it as a battle for the division, Aaron Rodgers against Joe Burrow on Sunday night.",
-        "Ben Baby reported the Bengals are confident heading into the matchup, per the headline.",
-        "Cleveland sits 5-4 on an L2 and Baltimore is 4-5 on an L4, so the winner here can start pulling clear."
-      ],
-      "watch_for": [
-        "Ja'Marr Chase after his 10 rec, 155 yds, 1 TD in Madrid. How much attention Pittsburgh gives him shapes everything else.",
-        "Cincinnati's third down work. They went 6-10 against Atlanta and had zero turnovers.",
-        "The run game split. Chase Brown had 9 car, 57 yds and Samaje Perine 11 car, 43 yds last week."
-      ],
-      "the_call": "Bengals cover the 3.5. Burrow was 24/29 for 271 and 3 TD last out, the offense is at 7.1 yards per play form, and Pittsburgh has not faced that version of Cincinnati this year."
-    },
-    "pregame_for": "401873064",
+    "pregame": null,
+    "pregame_for": "401873078",
     "postgame": {
-      "what_decided_it": "Cincinnati was efficient and clean in Madrid. 7.1 yards per play, 6 of 10 on third down, zero turnovers, 3 of 4 in the red zone. Atlanta ran well at 6.5 a carry but threw for only 162 and took 12 penalties for 88 yards.",
+      "what_decided_it": "Cincinnati won the line of the game. 484 yards on 7.4 per play against 222 and 3.8, plus 35:09 of possession. Burrow was clean, no turnovers either way, and 5-of-6 in the red zone.",
       "standouts": [
-        "Joe Burrow: 24/29, 271 yards, 3 TD, 0 INT. Nothing wasted.",
-        "Ja'Marr Chase: 10 catches, 155 yards, 1 TD.",
-        "Tee Higgins: 5 catches for only 32 yards but two touchdowns."
+        "Joe Burrow: 35/44, 409 yards, 4 TD, 0 INT. One sack taken for 3 yards.",
+        "Ja'Marr Chase: 11 catches, 231 yards. No scores needed, he just moved the whole field.",
+        "Chase Brown: 10 carries for 44 yards and 8 catches for 39 yards with 2 receiving TDs."
       ],
-      "division_meaning": "Pittsburgh sits 6-2 on a four game win streak, Cincinnati 5-2 in the table and winners of three, with the best differential in the division at +48. Cleveland 5-3, Baltimore 4-5 and losers of four.",
-      "the_take": "The run game is the quiet part of this. 123 yards on 24 carries at 5.1 a pop meant Burrow never had to force anything. Do that against Pittsburgh and the North shifts."
+      "division_meaning": "Bengals are 7-2 on a W5 streak with a +85 differential and sole possession of first. Pittsburgh falls to 6-3, Cleveland is 6-4 after beating Houston 27-24, Baltimore 4-5 on an L4 slide.",
+      "the_take": "Rodgers threw for 143 yards and Pittsburgh went 0-for-2 in the red zone. That defensive performance is the real story here, not the 409 passing yards everyone will post about."
     },
-    "postgame_for": "401873038",
+    "postgame_for": "401873064",
     "league": {
       "lines": [
-        "Lions 35, Patriots 10 in Munich. Jahmyr Gibbs went 22 car, 153 yds, 2 TD and added 7 rec, 99 yds. Detroit sits 7-2, New England falls to 5-5.",
-        "Browns host Houston and Jaguars visit Tennessee, both just underway in the first quarter. Cleveland is 5-4 after an overtime loss at New Orleans, Jacksonville is 6-2.",
-        "Buffalo at the Jets kicked off at 2:00 am Perth. The Bills are 7-1 after beating Minnesota 23-6, the Jets are 2-7.",
-        "Chiefs at Falcons also in Q1. Kansas City is 6-2 and Atlanta 3-6 after hosting the Bengals in Madrid.",
-        "49ers at Dallas, 5:25 am Perth, SF -4.5 with a total of 55.5. San Francisco is 7-1, the Cowboys 4-5.",
-        "Monday night: Chargers at Ravens, 9:15 am Tuesday Perth, BAL -4.5, total 38.5. Baltimore is 4-5 on a four-game skid, Los Angeles is 0-8."
+        "Buffalo is 8-1 after 31-12 at the Jets, James Cook III ran 18 for 157 and a score. The Bills are the AFC's best record.",
+        "San Francisco won 46-40 at Dallas to go 8-1. Purdy 22/28 for 389 and 3 TD, McCaffrey 4 catches for 161 and 2 TD. They host Minnesota in Mexico City, SF -3.",
+        "Jacksonville hammered Tennessee 40-23 to reach 7-2. Lawrence 352 and 3 TD. They are -6.5 at the Giants next.",
+        "Mahomes threw 5 TDs in a 35-10 win at Atlanta. KC is 7-2 and -16.5 at home against Arizona.",
+        "Minnesota took Lambeau 30-10 and sits 7-2. Green Bay drops to 6-4.",
+        "Baltimore hosts winless LA Chargers Tuesday 9:15 am Perth, BAL -4.5 with a 38.5 total. Then the Ravens are a 2.5-point dog at Carolina."
       ]
     }
   },
-  "written_at": "2026-11-15T18:40:26.701Z",
+  "written_at": "2026-11-16T05:48:00.893Z",
   "last_error": null
 }
