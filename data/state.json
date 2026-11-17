@@ -148,19 +148,10 @@
     "401873061",
     "401873062",
     "401873063",
-    "401873064"
+    "401873064",
+    "401873065"
   ],
   "briefing": {
-    "league": {
-      "lines": [
-        "Buffalo is 8-1 after 31-12 at the Jets, James Cook III ran 18 for 157 and a score. The Bills are the AFC's best record.",
-        "San Francisco won 46-40 at Dallas to go 8-1. Purdy 22/28 for 389 and 3 TD, McCaffrey 4 catches for 161 and 2 TD. They host Minnesota in Mexico City, SF -3.",
-        "Jacksonville hammered Tennessee 40-23 to reach 7-2. Lawrence 352 and 3 TD. They are -6.5 at the Giants next.",
-        "Mahomes threw 5 TDs in a 35-10 win at Atlanta. KC is 7-2 and -16.5 at home against Arizona.",
-        "Minnesota took Lambeau 30-10 and sits 7-2. Green Bay drops to 6-4.",
-        "Baltimore hosts winless LA Chargers Tuesday 9:15 am Perth, BAL -4.5 with a 38.5 total. Then the Ravens are a 2.5-point dog at Carolina."
-      ]
-    },
     "pregame": null,
     "pregame_for": "401873078",
     "postgame": {
@@ -173,8 +164,18 @@
       "division_meaning": "Bengals are 7-2 on a W5 streak with a +85 differential and sole possession of first. Pittsburgh falls to 6-3, Cleveland is 6-4 after beating Houston 27-24, Baltimore 4-5 on an L4 slide.",
       "the_take": "Rodgers threw for 143 yards and Pittsburgh went 0-for-2 in the red zone. That defensive performance is the real story here, not the 409 passing yards everyone will post about."
     },
-    "postgame_for": "401873064"
+    "postgame_for": "401873064",
+    "league": {
+      "lines": [
+        "Sunday night in Mexico City is the headliner: Vikings at 49ers, SF -3, total 46.5, 9:20 am Perth Monday. San Francisco is 8-1 after outscoring Dallas 46-40, Minnesota 7-2 off a 30-10 win at Lambeau.",
+        "Steelers go to Philadelphia at PIT -4.5 with a 38.5 total. Pittsburgh is 6-3 and coming off the loss in Cincinnati, the Eagles are 2-7.",
+        "Buffalo is 8-1 after 31-12 over the Jets and lays 16.5 at home to 1-8 Miami. Kansas City, 7-2 after Mahomes threw five scores in Atlanta, is also a 16.5-point favourite over Arizona.",
+        "Ravens at Panthers is the AFC North game that matters elsewhere: Baltimore is 4-6 and on a five-game slide after losing 23-20 to the 1-8 Chargers, and they are 2.5-point underdogs in Charlotte.",
+        "Jaguars at 7-2 head to MetLife as 6-point favourites over the Giants after a 40-23 win in Tennessee. Trevor Lawrence went 25/35 for 352 and 3 TD.",
+        "Thursday night is Colts at Texans, HOU -11.5, total 44.5, 9:15 am Perth Friday. Both teams are going nowhere at 3-7 and 3-6."
+      ]
+    }
   },
-  "written_at": "2026-11-16T05:48:00.893Z",
+  "written_at": "2026-11-17T07:25:52.101Z",
   "last_error": null
 }
