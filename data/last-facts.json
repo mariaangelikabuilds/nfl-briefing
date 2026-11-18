@@ -1,5 +1,5 @@
 {
-  "now_perth": "Wed, 18 Nov, 2:50 pm",
+  "now_perth": "Thu, 19 Nov, 4:15 am",
   "bengals_next": {
     "id": "401873078",
     "week": 11,
@@ -8,13 +8,13 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Mostly clear",
-      "tempF": 53,
-      "tempC": 12
+      "text": "Mostly cloudy",
+      "tempF": 52,
+      "tempC": 11
     },
     "moneyline": {
-      "away": "-298",
-      "home": "+240"
+      "away": "-305",
+      "home": "+245"
     },
     "detail": "11/23 - 8:15 PM EST",
     "final": false,
@@ -35,7 +35,7 @@
       "record": "7-2"
     },
     "line": "CIN -6.5",
-    "overUnder": 53.5,
+    "overUnder": 54.5,
     "venue": "Northwest Stadium",
     "city": "Landover",
     "tv": [
@@ -101,7 +101,7 @@
     "kickoff_perth": "Mon, 16 Nov, 9:20 am"
   },
   "write_pregame": false,
-  "write_postgame": true,
+  "write_postgame": false,
   "division": {
     "name": "AFC North",
     "rows": [
@@ -285,6 +285,18 @@
   },
   "news_bengals": [
     {
+      "headline": "2027 NFL mock draft: Reid's midseason first-round predictions for all 32 picks",
+      "summary": "Which NFL team could land Drew Mestemaker? Who needs Chris Cole, Ashton Hampton or Jamari Johnson? Jordan Reid projected first-round picks for 2027 -- and a trade.",
+      "published": "2026-11-18T16:28:02Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/50502243/2027-nfl-mock-draft-reid-midseason-32-first-round-predictions"
+    },
+    {
+      "headline": "NFL Week 11 latest intel, buzz questions, news, fantasy tips: What we're hearing",
+      "summary": "What are people around the league saying about Fernando Mendoza? Could changes be coming in Dallas? And what now for New England? Here's the latest intel.",
+      "published": "2026-11-18T17:04:46Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50513379/week-11-buzz-fantasy-predictions-graziano-fowler-2026"
+    },
+    {
       "headline": "NFL Week 11 betting odds: Lines and totals for every game",
       "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
       "published": "2026-11-17T15:27:54Z",
@@ -319,21 +331,21 @@
       "summary": "Can the Bengals keep winning while throwing so much?",
       "published": "2026-11-16T20:17:29Z",
       "url": "https://www.espn.com/video/clip/_/id/50504016/can-bengals-keep-winning-throwing-much"
-    },
-    {
-      "headline": "Burrow's mindset after big divisional win",
-      "summary": "Ben Baby recaps Joe Burrow and the Bengals' divisional win against the Steelers.",
-      "published": "2026-11-16T17:08:52Z",
-      "url": "https://www.espn.com/video/clip/_/id/50502064/burrow-mindset-big-divisional-win"
-    },
-    {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "published": "2026-11-17T15:19:53Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "2027 NFL mock draft: Reid's midseason first-round predictions for all 32 picks",
+      "summary": "Which NFL team could land Drew Mestemaker? Who needs Chris Cole, Ashton Hampton or Jamari Johnson? Jordan Reid projected first-round picks for 2027 -- and a trade.",
+      "published": "2026-11-18T16:28:02Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/50502243/2027-nfl-mock-draft-reid-midseason-32-first-round-predictions"
+    },
+    {
+      "headline": "NFL Week 11 latest intel, buzz questions, news, fantasy tips: What we're hearing",
+      "summary": "What are people around the league saying about Fernando Mendoza? Could changes be coming in Dallas? And what now for New England? Here's the latest intel.",
+      "published": "2026-11-18T17:04:46Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50513379/week-11-buzz-fantasy-predictions-graziano-fowler-2026"
+    },
     {
       "headline": "Commanders RB Jacory Croskey-Merritt set to resume practice",
       "summary": "John Keim breaks down how Jacory Croskey-Merritt could bring some much-needed explosiveness back to Washington after missing four games with a groin injury.",
@@ -369,18 +381,6 @@
       "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
       "published": "2026-11-17T15:19:53Z",
       "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
-    },
-    {
-      "headline": "Week 10 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Check here for all of Sunday's top moments, TDs and analysis from ESPN's NFL reporters.",
-      "published": "2026-11-16T05:24:51Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026"
-    },
-    {
-      "headline": "NFL playoff chance tiers: Where all 32 teams fit in 2026 postseason picture",
-      "summary": "We placed all 32 NFL teams into tiers based on their likelihood of making the playoffs, from Super Bowl favorites to the top-draft-pick candidates.",
-      "published": "2026-11-16T16:21:08Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50463347/2026-nfl-playoffs-chances-odds-tiers-32-teams-nfc-afc"
     }
   ],
   "league_week": 11,
@@ -1121,7 +1121,7 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly clear",
+        "text": "Partly cloudy",
         "tempF": 69,
         "tempC": 21
       },
@@ -1164,7 +1164,11 @@
       "timeValid": true,
       "state": "pre",
       "clock": null,
-      "weather": null,
+      "weather": {
+        "text": "Partly sunny",
+        "tempF": 62,
+        "tempC": 17
+      },
       "moneyline": {
         "away": "+850",
         "home": "-1450"
@@ -1205,13 +1209,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 50,
-        "tempC": 10
+        "text": "Mostly cloudy",
+        "tempF": 58,
+        "tempC": 14
       },
       "moneyline": {
-        "away": "+470",
-        "home": "-650"
+        "away": "+455",
+        "home": "-625"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1232,7 +1236,7 @@
         "record": "3-6"
       },
       "line": "CHI -11.5",
-      "overUnder": 49.5,
+      "overUnder": 48.5,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [
@@ -1249,13 +1253,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Hazy sunshine",
-        "tempF": 63,
-        "tempC": 17
+        "text": "Mostly cloudy",
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+300",
-        "home": "-380"
+        "away": "+295",
+        "home": "-375"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1276,7 +1280,7 @@
         "record": "1-8"
       },
       "line": "DAL -8.5",
-      "overUnder": 54.5,
+      "overUnder": 55.5,
       "venue": "AT&T Stadium",
       "city": "Arlington",
       "tv": [
@@ -1298,8 +1302,8 @@
         "tempC": 14
       },
       "moneyline": {
-        "away": "+275",
-        "home": "-345"
+        "away": "+270",
+        "home": "-340"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1337,13 +1341,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 49,
+        "text": "Intermittent clouds",
+        "tempF": 48,
         "tempC": 9
       },
       "moneyline": {
-        "away": "+850",
-        "home": "-1450"
+        "away": "+800",
+        "home": "-1350"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1363,8 +1367,8 @@
         "winner": null,
         "record": "3-7"
       },
-      "line": "KC -16.5",
-      "overUnder": 41.5,
+      "line": "KC -15.5",
+      "overUnder": 40.5,
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
       "tv": [
@@ -1382,7 +1386,7 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 60,
+        "tempF": 61,
         "tempC": 16
       },
       "moneyline": {
@@ -1408,7 +1412,7 @@
         "record": "6-3"
       },
       "line": "PIT -4.5",
-      "overUnder": 38.5,
+      "overUnder": 37.5,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "tv": [
@@ -1426,12 +1430,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 65,
-        "tempC": 18
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": {
-        "away": "+120",
-        "home": "-142"
+        "away": "+114",
+        "home": "-135"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1452,7 +1456,7 @@
         "record": "4-6"
       },
       "line": "CAR -2.5",
-      "overUnder": 44.5,
+      "overUnder": 43.5,
       "venue": "Bank of America Stadium",
       "city": "Charlotte",
       "tv": [
@@ -1470,12 +1474,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 66,
-        "tempC": 19
+        "tempF": 69,
+        "tempC": 21
       },
       "moneyline": {
-        "away": "+154",
-        "home": "-185"
+        "away": "+136",
+        "home": "-162"
       },
       "detail": "11/22 - 4:05 PM EST",
       "final": false,
@@ -1495,7 +1499,7 @@
         "winner": null,
         "record": "2-8"
       },
-      "line": "LAC -3.5",
+      "line": "LAC -3",
       "overUnder": 41.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
@@ -1513,13 +1517,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 51,
-        "tempC": 11
+        "text": "Sunny",
+        "tempF": 49,
+        "tempC": 9
       },
       "moneyline": {
-        "away": "+440",
-        "home": "-600"
+        "away": "+455",
+        "home": "-625"
       },
       "detail": "11/22 - 4:25 PM EST",
       "final": false,

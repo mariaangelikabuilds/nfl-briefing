@@ -152,6 +152,16 @@
     "401873065"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "San Francisco is 8-1 after a 46-40 shootout win in Dallas, Brock Purdy 22/28 for 389 and 3 TD. Next up Minnesota in Mexico City, SF -3, total 45.5, Mon 23 Nov 9:20 am Perth.",
+        "Buffalo also sits 8-1 after 31-12 over the Jets, James Cook III 18 for 157. They host Miami as 16.5-point favourites, total 45.5.",
+        "Minnesota won 30-10 at Lambeau to reach 7-2 and drop Green Bay to 6-4.",
+        "Baltimore lost 23-20 at home to a 1-8 Chargers side and is now 4-6. They are 2.5-point underdogs at Carolina in Week 11.",
+        "Pittsburgh heads to Philadelphia as PIT -4.5 with a total of 38.5, the lowest on the Week 11 board.",
+        "Washington beat the Giants 24-21 to get to 3-5-1 before hosting Cincinnati. Headline: RB Jacory Croskey-Merritt is set to resume practice after four games out with a groin injury."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401873078",
     "postgame": {
@@ -164,17 +174,7 @@
       "division_meaning": "Bengals 7-2 on a five-game win streak with a plus-85 point differential. Pittsburgh drops to 6-3 and a one-game skid, Cleveland 6-4, Baltimore 4-6 and losers of five straight.",
       "the_take": "The 78 rushing yards on 20 carries will keep the 'can they keep winning throwing this much' talk alive, per the ESPN segment. With Burrow at 35/44 and no turnovers, that's a feature, not a flaw."
     },
-    "postgame_for": "401873064",
-    "league": {
-      "lines": [
-        "San Francisco is 8-1 after a 46-40 shootout win in Dallas, Brock Purdy 22/28 for 389 and 3 TD. Next up Minnesota in Mexico City, SF -3, total 45.5, Mon 23 Nov 9:20 am Perth.",
-        "Buffalo also sits 8-1 after 31-12 over the Jets, James Cook III 18 for 157. They host Miami as 16.5-point favourites, total 45.5.",
-        "Minnesota won 30-10 at Lambeau to reach 7-2 and drop Green Bay to 6-4.",
-        "Baltimore lost 23-20 at home to a 1-8 Chargers side and is now 4-6. They are 2.5-point underdogs at Carolina in Week 11.",
-        "Pittsburgh heads to Philadelphia as PIT -4.5 with a total of 38.5, the lowest on the Week 11 board.",
-        "Washington beat the Giants 24-21 to get to 3-5-1 before hosting Cincinnati. Headline: RB Jacory Croskey-Merritt is set to resume practice after four games out with a groin injury."
-      ]
-    }
+    "postgame_for": "401873064"
   },
   "written_at": "2026-11-18T06:50:03.653Z",
   "last_error": null
