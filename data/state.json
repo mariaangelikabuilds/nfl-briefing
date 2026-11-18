@@ -153,29 +153,29 @@
   ],
   "briefing": {
     "pregame": null,
-    "pregame_for": "401873174",
+    "pregame_for": "401873078",
     "postgame": {
-      "what_decided_it": "Cincinnati were cleaner and more efficient in Madrid, 34-17. Burrow went 24/29 for 271 and three scores, the Bengals turned it over zero times and went 6-10 on third down at 7.1 yards a play.",
+      "what_decided_it": "Cincinnati threw Pittsburgh off the field. 484 yards at 7.4 a play, 30 first downs, 5-of-6 in the red zone, no turnovers. The Steelers managed 222 yards at 3.8 and lost time of possession 35:09 to 24:51.",
       "standouts": [
-        ".Ja'Marr Chase: 10 rec, 155 yds, 1 TD. He was the game's engine and the reason 29 attempts was enough.",
-        "Joe Burrow: 24/29, 271 yds, 3 TD, 0 INT. Nine drives, three red zone trips from four, no waste.",
-        "Tee Higgins: 5 rec, 32 yds, 2 TD. Small yardage night, two scores, which is the point of having him."
+        "Joe Burrow: 35/44, 409 yards, 4 TD, 0 INT. One sack for 3 yards all night.",
+        "Ja'Marr Chase: 11 catches, 231 yards. Pittsburgh had no answer.",
+        "Chase Brown: 10 carries for 44, plus 8 catches for 39 and 2 TD out of the backfield."
       ],
-      "division_meaning": "Bengals are 7-2 with a W5 streak and a plus-85 differential, clear of Pittsburgh at 6-3, Cleveland 6-4 and Baltimore 4-6 on an L5 slide. The North runs through Cincinnati now.",
-      "the_take": "Atlanta ran for 157 at 6.5 a carry and Bijan hit 100, and it still was not close. That is the tell: this Bengals team can concede the run and win on the margins, 12 ATL penalties for 88 yards included."
+      "division_meaning": "Bengals 7-2 on a five-game win streak with a plus-85 point differential. Pittsburgh drops to 6-3 and a one-game skid, Cleveland 6-4, Baltimore 4-6 and losers of five straight.",
+      "the_take": "The 78 rushing yards on 20 carries will keep the 'can they keep winning throwing this much' talk alive, per the ESPN segment. With Burrow at 35/44 and no turnovers, that's a feature, not a flaw."
     },
-    "postgame_for": "401873038",
+    "postgame_for": "401873064",
     "league": {
       "lines": [
-        "Week 18 has Bears at Vikings, both 7-2, kickoff Sun, 10 Jan, time not set yet. Division decider shape before anyone names a time.",
-        "Steelers at Ravens in Week 18, 6-3 against 4-6, also no confirmed kick time. Baltimore are on an L5 run and need it more.",
-        "Lions at Packers at Lambeau, 7-2 versus 6-4, time not set yet. Second helping after their Week 17 listing in Chicago.",
-        "Buffalo are 8-1 and San Francisco 8-1, the two best records on the board. SF draw Arizona, Buffalo get the 2-8 Jets.",
-        "Headline: the NFL flexed Raiders-Browns into the Sunday night slot for Week 12, replacing Patriots-Chargers.",
-        "Headline: ESPN's Week 11 power rankings and odds pages are out, with Solak framing Burrow's MVP case."
+        "San Francisco is 8-1 after a 46-40 shootout win in Dallas, Brock Purdy 22/28 for 389 and 3 TD. Next up Minnesota in Mexico City, SF -3, total 45.5, Mon 23 Nov 9:20 am Perth.",
+        "Buffalo also sits 8-1 after 31-12 over the Jets, James Cook III 18 for 157. They host Miami as 16.5-point favourites, total 45.5.",
+        "Minnesota won 30-10 at Lambeau to reach 7-2 and drop Green Bay to 6-4.",
+        "Baltimore lost 23-20 at home to a 1-8 Chargers side and is now 4-6. They are 2.5-point underdogs at Carolina in Week 11.",
+        "Pittsburgh heads to Philadelphia as PIT -4.5 with a total of 38.5, the lowest on the Week 11 board.",
+        "Washington beat the Giants 24-21 to get to 3-5-1 before hosting Cincinnati. Headline: RB Jacory Croskey-Merritt is set to resume practice after four games out with a groin injury."
       ]
     }
   },
-  "written_at": "2026-11-17T20:41:25.289Z",
+  "written_at": "2026-11-18T06:50:03.653Z",
   "last_error": null
 }
