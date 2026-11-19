@@ -1,5 +1,5 @@
 {
-  "now_perth": "Thu, 19 Nov, 2:50 pm",
+  "now_perth": "Fri, 20 Nov, 4:19 am",
   "bengals_next": {
     "id": "401873078",
     "week": 11,
@@ -8,13 +8,13 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Mostly cloudy",
-      "tempF": 51,
+      "text": "Partly cloudy",
+      "tempF": 52,
       "tempC": 11
     },
     "moneyline": {
-      "away": "-310",
-      "home": "+250"
+      "away": "-281",
+      "home": "+230"
     },
     "detail": "11/23 - 8:15 PM EST",
     "final": false,
@@ -34,7 +34,7 @@
       "winner": null,
       "record": "7-2"
     },
-    "line": "CIN -6.5",
+    "line": "CIN -6",
     "overUnder": 54.5,
     "venue": "Northwest Stadium",
     "city": "Landover",
@@ -285,6 +285,24 @@
   },
   "news_bengals": [
     {
+      "headline": "Can the Bengals succeed in the postseason with a pass-heavy offense?",
+      "summary": "Can the Bengals succeed in the postseason with a pass-heavy offense?",
+      "published": "2026-11-19T15:48:55Z",
+      "url": "https://www.espn.com/video/clip/_/id/50531470/can-bengals-succeed-postseason-pass-heavy-offense"
+    },
+    {
+      "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
+      "published": "2026-11-19T14:38:37Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms"
+    },
+    {
+      "headline": "Midseason reports on every NFL team's offensive coordinator, playcaller",
+      "summary": "Here's the good and the bad for each offensive coordinator or playcaller through Week 10, plus keys to their success the rest of the way.",
+      "published": "2026-11-19T17:37:25Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50520404/nfl-offensive-coordinators-playcallers-midseason-report"
+    },
+    {
       "headline": "2027 NFL mock draft: Reid's midseason first-round predictions for all 32 picks",
       "summary": "Which NFL team could land Drew Mestemaker? Who needs Chris Cole, Ashton Hampton or Jamari Johnson? Jordan Reid projected first-round picks for 2027 -- and a trade.",
       "published": "2026-11-18T17:51:58Z",
@@ -313,27 +331,21 @@
       "summary": "How does every NFL team stack up heading into Week 11? We made our 1-32 list and picked the non-quarterback MVPs for each roster.",
       "published": "2026-11-17T20:45:39Z",
       "url": "https://www.espn.com/nfl/story/_/id/50503226/nfl-power-rankings-week-11-non-quarterback-mvps-midseason"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-11-17T11:41:00Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "Kyle Hamilton rocks Christmas sweater ahead of 'MNF,' leads NFL Week 10 arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-16T23:53:27Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals"
-    },
-    {
-      "headline": "Can the Bengals keep winning while throwing so much?",
-      "summary": "Can the Bengals keep winning while throwing so much?",
-      "published": "2026-11-16T20:17:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/50504016/can-bengals-keep-winning-throwing-much"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
+      "published": "2026-11-19T14:38:37Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms"
+    },
+    {
+      "headline": "Midseason reports on every NFL team's offensive coordinator, playcaller",
+      "summary": "Here's the good and the bad for each offensive coordinator or playcaller through Week 10, plus keys to their success the rest of the way.",
+      "published": "2026-11-19T17:37:25Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50520404/nfl-offensive-coordinators-playcallers-midseason-report"
+    },
     {
       "headline": "Will Ben Sinnott repeat his performance?",
       "summary": "John Keim details Ben Sinnott's big game and whether he can repeat it vs. the Giants.",
@@ -369,18 +381,6 @@
       "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
       "published": "2026-11-18T19:39:37Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
-    },
-    {
-      "headline": "NFL Power Rankings: Stacking all 32 teams for Week 11, plus non-QB MVPs",
-      "summary": "How does every NFL team stack up heading into Week 11? We made our 1-32 list and picked the non-quarterback MVPs for each roster.",
-      "published": "2026-11-17T20:45:39Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50503226/nfl-power-rankings-week-11-non-quarterback-mvps-midseason"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-11-17T11:41:00Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
     }
   ],
   "league_week": 11,
@@ -1121,13 +1121,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly cloudy",
-        "tempF": 69,
-        "tempC": 21
+        "text": "Mostly clear",
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
-        "away": "+525",
-        "home": "-750"
+        "away": "+499",
+        "home": "-690"
       },
       "detail": "11/19 - 8:15 PM EST",
       "final": false,
@@ -1148,7 +1148,7 @@
         "record": "3-7"
       },
       "line": "HOU -12.5",
-      "overUnder": 43.5,
+      "overUnder": 44.5,
       "venue": "Reliant Stadium",
       "city": "Houston",
       "tv": [
@@ -1171,7 +1171,7 @@
       },
       "moneyline": {
         "away": "+850",
-        "home": "-1450"
+        "home": "-1440"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1192,7 +1192,7 @@
         "record": "1-8"
       },
       "line": "BUF -16.5",
-      "overUnder": 45.5,
+      "overUnder": 44.5,
       "venue": "Highmark Stadium",
       "city": "Orchard Park",
       "tv": [
@@ -1209,13 +1209,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 55,
+        "text": "Cloudy",
+        "tempF": 56,
         "tempC": 13
       },
       "moneyline": {
-        "away": "+440",
-        "home": "-600"
+        "away": "+469",
+        "home": "-640"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1254,12 +1254,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 62,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "+300",
-        "home": "-380"
+        "away": "+308",
+        "home": "-388"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1298,12 +1298,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 58,
-        "tempC": 14
+        "tempF": 56,
+        "tempC": 13
       },
       "moneyline": {
-        "away": "+270",
-        "home": "-340"
+        "away": "+234",
+        "home": "-287"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1323,8 +1323,8 @@
         "winner": null,
         "record": "3-6"
       },
-      "line": "DET -7",
-      "overUnder": 43.5,
+      "line": "DET -6",
+      "overUnder": 45.5,
       "venue": "Ford Field",
       "city": "Detroit",
       "tv": [
@@ -1341,13 +1341,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 50,
-        "tempC": 10
+        "text": "Mostly cloudy",
+        "tempF": 48,
+        "tempC": 9
       },
       "moneyline": {
-        "away": "+850",
-        "home": "-1450"
+        "away": "+840",
+        "home": "-1420"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1390,8 +1390,8 @@
         "tempC": 15
       },
       "moneyline": {
-        "away": "-218",
-        "home": "+180"
+        "away": "-212",
+        "home": "+177"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1430,12 +1430,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+114",
-        "home": "-135"
+        "away": "+124",
+        "home": "-147"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1455,7 +1455,7 @@
         "winner": null,
         "record": "4-6"
       },
-      "line": "CAR -2.5",
+      "line": "CAR -3",
       "overUnder": 43.5,
       "venue": "Bank of America Stadium",
       "city": "Charlotte",
@@ -1473,13 +1473,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
+        "text": "Partly sunny",
         "tempF": 69,
         "tempC": 21
       },
       "moneyline": {
-        "away": "+136",
-        "home": "-162"
+        "away": "+143",
+        "home": "-170"
       },
       "detail": "11/22 - 4:05 PM EST",
       "final": false,
@@ -1517,13 +1517,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Sunny",
-        "tempF": 49,
-        "tempC": 9
+        "text": "Intermittent clouds",
+        "tempF": 46,
+        "tempC": 8
       },
       "moneyline": {
-        "away": "+455",
-        "home": "-625"
+        "away": "+427",
+        "home": "-568"
       },
       "detail": "11/22 - 4:25 PM EST",
       "final": false,
@@ -1562,12 +1562,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 59,
-        "tempC": 15
+        "tempF": 58,
+        "tempC": 14
       },
       "moneyline": {
-        "away": "-265",
-        "home": "+215"
+        "away": "-266",
+        "home": "+218"
       },
       "detail": "11/22 - 4:25 PM EST",
       "final": false,
@@ -1606,8 +1606,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+136",
-        "home": "-162"
+        "away": "+138",
+        "home": "-163"
       },
       "detail": "11/22 - 8:20 PM EST",
       "final": false,
