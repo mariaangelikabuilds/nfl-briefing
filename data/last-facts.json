@@ -1,5 +1,5 @@
 {
-  "now_perth": "Thu, 19 Nov, 4:15 am",
+  "now_perth": "Thu, 19 Nov, 2:50 pm",
   "bengals_next": {
     "id": "401873078",
     "week": 11,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Mostly cloudy",
-      "tempF": 52,
+      "tempF": 51,
       "tempC": 11
     },
     "moneyline": {
-      "away": "-305",
-      "home": "+245"
+      "away": "-310",
+      "home": "+250"
     },
     "detail": "11/23 - 8:15 PM EST",
     "final": false,
@@ -287,19 +287,19 @@
     {
       "headline": "2027 NFL mock draft: Reid's midseason first-round predictions for all 32 picks",
       "summary": "Which NFL team could land Drew Mestemaker? Who needs Chris Cole, Ashton Hampton or Jamari Johnson? Jordan Reid projected first-round picks for 2027 -- and a trade.",
-      "published": "2026-11-18T16:28:02Z",
+      "published": "2026-11-18T17:51:58Z",
       "url": "https://www.espn.com/nfl/draft2027/story/_/id/50502243/2027-nfl-mock-draft-reid-midseason-32-first-round-predictions"
     },
     {
       "headline": "NFL Week 11 latest intel, buzz questions, news, fantasy tips: What we're hearing",
       "summary": "What are people around the league saying about Fernando Mendoza? Could changes be coming in Dallas? And what now for New England? Here's the latest intel.",
-      "published": "2026-11-18T17:04:46Z",
+      "published": "2026-11-18T17:48:56Z",
       "url": "https://www.espn.com/nfl/story/_/id/50513379/week-11-buzz-fantasy-predictions-graziano-fowler-2026"
     },
     {
       "headline": "NFL Week 11 betting odds: Lines and totals for every game",
       "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
-      "published": "2026-11-17T15:27:54Z",
+      "published": "2026-11-18T19:39:37Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
     },
     {
@@ -335,15 +335,27 @@
   ],
   "news_opponent": [
     {
+      "headline": "Will Ben Sinnott repeat his performance?",
+      "summary": "John Keim details Ben Sinnott's big game and whether he can repeat it vs. the Giants.",
+      "published": "2026-11-19T01:50:56Z",
+      "url": "https://www.espn.com/video/clip/_/id/50526304/will-ben-sinnott-repeat-performance"
+    },
+    {
+      "headline": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
+      "summary": "Brandon Aiyuk and Jayden Daniels have patched up their relationship after a falling out earlier this year, sources told ESPN.",
+      "published": "2026-11-18T18:50:43Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels"
+    },
+    {
       "headline": "2027 NFL mock draft: Reid's midseason first-round predictions for all 32 picks",
       "summary": "Which NFL team could land Drew Mestemaker? Who needs Chris Cole, Ashton Hampton or Jamari Johnson? Jordan Reid projected first-round picks for 2027 -- and a trade.",
-      "published": "2026-11-18T16:28:02Z",
+      "published": "2026-11-18T17:51:58Z",
       "url": "https://www.espn.com/nfl/draft2027/story/_/id/50502243/2027-nfl-mock-draft-reid-midseason-32-first-round-predictions"
     },
     {
       "headline": "NFL Week 11 latest intel, buzz questions, news, fantasy tips: What we're hearing",
       "summary": "What are people around the league saying about Fernando Mendoza? Could changes be coming in Dallas? And what now for New England? Here's the latest intel.",
-      "published": "2026-11-18T17:04:46Z",
+      "published": "2026-11-18T17:48:56Z",
       "url": "https://www.espn.com/nfl/story/_/id/50513379/week-11-buzz-fantasy-predictions-graziano-fowler-2026"
     },
     {
@@ -355,7 +367,7 @@
     {
       "headline": "NFL Week 11 betting odds: Lines and totals for every game",
       "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
-      "published": "2026-11-17T15:27:54Z",
+      "published": "2026-11-18T19:39:37Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
     },
     {
@@ -369,18 +381,6 @@
       "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
       "published": "2026-11-17T11:41:00Z",
       "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "headline": "Kyle Hamilton rocks Christmas sweater ahead of 'MNF,' leads NFL Week 10 arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-16T23:53:27Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals"
-    },
-    {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "published": "2026-11-17T15:19:53Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     }
   ],
   "league_week": 11,
@@ -1148,7 +1148,7 @@
         "record": "3-7"
       },
       "line": "HOU -12.5",
-      "overUnder": 44.5,
+      "overUnder": 43.5,
       "venue": "Reliant Stadium",
       "city": "Houston",
       "tv": [
@@ -1166,8 +1166,8 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 62,
-        "tempC": 17
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
         "away": "+850",
@@ -1210,12 +1210,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 58,
-        "tempC": 14
+        "tempF": 55,
+        "tempC": 13
       },
       "moneyline": {
-        "away": "+455",
-        "home": "-625"
+        "away": "+440",
+        "home": "-600"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1254,12 +1254,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 65,
+        "tempF": 64,
         "tempC": 18
       },
       "moneyline": {
-        "away": "+295",
-        "home": "-375"
+        "away": "+300",
+        "home": "-380"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1342,12 +1342,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 48,
-        "tempC": 9
+        "tempF": 50,
+        "tempC": 10
       },
       "moneyline": {
-        "away": "+800",
-        "home": "-1350"
+        "away": "+850",
+        "home": "-1450"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1386,8 +1386,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 61,
-        "tempC": 16
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
         "away": "-218",
@@ -1430,8 +1430,8 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 60,
-        "tempC": 16
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
         "away": "+114",
@@ -1628,7 +1628,7 @@
         "record": "7-2"
       },
       "line": "SF -3",
-      "overUnder": 45.5,
+      "overUnder": 46.5,
       "venue": "Estadio Banorte",
       "city": "Mexico City",
       "tv": [
