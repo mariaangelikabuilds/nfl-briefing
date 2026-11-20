@@ -1,5 +1,5 @@
 {
-  "now_perth": "Fri, 20 Nov, 4:19 am",
+  "now_perth": "Fri, 20 Nov, 2:40 pm",
   "bengals_next": {
     "id": "401873078",
     "week": 11,
@@ -13,8 +13,8 @@
       "tempC": 11
     },
     "moneyline": {
-      "away": "-281",
-      "home": "+230"
+      "away": "-283",
+      "home": "+231"
     },
     "detail": "11/23 - 8:15 PM EST",
     "final": false,
@@ -35,7 +35,7 @@
       "record": "7-2"
     },
     "line": "CIN -6",
-    "overUnder": 54.5,
+    "overUnder": 53.5,
     "venue": "Northwest Stadium",
     "city": "Landover",
     "tv": [
@@ -285,102 +285,102 @@
   },
   "news_bengals": [
     {
+      "headline": "Is Burrow's illness any cause for concern?",
+      "summary": "Ben Baby breaks down if Joe Burrow missing practice due to illness is a concern.",
+      "published": "2026-11-20T02:22:37Z",
+      "url": "https://www.espn.com/video/clip/_/id/50536536/is-burrow-illness-cause-concern"
+    },
+    {
+      "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
+      "published": "2026-11-20T01:40:33Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms"
+    },
+    {
+      "headline": "Commanders' defense preparing for high-flying Bengals offense",
+      "summary": "— Washington Commanders coach Dan Quinn knows the challenge facing his defense for Monday night's game against the Cincinnati Bengals.",
+      "published": "2026-11-20T00:07:43Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873078"
+    },
+    {
+      "headline": "NFL Week 11 arrivals: C.J. Stroud leads the way ahead of Colts-Texans",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-20T01:01:16Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
+    },
+    {
+      "headline": "Bengals, Reds pay tribute to Fiona the hippo after her death",
+      "summary": "The world-famous hippopotamus passed away Thursday after ingesting a hat that made its way into her enclosure.",
+      "published": "2026-11-19T23:23:55Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50534625/cincinnati-bengals-reds-fiona-hippo"
+    },
+    {
+      "headline": "Bengals offense will be biggest test yet for Commanders' improving defense",
+      "summary": "Washington is moving closer to the defense it wants to be. Monday will provide a benchmark for its progress.",
+      "published": "2026-11-20T03:35:34Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50532934/commanders-defense-bengals-offense-joe-burrow"
+    },
+    {
       "headline": "Can the Bengals succeed in the postseason with a pass-heavy offense?",
       "summary": "Can the Bengals succeed in the postseason with a pass-heavy offense?",
       "published": "2026-11-19T15:48:55Z",
       "url": "https://www.espn.com/video/clip/_/id/50531470/can-bengals-succeed-postseason-pass-heavy-offense"
     },
     {
-      "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
-      "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
-      "published": "2026-11-19T14:38:37Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms"
-    },
-    {
       "headline": "Midseason reports on every NFL team's offensive coordinator, playcaller",
       "summary": "Here's the good and the bad for each offensive coordinator or playcaller through Week 10, plus keys to their success the rest of the way.",
       "published": "2026-11-19T17:37:25Z",
       "url": "https://www.espn.com/nfl/story/_/id/50520404/nfl-offensive-coordinators-playcallers-midseason-report"
-    },
-    {
-      "headline": "2027 NFL mock draft: Reid's midseason first-round predictions for all 32 picks",
-      "summary": "Which NFL team could land Drew Mestemaker? Who needs Chris Cole, Ashton Hampton or Jamari Johnson? Jordan Reid projected first-round picks for 2027 -- and a trade.",
-      "published": "2026-11-18T17:51:58Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/50502243/2027-nfl-mock-draft-reid-midseason-32-first-round-predictions"
-    },
-    {
-      "headline": "NFL Week 11 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-      "summary": "What are people around the league saying about Fernando Mendoza? Could changes be coming in Dallas? And what now for New England? Here's the latest intel.",
-      "published": "2026-11-18T17:48:56Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50513379/week-11-buzz-fantasy-predictions-graziano-fowler-2026"
-    },
-    {
-      "headline": "NFL Week 11 betting odds: Lines and totals for every game",
-      "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
-      "published": "2026-11-18T19:39:37Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
-    },
-    {
-      "headline": "Seven things Solak thinks for NFL Week 11: Takes on four QBs, Lions, Rams, more",
-      "summary": "Get ready for Week 11 with what makes Vikings-49ers must-watch football, Joe Burrow's MVP case and how Aidan Hutchinson's injury could impact the Lions.",
-      "published": "2026-11-17T15:39:31Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50505355/week-11-seven-things-solak-thinks-burrow-mvp-rams-lions"
-    },
-    {
-      "headline": "NFL Power Rankings: Stacking all 32 teams for Week 11, plus non-QB MVPs",
-      "summary": "How does every NFL team stack up heading into Week 11? We made our 1-32 list and picked the non-quarterback MVPs for each roster.",
-      "published": "2026-11-17T20:45:39Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50503226/nfl-power-rankings-week-11-non-quarterback-mvps-midseason"
     }
   ],
   "news_opponent": [
     {
       "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
       "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
-      "published": "2026-11-19T14:38:37Z",
+      "published": "2026-11-20T01:40:33Z",
       "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms"
+    },
+    {
+      "headline": "How will the Commanders blitz fare against Joe Burrow?",
+      "summary": "John Keim previews the Commanders matchup against the Bengals on Monday night.",
+      "published": "2026-11-20T00:32:01Z",
+      "url": "https://www.espn.com/video/clip/_/id/50535562/how-commanders-blitz-fare-joe-burrow"
+    },
+    {
+      "headline": "Washington Commanders unveil 'Beer Spear' ahead of 'Hail Raiser' debut on 'MNF'",
+      "summary": "The limited-edition collectible vessel can hold 16 ounces of beer, equipped with a gold spear at the end of it.",
+      "published": "2026-11-20T00:29:58Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50535323/washington-commanders-beer-spear"
+    },
+    {
+      "headline": "Sam Hartman's next drive: 'The Bachelor' questions answered",
+      "summary": "A guide to the Commanders quarterback's upcoming search for love and how his NFL commitments could shape the season.",
+      "published": "2026-11-20T00:28:17Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50533430/sam-hartman-bachelor-commanders-quarterback"
+    },
+    {
+      "headline": "Commanders' defense preparing for high-flying Bengals offense",
+      "summary": "— Washington Commanders coach Dan Quinn knows the challenge facing his defense for Monday night's game against the Cincinnati Bengals.",
+      "published": "2026-11-20T00:07:43Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873078"
+    },
+    {
+      "headline": "NFL Week 11 arrivals: C.J. Stroud leads the way ahead of Colts-Texans",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-20T01:01:16Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
+    },
+    {
+      "headline": "Bengals offense will be biggest test yet for Commanders' improving defense",
+      "summary": "Washington is moving closer to the defense it wants to be. Monday will provide a benchmark for its progress.",
+      "published": "2026-11-20T03:35:34Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50532934/commanders-defense-bengals-offense-joe-burrow"
     },
     {
       "headline": "Midseason reports on every NFL team's offensive coordinator, playcaller",
       "summary": "Here's the good and the bad for each offensive coordinator or playcaller through Week 10, plus keys to their success the rest of the way.",
       "published": "2026-11-19T17:37:25Z",
       "url": "https://www.espn.com/nfl/story/_/id/50520404/nfl-offensive-coordinators-playcallers-midseason-report"
-    },
-    {
-      "headline": "Will Ben Sinnott repeat his performance?",
-      "summary": "John Keim details Ben Sinnott's big game and whether he can repeat it vs. the Giants.",
-      "published": "2026-11-19T01:50:56Z",
-      "url": "https://www.espn.com/video/clip/_/id/50526304/will-ben-sinnott-repeat-performance"
-    },
-    {
-      "headline": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
-      "summary": "Brandon Aiyuk and Jayden Daniels have patched up their relationship after a falling out earlier this year, sources told ESPN.",
-      "published": "2026-11-18T18:50:43Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels"
-    },
-    {
-      "headline": "2027 NFL mock draft: Reid's midseason first-round predictions for all 32 picks",
-      "summary": "Which NFL team could land Drew Mestemaker? Who needs Chris Cole, Ashton Hampton or Jamari Johnson? Jordan Reid projected first-round picks for 2027 -- and a trade.",
-      "published": "2026-11-18T17:51:58Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/50502243/2027-nfl-mock-draft-reid-midseason-32-first-round-predictions"
-    },
-    {
-      "headline": "NFL Week 11 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-      "summary": "What are people around the league saying about Fernando Mendoza? Could changes be coming in Dallas? And what now for New England? Here's the latest intel.",
-      "published": "2026-11-18T17:48:56Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50513379/week-11-buzz-fantasy-predictions-graziano-fowler-2026"
-    },
-    {
-      "headline": "Commanders RB Jacory Croskey-Merritt set to resume practice",
-      "summary": "John Keim breaks down how Jacory Croskey-Merritt could bring some much-needed explosiveness back to Washington after missing four games with a groin injury.",
-      "published": "2026-11-17T23:53:24Z",
-      "url": "https://www.espn.com/video/clip/_/id/50514816/commanders-rb-jacory-croskey-merritt-set-resume-practice"
-    },
-    {
-      "headline": "NFL Week 11 betting odds: Lines and totals for every game",
-      "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
-      "published": "2026-11-18T19:39:37Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
     }
   ],
   "league_week": 11,
@@ -1118,43 +1118,55 @@
       "week": 11,
       "kickoff": "2026-11-20T01:15Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Mostly clear",
-        "tempF": 68,
-        "tempC": 20
-      },
-      "moneyline": {
-        "away": "+499",
-        "home": "-690"
-      },
-      "detail": "11/19 - 8:15 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "34",
         "abbr": "HOU",
         "name": "Houston Texans",
-        "score": null,
-        "winner": null,
-        "record": "3-6"
+        "score": 26,
+        "winner": true,
+        "record": "4-6"
       },
       "away": {
         "id": "11",
         "abbr": "IND",
         "name": "Indianapolis Colts",
-        "score": null,
-        "winner": null,
-        "record": "3-7"
+        "score": 3,
+        "winner": false,
+        "record": "3-8"
       },
-      "line": "HOU -12.5",
-      "overUnder": 44.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Reliant Stadium",
       "city": "Houston",
       "tv": [
         "Prime Video"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "21/27, 194 YDS, 3 TD, 1 INT",
+          "player": "C.J. Stroud",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "26 CAR, 107 YDS",
+          "player": "David Montgomery",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "3 REC, 58 YDS, 1 TD",
+          "player": "Nico Collins",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Fri, 20 Nov, 9:15 am"
     },
     {
@@ -1170,8 +1182,8 @@
         "tempC": 18
       },
       "moneyline": {
-        "away": "+850",
-        "home": "-1440"
+        "away": "+920",
+        "home": "-1640"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1210,12 +1222,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 56,
+        "tempF": 55,
         "tempC": 13
       },
       "moneyline": {
-        "away": "+469",
-        "home": "-640"
+        "away": "+442",
+        "home": "-594"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1254,12 +1266,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 62,
+        "tempF": 63,
         "tempC": 17
       },
       "moneyline": {
-        "away": "+308",
-        "home": "-388"
+        "away": "+299",
+        "home": "-376"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1280,7 +1292,7 @@
         "record": "1-8"
       },
       "line": "DAL -8.5",
-      "overUnder": 55.5,
+      "overUnder": 54.5,
       "venue": "AT&T Stadium",
       "city": "Arlington",
       "tv": [
@@ -1298,12 +1310,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 56,
-        "tempC": 13
+        "tempF": 58,
+        "tempC": 14
       },
       "moneyline": {
-        "away": "+234",
-        "home": "-287"
+        "away": "+213",
+        "home": "-258"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1367,7 +1379,7 @@
         "winner": null,
         "record": "3-7"
       },
-      "line": "KC -15.5",
+      "line": "KC -16.5",
       "overUnder": 40.5,
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
@@ -1386,12 +1398,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 59,
-        "tempC": 15
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": {
-        "away": "-212",
-        "home": "+177"
+        "away": "-203",
+        "home": "+170"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1411,8 +1423,8 @@
         "winner": null,
         "record": "6-3"
       },
-      "line": "PIT -4.5",
-      "overUnder": 37.5,
+      "line": "PIT -3.5",
+      "overUnder": 38.5,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "tv": [
@@ -1430,12 +1442,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 61,
+        "tempC": 16
       },
       "moneyline": {
-        "away": "+124",
-        "home": "-147"
+        "away": "+123",
+        "home": "-146"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1478,8 +1490,8 @@
         "tempC": 21
       },
       "moneyline": {
-        "away": "+143",
-        "home": "-170"
+        "away": "+140",
+        "home": "-167"
       },
       "detail": "11/22 - 4:05 PM EST",
       "final": false,
@@ -1518,12 +1530,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 46,
-        "tempC": 8
+        "tempF": 45,
+        "tempC": 7
       },
       "moneyline": {
-        "away": "+427",
-        "home": "-568"
+        "away": "+455",
+        "home": "-620"
       },
       "detail": "11/22 - 4:25 PM EST",
       "final": false,
@@ -1543,7 +1555,7 @@
         "winner": null,
         "record": "4-6"
       },
-      "line": "DEN -10",
+      "line": "DEN -10.5",
       "overUnder": 40.5,
       "venue": "Empower Field at Mile High",
       "city": "Denver",
@@ -1562,12 +1574,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 58,
-        "tempC": 14
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
-        "away": "-266",
-        "home": "+218"
+        "away": "-257",
+        "home": "+212"
       },
       "detail": "11/22 - 4:25 PM EST",
       "final": false,
@@ -1606,8 +1618,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+138",
-        "home": "-163"
+        "away": "+145",
+        "home": "-172"
       },
       "detail": "11/22 - 8:20 PM EST",
       "final": false,
@@ -1627,7 +1639,7 @@
         "winner": null,
         "record": "7-2"
       },
-      "line": "SF -3",
+      "line": "SF -3.5",
       "overUnder": 46.5,
       "venue": "Estadio Banorte",
       "city": "Mexico City",
