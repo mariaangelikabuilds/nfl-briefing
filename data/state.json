@@ -153,6 +153,16 @@
     "401873066"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        " Sunday night in Mexico City: 8-1 San Francisco hosts 7-2 Minnesota at Estadio Banorte, Mon 23 Nov 9:20 am Perth. SF -3.5, total 46.5. Best game of the week.",
+        "Pittsburgh goes to Philadelphia as a 3.5-point favourite with a 38.5 total, Mon 23 Nov 2:00 am Perth. The Eagles are 2-7, the Steelers 6-3 after losing in Cincinnati.",
+        "Baltimore is 4-6 on a five-game slide and is an underdog at Carolina, CAR -3, total 43.5. Ravens lost 23-20 at home to the 1-8 Chargers last week.",
+        "Houston already banked Week 11, beating Indianapolis 26-3. C.J. Stroud went 21/27 for 194 and 3 TD. The Colts fall to 3-8.",
+        "Buffalo at 8-1 is laying 16.5 to Miami, and Kansas City is 16.5 over Arizona. Two of the cheapest-looking AFC spots on the board.",
+        "Denver, 7-2, hosts the Raiders as a 10.5-point favourite with a 40.5 total, Mon 23 Nov 5:25 am Perth."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401873078",
     "postgame": {
@@ -165,17 +175,7 @@
       "division_meaning": "Bengals 7-2 on a five-game win streak with a plus-85 point differential. Pittsburgh drops to 6-3 and a one-game skid, Cleveland 6-4, Baltimore 4-6 and losers of five straight.",
       "the_take": "The 78 rushing yards on 20 carries will keep the 'can they keep winning throwing this much' talk alive, per the ESPN segment. With Burrow at 35/44 and no turnovers, that's a feature, not a flaw."
     },
-    "postgame_for": "401873064",
-    "league": {
-      "lines": [
-        " Sunday night in Mexico City: 8-1 San Francisco hosts 7-2 Minnesota at Estadio Banorte, Mon 23 Nov 9:20 am Perth. SF -3.5, total 46.5. Best game of the week.",
-        "Pittsburgh goes to Philadelphia as a 3.5-point favourite with a 38.5 total, Mon 23 Nov 2:00 am Perth. The Eagles are 2-7, the Steelers 6-3 after losing in Cincinnati.",
-        "Baltimore is 4-6 on a five-game slide and is an underdog at Carolina, CAR -3, total 43.5. Ravens lost 23-20 at home to the 1-8 Chargers last week.",
-        "Houston already banked Week 11, beating Indianapolis 26-3. C.J. Stroud went 21/27 for 194 and 3 TD. The Colts fall to 3-8.",
-        "Buffalo at 8-1 is laying 16.5 to Miami, and Kansas City is 16.5 over Arizona. Two of the cheapest-looking AFC spots on the board.",
-        "Denver, 7-2, hosts the Raiders as a 10.5-point favourite with a 40.5 total, Mon 23 Nov 5:25 am Perth."
-      ]
-    }
+    "postgame_for": "401873064"
   },
   "written_at": "2026-11-20T06:40:12.459Z",
   "last_error": null

@@ -1,5 +1,5 @@
 {
-  "now_perth": "Fri, 20 Nov, 2:40 pm",
+  "now_perth": "Sat, 21 Nov, 3:50 am",
   "bengals_next": {
     "id": "401873078",
     "week": 11,
@@ -8,13 +8,13 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Partly cloudy",
-      "tempF": 52,
-      "tempC": 11
+      "text": "Intermittent clouds",
+      "tempF": 53,
+      "tempC": 12
     },
     "moneyline": {
-      "away": "-283",
-      "home": "+231"
+      "away": "-294",
+      "home": "+240"
     },
     "detail": "11/23 - 8:15 PM EST",
     "final": false,
@@ -285,6 +285,12 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 11 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "summary": "Joe Burrow vs. Jayden Daniels? Fernando Mendoza vs. Bo Nix? There are 12 more games in Week 11, and we have picks, predictions and more for all of them.",
+      "published": "2026-11-20T11:41:43Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026"
+    },
+    {
       "headline": "Is Burrow's illness any cause for concern?",
       "summary": "Ben Baby breaks down if Joe Burrow missing practice due to illness is a concern.",
       "published": "2026-11-20T02:22:37Z",
@@ -325,15 +331,15 @@
       "summary": "Can the Bengals succeed in the postseason with a pass-heavy offense?",
       "published": "2026-11-19T15:48:55Z",
       "url": "https://www.espn.com/video/clip/_/id/50531470/can-bengals-succeed-postseason-pass-heavy-offense"
-    },
-    {
-      "headline": "Midseason reports on every NFL team's offensive coordinator, playcaller",
-      "summary": "Here's the good and the bad for each offensive coordinator or playcaller through Week 10, plus keys to their success the rest of the way.",
-      "published": "2026-11-19T17:37:25Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50520404/nfl-offensive-coordinators-playcallers-midseason-report"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "NFL offseason free agent and trade acquisitions that have and have not worked",
+      "summary": "Kenneth Walker III and Devin Lloyd look great with their new teams in 2026. But Jaylen Waddle and Alontae Taylor haven't quite found their groove.",
+      "published": "2026-11-20T11:42:26Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50525533/2026-offseason-change-scenery-fits-players-new-teams"
+    },
     {
       "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
       "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
@@ -375,12 +381,6 @@
       "summary": "Washington is moving closer to the defense it wants to be. Monday will provide a benchmark for its progress.",
       "published": "2026-11-20T03:35:34Z",
       "url": "https://www.espn.com/nfl/story/_/id/50532934/commanders-defense-bengals-offense-joe-burrow"
-    },
-    {
-      "headline": "Midseason reports on every NFL team's offensive coordinator, playcaller",
-      "summary": "Here's the good and the bad for each offensive coordinator or playcaller through Week 10, plus keys to their success the rest of the way.",
-      "published": "2026-11-19T17:37:25Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50520404/nfl-offensive-coordinators-playcallers-midseason-report"
     }
   ],
   "league_week": 11,
@@ -1222,12 +1222,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 55,
+        "tempF": 56,
         "tempC": 13
       },
       "moneyline": {
-        "away": "+442",
-        "home": "-594"
+        "away": "+447",
+        "home": "-600"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1266,12 +1266,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 61,
+        "tempC": 16
       },
       "moneyline": {
-        "away": "+299",
-        "home": "-376"
+        "away": "+305",
+        "home": "-383"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1310,12 +1310,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 58,
-        "tempC": 14
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
-        "away": "+213",
-        "home": "-258"
+        "away": "+195",
+        "home": "-236"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1335,7 +1335,7 @@
         "winner": null,
         "record": "3-6"
       },
-      "line": "DET -6",
+      "line": "DET -5.5",
       "overUnder": 45.5,
       "venue": "Ford Field",
       "city": "Detroit",
@@ -1358,8 +1358,8 @@
         "tempC": 9
       },
       "moneyline": {
-        "away": "+840",
-        "home": "-1420"
+        "away": "+950",
+        "home": "-1760"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1397,13 +1397,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Rain",
         "tempF": 60,
         "tempC": 16
       },
       "moneyline": {
-        "away": "-203",
-        "home": "+170"
+        "away": "-198",
+        "home": "+166"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1424,7 +1424,7 @@
         "record": "6-3"
       },
       "line": "PIT -3.5",
-      "overUnder": 38.5,
+      "overUnder": 37.5,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "tv": [
@@ -1442,11 +1442,11 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 61,
-        "tempC": 16
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
-        "away": "+123",
+        "away": "+124",
         "home": "-146"
       },
       "detail": "11/22 - 1:00 PM EST",
@@ -1467,7 +1467,7 @@
         "winner": null,
         "record": "4-6"
       },
-      "line": "CAR -3",
+      "line": "CAR -2.5",
       "overUnder": 43.5,
       "venue": "Bank of America Stadium",
       "city": "Charlotte",
@@ -1485,13 +1485,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
+        "text": "Intermittent clouds",
         "tempF": 69,
         "tempC": 21
       },
       "moneyline": {
-        "away": "+140",
-        "home": "-167"
+        "away": "+144",
+        "home": "-172"
       },
       "detail": "11/22 - 4:05 PM EST",
       "final": false,
@@ -1529,13 +1529,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 45,
-        "tempC": 7
+        "text": "Partly sunny",
+        "tempF": 43,
+        "tempC": 6
       },
       "moneyline": {
-        "away": "+455",
-        "home": "-620"
+        "away": "+446",
+        "home": "-600"
       },
       "detail": "11/22 - 4:25 PM EST",
       "final": false,
@@ -1555,7 +1555,7 @@
         "winner": null,
         "record": "4-6"
       },
-      "line": "DEN -10.5",
+      "line": "DEN -10",
       "overUnder": 40.5,
       "venue": "Empower Field at Mile High",
       "city": "Denver",
@@ -1573,13 +1573,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Rain",
         "tempF": 59,
         "tempC": 15
       },
       "moneyline": {
-        "away": "-257",
-        "home": "+212"
+        "away": "-266",
+        "home": "+218"
       },
       "detail": "11/22 - 4:25 PM EST",
       "final": false,
@@ -1618,8 +1618,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+145",
-        "home": "-172"
+        "away": "+144",
+        "home": "-171"
       },
       "detail": "11/22 - 8:20 PM EST",
       "final": false,
@@ -1639,7 +1639,7 @@
         "winner": null,
         "record": "7-2"
       },
-      "line": "SF -3.5",
+      "line": "SF -3",
       "overUnder": 46.5,
       "venue": "Estadio Banorte",
       "city": "Mexico City",
