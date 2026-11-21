@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 21 Nov, 3:50 am",
+  "now_perth": "Sat, 21 Nov, 2:33 pm",
   "bengals_next": {
     "id": "401873078",
     "week": 11,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Intermittent clouds",
-      "tempF": 53,
+      "tempF": 54,
       "tempC": 12
     },
     "moneyline": {
-      "away": "-294",
-      "home": "+240"
+      "away": "-300",
+      "home": "+244"
     },
     "detail": "11/23 - 8:15 PM EST",
     "final": false,
@@ -285,9 +285,39 @@
   },
   "news_bengals": [
     {
+      "headline": "Joe Burrow, Bengals gearing up for MNF",
+      "summary": "Ben Baby previews Joe Burrow's mindset heading into Monday night against the Commanders.",
+      "published": "2026-11-21T01:08:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/50545144/joe-burrow-bengals-gearing-mnf"
+    },
+    {
+      "headline": "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
+      "summary": "A full participant at practice for the second straight day despite the bug that he has battled, Bengals quarterback Joe Burrow is optimistic that he'll be at full strength when Cincinnati plays the Washington Commanders on \"Monday Night Football.\"",
+      "published": "2026-11-20T23:37:55Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50544261/burrow-practices-again-full-strength-mnf"
+    },
+    {
+      "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
+      "published": "2026-11-20T22:49:33Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms"
+    },
+    {
+      "headline": "NFL Week 11 betting odds: Lines and totals for every game",
+      "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
+      "published": "2026-11-20T20:13:57Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "Why Stephen A. thinks 'special' Joe Burrow is the MVP front-runner",
+      "summary": "Why Stephen A. thinks 'special' Joe Burrow is the MVP front-runner",
+      "published": "2026-11-20T16:14:39Z",
+      "url": "https://www.espn.com/video/clip/_/id/50541578/why-stephen-thinks-special-joe-burrow-mvp-front-runner"
+    },
+    {
       "headline": "NFL Week 11 preview: Picks, predictions, schedule, betting odds, fantasy tips",
       "summary": "Joe Burrow vs. Jayden Daniels? Fernando Mendoza vs. Bo Nix? There are 12 more games in Week 11, and we have picks, predictions and more for all of them.",
-      "published": "2026-11-20T11:41:43Z",
+      "published": "2026-11-20T18:48:27Z",
       "url": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026"
     },
     {
@@ -297,54 +327,42 @@
       "url": "https://www.espn.com/video/clip/_/id/50536536/is-burrow-illness-cause-concern"
     },
     {
-      "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
-      "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
-      "published": "2026-11-20T01:40:33Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms"
-    },
-    {
       "headline": "Commanders' defense preparing for high-flying Bengals offense",
       "summary": "— Washington Commanders coach Dan Quinn knows the challenge facing his defense for Monday night's game against the Cincinnati Bengals.",
       "published": "2026-11-20T00:07:43Z",
       "url": "http://www.espn.com/nfl/preview?gameId=401873078"
-    },
-    {
-      "headline": "NFL Week 11 arrivals: C.J. Stroud leads the way ahead of Colts-Texans",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-20T01:01:16Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
-    },
-    {
-      "headline": "Bengals, Reds pay tribute to Fiona the hippo after her death",
-      "summary": "The world-famous hippopotamus passed away Thursday after ingesting a hat that made its way into her enclosure.",
-      "published": "2026-11-19T23:23:55Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50534625/cincinnati-bengals-reds-fiona-hippo"
-    },
-    {
-      "headline": "Bengals offense will be biggest test yet for Commanders' improving defense",
-      "summary": "Washington is moving closer to the defense it wants to be. Monday will provide a benchmark for its progress.",
-      "published": "2026-11-20T03:35:34Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50532934/commanders-defense-bengals-offense-joe-burrow"
-    },
-    {
-      "headline": "Can the Bengals succeed in the postseason with a pass-heavy offense?",
-      "summary": "Can the Bengals succeed in the postseason with a pass-heavy offense?",
-      "published": "2026-11-19T15:48:55Z",
-      "url": "https://www.espn.com/video/clip/_/id/50531470/can-bengals-succeed-postseason-pass-heavy-offense"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
+      "summary": "A full participant at practice for the second straight day despite the bug that he has battled, Bengals quarterback Joe Burrow is optimistic that he'll be at full strength when Cincinnati plays the Washington Commanders on \"Monday Night Football.\"",
+      "published": "2026-11-20T23:37:55Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50544261/burrow-practices-again-full-strength-mnf"
+    },
+    {
+      "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
+      "published": "2026-11-20T22:49:33Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms"
+    },
+    {
+      "headline": "Commanders confident in Jayden Daniels",
+      "summary": "John Keim breaks down why the Commanders believe in Jayden Daniels.",
+      "published": "2026-11-20T22:18:02Z",
+      "url": "https://www.espn.com/video/clip/_/id/50543810/commanders-confident-jayden-daniels"
+    },
+    {
+      "headline": "NFL Week 11 betting odds: Lines and totals for every game",
+      "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
+      "published": "2026-11-20T20:13:57Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
+    },
     {
       "headline": "NFL offseason free agent and trade acquisitions that have and have not worked",
       "summary": "Kenneth Walker III and Devin Lloyd look great with their new teams in 2026. But Jaylen Waddle and Alontae Taylor haven't quite found their groove.",
       "published": "2026-11-20T11:42:26Z",
       "url": "https://www.espn.com/nfl/story/_/id/50525533/2026-offseason-change-scenery-fits-players-new-teams"
-    },
-    {
-      "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
-      "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
-      "published": "2026-11-20T01:40:33Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms"
     },
     {
       "headline": "How will the Commanders blitz fare against Joe Burrow?",
@@ -363,24 +381,6 @@
       "summary": "A guide to the Commanders quarterback's upcoming search for love and how his NFL commitments could shape the season.",
       "published": "2026-11-20T00:28:17Z",
       "url": "https://www.espn.com/nfl/story/_/id/50533430/sam-hartman-bachelor-commanders-quarterback"
-    },
-    {
-      "headline": "Commanders' defense preparing for high-flying Bengals offense",
-      "summary": "— Washington Commanders coach Dan Quinn knows the challenge facing his defense for Monday night's game against the Cincinnati Bengals.",
-      "published": "2026-11-20T00:07:43Z",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873078"
-    },
-    {
-      "headline": "NFL Week 11 arrivals: C.J. Stroud leads the way ahead of Colts-Texans",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-20T01:01:16Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
-    },
-    {
-      "headline": "Bengals offense will be biggest test yet for Commanders' improving defense",
-      "summary": "Washington is moving closer to the defense it wants to be. Monday will provide a benchmark for its progress.",
-      "published": "2026-11-20T03:35:34Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50532934/commanders-defense-bengals-offense-joe-burrow"
     }
   ],
   "league_week": 11,
@@ -1222,12 +1222,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 56,
+        "tempF": 55,
         "tempC": 13
       },
       "moneyline": {
-        "away": "+447",
-        "home": "-600"
+        "away": "+449",
+        "home": "-610"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1266,11 +1266,11 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 61,
-        "tempC": 16
+        "tempF": 64,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+305",
+        "away": "+304",
         "home": "-383"
       },
       "detail": "11/22 - 1:00 PM EST",
@@ -1310,11 +1310,11 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 59,
-        "tempC": 15
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": {
-        "away": "+195",
+        "away": "+196",
         "home": "-236"
       },
       "detail": "11/22 - 1:00 PM EST",
@@ -1353,13 +1353,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 48,
+        "text": "Partly sunny",
+        "tempF": 49,
         "tempC": 9
       },
       "moneyline": {
-        "away": "+950",
-        "home": "-1760"
+        "away": "+930",
+        "home": "-1680"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1398,12 +1398,12 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 60,
+        "tempF": 61,
         "tempC": 16
       },
       "moneyline": {
-        "away": "-198",
-        "home": "+166"
+        "away": "-197",
+        "home": "+165"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1446,8 +1446,8 @@
         "tempC": 15
       },
       "moneyline": {
-        "away": "+124",
-        "home": "-146"
+        "away": "+127",
+        "home": "-150"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1467,7 +1467,7 @@
         "winner": null,
         "record": "4-6"
       },
-      "line": "CAR -2.5",
+      "line": "CAR -3",
       "overUnder": 43.5,
       "venue": "Bank of America Stadium",
       "city": "Charlotte",
@@ -1486,12 +1486,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 69,
-        "tempC": 21
+        "tempF": 68,
+        "tempC": 20
       },
       "moneyline": {
         "away": "+144",
-        "home": "-172"
+        "home": "-171"
       },
       "detail": "11/22 - 4:05 PM EST",
       "final": false,
@@ -1534,8 +1534,8 @@
         "tempC": 6
       },
       "moneyline": {
-        "away": "+446",
-        "home": "-600"
+        "away": "+436",
+        "home": "-583"
       },
       "detail": "11/22 - 4:25 PM EST",
       "final": false,
@@ -1555,7 +1555,7 @@
         "winner": null,
         "record": "4-6"
       },
-      "line": "DEN -10",
+      "line": "DEN -10.5",
       "overUnder": 40.5,
       "venue": "Empower Field at Mile High",
       "city": "Denver",
@@ -1574,12 +1574,12 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 59,
-        "tempC": 15
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": {
-        "away": "-266",
-        "home": "+218"
+        "away": "-254",
+        "home": "+210"
       },
       "detail": "11/22 - 4:25 PM EST",
       "final": false,
@@ -1618,8 +1618,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+144",
-        "home": "-171"
+        "away": "+145",
+        "home": "-172"
       },
       "detail": "11/22 - 8:20 PM EST",
       "final": false,
