@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 21 Nov, 2:33 pm",
+  "now_perth": "Sun, 22 Nov, 2:56 am",
   "bengals_next": {
     "id": "401873078",
     "week": 11,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Intermittent clouds",
-      "tempF": 54,
-      "tempC": 12
+      "tempF": 52,
+      "tempC": 11
     },
     "moneyline": {
-      "away": "-300",
-      "home": "+244"
+      "away": "-303",
+      "home": "+247"
     },
     "detail": "11/23 - 8:15 PM EST",
     "final": false,
@@ -35,7 +35,7 @@
       "record": "7-2"
     },
     "line": "CIN -6",
-    "overUnder": 53.5,
+    "overUnder": 54.5,
     "venue": "Northwest Stadium",
     "city": "Landover",
     "tv": [
@@ -285,6 +285,18 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 11 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+      "summary": "Eagles upsetting the Steelers? Big receiving day for Christian McCaffrey? Touchdown for Josh Downs? Let's predict 15 things for Week 11.",
+      "published": "2026-11-21T11:49:08Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50521728/week-11-predictions-upsets-fantasy-sleepers-stats-2026"
+    },
+    {
+      "headline": "Why Amarius Mims is an underrated key to Bengals' success",
+      "summary": "Joe Burrow is on an MVP trajectory, and a big reason is his OL, led by Amarius Mims.",
+      "published": "2026-11-21T11:00:10Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50543897/bengals-amarius-mims-pass-protection-joe-burrow"
+    },
+    {
       "headline": "Joe Burrow, Bengals gearing up for MNF",
       "summary": "Ben Baby previews Joe Burrow's mindset heading into Monday night against the Commanders.",
       "published": "2026-11-21T01:08:04Z",
@@ -293,7 +305,7 @@
     {
       "headline": "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
       "summary": "A full participant at practice for the second straight day despite the bug that he has battled, Bengals quarterback Joe Burrow is optimistic that he'll be at full strength when Cincinnati plays the Washington Commanders on \"Monday Night Football.\"",
-      "published": "2026-11-20T23:37:55Z",
+      "published": "2026-11-21T12:51:42Z",
       "url": "https://www.espn.com/nfl/story/_/id/50544261/burrow-practices-again-full-strength-mnf"
     },
     {
@@ -319,25 +331,19 @@
       "summary": "Joe Burrow vs. Jayden Daniels? Fernando Mendoza vs. Bo Nix? There are 12 more games in Week 11, and we have picks, predictions and more for all of them.",
       "published": "2026-11-20T18:48:27Z",
       "url": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026"
-    },
-    {
-      "headline": "Is Burrow's illness any cause for concern?",
-      "summary": "Ben Baby breaks down if Joe Burrow missing practice due to illness is a concern.",
-      "published": "2026-11-20T02:22:37Z",
-      "url": "https://www.espn.com/video/clip/_/id/50536536/is-burrow-illness-cause-concern"
-    },
-    {
-      "headline": "Commanders' defense preparing for high-flying Bengals offense",
-      "summary": "— Washington Commanders coach Dan Quinn knows the challenge facing his defense for Monday night's game against the Cincinnati Bengals.",
-      "published": "2026-11-20T00:07:43Z",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873078"
     }
   ],
   "news_opponent": [
     {
+      "headline": "NFL Week 11 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+      "summary": "Eagles upsetting the Steelers? Big receiving day for Christian McCaffrey? Touchdown for Josh Downs? Let's predict 15 things for Week 11.",
+      "published": "2026-11-21T11:49:08Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50521728/week-11-predictions-upsets-fantasy-sleepers-stats-2026"
+    },
+    {
       "headline": "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
       "summary": "A full participant at practice for the second straight day despite the bug that he has battled, Bengals quarterback Joe Burrow is optimistic that he'll be at full strength when Cincinnati plays the Washington Commanders on \"Monday Night Football.\"",
-      "published": "2026-11-20T23:37:55Z",
+      "published": "2026-11-21T12:51:42Z",
       "url": "https://www.espn.com/nfl/story/_/id/50544261/burrow-practices-again-full-strength-mnf"
     },
     {
@@ -375,12 +381,6 @@
       "summary": "The limited-edition collectible vessel can hold 16 ounces of beer, equipped with a gold spear at the end of it.",
       "published": "2026-11-20T00:29:58Z",
       "url": "https://www.espn.com/nfl/story/_/id/50535323/washington-commanders-beer-spear"
-    },
-    {
-      "headline": "Sam Hartman's next drive: 'The Bachelor' questions answered",
-      "summary": "A guide to the Commanders quarterback's upcoming search for love and how his NFL commitments could shape the season.",
-      "published": "2026-11-20T00:28:17Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50533430/sam-hartman-bachelor-commanders-quarterback"
     }
   ],
   "league_week": 11,
@@ -1178,12 +1178,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 65,
-        "tempC": 18
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "+920",
-        "home": "-1640"
+        "away": "+880",
+        "home": "-1540"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1221,13 +1221,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 55,
+        "text": "Showers",
+        "tempF": 56,
         "tempC": 13
       },
       "moneyline": {
-        "away": "+449",
-        "home": "-610"
+        "away": "+431",
+        "home": "-574"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1266,12 +1266,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 64,
-        "tempC": 18
+        "tempF": 63,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "+304",
-        "home": "-383"
+        "away": "+284",
+        "home": "-355"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1291,7 +1291,7 @@
         "winner": null,
         "record": "1-8"
       },
-      "line": "DAL -8.5",
+      "line": "DAL -7.5",
       "overUnder": 54.5,
       "venue": "AT&T Stadium",
       "city": "Arlington",
@@ -1309,13 +1309,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 60,
-        "tempC": 16
+        "text": "Intermittent clouds",
+        "tempF": 58,
+        "tempC": 14
       },
       "moneyline": {
-        "away": "+196",
-        "home": "-236"
+        "away": "+178",
+        "home": "-213"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1335,8 +1335,8 @@
         "winner": null,
         "record": "3-6"
       },
-      "line": "DET -5.5",
-      "overUnder": 45.5,
+      "line": "DET -4.5",
+      "overUnder": 46.5,
       "venue": "Ford Field",
       "city": "Detroit",
       "tv": [
@@ -1353,13 +1353,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
-        "tempF": 49,
-        "tempC": 9
+        "text": "Sunny",
+        "tempF": 51,
+        "tempC": 11
       },
       "moneyline": {
-        "away": "+930",
-        "home": "-1680"
+        "away": "+860",
+        "home": "-1480"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1379,7 +1379,7 @@
         "winner": null,
         "record": "3-7"
       },
-      "line": "KC -16.5",
+      "line": "KC -15.5",
       "overUnder": 40.5,
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
@@ -1397,13 +1397,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
-        "tempF": 61,
-        "tempC": 16
+        "text": "Cloudy",
+        "tempF": 62,
+        "tempC": 17
       },
       "moneyline": {
-        "away": "-197",
-        "home": "+165"
+        "away": "-196",
+        "home": "+164"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1446,8 +1446,8 @@
         "tempC": 15
       },
       "moneyline": {
-        "away": "+127",
-        "home": "-150"
+        "away": "+125",
+        "home": "-148"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1512,7 +1512,7 @@
         "record": "2-8"
       },
       "line": "LAC -3",
-      "overUnder": 41.5,
+      "overUnder": 42.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
       "tv": [
@@ -1529,13 +1529,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
+        "text": "Intermittent clouds",
         "tempF": 43,
         "tempC": 6
       },
       "moneyline": {
-        "away": "+436",
-        "home": "-583"
+        "away": "+456",
+        "home": "-620"
       },
       "detail": "11/22 - 4:25 PM EST",
       "final": false,
@@ -1574,11 +1574,11 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 60,
-        "tempC": 16
+        "tempF": 59,
+        "tempC": 15
       },
       "moneyline": {
-        "away": "-254",
+        "away": "-255",
         "home": "+210"
       },
       "detail": "11/22 - 4:25 PM EST",
@@ -1639,7 +1639,7 @@
         "winner": null,
         "record": "7-2"
       },
-      "line": "SF -3",
+      "line": "SF -3.5",
       "overUnder": 46.5,
       "venue": "Estadio Banorte",
       "city": "Mexico City",
