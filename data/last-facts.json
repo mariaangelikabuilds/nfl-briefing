@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sun, 22 Nov, 2:00 pm",
+  "now_perth": "Mon, 23 Nov, 3:16 am",
   "bengals_next": {
     "id": "401873078",
     "week": 11,
@@ -8,13 +8,13 @@
     "state": "pre",
     "clock": null,
     "weather": {
-      "text": "Intermittent clouds",
-      "tempF": 52,
-      "tempC": 11
+      "text": "Partly cloudy",
+      "tempF": 53,
+      "tempC": 12
     },
     "moneyline": {
-      "away": "-300",
-      "home": "+244"
+      "away": "-296",
+      "home": "+241"
     },
     "detail": "11/23 - 8:15 PM EST",
     "final": false,
@@ -100,7 +100,7 @@
     ],
     "kickoff_perth": "Mon, 16 Nov, 9:20 am"
   },
-  "write_pregame": true,
+  "write_pregame": false,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -285,6 +285,12 @@
   },
   "news_bengals": [
     {
+      "headline": "NFL Week 11 arrivals: CeeDee Lamb leads the way ahead of Titans-Cowboys",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-22T17:13:29Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
+    },
+    {
       "headline": "NFL Week 11 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
       "summary": "Eagles upsetting the Steelers? Big receiving day for Christian McCaffrey? Touchdown for Josh Downs? Let's predict 15 things for Week 11.",
       "published": "2026-11-21T11:49:08Z",
@@ -325,15 +331,15 @@
       "summary": "Why Stephen A. thinks 'special' Joe Burrow is the MVP front-runner",
       "published": "2026-11-20T16:14:39Z",
       "url": "https://www.espn.com/video/clip/_/id/50541578/why-stephen-thinks-special-joe-burrow-mvp-front-runner"
-    },
-    {
-      "headline": "NFL Week 11 preview: Picks, predictions, schedule, betting odds, fantasy tips",
-      "summary": "Joe Burrow vs. Jayden Daniels? Fernando Mendoza vs. Bo Nix? There are 12 more games in Week 11, and we have picks, predictions and more for all of them.",
-      "published": "2026-11-20T18:48:27Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "NFL Week 11 arrivals: CeeDee Lamb leads the way ahead of Titans-Cowboys",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-22T17:13:29Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
+    },
     {
       "headline": "NFL Week 11 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
       "summary": "Eagles upsetting the Steelers? Big receiving day for Christian McCaffrey? Touchdown for Josh Downs? Let's predict 15 things for Week 11.",
@@ -375,12 +381,6 @@
       "summary": "John Keim previews the Commanders matchup against the Bengals on Monday night.",
       "published": "2026-11-20T00:32:01Z",
       "url": "https://www.espn.com/video/clip/_/id/50535562/how-commanders-blitz-fare-joe-burrow"
-    },
-    {
-      "headline": "Washington Commanders unveil 'Beer Spear' ahead of 'Hail Raiser' debut on 'MNF'",
-      "summary": "The limited-edition collectible vessel can hold 16 ounces of beer, equipped with a gold spear at the end of it.",
-      "published": "2026-11-20T00:29:58Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50535323/washington-commanders-beer-spear"
     }
   ],
   "league_week": 11,
@@ -1174,18 +1174,15 @@
       "week": 11,
       "kickoff": "2026-11-22T18:00Z",
       "timeValid": true,
-      "state": "pre",
-      "clock": null,
+      "state": "in",
+      "clock": "2:00 Q2",
       "weather": {
-        "text": "Partly sunny",
+        "text": "2",
         "tempF": 66,
         "tempC": 19
       },
-      "moneyline": {
-        "away": "+900",
-        "home": "-1580"
-      },
-      "detail": "11/22 - 1:00 PM EST",
+      "moneyline": null,
+      "detail": "2:00 - 2nd",
       "final": false,
       "home": {
         "id": "2",
@@ -1203,8 +1200,8 @@
         "winner": null,
         "record": "1-8"
       },
-      "line": "BUF -16.5",
-      "overUnder": 44.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Highmark Stadium",
       "city": "Orchard Park",
       "tv": [
@@ -1218,18 +1215,15 @@
       "week": 11,
       "kickoff": "2026-11-22T18:00Z",
       "timeValid": true,
-      "state": "pre",
-      "clock": null,
+      "state": "in",
+      "clock": "3:34 Q2",
       "weather": {
-        "text": "Rain",
-        "tempF": 56,
-        "tempC": 13
+        "text": "12",
+        "tempF": 51,
+        "tempC": 11
       },
-      "moneyline": {
-        "away": "+471",
-        "home": "-640"
-      },
-      "detail": "11/22 - 1:00 PM EST",
+      "moneyline": null,
+      "detail": "3:34 - 2nd",
       "final": false,
       "home": {
         "id": "3",
@@ -1247,8 +1241,8 @@
         "winner": null,
         "record": "3-6"
       },
-      "line": "CHI -11.5",
-      "overUnder": 48.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Soldier Field",
       "city": "Chicago",
       "tv": [
@@ -1262,18 +1256,15 @@
       "week": 11,
       "kickoff": "2026-11-22T18:00Z",
       "timeValid": true,
-      "state": "pre",
-      "clock": null,
+      "state": "in",
+      "clock": "4:08 Q2",
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 62,
-        "tempC": 17
+        "text": "7",
+        "tempF": 57,
+        "tempC": 14
       },
-      "moneyline": {
-        "away": "+276",
-        "home": "-343"
-      },
-      "detail": "11/22 - 1:00 PM EST",
+      "moneyline": null,
+      "detail": "4:08 - 2nd",
       "final": false,
       "home": {
         "id": "6",
@@ -1291,8 +1282,8 @@
         "winner": null,
         "record": "1-8"
       },
-      "line": "DAL -7.5",
-      "overUnder": 54.5,
+      "line": null,
+      "overUnder": null,
       "venue": "AT&T Stadium",
       "city": "Arlington",
       "tv": [
@@ -1306,18 +1297,15 @@
       "week": 11,
       "kickoff": "2026-11-22T18:00Z",
       "timeValid": true,
-      "state": "pre",
-      "clock": null,
+      "state": "in",
+      "clock": "0:20 Q2",
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 57,
-        "tempC": 14
+        "text": "6",
+        "tempF": 61,
+        "tempC": 16
       },
-      "moneyline": {
-        "away": "+167",
-        "home": "-200"
-      },
-      "detail": "11/22 - 1:00 PM EST",
+      "moneyline": null,
+      "detail": "0:20 - 2nd",
       "final": false,
       "home": {
         "id": "8",
@@ -1335,8 +1323,8 @@
         "winner": null,
         "record": "3-6"
       },
-      "line": "DET -3.5",
-      "overUnder": 47.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Ford Field",
       "city": "Detroit",
       "tv": [
@@ -1350,18 +1338,15 @@
       "week": 11,
       "kickoff": "2026-11-22T18:00Z",
       "timeValid": true,
-      "state": "pre",
-      "clock": null,
+      "state": "in",
+      "clock": "1:10 Q2",
       "weather": {
-        "text": "Sunny",
-        "tempF": 50,
-        "tempC": 10
+        "text": "1",
+        "tempF": 49,
+        "tempC": 9
       },
-      "moneyline": {
-        "away": "+860",
-        "home": "-1480"
-      },
-      "detail": "11/22 - 1:00 PM EST",
+      "moneyline": null,
+      "detail": "1:10 - 2nd",
       "final": false,
       "home": {
         "id": "12",
@@ -1379,8 +1364,8 @@
         "winner": null,
         "record": "3-7"
       },
-      "line": "KC -15.5",
-      "overUnder": 40.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
       "tv": [
@@ -1394,18 +1379,15 @@
       "week": 11,
       "kickoff": "2026-11-22T18:00Z",
       "timeValid": true,
-      "state": "pre",
-      "clock": null,
+      "state": "in",
+      "clock": "1:51 Q2",
       "weather": {
-        "text": "Cloudy",
-        "tempF": 62,
-        "tempC": 17
+        "text": "6",
+        "tempF": 64,
+        "tempC": 18
       },
-      "moneyline": {
-        "away": "-191",
-        "home": "+160"
-      },
-      "detail": "11/22 - 1:00 PM EST",
+      "moneyline": null,
+      "detail": "1:51 - 2nd",
       "final": false,
       "home": {
         "id": "21",
@@ -1423,8 +1405,8 @@
         "winner": null,
         "record": "6-3"
       },
-      "line": "PIT -3.5",
-      "overUnder": 37.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "tv": [
@@ -1438,18 +1420,15 @@
       "week": 11,
       "kickoff": "2026-11-22T18:00Z",
       "timeValid": true,
-      "state": "pre",
-      "clock": null,
+      "state": "in",
+      "clock": "5:12 Q2",
       "weather": {
-        "text": "Cloudy",
+        "text": "7",
         "tempF": 58,
         "tempC": 14
       },
-      "moneyline": {
-        "away": "+123",
-        "home": "-145"
-      },
-      "detail": "11/22 - 1:00 PM EST",
+      "moneyline": null,
+      "detail": "5:12 - 2nd",
       "final": false,
       "home": {
         "id": "29",
@@ -1467,8 +1446,8 @@
         "winner": null,
         "record": "4-6"
       },
-      "line": "CAR -3",
-      "overUnder": 43.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Bank of America Stadium",
       "city": "Charlotte",
       "tv": [
@@ -1485,13 +1464,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 68,
-        "tempC": 20
+        "text": "Partly sunny",
+        "tempF": 66,
+        "tempC": 19
       },
       "moneyline": {
-        "away": "+144",
-        "home": "-171"
+        "away": "+150",
+        "home": "-178"
       },
       "detail": "11/22 - 4:05 PM EST",
       "final": false,
@@ -1512,7 +1491,7 @@
         "record": "2-8"
       },
       "line": "LAC -3",
-      "overUnder": 41.5,
+      "overUnder": 43.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
       "tv": [
@@ -1529,13 +1508,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
+        "text": "Mostly sunny",
         "tempF": 43,
         "tempC": 6
       },
       "moneyline": {
-        "away": "+476",
-        "home": "-650"
+        "away": "+444",
+        "home": "-596"
       },
       "detail": "11/22 - 4:25 PM EST",
       "final": false,
@@ -1574,12 +1553,12 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 59,
-        "tempC": 15
+        "tempF": 60,
+        "tempC": 16
       },
       "moneyline": {
-        "away": "-254",
-        "home": "+210"
+        "away": "-265",
+        "home": "+218"
       },
       "detail": "11/22 - 4:25 PM EST",
       "final": false,
@@ -1618,8 +1597,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+144",
-        "home": "-171"
+        "away": "+148",
+        "home": "-176"
       },
       "detail": "11/22 - 8:20 PM EST",
       "final": false,
@@ -1639,7 +1618,7 @@
         "winner": null,
         "record": "7-2"
       },
-      "line": "SF -3",
+      "line": "SF -3.5",
       "overUnder": 46.5,
       "venue": "Estadio Banorte",
       "city": "Mexico City",

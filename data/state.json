@@ -153,6 +153,16 @@
     "401873066"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Vikings at 49ers in Mexico City, Monday 9:20am Perth on NBC. SF -3, total 46.5. Both teams 8-1 and 7-2. Best game on the slate.",
+        "Steelers at Eagles, Monday 2:00am Perth. PIT -3.5 on the road at 2-7 Philadelphia, total just 37.5. Pittsburgh is 6-3 and coming off that 38-18 loss in Cincinnati.",
+        "Ravens at Carolina, Monday 2:00am Perth. CAR -3. Baltimore is 4-6 on a five-game slide after losing 23-20 at home to the 1-8 Chargers.",
+        "Buccaneers at Lions, DET -3.5, total 47.5. Detroit is 7-2 after a 35-10 win over New England in Munich, Jahmyr Gibbs going for 153 and two scores.",
+        "Bills -16.5 on Miami and Chiefs -15.5 on Arizona. Buffalo is 8-1, Kansas City 7-2 after Mahomes threw for 348 and five in Atlanta.",
+        "Jaguars -6 at the Giants in the rain. Jacksonville is 7-2 off a 40-23 win in Tennessee."
+      ]
+    },
     "pregame": {
       "matchup_read": "Bengals at Washington, Tuesday 9:15am Perth on ESPN, CIN -6 with the total at 54.5. Cincinnati is 7-2 and riding a five-game win streak into a 3-5-1 home side. Intermittent clouds, 52F.",
       "storylines": [
@@ -179,17 +189,7 @@
       "division_meaning": "Bengals 7-2 on a five-game win streak with a plus-85 point differential. Pittsburgh drops to 6-3 and a one-game skid, Cleveland 6-4, Baltimore 4-6 and losers of five straight.",
       "the_take": "The 78 rushing yards on 20 carries will keep the 'can they keep winning throwing this much' talk alive, per the ESPN segment. With Burrow at 35/44 and no turnovers, that's a feature, not a flaw."
     },
-    "postgame_for": "401873064",
-    "league": {
-      "lines": [
-        "Vikings at 49ers in Mexico City, Monday 9:20am Perth on NBC. SF -3, total 46.5. Both teams 8-1 and 7-2. Best game on the slate.",
-        "Steelers at Eagles, Monday 2:00am Perth. PIT -3.5 on the road at 2-7 Philadelphia, total just 37.5. Pittsburgh is 6-3 and coming off that 38-18 loss in Cincinnati.",
-        "Ravens at Carolina, Monday 2:00am Perth. CAR -3. Baltimore is 4-6 on a five-game slide after losing 23-20 at home to the 1-8 Chargers.",
-        "Buccaneers at Lions, DET -3.5, total 47.5. Detroit is 7-2 after a 35-10 win over New England in Munich, Jahmyr Gibbs going for 153 and two scores.",
-        "Bills -16.5 on Miami and Chiefs -15.5 on Arizona. Buffalo is 8-1, Kansas City 7-2 after Mahomes threw for 348 and five in Atlanta.",
-        "Jaguars -6 at the Giants in the rain. Jacksonville is 7-2 off a 40-23 win in Tennessee."
-      ]
-    }
+    "postgame_for": "401873064"
   },
   "written_at": "2026-11-22T06:00:57.747Z",
   "last_error": null
