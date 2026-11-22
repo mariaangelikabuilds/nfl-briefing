@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sun, 22 Nov, 2:56 am",
+  "now_perth": "Sun, 22 Nov, 2:00 pm",
   "bengals_next": {
     "id": "401873078",
     "week": 11,
@@ -13,8 +13,8 @@
       "tempC": 11
     },
     "moneyline": {
-      "away": "-303",
-      "home": "+247"
+      "away": "-300",
+      "home": "+244"
     },
     "detail": "11/23 - 8:15 PM EST",
     "final": false,
@@ -100,7 +100,7 @@
     ],
     "kickoff_perth": "Mon, 16 Nov, 9:20 am"
   },
-  "write_pregame": false,
+  "write_pregame": true,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -1182,8 +1182,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "+880",
-        "home": "-1540"
+        "away": "+900",
+        "home": "-1580"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1221,13 +1221,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Showers",
+        "text": "Rain",
         "tempF": 56,
         "tempC": 13
       },
       "moneyline": {
-        "away": "+431",
-        "home": "-574"
+        "away": "+471",
+        "home": "-640"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1266,12 +1266,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly cloudy",
-        "tempF": 63,
+        "tempF": 62,
         "tempC": 17
       },
       "moneyline": {
-        "away": "+284",
-        "home": "-355"
+        "away": "+276",
+        "home": "-343"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1310,12 +1310,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 58,
+        "tempF": 57,
         "tempC": 14
       },
       "moneyline": {
-        "away": "+178",
-        "home": "-213"
+        "away": "+167",
+        "home": "-200"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1335,8 +1335,8 @@
         "winner": null,
         "record": "3-6"
       },
-      "line": "DET -4.5",
-      "overUnder": 46.5,
+      "line": "DET -3.5",
+      "overUnder": 47.5,
       "venue": "Ford Field",
       "city": "Detroit",
       "tv": [
@@ -1354,8 +1354,8 @@
       "clock": null,
       "weather": {
         "text": "Sunny",
-        "tempF": 51,
-        "tempC": 11
+        "tempF": 50,
+        "tempC": 10
       },
       "moneyline": {
         "away": "+860",
@@ -1402,8 +1402,8 @@
         "tempC": 17
       },
       "moneyline": {
-        "away": "-196",
-        "home": "+164"
+        "away": "-191",
+        "home": "+160"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1442,12 +1442,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 59,
-        "tempC": 15
+        "tempF": 58,
+        "tempC": 14
       },
       "moneyline": {
-        "away": "+125",
-        "home": "-148"
+        "away": "+123",
+        "home": "-145"
       },
       "detail": "11/22 - 1:00 PM EST",
       "final": false,
@@ -1512,7 +1512,7 @@
         "record": "2-8"
       },
       "line": "LAC -3",
-      "overUnder": 42.5,
+      "overUnder": 41.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
       "tv": [
@@ -1534,8 +1534,8 @@
         "tempC": 6
       },
       "moneyline": {
-        "away": "+456",
-        "home": "-620"
+        "away": "+476",
+        "home": "-650"
       },
       "detail": "11/22 - 4:25 PM EST",
       "final": false,
@@ -1578,7 +1578,7 @@
         "tempC": 15
       },
       "moneyline": {
-        "away": "-255",
+        "away": "-254",
         "home": "+210"
       },
       "detail": "11/22 - 4:25 PM EST",
@@ -1600,7 +1600,7 @@
         "record": "7-2"
       },
       "line": "JAX -6",
-      "overUnder": 46.5,
+      "overUnder": 45.5,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
@@ -1618,8 +1618,8 @@
       "clock": null,
       "weather": null,
       "moneyline": {
-        "away": "+145",
-        "home": "-172"
+        "away": "+144",
+        "home": "-171"
       },
       "detail": "11/22 - 8:20 PM EST",
       "final": false,
@@ -1639,7 +1639,7 @@
         "winner": null,
         "record": "7-2"
       },
-      "line": "SF -3.5",
+      "line": "SF -3",
       "overUnder": 46.5,
       "venue": "Estadio Banorte",
       "city": "Mexico City",

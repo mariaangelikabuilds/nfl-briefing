@@ -153,17 +153,21 @@
     "401873066"
   ],
   "briefing": {
-    "league": {
-      "lines": [
-        " Sunday night in Mexico City: 8-1 San Francisco hosts 7-2 Minnesota at Estadio Banorte, Mon 23 Nov 9:20 am Perth. SF -3.5, total 46.5. Best game of the week.",
-        "Pittsburgh goes to Philadelphia as a 3.5-point favourite with a 38.5 total, Mon 23 Nov 2:00 am Perth. The Eagles are 2-7, the Steelers 6-3 after losing in Cincinnati.",
-        "Baltimore is 4-6 on a five-game slide and is an underdog at Carolina, CAR -3, total 43.5. Ravens lost 23-20 at home to the 1-8 Chargers last week.",
-        "Houston already banked Week 11, beating Indianapolis 26-3. C.J. Stroud went 21/27 for 194 and 3 TD. The Colts fall to 3-8.",
-        "Buffalo at 8-1 is laying 16.5 to Miami, and Kansas City is 16.5 over Arizona. Two of the cheapest-looking AFC spots on the board.",
-        "Denver, 7-2, hosts the Raiders as a 10.5-point favourite with a 40.5 total, Mon 23 Nov 5:25 am Perth."
-      ]
+    "pregame": {
+      "matchup_read": "Bengals at Washington, Tuesday 9:15am Perth on ESPN, CIN -6 with the total at 54.5. Cincinnati is 7-2 and riding a five-game win streak into a 3-5-1 home side. Intermittent clouds, 52F.",
+      "storylines": [
+        "Burrow was a full participant at practice for the second straight day despite a bug, and per ESPN he is optimistic he will be at full strength for Monday night.",
+        "ESPN headline has Stephen A. calling Burrow the MVP front-runner. The 35/44, 409 yard, 4 TD night against Pittsburgh is the evidence.",
+        "ESPN's Ben Baby frames Amarius Mims and the offensive line as an underrated reason Burrow is on that trajectory.",
+        "John Keim previewed how Washington's blitz holds up against Burrow. That is the whole game in one question."
+      ],
+      "watch_for": [
+        "How Washington answers Ja'Marr Chase after an 11 rec, 231 yard night. Double him and Tee Higgins plus Chase Brown out of the backfield get the space.",
+        "Cincinnati's penalties. Eight for 80 yards against Pittsburgh is the kind of thing that keeps a 3-5-1 team alive.",
+        "The run game. 78 yards on 20 carries last week, 3.9 a pop. If that stays flat, it is all on Burrow again."
+      ],
+      "the_call": "Bengals cover the 6 and the game goes over 54.5. Burrow has thrown for 409 with 4 touchdowns and no picks against a better defense, and Cincinnati went 5-6 in the red zone doing it."
     },
-    "pregame": null,
     "pregame_for": "401873078",
     "postgame": {
       "what_decided_it": "Cincinnati threw Pittsburgh off the field. 484 yards at 7.4 a play, 30 first downs, 5-of-6 in the red zone, no turnovers. The Steelers managed 222 yards at 3.8 and lost time of possession 35:09 to 24:51.",
@@ -175,8 +179,18 @@
       "division_meaning": "Bengals 7-2 on a five-game win streak with a plus-85 point differential. Pittsburgh drops to 6-3 and a one-game skid, Cleveland 6-4, Baltimore 4-6 and losers of five straight.",
       "the_take": "The 78 rushing yards on 20 carries will keep the 'can they keep winning throwing this much' talk alive, per the ESPN segment. With Burrow at 35/44 and no turnovers, that's a feature, not a flaw."
     },
-    "postgame_for": "401873064"
+    "postgame_for": "401873064",
+    "league": {
+      "lines": [
+        "Vikings at 49ers in Mexico City, Monday 9:20am Perth on NBC. SF -3, total 46.5. Both teams 8-1 and 7-2. Best game on the slate.",
+        "Steelers at Eagles, Monday 2:00am Perth. PIT -3.5 on the road at 2-7 Philadelphia, total just 37.5. Pittsburgh is 6-3 and coming off that 38-18 loss in Cincinnati.",
+        "Ravens at Carolina, Monday 2:00am Perth. CAR -3. Baltimore is 4-6 on a five-game slide after losing 23-20 at home to the 1-8 Chargers.",
+        "Buccaneers at Lions, DET -3.5, total 47.5. Detroit is 7-2 after a 35-10 win over New England in Munich, Jahmyr Gibbs going for 153 and two scores.",
+        "Bills -16.5 on Miami and Chiefs -15.5 on Arizona. Buffalo is 8-1, Kansas City 7-2 after Mahomes threw for 348 and five in Atlanta.",
+        "Jaguars -6 at the Giants in the rain. Jacksonville is 7-2 off a 40-23 win in Tennessee."
+      ]
+    }
   },
-  "written_at": "2026-11-20T06:40:12.459Z",
+  "written_at": "2026-11-22T06:00:57.747Z",
   "last_error": null
 }
