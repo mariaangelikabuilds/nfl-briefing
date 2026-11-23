@@ -1,5 +1,5 @@
 {
-  "now_perth": "Mon, 23 Nov, 3:16 am",
+  "now_perth": "Mon, 23 Nov, 2:53 pm",
   "bengals_next": {
     "id": "401873078",
     "week": 11,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Partly cloudy",
-      "tempF": 53,
+      "tempF": 54,
       "tempC": 12
     },
     "moneyline": {
-      "away": "-296",
-      "home": "+241"
+      "away": "-294",
+      "home": "+240"
     },
     "detail": "11/23 - 8:15 PM EST",
     "final": false,
@@ -115,15 +115,6 @@
         "diff": "+85"
       },
       {
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers",
-        "wins": "6",
-        "losses": "3",
-        "ties": "0",
-        "streak": "L1",
-        "diff": "+16"
-      },
-      {
         "abbr": "CLE",
         "name": "Cleveland Browns",
         "wins": "6",
@@ -133,13 +124,22 @@
         "diff": "-32"
       },
       {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers",
+        "wins": "6",
+        "losses": "4",
+        "ties": "0",
+        "streak": "L2",
+        "diff": "+13"
+      },
+      {
         "abbr": "BAL",
         "name": "Baltimore Ravens",
         "wins": "4",
-        "losses": "6",
+        "losses": "7",
         "ties": "0",
-        "streak": "L5",
-        "diff": "-50"
+        "streak": "L6",
+        "diff": "-52"
       }
     ]
   },
@@ -285,9 +285,21 @@
   },
   "news_bengals": [
     {
-      "headline": "NFL Week 11 arrivals: CeeDee Lamb leads the way ahead of Titans-Cowboys",
+      "headline": "Week 11 NFL highlights: Best plays, moments, touchdowns, more",
+      "summary": "Check here for all of the top moments, TDs and analysis from games at the Broncos, Jets, Cowboys, Eagles and more.",
+      "published": "2026-11-23T04:50:41Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026"
+    },
+    {
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "published": "2026-11-23T01:49:27Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
+    },
+    {
+      "headline": "NFL Week 11 arrivals: George Kittle rocks luchador mask ahead of SNF in Mexico",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-22T17:13:29Z",
+      "published": "2026-11-23T01:00:32Z",
       "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
     },
     {
@@ -319,26 +331,38 @@
       "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
       "published": "2026-11-20T22:49:33Z",
       "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms"
-    },
-    {
-      "headline": "NFL Week 11 betting odds: Lines and totals for every game",
-      "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
-      "published": "2026-11-20T20:13:57Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
-    },
-    {
-      "headline": "Why Stephen A. thinks 'special' Joe Burrow is the MVP front-runner",
-      "summary": "Why Stephen A. thinks 'special' Joe Burrow is the MVP front-runner",
-      "published": "2026-11-20T16:14:39Z",
-      "url": "https://www.espn.com/video/clip/_/id/50541578/why-stephen-thinks-special-joe-burrow-mvp-front-runner"
     }
   ],
   "news_opponent": [
     {
-      "headline": "NFL Week 11 arrivals: CeeDee Lamb leads the way ahead of Titans-Cowboys",
+      "headline": "Week 11 NFL highlights: Best plays, moments, touchdowns, more",
+      "summary": "Check here for all of the top moments, TDs and analysis from games at the Broncos, Jets, Cowboys, Eagles and more.",
+      "published": "2026-11-23T04:50:41Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026"
+    },
+    {
+      "headline": "Inside Commanders DC Daronte Jones' unusual coaching journey",
+      "summary": "From living in his car to various college offices, Washington defensive coordinator Daronte Jones has paid his dues.",
+      "published": "2026-11-23T05:27:36Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49828234/washington-commanders-daronte-jones-2026-defense"
+    },
+    {
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "published": "2026-11-23T01:49:27Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
+    },
+    {
+      "headline": "NFL Week 11 arrivals: George Kittle rocks luchador mask ahead of SNF in Mexico",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-22T17:13:29Z",
+      "published": "2026-11-23T01:00:32Z",
       "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
+    },
+    {
+      "headline": "Can the Commanders win in the red zone?",
+      "summary": "John Keim lays out the Commanders' path to victory against the Bengals.",
+      "published": "2026-11-22T23:12:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/50566594/can-commanders-win-red-zone"
     },
     {
       "headline": "NFL Week 11 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
@@ -357,30 +381,6 @@
       "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
       "published": "2026-11-20T22:49:33Z",
       "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms"
-    },
-    {
-      "headline": "Commanders confident in Jayden Daniels",
-      "summary": "John Keim breaks down why the Commanders believe in Jayden Daniels.",
-      "published": "2026-11-20T22:18:02Z",
-      "url": "https://www.espn.com/video/clip/_/id/50543810/commanders-confident-jayden-daniels"
-    },
-    {
-      "headline": "NFL Week 11 betting odds: Lines and totals for every game",
-      "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
-      "published": "2026-11-20T20:13:57Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
-    },
-    {
-      "headline": "NFL offseason free agent and trade acquisitions that have and have not worked",
-      "summary": "Kenneth Walker III and Devin Lloyd look great with their new teams in 2026. But Jaylen Waddle and Alontae Taylor haven't quite found their groove.",
-      "published": "2026-11-20T11:42:26Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50525533/2026-offseason-change-scenery-fits-players-new-teams"
-    },
-    {
-      "headline": "How will the Commanders blitz fare against Joe Burrow?",
-      "summary": "John Keim previews the Commanders matchup against the Bengals on Monday night.",
-      "published": "2026-11-20T00:32:01Z",
-      "url": "https://www.espn.com/video/clip/_/id/50535562/how-commanders-blitz-fare-joe-burrow"
     }
   ],
   "league_week": 11,
@@ -1174,31 +1174,27 @@
       "week": 11,
       "kickoff": "2026-11-22T18:00Z",
       "timeValid": true,
-      "state": "in",
-      "clock": "2:00 Q2",
-      "weather": {
-        "text": "2",
-        "tempF": 66,
-        "tempC": 19
-      },
+      "state": "post",
+      "clock": null,
+      "weather": null,
       "moneyline": null,
-      "detail": "2:00 - 2nd",
-      "final": false,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "2",
         "abbr": "BUF",
         "name": "Buffalo Bills",
-        "score": null,
-        "winner": null,
-        "record": "8-1"
+        "score": 26,
+        "winner": true,
+        "record": "9-1"
       },
       "away": {
         "id": "15",
         "abbr": "MIA",
         "name": "Miami Dolphins",
-        "score": null,
-        "winner": null,
-        "record": "1-8"
+        "score": 9,
+        "winner": false,
+        "record": "1-9"
       },
       "line": null,
       "overUnder": null,
@@ -1207,7 +1203,26 @@
       "tv": [
         "CBS"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "27/45, 304 YDS, 1 TD, 2 INT",
+          "player": "Josh Allen",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "22 CAR, 89 YDS, 1 TD",
+          "player": "James Cook III",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "5 REC, 101 YDS",
+          "player": "Khalil Shakir",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 23 Nov, 2:00 am"
     },
     {
@@ -1215,31 +1230,27 @@
       "week": 11,
       "kickoff": "2026-11-22T18:00Z",
       "timeValid": true,
-      "state": "in",
-      "clock": "3:34 Q2",
-      "weather": {
-        "text": "12",
-        "tempF": 51,
-        "tempC": 11
-      },
+      "state": "post",
+      "clock": null,
+      "weather": null,
       "moneyline": null,
-      "detail": "3:34 - 2nd",
-      "final": false,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "3",
         "abbr": "CHI",
         "name": "Chicago Bears",
-        "score": null,
-        "winner": null,
-        "record": "7-2"
+        "score": 21,
+        "winner": true,
+        "record": "8-2"
       },
       "away": {
         "id": "18",
         "abbr": "NO",
         "name": "New Orleans Saints",
-        "score": null,
-        "winner": null,
-        "record": "3-6"
+        "score": 13,
+        "winner": false,
+        "record": "3-7"
       },
       "line": null,
       "overUnder": null,
@@ -1248,7 +1259,26 @@
       "tv": [
         "Fox"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "25/42, 222 YDS, 1 TD, 1 INT",
+          "player": "Tyler Shough",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "14 CAR, 76 YDS",
+          "player": "Travis Etienne Jr.",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "9 REC, 102 YDS",
+          "player": "Chris Olave",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 23 Nov, 2:00 am"
     },
     {
@@ -1256,31 +1286,27 @@
       "week": 11,
       "kickoff": "2026-11-22T18:00Z",
       "timeValid": true,
-      "state": "in",
-      "clock": "4:08 Q2",
-      "weather": {
-        "text": "7",
-        "tempF": 57,
-        "tempC": 14
-      },
+      "state": "post",
+      "clock": null,
+      "weather": null,
       "moneyline": null,
-      "detail": "4:08 - 2nd",
-      "final": false,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "6",
         "abbr": "DAL",
         "name": "Dallas Cowboys",
-        "score": null,
-        "winner": null,
-        "record": "4-6"
+        "score": 51,
+        "winner": true,
+        "record": "5-6"
       },
       "away": {
         "id": "10",
         "abbr": "TEN",
         "name": "Tennessee Titans",
-        "score": null,
-        "winner": null,
-        "record": "1-8"
+        "score": 30,
+        "winner": false,
+        "record": "1-9"
       },
       "line": null,
       "overUnder": null,
@@ -1289,7 +1315,26 @@
       "tv": [
         "Fox"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "28/33, 325 YDS, 4 TD",
+          "player": "Dak Prescott",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "21 CAR, 110 YDS",
+          "player": "Tony Pollard",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "11 REC, 132 YDS, 1 TD",
+          "player": "CeeDee Lamb",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 23 Nov, 2:00 am"
     },
     {
@@ -1297,31 +1342,27 @@
       "week": 11,
       "kickoff": "2026-11-22T18:00Z",
       "timeValid": true,
-      "state": "in",
-      "clock": "0:20 Q2",
-      "weather": {
-        "text": "6",
-        "tempF": 61,
-        "tempC": 16
-      },
+      "state": "post",
+      "clock": null,
+      "weather": null,
       "moneyline": null,
-      "detail": "0:20 - 2nd",
-      "final": false,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "8",
         "abbr": "DET",
         "name": "Detroit Lions",
-        "score": null,
-        "winner": null,
-        "record": "7-2"
+        "score": 31,
+        "winner": true,
+        "record": "8-2"
       },
       "away": {
         "id": "27",
         "abbr": "TB",
         "name": "Tampa Bay Buccaneers",
-        "score": null,
-        "winner": null,
-        "record": "3-6"
+        "score": 21,
+        "winner": false,
+        "record": "3-7"
       },
       "line": null,
       "overUnder": null,
@@ -1330,7 +1371,26 @@
       "tv": [
         "Fox"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "20/28, 279 YDS, 2 TD",
+          "player": "Jared Goff",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "23 CAR, 98 YDS, 2 TD",
+          "player": "Jahmyr Gibbs",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "4 REC, 93 YDS, 1 TD",
+          "player": "Jameson Williams",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 23 Nov, 2:00 am"
     },
     {
@@ -1338,31 +1398,27 @@
       "week": 11,
       "kickoff": "2026-11-22T18:00Z",
       "timeValid": true,
-      "state": "in",
-      "clock": "1:10 Q2",
-      "weather": {
-        "text": "1",
-        "tempF": 49,
-        "tempC": 9
-      },
+      "state": "post",
+      "clock": null,
+      "weather": null,
       "moneyline": null,
-      "detail": "1:10 - 2nd",
-      "final": false,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "12",
         "abbr": "KC",
         "name": "Kansas City Chiefs",
-        "score": null,
-        "winner": null,
-        "record": "7-2"
+        "score": 34,
+        "winner": true,
+        "record": "8-2"
       },
       "away": {
         "id": "22",
         "abbr": "ARI",
         "name": "Arizona Cardinals",
-        "score": null,
-        "winner": null,
-        "record": "3-7"
+        "score": 7,
+        "winner": false,
+        "record": "3-8"
       },
       "line": null,
       "overUnder": null,
@@ -1371,7 +1427,26 @@
       "tv": [
         "CBS"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "27/39, 324 YDS, 3 TD",
+          "player": "Patrick Mahomes",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "23 CAR, 105 YDS, 1 TD",
+          "player": "Emmett Johnson",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "6 REC, 74 YDS, 2 TD",
+          "player": "Travis Kelce",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 23 Nov, 2:00 am"
     },
     {
@@ -1379,31 +1454,27 @@
       "week": 11,
       "kickoff": "2026-11-22T18:00Z",
       "timeValid": true,
-      "state": "in",
-      "clock": "1:51 Q2",
-      "weather": {
-        "text": "6",
-        "tempF": 64,
-        "tempC": 18
-      },
+      "state": "post",
+      "clock": null,
+      "weather": null,
       "moneyline": null,
-      "detail": "1:51 - 2nd",
-      "final": false,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "21",
         "abbr": "PHI",
         "name": "Philadelphia Eagles",
-        "score": null,
-        "winner": null,
-        "record": "2-7"
+        "score": 19,
+        "winner": true,
+        "record": "3-7"
       },
       "away": {
         "id": "23",
         "abbr": "PIT",
         "name": "Pittsburgh Steelers",
-        "score": null,
-        "winner": null,
-        "record": "6-3"
+        "score": 16,
+        "winner": false,
+        "record": "6-4"
       },
       "line": null,
       "overUnder": null,
@@ -1412,7 +1483,26 @@
       "tv": [
         "CBS"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "30/44, 227 YDS, 1 TD",
+          "player": "Aaron Rodgers",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "17 CAR, 75 YDS, 1 TD",
+          "player": "Saquon Barkley",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "6 REC, 61 YDS, 1 TD",
+          "player": "Max Hurleman",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 23 Nov, 2:00 am"
     },
     {
@@ -1420,31 +1510,27 @@
       "week": 11,
       "kickoff": "2026-11-22T18:00Z",
       "timeValid": true,
-      "state": "in",
-      "clock": "5:12 Q2",
-      "weather": {
-        "text": "7",
-        "tempF": 58,
-        "tempC": 14
-      },
+      "state": "post",
+      "clock": null,
+      "weather": null,
       "moneyline": null,
-      "detail": "5:12 - 2nd",
-      "final": false,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "29",
         "abbr": "CAR",
         "name": "Carolina Panthers",
-        "score": null,
-        "winner": null,
-        "record": "4-5"
+        "score": 35,
+        "winner": true,
+        "record": "5-5"
       },
       "away": {
         "id": "33",
         "abbr": "BAL",
         "name": "Baltimore Ravens",
-        "score": null,
-        "winner": null,
-        "record": "4-6"
+        "score": 33,
+        "winner": false,
+        "record": "4-7"
       },
       "line": null,
       "overUnder": null,
@@ -1453,7 +1539,26 @@
       "tv": [
         "Fox"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "24/37, 276 YDS, 1 TD, 1 INT",
+          "player": "Jacoby Brissett",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "27 CAR, 120 YDS, 2 TD",
+          "player": "Chuba Hubbard",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "8 REC, 97 YDS",
+          "player": "Zay Flowers",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 23 Nov, 2:00 am"
     },
     {
@@ -1461,43 +1566,55 @@
       "week": 11,
       "kickoff": "2026-11-22T21:05Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Partly sunny",
-        "tempF": 66,
-        "tempC": 19
-      },
-      "moneyline": {
-        "away": "+150",
-        "home": "-178"
-      },
-      "detail": "11/22 - 4:05 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "24",
         "abbr": "LAC",
         "name": "Los Angeles Chargers",
-        "score": null,
-        "winner": null,
-        "record": "1-8"
+        "score": 24,
+        "winner": false,
+        "record": "1-9"
       },
       "away": {
         "id": "20",
         "abbr": "NYJ",
         "name": "New York Jets",
-        "score": null,
-        "winner": null,
-        "record": "2-8"
+        "score": 27,
+        "winner": true,
+        "record": "3-8"
       },
-      "line": "LAC -3",
-      "overUnder": 43.5,
+      "line": null,
+      "overUnder": null,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
       "tv": [
         "Fox"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "17/21, 176 YDS, 3 TD",
+          "player": "Geno Smith",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "14 CAR, 89 YDS",
+          "player": "Omarion Hampton",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "3 REC, 39 YDS",
+          "player": "Garrett Wilson",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 23 Nov, 5:05 am"
     },
     {
@@ -1505,43 +1622,55 @@
       "week": 11,
       "kickoff": "2026-11-22T21:25Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Mostly sunny",
-        "tempF": 43,
-        "tempC": 6
-      },
-      "moneyline": {
-        "away": "+444",
-        "home": "-596"
-      },
-      "detail": "11/22 - 4:25 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "7",
         "abbr": "DEN",
         "name": "Denver Broncos",
-        "score": null,
-        "winner": null,
-        "record": "7-2"
+        "score": 38,
+        "winner": true,
+        "record": "8-2"
       },
       "away": {
         "id": "13",
         "abbr": "LV",
         "name": "Las Vegas Raiders",
-        "score": null,
-        "winner": null,
-        "record": "4-6"
+        "score": 24,
+        "winner": false,
+        "record": "4-7"
       },
-      "line": "DEN -10.5",
-      "overUnder": 40.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Empower Field at Mile High",
       "city": "Denver",
       "tv": [
         "CBS"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "18/37, 267 YDS, 3 TD, 1 INT",
+          "player": "Fernando Mendoza",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "24 CAR, 111 YDS, 3 TD",
+          "player": "Jonah Coleman",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "5 REC, 90 YDS, 1 TD",
+          "player": "Ashton Jeanty",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 23 Nov, 5:25 am"
     },
     {
@@ -1549,43 +1678,55 @@
       "week": 11,
       "kickoff": "2026-11-22T21:25Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
-      "weather": {
-        "text": "Rain",
-        "tempF": 60,
-        "tempC": 16
-      },
-      "moneyline": {
-        "away": "-265",
-        "home": "+218"
-      },
-      "detail": "11/22 - 4:25 PM EST",
-      "final": false,
+      "weather": null,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "19",
         "abbr": "NYG",
         "name": "New York Giants",
-        "score": null,
-        "winner": null,
-        "record": "5-3-1"
+        "score": 23,
+        "winner": true,
+        "record": "6-3-1"
       },
       "away": {
         "id": "30",
         "abbr": "JAX",
         "name": "Jacksonville Jaguars",
-        "score": null,
-        "winner": null,
-        "record": "7-2"
+        "score": 18,
+        "winner": false,
+        "record": "7-3"
       },
-      "line": "JAX -6",
-      "overUnder": 45.5,
+      "line": null,
+      "overUnder": null,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "tv": [
         "CBS"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "25/47, 301 YDS, 1 TD, 2 INT",
+          "player": "Trevor Lawrence",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "14 CAR, 34 YDS",
+          "player": "Cam Skattebo",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "8 REC, 103 YDS",
+          "player": "Parker Washington",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 23 Nov, 5:25 am"
     },
     {
@@ -1593,39 +1734,55 @@
       "week": 11,
       "kickoff": "2026-11-23T01:20Z",
       "timeValid": true,
-      "state": "pre",
+      "state": "post",
       "clock": null,
       "weather": null,
-      "moneyline": {
-        "away": "+148",
-        "home": "-176"
-      },
-      "detail": "11/22 - 8:20 PM EST",
-      "final": false,
+      "moneyline": null,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "25",
         "abbr": "SF",
         "name": "San Francisco 49ers",
-        "score": null,
-        "winner": null,
-        "record": "8-1"
+        "score": 35,
+        "winner": true,
+        "record": "9-1"
       },
       "away": {
         "id": "16",
         "abbr": "MIN",
         "name": "Minnesota Vikings",
-        "score": null,
-        "winner": null,
-        "record": "7-2"
+        "score": 10,
+        "winner": false,
+        "record": "7-3"
       },
-      "line": "SF -3.5",
-      "overUnder": 46.5,
+      "line": null,
+      "overUnder": null,
       "venue": "Estadio Banorte",
       "city": "Mexico City",
       "tv": [
         "NBC"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "21/26, 255 YDS, 3 TD",
+          "player": "Brock Purdy",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "12 CAR, 49 YDS, 1 TD",
+          "player": "Christian McCaffrey",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "6 REC, 109 YDS, 1 TD",
+          "player": "Mike Evans",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Mon, 23 Nov, 9:20 am"
     }
   ]
