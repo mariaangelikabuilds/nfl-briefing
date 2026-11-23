@@ -164,6 +164,16 @@
     "401873077"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        " San Francisco beat Minnesota 35-10 in Mexico City. Brock Purdy went 21/26, 255 yards, 3 TD. The 49ers are 9-1, matching Buffalo's 9-1 at the top.",
+        "Buffalo handled Miami 26-9 despite Josh Allen throwing 2 INT on 27/45 for 304 yards. James Cook III ran 22 for 89 and a score.",
+        "Pittsburgh lost 19-16 at Philadelphia and sits 6-4. Aaron Rodgers was 30/44 for 227 yards, 1 TD. That is two straight losses for the Steelers.",
+        "Baltimore fell 35-33 at Carolina and dropped to 4-7. Chuba Hubbard went 27 for 120 and 2 TD. The Ravens have lost six in a row.",
+        "Denver hit 38-24 over Las Vegas to reach 8-2, level with Kansas City, who beat Arizona 34-7 behind Mahomes at 27/39, 324 yards, 3 TD.",
+        "The Giants knocked off Jacksonville 23-18. Trevor Lawrence threw 2 INT on 25/47. Jacksonville slips to 7-3."
+      ]
+    },
     "pregame": {
       "matchup_read": "Bengals at Washington, Tuesday 9:15am Perth on ESPN, CIN -6 with the total at 54.5. Cincinnati is 7-2 and riding a five-game win streak into a 3-5-1 home side. Intermittent clouds, 52F.",
       "storylines": [
@@ -190,17 +200,7 @@
       "division_meaning": "Bengals 7-2 on a five-game win streak with a plus-85 point differential. Pittsburgh drops to 6-3 and a one-game skid, Cleveland 6-4, Baltimore 4-6 and losers of five straight.",
       "the_take": "The 78 rushing yards on 20 carries will keep the 'can they keep winning throwing this much' talk alive, per the ESPN segment. With Burrow at 35/44 and no turnovers, that's a feature, not a flaw."
     },
-    "postgame_for": "401873064",
-    "league": {
-      "lines": [
-        " San Francisco beat Minnesota 35-10 in Mexico City. Brock Purdy went 21/26, 255 yards, 3 TD. The 49ers are 9-1, matching Buffalo's 9-1 at the top.",
-        "Buffalo handled Miami 26-9 despite Josh Allen throwing 2 INT on 27/45 for 304 yards. James Cook III ran 22 for 89 and a score.",
-        "Pittsburgh lost 19-16 at Philadelphia and sits 6-4. Aaron Rodgers was 30/44 for 227 yards, 1 TD. That is two straight losses for the Steelers.",
-        "Baltimore fell 35-33 at Carolina and dropped to 4-7. Chuba Hubbard went 27 for 120 and 2 TD. The Ravens have lost six in a row.",
-        "Denver hit 38-24 over Las Vegas to reach 8-2, level with Kansas City, who beat Arizona 34-7 behind Mahomes at 27/39, 324 yards, 3 TD.",
-        "The Giants knocked off Jacksonville 23-18. Trevor Lawrence threw 2 INT on 25/47. Jacksonville slips to 7-3."
-      ]
-    }
+    "postgame_for": "401873064"
   },
   "written_at": "2026-11-23T06:53:36.886Z",
   "last_error": null
