@@ -161,47 +161,34 @@
     "401873074",
     "401873075",
     "401873076",
-    "401873077"
+    "401873077",
+    "401873078"
   ],
   "briefing": {
+    "pregame": null,
+    "pregame_for": "401873087",
+    "postgame": {
+      "what_decided_it": "Cincinnati ran for 31 yards on 14 carries and went 4-12 on third down. Washington gained 428 yards at 6.7 a play and moved 64 yards in 34 seconds at the end to set up the winning kick.",
+      "standouts": [
+        "Joe Burrow: 28/40, 300 yds, 2 TD, 0 INT. No turnovers, but 281 net passing yards had to carry everything.",
+        "Mike Gesicki led the receivers with 5 rec, 77 yds, and Samaje Perine added 4 rec, 71 yds plus 6 car, 26 yds.",
+        "Antonio Williams burned the secondary for 9 rec, 122 yds, and Jayden Daniels added 6 car, 55 yds on the ground."
+      ],
+      "division_meaning": "Cincinnati stays first at 7-3 with a +83 differential, but it is L1. Cleveland and Pittsburgh are both 6-4. Baltimore is 4-7 on a six-game slide after losing 35-33 at Carolina.",
+      "the_take": "The five-game win streak hid a run game that does not exist. 2.2 yards per carry and 150 rushing yards allowed is how you lose January games, not just Monday nights in Landover."
+    },
+    "postgame_for": "401873078",
     "league": {
       "lines": [
-        " San Francisco beat Minnesota 35-10 in Mexico City. Brock Purdy went 21/26, 255 yards, 3 TD. The 49ers are 9-1, matching Buffalo's 9-1 at the top.",
-        "Buffalo handled Miami 26-9 despite Josh Allen throwing 2 INT on 27/45 for 304 yards. James Cook III ran 22 for 89 and a score.",
-        "Pittsburgh lost 19-16 at Philadelphia and sits 6-4. Aaron Rodgers was 30/44 for 227 yards, 1 TD. That is two straight losses for the Steelers.",
-        "Baltimore fell 35-33 at Carolina and dropped to 4-7. Chuba Hubbard went 27 for 120 and 2 TD. The Ravens have lost six in a row.",
-        "Denver hit 38-24 over Las Vegas to reach 8-2, level with Kansas City, who beat Arizona 34-7 behind Mahomes at 27/39, 324 yards, 3 TD.",
-        "The Giants knocked off Jacksonville 23-18. Trevor Lawrence threw 2 INT on 25/47. Jacksonville slips to 7-3."
+        "Chiefs at Bills Friday 9:20am Perth, Buffalo -3, total 47.5. Buffalo is 9-1 after beating Miami 26-9, Kansas City 8-2 off a 34-7 win over Arizona.",
+        "Denver at Pittsburgh Saturday 4:00am Perth, Broncos -3, total 37.5. Denver is 8-2 after 38-24 over Las Vegas, Pittsburgh dropped 19-16 at Philadelphia.",
+        "San Francisco is 9-1 after a 35-10 win over Minnesota in Mexico City. Brock Purdy went 21/26, 255 yds, 3 TD. The Niners host Seattle at -3.",
+        "Bears at Lions Friday 2:00am Perth, both 8-2, Chicago -2.5 and a 55.5 total. The biggest total on the Week 12 board.",
+        "Cleveland hosts Las Vegas Monday 9:20am Perth at -4.5. A Browns win pulls them level with Cincinnati in the loss column.",
+        "Dallas put up 51 on Tennessee, Dak Prescott 28/33, 325 yds, 4 TD, and now sits -8.5 against the 3-7 Eagles on Thanksgiving."
       ]
-    },
-    "pregame": {
-      "matchup_read": "Bengals at Washington, Tuesday 9:15am Perth on ESPN, CIN -6 with the total at 54.5. Cincinnati is 7-2 and riding a five-game win streak into a 3-5-1 home side. Intermittent clouds, 52F.",
-      "storylines": [
-        "Burrow was a full participant at practice for the second straight day despite a bug, and per ESPN he is optimistic he will be at full strength for Monday night.",
-        "ESPN headline has Stephen A. calling Burrow the MVP front-runner. The 35/44, 409 yard, 4 TD night against Pittsburgh is the evidence.",
-        "ESPN's Ben Baby frames Amarius Mims and the offensive line as an underrated reason Burrow is on that trajectory.",
-        "John Keim previewed how Washington's blitz holds up against Burrow. That is the whole game in one question."
-      ],
-      "watch_for": [
-        "How Washington answers Ja'Marr Chase after an 11 rec, 231 yard night. Double him and Tee Higgins plus Chase Brown out of the backfield get the space.",
-        "Cincinnati's penalties. Eight for 80 yards against Pittsburgh is the kind of thing that keeps a 3-5-1 team alive.",
-        "The run game. 78 yards on 20 carries last week, 3.9 a pop. If that stays flat, it is all on Burrow again."
-      ],
-      "the_call": "Bengals cover the 6 and the game goes over 54.5. Burrow has thrown for 409 with 4 touchdowns and no picks against a better defense, and Cincinnati went 5-6 in the red zone doing it."
-    },
-    "pregame_for": "401873078",
-    "postgame": {
-      "what_decided_it": "Cincinnati threw Pittsburgh off the field. 484 yards at 7.4 a play, 30 first downs, 5-of-6 in the red zone, no turnovers. The Steelers managed 222 yards at 3.8 and lost time of possession 35:09 to 24:51.",
-      "standouts": [
-        "Joe Burrow: 35/44, 409 yards, 4 TD, 0 INT. One sack for 3 yards all night.",
-        "Ja'Marr Chase: 11 catches, 231 yards. Pittsburgh had no answer.",
-        "Chase Brown: 10 carries for 44, plus 8 catches for 39 and 2 TD out of the backfield."
-      ],
-      "division_meaning": "Bengals 7-2 on a five-game win streak with a plus-85 point differential. Pittsburgh drops to 6-3 and a one-game skid, Cleveland 6-4, Baltimore 4-6 and losers of five straight.",
-      "the_take": "The 78 rushing yards on 20 carries will keep the 'can they keep winning throwing this much' talk alive, per the ESPN segment. With Burrow at 35/44 and no turnovers, that's a feature, not a flaw."
-    },
-    "postgame_for": "401873064"
+    }
   },
-  "written_at": "2026-11-23T06:53:36.886Z",
+  "written_at": "2026-11-24T09:20:05.044Z",
   "last_error": null
 }
