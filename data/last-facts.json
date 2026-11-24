@@ -1,5 +1,5 @@
 {
-  "now_perth": "Tue, 24 Nov, 5:20 pm",
+  "now_perth": "Wed, 25 Nov, 6:10 am",
   "bengals_next": {
     "id": "401873087",
     "week": 12,
@@ -9,12 +9,12 @@
     "clock": null,
     "weather": {
       "text": "Mostly cloudy",
-      "tempF": 55,
-      "tempC": 13
+      "tempF": 54,
+      "tempC": 12
     },
     "moneyline": {
-      "away": "+411",
-      "home": "-542"
+      "away": "+448",
+      "home": "-610"
     },
     "detail": "11/29 - 1:00 PM EST",
     "final": false,
@@ -101,7 +101,7 @@
     "kickoff_perth": "Tue, 24 Nov, 9:15 am"
   },
   "write_pregame": false,
-  "write_postgame": true,
+  "write_postgame": false,
   "division": {
     "name": "AFC North",
     "rows": [
@@ -281,6 +281,42 @@
   },
   "news_bengals": [
     {
+      "headline": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
+      "summary": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
+      "published": "2026-11-24T17:41:04Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach"
+    },
+    {
+      "headline": "Why Stephen A. isn't counting out the Bengals after loss to Commanders",
+      "summary": "Why Stephen A. isn't counting out the Bengals after loss to Commanders",
+      "published": "2026-11-24T16:07:07Z",
+      "url": "https://www.espn.com/video/clip/_/id/50583376/why-stephen-counting-bengals-loss-commanders"
+    },
+    {
+      "headline": "NFL Week 12 betting odds: Lines and totals for every game",
+      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
+      "published": "2026-11-24T15:40:19Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "How the Commanders slowed down the Bengals' offense",
+      "summary": "Ben Baby explains what went wrong in the Bengals' loss to the Commanders on Monday Night Football.",
+      "published": "2026-11-24T14:36:46Z",
+      "url": "https://www.espn.com/video/clip/_/id/50582854/how-commanders-slowed-bengals-offense"
+    },
+    {
+      "headline": "NFL Power Rankings: Stacking all 32 teams for Week 12, plus extension candidates",
+      "summary": "How does every NFL team stack up heading into Week 12? We made our 1-32 list and picked players who could get a new contract.",
+      "published": "2026-11-24T16:49:36Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50574413/nfl-power-rankings-week-12-offseason-contract-extension-candidates"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-11-24T15:50:33Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
       "headline": "Commanders' Jayden Daniels-themed post aimed at Bengals tops NFL Week 11 trolls",
       "summary": "NFL teams remained petty in Week 11, led by a post from the Washington Commanders.",
       "published": "2026-11-24T04:59:15Z",
@@ -288,59 +324,35 @@
     },
     {
       "headline": "Jayden Daniels rallies Commanders in final seconds to set up winning kick in 22-20 win over Bengals",
-      "summary": "— Jayden Daniels connected with rookie Antonio Williams on two long pass plays, moving the Commanders 64 yards in 34 seconds to set up Drew Stevens’ ",
-      "published": "2026-11-24T04:52:32Z",
+      "summary": "— Jayden Daniels and the Commanders had scored on five consecutive drives, all of them covering 50 yards or more. But their last possession was the most daunting.",
+      "published": "2026-11-24T06:06:32Z",
       "url": "http://www.espn.com/nfl/recap?gameId=401873078"
-    },
-    {
-      "headline": "Commanders storm back, stun Bengals 22-20 on MNF",
-      "summary": "Commanders storm back, stun Bengals 22-20 on MNF",
-      "published": "2026-11-24T04:47:34Z",
-      "url": "https://www.espn.com/video/clip/_/id/50579688/commanders-storm-back-stun-bengals-22-20-mnf"
-    },
-    {
-      "headline": "Commanders building momentum, halt Bengals' 5-game win streak",
-      "summary": "The Commanders' defense held the potent Bengals in check and Washington has won three of four.",
-      "published": "2026-11-24T04:58:12Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50573995/2026-nfl-week-11-washington-commanders-cincinnati-bengals"
-    },
-    {
-      "headline": "NFL Week 11 arrivals: Tee Higgins pays homage to Fiona the Hippo ahead of 'MNF'",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-24T00:12:35Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
-    },
-    {
-      "headline": "Nobody roots harder for Zac Taylor than his Special Olympics champion sister",
-      "summary": "Nobody roots harder for Zac Taylor than his Special Olympics champion sister",
-      "published": "2026-11-24T00:44:06Z",
-      "url": "https://www.espn.com/video/clip/_/id/50574682/nobody-roots-harder-zac-taylor-special-olympics-champion-sister"
-    },
-    {
-      "headline": "NFL Week 12 betting odds: Lines and totals for every game",
-      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
-      "published": "2026-11-23T16:54:28Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals"
-    },
-    {
-      "headline": "Bengals-Commanders odds, best bets: Tips, analysis and top plays",
-      "summary": "Odds, analysis and recommended plays to help you bet the Bengals-Commanders matchup on Monday night.",
-      "published": "2026-11-23T15:10:32Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50570381/nfl-week-11-odds-bengals-commanders-betting-preview-props"
     }
   ],
   "news_opponent": [
     {
+      "headline": "NFL Week 12 betting odds: Lines and totals for every game",
+      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
+      "published": "2026-11-24T15:40:19Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "NFL Power Rankings: Stacking all 32 teams for Week 12, plus extension candidates",
+      "summary": "How does every NFL team stack up heading into Week 12? We made our 1-32 list and picked players who could get a new contract.",
+      "published": "2026-11-24T16:49:36Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50574413/nfl-power-rankings-week-12-offseason-contract-extension-candidates"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-11-24T15:50:33Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
       "headline": "NFL Week 11 arrivals: Tee Higgins pays homage to Fiona the Hippo ahead of 'MNF'",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "published": "2026-11-24T00:12:35Z",
       "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
-    },
-    {
-      "headline": "NFL Week 12 betting odds: Lines and totals for every game",
-      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
-      "published": "2026-11-23T16:54:28Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals"
     },
     {
       "headline": "NFL players with most at stake over rest of 2026: Pickens, McCarthy, Cousins",
@@ -349,15 +361,9 @@
       "url": "https://www.espn.com/nfl/story/_/id/50563331/week-11-most-gain-lose-2026-season-pickens-mccarthy"
     },
     {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-11-23T11:00:02Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
       "headline": "NFL Week 11: Big takeaways, questions and fantasy spin from Sunday's games",
       "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 11.",
-      "published": "2026-11-23T05:53:02Z",
+      "published": "2026-11-24T13:33:28Z",
       "url": "https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026"
     },
     {
@@ -371,12 +377,6 @@
       "summary": "Top NFL plays from Week 11",
       "published": "2026-11-23T04:30:58Z",
       "url": "https://www.espn.com/video/clip/_/id/50569830/top-nfl-plays-week-11"
-    },
-    {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "published": "2026-11-23T15:26:24Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     }
   ],
   "league_week": 12,
@@ -1062,12 +1062,12 @@
       "clock": null,
       "weather": {
         "text": "Mostly clear",
-        "tempF": 72,
-        "tempC": 22
+        "tempF": 70,
+        "tempC": 21
       },
       "moneyline": {
-        "away": "+113",
-        "home": "-134"
+        "away": "+115",
+        "home": "-136"
       },
       "detail": "11/25 - 8:00 PM EST",
       "final": false,
@@ -1088,7 +1088,7 @@
         "record": "6-4"
       },
       "line": "LAR -2.5",
-      "overUnder": 43.5,
+      "overUnder": 44.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
       "tv": [
@@ -1106,12 +1106,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 43,
-        "tempC": 6
+        "tempF": 41,
+        "tempC": 5
       },
       "moneyline": {
-        "away": "-144",
-        "home": "+122"
+        "away": "-142",
+        "home": "+120"
       },
       "detail": "11/26 - 1:00 PM EST",
       "final": false,
@@ -1154,8 +1154,8 @@
         "tempC": 13
       },
       "moneyline": {
-        "away": "+362",
-        "home": "-467"
+        "away": "+364",
+        "home": "-470"
       },
       "detail": "11/26 - 4:30 PM EST",
       "final": false,
@@ -1193,13 +1193,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Showers",
-        "tempF": 43,
-        "tempC": 6
+        "text": "Rain",
+        "tempF": 36,
+        "tempC": 2
       },
       "moneyline": {
         "away": "+126",
-        "home": "-150"
+        "home": "-149"
       },
       "detail": "11/26 - 8:20 PM EST",
       "final": false,
@@ -1238,12 +1238,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 43,
+        "tempF": 42,
         "tempC": 6
       },
       "moneyline": {
-        "away": "-155",
-        "home": "+131"
+        "away": "-159",
+        "home": "+134"
       },
       "detail": "11/27 - 3:00 PM EST",
       "final": false,
@@ -1264,7 +1264,7 @@
         "record": "8-2"
       },
       "line": "DEN -3",
-      "overUnder": 37.5,
+      "overUnder": 38.5,
       "venue": "Acrisure Stadium",
       "city": "Pittsburgh",
       "tv": [
@@ -1281,13 +1281,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Intermittent clouds",
-        "tempF": 49,
-        "tempC": 9
+        "text": "Mostly cloudy",
+        "tempF": 50,
+        "tempC": 10
       },
       "moneyline": {
-        "away": "-322",
-        "home": "+260"
+        "away": "-311",
+        "home": "+252"
       },
       "detail": "11/29 - 1:00 PM EST",
       "final": false,
@@ -1325,13 +1325,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Mostly cloudy",
-        "tempF": 76,
-        "tempC": 24
+        "text": "Cloudy",
+        "tempF": 77,
+        "tempC": 25
       },
       "moneyline": {
-        "away": "-214",
-        "home": "+178"
+        "away": "-198",
+        "home": "+166"
       },
       "detail": "11/29 - 1:00 PM EST",
       "final": false,
@@ -1374,8 +1374,8 @@
         "tempC": 3
       },
       "moneyline": {
-        "away": "+276",
-        "home": "-345"
+        "away": "+273",
+        "home": "-340"
       },
       "detail": "11/29 - 1:00 PM EST",
       "final": false,
@@ -1396,7 +1396,7 @@
         "record": "3-7"
       },
       "line": "MIN -7",
-      "overUnder": 42.5,
+      "overUnder": 41.5,
       "venue": "U.S. Bank Stadium",
       "city": "Minneapolis",
       "tv": [
@@ -1413,13 +1413,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
-        "tempF": 66,
+        "text": "Intermittent clouds",
+        "tempF": 67,
         "tempC": 19
       },
       "moneyline": {
-        "away": "+760",
-        "home": "-1220"
+        "away": "+770",
+        "home": "-1240"
       },
       "detail": "11/29 - 1:00 PM EST",
       "final": false,
@@ -1458,12 +1458,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 72,
+        "tempF": 71,
         "tempC": 22
       },
       "moneyline": {
-        "away": "+251",
-        "home": "-310"
+        "away": "+256",
+        "home": "-318"
       },
       "detail": "11/29 - 1:00 PM EST",
       "final": false,
@@ -1484,7 +1484,7 @@
         "record": "4-7"
       },
       "line": "HOU -6.5",
-      "overUnder": 46.5,
+      "overUnder": 47.5,
       "venue": "Reliant Stadium",
       "city": "Houston",
       "tv": [
@@ -1501,13 +1501,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Intermittent clouds",
         "tempF": 73,
         "tempC": 23
       },
       "moneyline": {
         "away": "-103",
-        "home": "-115"
+        "home": "-114"
       },
       "detail": "11/29 - 4:05 PM EST",
       "final": false,
@@ -1545,13 +1545,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Partly sunny",
+        "text": "Sunny",
         "tempF": 74,
         "tempC": 23
       },
       "moneyline": {
-        "away": "-399",
-        "home": "+316"
+        "away": "-413",
+        "home": "+325"
       },
       "detail": "11/29 - 4:25 PM EST",
       "final": false,
@@ -1572,7 +1572,7 @@
         "record": "4-5-1"
       },
       "line": "WSH -7.5",
-      "overUnder": 40.5,
+      "overUnder": 42.5,
       "venue": "State Farm Stadium",
       "city": "Glendale",
       "tv": [
@@ -1589,13 +1589,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Rain",
-        "tempF": 66,
-        "tempC": 19
+        "text": "Intermittent clouds",
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+150",
-        "home": "-179"
+        "away": "+148",
+        "home": "-176"
       },
       "detail": "11/29 - 4:25 PM EST",
       "final": false,
@@ -1633,13 +1633,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Showers",
+        "text": "Rain",
         "tempF": 48,
         "tempC": 9
       },
       "moneyline": {
-        "away": "+184",
-        "home": "-221"
+        "away": "+185",
+        "home": "-223"
       },
       "detail": "11/29 - 8:20 PM EST",
       "final": false,
@@ -1677,13 +1677,13 @@
       "state": "pre",
       "clock": null,
       "weather": {
-        "text": "Cloudy",
+        "text": "Thunderstorms",
         "tempF": 71,
         "tempC": 22
       },
       "moneyline": {
-        "away": "+131",
-        "home": "-155"
+        "away": "+130",
+        "home": "-154"
       },
       "detail": "11/30 - 8:15 PM EST",
       "final": false,
