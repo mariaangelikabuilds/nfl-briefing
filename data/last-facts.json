@@ -1,5 +1,5 @@
 {
-  "now_perth": "Wed, 25 Nov, 6:10 am",
+  "now_perth": "Wed, 25 Nov, 3:53 pm",
   "bengals_next": {
     "id": "401873087",
     "week": 12,
@@ -13,8 +13,8 @@
       "tempC": 12
     },
     "moneyline": {
-      "away": "+448",
-      "home": "-610"
+      "away": "+438",
+      "home": "-588"
     },
     "detail": "11/29 - 1:00 PM EST",
     "final": false,
@@ -373,10 +373,10 @@
       "url": "https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026"
     },
     {
-      "headline": "Top NFL plays from Week 11",
-      "summary": "Top NFL plays from Week 11",
-      "published": "2026-11-23T04:30:58Z",
-      "url": "https://www.espn.com/video/clip/_/id/50569830/top-nfl-plays-week-11"
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "published": "2026-11-23T15:26:24Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
     }
   ],
   "league_week": 12,
@@ -1066,8 +1066,8 @@
         "tempC": 21
       },
       "moneyline": {
-        "away": "+115",
-        "home": "-136"
+        "away": "+114",
+        "home": "-135"
       },
       "detail": "11/25 - 8:00 PM EST",
       "final": false,
@@ -1088,7 +1088,7 @@
         "record": "6-4"
       },
       "line": "LAR -2.5",
-      "overUnder": 44.5,
+      "overUnder": 43.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
       "tv": [
@@ -1110,8 +1110,8 @@
         "tempC": 5
       },
       "moneyline": {
-        "away": "-142",
-        "home": "+120"
+        "away": "-121",
+        "home": "+102"
       },
       "detail": "11/26 - 1:00 PM EST",
       "final": false,
@@ -1131,7 +1131,7 @@
         "winner": null,
         "record": "8-2"
       },
-      "line": "CHI -2.5",
+      "line": "CHI -1.5",
       "overUnder": 55.5,
       "venue": "Ford Field",
       "city": "Detroit",
@@ -1154,8 +1154,8 @@
         "tempC": 13
       },
       "moneyline": {
-        "away": "+364",
-        "home": "-470"
+        "away": "+363",
+        "home": "-468"
       },
       "detail": "11/26 - 4:30 PM EST",
       "final": false,
@@ -1176,7 +1176,7 @@
         "record": "3-7"
       },
       "line": "DAL -8.5",
-      "overUnder": 47.5,
+      "overUnder": 48.5,
       "venue": "AT&T Stadium",
       "city": "Arlington",
       "tv": [
@@ -1198,8 +1198,8 @@
         "tempC": 2
       },
       "moneyline": {
-        "away": "+126",
-        "home": "-149"
+        "away": "+127",
+        "home": "-150"
       },
       "detail": "11/26 - 8:20 PM EST",
       "final": false,
@@ -1220,7 +1220,7 @@
         "record": "8-2"
       },
       "line": "BUF -3",
-      "overUnder": 47.5,
+      "overUnder": 46.5,
       "venue": "Highmark Stadium",
       "city": "Orchard Park",
       "tv": [
@@ -1242,8 +1242,8 @@
         "tempC": 6
       },
       "moneyline": {
-        "away": "-159",
-        "home": "+134"
+        "away": "-204",
+        "home": "+171"
       },
       "detail": "11/27 - 3:00 PM EST",
       "final": false,
@@ -1263,8 +1263,8 @@
         "winner": null,
         "record": "8-2"
       },
-      "line": "DEN -3",
-      "overUnder": 38.5,
+      "line": "DEN -3.5",
+      "overUnder": 36.5,
       "venue": "Acrisure Stadium",
       "city": "Pittsburgh",
       "tv": [
@@ -1286,8 +1286,8 @@
         "tempC": 10
       },
       "moneyline": {
-        "away": "-311",
-        "home": "+252"
+        "away": "-303",
+        "home": "+246"
       },
       "detail": "11/29 - 1:00 PM EST",
       "final": false,
@@ -1330,8 +1330,8 @@
         "tempC": 25
       },
       "moneyline": {
-        "away": "-198",
-        "home": "+166"
+        "away": "-195",
+        "home": "+164"
       },
       "detail": "11/29 - 1:00 PM EST",
       "final": false,
@@ -1374,8 +1374,8 @@
         "tempC": 3
       },
       "moneyline": {
-        "away": "+273",
-        "home": "-340"
+        "away": "+262",
+        "home": "-324"
       },
       "detail": "11/29 - 1:00 PM EST",
       "final": false,
@@ -1418,8 +1418,8 @@
         "tempC": 19
       },
       "moneyline": {
-        "away": "+770",
-        "home": "-1240"
+        "away": "+710",
+        "home": "-1120"
       },
       "detail": "11/29 - 1:00 PM EST",
       "final": false,
@@ -1440,7 +1440,7 @@
         "record": "1-9"
       },
       "line": "JAX -14.5",
-      "overUnder": 47.5,
+      "overUnder": 48.5,
       "venue": "EverBank Stadium",
       "city": "Jacksonville",
       "tv": [
@@ -1462,8 +1462,8 @@
         "tempC": 22
       },
       "moneyline": {
-        "away": "+256",
-        "home": "-318"
+        "away": "+250",
+        "home": "-308"
       },
       "detail": "11/29 - 1:00 PM EST",
       "final": false,
@@ -1483,7 +1483,7 @@
         "winner": null,
         "record": "4-7"
       },
-      "line": "HOU -6.5",
+      "line": "HOU -7",
       "overUnder": 47.5,
       "venue": "Reliant Stadium",
       "city": "Houston",
@@ -1506,8 +1506,8 @@
         "tempC": 23
       },
       "moneyline": {
-        "away": "-103",
-        "home": "-114"
+        "away": "-104",
+        "home": "-113"
       },
       "detail": "11/29 - 4:05 PM EST",
       "final": false,
@@ -1550,8 +1550,8 @@
         "tempC": 23
       },
       "moneyline": {
-        "away": "-413",
-        "home": "+325"
+        "away": "-337",
+        "home": "+271"
       },
       "detail": "11/29 - 4:25 PM EST",
       "final": false,
@@ -1571,8 +1571,8 @@
         "winner": null,
         "record": "4-5-1"
       },
-      "line": "WSH -7.5",
-      "overUnder": 42.5,
+      "line": "WSH -7",
+      "overUnder": 41.5,
       "venue": "State Farm Stadium",
       "city": "Glendale",
       "tv": [
@@ -1594,8 +1594,8 @@
         "tempC": 18
       },
       "moneyline": {
-        "away": "+148",
-        "home": "-176"
+        "away": "+149",
+        "home": "-177"
       },
       "detail": "11/29 - 4:25 PM EST",
       "final": false,
@@ -1616,7 +1616,7 @@
         "record": "6-4"
       },
       "line": "SF -3",
-      "overUnder": 46.5,
+      "overUnder": 45.5,
       "venue": "Levi's Stadium",
       "city": "Santa Clara",
       "tv": [
@@ -1638,8 +1638,8 @@
         "tempC": 9
       },
       "moneyline": {
-        "away": "+185",
-        "home": "-223"
+        "away": "+182",
+        "home": "-219"
       },
       "detail": "11/29 - 8:20 PM EST",
       "final": false,
@@ -1660,7 +1660,7 @@
         "record": "4-7"
       },
       "line": "CLE -4.5",
-      "overUnder": 41.5,
+      "overUnder": 40.5,
       "venue": "Huntington Bank Field",
       "city": "Cleveland",
       "tv": [
@@ -1682,8 +1682,8 @@
         "tempC": 22
       },
       "moneyline": {
-        "away": "+130",
-        "home": "-154"
+        "away": "+131",
+        "home": "-155"
       },
       "detail": "11/30 - 8:15 PM EST",
       "final": false,
