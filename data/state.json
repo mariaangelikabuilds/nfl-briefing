@@ -166,6 +166,16 @@
     "401873079"
   ],
   "briefing": {
+    "league": {
+      "lines": [
+        "Thanksgiving night is the one: Chiefs at Bills, Buffalo -3, total 45.5, 9:20am Perth Friday. Buffalo is 9-1, KC 8-2 after a 34-7 win over Arizona.",
+        "Bears at Lions, 2:00am Friday Perth. Both 8-2, Chicago -1.5, total 55.5. Detroit beat Tampa Bay 31-21 last week.",
+        "Broncos at Steelers Saturday 4:00am Perth, DEN -3.5 with a 36.5 total in the rain. Pittsburgh is 6-4 and lost 19-16 in Philadelphia.",
+        "Browns host the Raiders Monday 9:20am Perth, CLE -4.5. Cleveland sits 6-4 on a one-game win streak, right behind Cincinnati.",
+        "Ravens at Texans, HOU -6.5. Baltimore is 4-7 on a six-game slide after losing 35-33 at Carolina.",
+        "Seahawks at 49ers, SF -2.5, total 44.5. San Francisco is 9-1 after hammering Minnesota 35-10 in Mexico City."
+      ]
+    },
     "pregame": null,
     "pregame_for": "401873087",
     "postgame": {
@@ -178,17 +188,7 @@
       "division_meaning": "Cincinnati stays first at 7-3 with a +83 differential, but it is L1. Cleveland and Pittsburgh are both 6-4. Baltimore is 4-7 on a six-game slide after losing 35-33 at Carolina.",
       "the_take": "The five-game win streak hid a run game that does not exist. 2.2 yards per carry and 150 rushing yards allowed is how you lose January games, not just Monday nights in Landover."
     },
-    "postgame_for": "401873078",
-    "league": {
-      "lines": [
-        "Thanksgiving night is the one: Chiefs at Bills, Buffalo -3, total 45.5, 9:20am Perth Friday. Buffalo is 9-1, KC 8-2 after a 34-7 win over Arizona.",
-        "Bears at Lions, 2:00am Friday Perth. Both 8-2, Chicago -1.5, total 55.5. Detroit beat Tampa Bay 31-21 last week.",
-        "Broncos at Steelers Saturday 4:00am Perth, DEN -3.5 with a 36.5 total in the rain. Pittsburgh is 6-4 and lost 19-16 in Philadelphia.",
-        "Browns host the Raiders Monday 9:20am Perth, CLE -4.5. Cleveland sits 6-4 on a one-game win streak, right behind Cincinnati.",
-        "Ravens at Texans, HOU -6.5. Baltimore is 4-7 on a six-game slide after losing 35-33 at Carolina.",
-        "Seahawks at 49ers, SF -2.5, total 44.5. San Francisco is 9-1 after hammering Minnesota 35-10 in Mexico City."
-      ]
-    }
+    "postgame_for": "401873078"
   },
   "written_at": "2026-11-26T07:44:38.426Z",
   "last_error": null
