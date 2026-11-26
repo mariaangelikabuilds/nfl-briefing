@@ -162,19 +162,10 @@
     "401873075",
     "401873076",
     "401873077",
-    "401873078"
+    "401873078",
+    "401873079"
   ],
   "briefing": {
-    "league": {
-      "lines": [
-        "Chiefs at Bills Friday 9:20am Perth, Buffalo -3, total 47.5. Buffalo is 9-1 after beating Miami 26-9, Kansas City 8-2 off a 34-7 win over Arizona.",
-        "Denver at Pittsburgh Saturday 4:00am Perth, Broncos -3, total 37.5. Denver is 8-2 after 38-24 over Las Vegas, Pittsburgh dropped 19-16 at Philadelphia.",
-        "San Francisco is 9-1 after a 35-10 win over Minnesota in Mexico City. Brock Purdy went 21/26, 255 yds, 3 TD. The Niners host Seattle at -3.",
-        "Bears at Lions Friday 2:00am Perth, both 8-2, Chicago -2.5 and a 55.5 total. The biggest total on the Week 12 board.",
-        "Cleveland hosts Las Vegas Monday 9:20am Perth at -4.5. A Browns win pulls them level with Cincinnati in the loss column.",
-        "Dallas put up 51 on Tennessee, Dak Prescott 28/33, 325 yds, 4 TD, and now sits -8.5 against the 3-7 Eagles on Thanksgiving."
-      ]
-    },
     "pregame": null,
     "pregame_for": "401873087",
     "postgame": {
@@ -187,8 +178,18 @@
       "division_meaning": "Cincinnati stays first at 7-3 with a +83 differential, but it is L1. Cleveland and Pittsburgh are both 6-4. Baltimore is 4-7 on a six-game slide after losing 35-33 at Carolina.",
       "the_take": "The five-game win streak hid a run game that does not exist. 2.2 yards per carry and 150 rushing yards allowed is how you lose January games, not just Monday nights in Landover."
     },
-    "postgame_for": "401873078"
+    "postgame_for": "401873078",
+    "league": {
+      "lines": [
+        "Thanksgiving night is the one: Chiefs at Bills, Buffalo -3, total 45.5, 9:20am Perth Friday. Buffalo is 9-1, KC 8-2 after a 34-7 win over Arizona.",
+        "Bears at Lions, 2:00am Friday Perth. Both 8-2, Chicago -1.5, total 55.5. Detroit beat Tampa Bay 31-21 last week.",
+        "Broncos at Steelers Saturday 4:00am Perth, DEN -3.5 with a 36.5 total in the rain. Pittsburgh is 6-4 and lost 19-16 in Philadelphia.",
+        "Browns host the Raiders Monday 9:20am Perth, CLE -4.5. Cleveland sits 6-4 on a one-game win streak, right behind Cincinnati.",
+        "Ravens at Texans, HOU -6.5. Baltimore is 4-7 on a six-game slide after losing 35-33 at Carolina.",
+        "Seahawks at 49ers, SF -2.5, total 44.5. San Francisco is 9-1 after hammering Minnesota 35-10 in Mexico City."
+      ]
+    }
   },
-  "written_at": "2026-11-24T09:20:05.044Z",
+  "written_at": "2026-11-26T07:44:38.426Z",
   "last_error": null
 }
