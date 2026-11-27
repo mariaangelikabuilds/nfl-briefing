@@ -163,19 +163,12 @@
     "401873076",
     "401873077",
     "401873078",
-    "401873079"
+    "401873079",
+    "401873080",
+    "401873081",
+    "401873082"
   ],
   "briefing": {
-    "league": {
-      "lines": [
-        "Thanksgiving night is the one: Chiefs at Bills, Buffalo -3, total 45.5, 9:20am Perth Friday. Buffalo is 9-1, KC 8-2 after a 34-7 win over Arizona.",
-        "Bears at Lions, 2:00am Friday Perth. Both 8-2, Chicago -1.5, total 55.5. Detroit beat Tampa Bay 31-21 last week.",
-        "Broncos at Steelers Saturday 4:00am Perth, DEN -3.5 with a 36.5 total in the rain. Pittsburgh is 6-4 and lost 19-16 in Philadelphia.",
-        "Browns host the Raiders Monday 9:20am Perth, CLE -4.5. Cleveland sits 6-4 on a one-game win streak, right behind Cincinnati.",
-        "Ravens at Texans, HOU -6.5. Baltimore is 4-7 on a six-game slide after losing 35-33 at Carolina.",
-        "Seahawks at 49ers, SF -2.5, total 44.5. San Francisco is 9-1 after hammering Minnesota 35-10 in Mexico City."
-      ]
-    },
     "pregame": null,
     "pregame_for": "401873087",
     "postgame": {
@@ -188,8 +181,18 @@
       "division_meaning": "Cincinnati stays first at 7-3 with a +83 differential, but it is L1. Cleveland and Pittsburgh are both 6-4. Baltimore is 4-7 on a six-game slide after losing 35-33 at Carolina.",
       "the_take": "The five-game win streak hid a run game that does not exist. 2.2 yards per carry and 150 rushing yards allowed is how you lose January games, not just Monday nights in Landover."
     },
-    "postgame_for": "401873078"
+    "postgame_for": "401873078",
+    "league": {
+      "lines": [
+        "Buffalo beat Kansas City 13-10 at Highmark to go 10-1. James Cook III carried 32 times for 117 yards and a score. Mahomes went 16/29 for 174 and the Chiefs fell to 8-3.",
+        "Chicago won 39-35 at Detroit to move to 9-2. Caleb Williams threw for 345 on 30/44. Jahmyr Gibbs ran 21 times for 205 and three TDs in the loss.",
+        "Philadelphia took Thanksgiving in Dallas 39-38. Joe Milton 21/31, 331 yards, 3 TD, 1 INT. DeVonta Smith had 11 catches for 200 and two scores.",
+        "AFC North watch: Denver is at Pittsburgh Saturday 4:00 am Perth, DEN -4.5, total 37.5, rain. Cleveland hosts Las Vegas Monday 9:20 am Perth as CLE -4.5.",
+        "Baltimore is at Houston Monday 2:00 am Perth, HOU -6.5, total 47.5. The Ravens are 4-7 after losing 35-33 at Carolina.",
+        "San Francisco, 9-1, hosts Seattle Monday 5:25 am Perth as SF -3 with a 43.5 total. The Niners beat Minnesota 35-10 in Mexico City."
+      ]
+    }
   },
-  "written_at": "2026-11-26T07:44:38.426Z",
+  "written_at": "2026-11-27T07:43:31.215Z",
   "last_error": null
 }
