@@ -169,7 +169,21 @@
     "401873082"
   ],
   "briefing": {
-    "pregame": null,
+    "pregame": {
+      "matchup_read": "Bengals host the Saints at Paycor on Monday 2:00 am Perth, cloudy and 9C. Cincinnati is 7-3 and laying 9.5 with a total of 48.5. New Orleans is 3-7 and coming off a 21-13 loss in Chicago.",
+      "storylines": [
+        "ESPN's preview frames it as the Bengals trying to get back on track on a short week after Monday night, with Thanksgiving squeezing the practice schedule.",
+        "Cincinnati is on L1 after losing 22-20 at Washington. Burrow threw for 300 on 28 of 40 with 2 touchdowns and the run game still managed 31 yards on 14 carries.",
+        "A headline from Katherine Terrell asks whether the Saints offensive line will be at full strength Sunday, with linemen back at practice.",
+        "Tyler Shough went 25 of 42 for 222 with a touchdown and a pick against the Bears. Chris Olave had 9 catches for 102."
+      ],
+      "watch_for": [
+        "The run game. 2.2 yards a carry at Washington, with Perine at 6 for 26 and Chase Brown 6 for 6, is why a 300-yard passing day turned into 20 points.",
+        "Third down. Cincinnati went 4 of 12 in Landover and still had only 10 drives. Short week, so watch whether the early script gets cleaner.",
+        "Gesicki and Perine as outlets. They combined for 9 catches and 148 yards last week while Higgins had 2 for 43 with the score."
+      ],
+      "the_call": "Bengals win but do not cover the 9.5. Burrow gets his yards, the ground game stays stuck near last week's 2.2 a carry, and the Saints hang around into the fourth."
+    },
     "pregame_for": "401873087",
     "postgame": {
       "what_decided_it": "Cincinnati ran for 31 yards on 14 carries and went 4-12 on third down. Washington gained 428 yards at 6.7 a play and moved 64 yards in 34 seconds at the end to set up the winning kick.",
@@ -184,15 +198,15 @@
     "postgame_for": "401873078",
     "league": {
       "lines": [
-        "Buffalo beat Kansas City 13-10 at Highmark to go 10-1. James Cook III carried 32 times for 117 yards and a score. Mahomes went 16/29 for 174 and the Chiefs fell to 8-3.",
-        "Chicago won 39-35 at Detroit to move to 9-2. Caleb Williams threw for 345 on 30/44. Jahmyr Gibbs ran 21 times for 205 and three TDs in the loss.",
-        "Philadelphia took Thanksgiving in Dallas 39-38. Joe Milton 21/31, 331 yards, 3 TD, 1 INT. DeVonta Smith had 11 catches for 200 and two scores.",
-        "AFC North watch: Denver is at Pittsburgh Saturday 4:00 am Perth, DEN -4.5, total 37.5, rain. Cleveland hosts Las Vegas Monday 9:20 am Perth as CLE -4.5.",
-        "Baltimore is at Houston Monday 2:00 am Perth, HOU -6.5, total 47.5. The Ravens are 4-7 after losing 35-33 at Carolina.",
-        "San Francisco, 9-1, hosts Seattle Monday 5:25 am Perth as SF -3 with a 43.5 total. The Niners beat Minnesota 35-10 in Mexico City."
+        "Buffalo beat Kansas City 13-10 at Highmark. Bills are 10-1, Chiefs 8-3. James Cook III carried 32 times for 117 and a score while Mahomes went 16 of 29 for 174.",
+        "Chicago won 39-35 at Detroit and sits 9-2. Caleb Williams threw for 345 on 30 of 44. Jahmyr Gibbs ran 21 times for 205 and 3 touchdowns in the loss.",
+        "Steelers and Broncos are live at Acrisure, 11:22 left in the second. Pittsburgh is 6-4, Denver 8-2.",
+        "Browns host the Raiders Monday 9:20 am Perth as 4.5 point favourites, total 39.5. Cleveland is 6-4 and in the AFC North chase.",
+        "Ravens are 4-7 and at Houston, with the Texans favoured by 6.5 and a total of 47.5. Kickoff Monday 2:00 am Perth.",
+        "Eagles won 39-38 in Dallas. DeVonta Smith went 11 for 200 and 2 scores, Joe Milton 21 of 31 for 331 and 3 touchdowns."
       ]
     }
   },
-  "written_at": "2026-11-27T07:43:31.215Z",
+  "written_at": "2026-11-27T20:56:55.288Z",
   "last_error": null
 }
