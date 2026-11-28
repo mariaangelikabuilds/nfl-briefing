@@ -166,7 +166,8 @@
     "401873079",
     "401873080",
     "401873081",
-    "401873082"
+    "401873082",
+    "401873083"
   ],
   "briefing": {
     "pregame": {
@@ -198,15 +199,15 @@
     "postgame_for": "401873078",
     "league": {
       "lines": [
-        "Buffalo beat Kansas City 13-10 at Highmark. Bills are 10-1, Chiefs 8-3. James Cook III carried 32 times for 117 and a score while Mahomes went 16 of 29 for 174.",
-        "Chicago won 39-35 at Detroit and sits 9-2. Caleb Williams threw for 345 on 30 of 44. Jahmyr Gibbs ran 21 times for 205 and 3 touchdowns in the loss.",
-        "Steelers and Broncos are live at Acrisure, 11:22 left in the second. Pittsburgh is 6-4, Denver 8-2.",
-        "Browns host the Raiders Monday 9:20 am Perth as 4.5 point favourites, total 39.5. Cleveland is 6-4 and in the AFC North chase.",
-        "Ravens are 4-7 and at Houston, with the Texans favoured by 6.5 and a total of 47.5. Kickoff Monday 2:00 am Perth.",
-        "Eagles won 39-38 in Dallas. DeVonta Smith went 11 for 200 and 2 scores, Joe Milton 21 of 31 for 331 and 3 touchdowns."
+        ">Buffalo beat Kansas City 13-10 at Highmark to move to 10-1. Mahomes went 16/29 for 174 yards. The Chiefs drop to 8-3 and the AFC top seed is slipping away.",
+        "Pittsburgh hammered Denver 27-5 on Prime. Bo Nix: 22/40, 169 yards, 2 INT. The Steelers are 7-4 and Denver falls to 8-3.",
+        "Chicago won 39-35 at Detroit on Thanksgiving despite Jahmyr Gibbs going 21 carries for 205 yards and 3 TDs. Bears 9-2, Lions 8-3.",
+        "Philadelphia edged Dallas 39-38. Joe Milton threw for 331 and 3 TDs, DeVonta Smith had 11 catches for 200 yards and 2 scores.",
+        "Seahawks at 49ers is the Week 12 line of note: SEA -1.5, total 42.5, rain in Santa Clara, Mon 30 Nov, 5:25 am Perth.",
+        "Cleveland hosts Las Vegas Monday 9:20 am Perth as CLE -4.5, total 39.5. A Browns win keeps them at the edge of the AFC North race."
       ]
     }
   },
-  "written_at": "2026-11-27T20:56:55.288Z",
+  "written_at": "2026-11-28T07:12:14.085Z",
   "last_error": null
 }

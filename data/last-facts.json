@@ -1,5 +1,5 @@
 {
-  "now_perth": "Sat, 28 Nov, 4:56 am",
+  "now_perth": "Sat, 28 Nov, 3:12 pm",
   "bengals_next": {
     "id": "401873087",
     "week": 12,
@@ -13,8 +13,8 @@
       "tempC": 9
     },
     "moneyline": {
-      "away": "+436",
-      "home": "-581"
+      "away": "+418",
+      "home": "-550"
     },
     "detail": "11/29 - 1:00 PM EST",
     "final": false,
@@ -100,7 +100,7 @@
     ],
     "kickoff_perth": "Tue, 24 Nov, 9:15 am"
   },
-  "write_pregame": true,
+  "write_pregame": false,
   "write_postgame": false,
   "division": {
     "name": "AFC North",
@@ -115,6 +115,15 @@
         "diff": "+83"
       },
       {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers",
+        "wins": "7",
+        "losses": "4",
+        "ties": "0",
+        "streak": "W1",
+        "diff": "+35"
+      },
+      {
         "abbr": "CLE",
         "name": "Cleveland Browns",
         "wins": "6",
@@ -122,15 +131,6 @@
         "ties": "0",
         "streak": "W1",
         "diff": "-32"
-      },
-      {
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers",
-        "wins": "6",
-        "losses": "4",
-        "ties": "0",
-        "streak": "L2",
-        "diff": "+13"
       },
       {
         "abbr": "BAL",
@@ -281,6 +281,18 @@
   },
   "news_bengals": [
     {
+      "headline": "Bengals WR Tee Higgins dealing with 'sore' hamstring, says coach Zac Taylor",
+      "summary": "Bengals receiver Tee Higgins is dealing with a \"sore\" hamstring, according to coach Zac Taylor, and is listed as questionable for Sunday's game vs. the Saints.",
+      "published": "2026-11-27T22:33:18Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50614804/bengals-wr-higgins-dealing-sore-hamstring-says-taylor"
+    },
+    {
+      "headline": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
+      "summary": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
+      "published": "2026-11-27T21:58:32Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms"
+    },
+    {
       "headline": "NFL Week 12 arrivals: Cameron Heyward leads arrivals ahead of Steelers-Broncos",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "published": "2026-11-27T18:59:58Z",
@@ -295,14 +307,8 @@
     {
       "headline": "NFL Week 12 preview: Picks, predictions, schedule, betting odds, fantasy tips",
       "summary": "Seahawks vs. 49ers? Kirk Cousins against Atlanta? There are 12 more games in Week 12, and we have picks, predictions and more for all of them.",
-      "published": "2026-11-27T11:48:57Z",
+      "published": "2026-11-28T01:43:38Z",
       "url": "https://www.espn.com/nfl/story/_/id/50587851/week-12-picks-predictions-schedule-fantasy-odds-2026"
-    },
-    {
-      "headline": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
-      "summary": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
-      "published": "2026-11-27T00:24:39Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms"
     },
     {
       "headline": "NFL Week 12 betting odds: Lines and totals for every game",
@@ -321,15 +327,33 @@
       "summary": "ESPN NFL survivor pool strategy, predictions and ranking the top seven options for Week 12.",
       "published": "2026-11-25T18:23:21Z",
       "url": "https://www.espn.com/fantasy/football/story/_/id/50594339/nfl-survivor-week-12-survivor-pool-strategy-advice-picks"
-    },
-    {
-      "headline": "NFL Week 12 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-      "summary": "Where could Daniel Jones land? What's the latest on coaching hot seats? What's next for Puka Nacua? And who is getting MVP love in league circles?",
-      "published": "2026-11-25T18:44:11Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50582929/week-12-buzz-fantasy-predictions-graziano-fowler-2026"
     }
   ],
   "news_opponent": [
+    {
+      "headline": "NFL Week 12 betting odds: Lines and totals for every game",
+      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
+      "published": "2026-11-28T03:51:36Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals"
+    },
+    {
+      "headline": "Why Jordyn Tyson needs a big game for Saints",
+      "summary": "Katherine Terrell explains why Jordyn Tyson's appearance in the game for New Orleans will make a difference.",
+      "published": "2026-11-27T22:35:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/50614998/why-jordyn-tyson-needs-big-game-saints"
+    },
+    {
+      "headline": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
+      "summary": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
+      "published": "2026-11-27T21:58:32Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms"
+    },
+    {
+      "headline": "Saints rule TE Juwan Johnson out vs. Bengals; TE Noah Fant questionable",
+      "summary": "The Saints ruled out tight end Juwan Johnson with a hamstring and wrist injuries while backup Noah Fant is questionable with a calf injury vs. the Bengals.",
+      "published": "2026-11-27T22:06:53Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50613922/saints-rule-te-johnson-vs-bengals-te-fant-questionable"
+    },
     {
       "headline": "NFL Week 12 arrivals: Cameron Heyward leads arrivals ahead of Steelers-Broncos",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
@@ -345,38 +369,14 @@
     {
       "headline": "NFL Week 12 preview: Picks, predictions, schedule, betting odds, fantasy tips",
       "summary": "Seahawks vs. 49ers? Kirk Cousins against Atlanta? There are 12 more games in Week 12, and we have picks, predictions and more for all of them.",
-      "published": "2026-11-27T11:48:57Z",
+      "published": "2026-11-28T01:43:38Z",
       "url": "https://www.espn.com/nfl/story/_/id/50587851/week-12-picks-predictions-schedule-fantasy-odds-2026"
-    },
-    {
-      "headline": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
-      "summary": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
-      "published": "2026-11-27T00:24:39Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms"
     },
     {
       "headline": "Will the Saints OL be at full strength for Sunday?",
       "summary": "Katherine Terrell reports on the Saints offensive line returning to practice ahead of their matchup with the Bengals.",
       "published": "2026-11-27T00:20:58Z",
       "url": "https://www.espn.com/video/clip/_/id/50607388/will-saints-ol-full-strength-sunday"
-    },
-    {
-      "headline": "NFL Week 12 betting odds: Lines and totals for every game",
-      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
-      "published": "2026-11-26T14:29:00Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals"
-    },
-    {
-      "headline": "Bengals look to get back on track when they host the Saints on a short week",
-      "summary": "Most coaches don't like coming off a Monday night game the week of Thanksgiving because of changes to the practice schedule and a short week of preparation becoming even more condensed.",
-      "published": "2026-11-26T00:37:33Z",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873087"
-    },
-    {
-      "headline": "NFL Week 12 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-      "summary": "Where could Daniel Jones land? What's the latest on coaching hot seats? What's next for Puka Nacua? And who is getting MVP love in league circles?",
-      "published": "2026-11-25T18:44:11Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50582929/week-12-buzz-fantasy-predictions-graziano-fowler-2026"
     }
   ],
   "league_week": 12,
@@ -1282,31 +1282,27 @@
       "week": 12,
       "kickoff": "2026-11-27T20:00Z",
       "timeValid": true,
-      "state": "in",
-      "clock": "11:22 Q2",
-      "weather": {
-        "text": "7",
-        "tempF": 39,
-        "tempC": 4
-      },
+      "state": "post",
+      "clock": null,
+      "weather": null,
       "moneyline": null,
-      "detail": "11:22 - 2nd",
-      "final": false,
+      "detail": "Final",
+      "final": true,
       "home": {
         "id": "23",
         "abbr": "PIT",
         "name": "Pittsburgh Steelers",
-        "score": null,
-        "winner": null,
-        "record": "6-4"
+        "score": 27,
+        "winner": true,
+        "record": "7-4"
       },
       "away": {
         "id": "7",
         "abbr": "DEN",
         "name": "Denver Broncos",
-        "score": null,
-        "winner": null,
-        "record": "8-2"
+        "score": 5,
+        "winner": false,
+        "record": "8-3"
       },
       "line": null,
       "overUnder": null,
@@ -1315,7 +1311,26 @@
       "tv": [
         "Prime Video"
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "stat": "passingYards",
+          "line": "22/40, 169 YDS, 2 INT",
+          "player": "Bo Nix",
+          "team": null
+        },
+        {
+          "stat": "rushingYards",
+          "line": "11 CAR, 71 YDS",
+          "player": "Rico Dowdle",
+          "team": null
+        },
+        {
+          "stat": "receivingYards",
+          "line": "1 REC, 58 YDS",
+          "player": "Germie Bernard",
+          "team": null
+        }
+      ],
       "kickoff_perth": "Sat, 28 Nov, 4:00 am"
     },
     {
@@ -1327,12 +1342,12 @@
       "clock": null,
       "weather": {
         "text": "Rain",
-        "tempF": 47,
+        "tempF": 46,
         "tempC": 8
       },
       "moneyline": {
-        "away": "-272",
-        "home": "+225"
+        "away": "-266",
+        "home": "+221"
       },
       "detail": "11/29 - 1:00 PM EST",
       "final": false,
@@ -1371,12 +1386,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 77,
-        "tempC": 25
+        "tempF": 78,
+        "tempC": 26
       },
       "moneyline": {
-        "away": "-257",
-        "home": "+211"
+        "away": "-258",
+        "home": "+212"
       },
       "detail": "11/29 - 1:00 PM EST",
       "final": false,
@@ -1419,8 +1434,8 @@
         "tempC": 2
       },
       "moneyline": {
-        "away": "+260",
-        "home": "-321"
+        "away": "+252",
+        "home": "-310"
       },
       "detail": "11/29 - 1:00 PM EST",
       "final": false,
@@ -1459,12 +1474,12 @@
       "clock": null,
       "weather": {
         "text": "Partly sunny",
-        "tempF": 63,
-        "tempC": 17
+        "tempF": 65,
+        "tempC": 18
       },
       "moneyline": {
-        "away": "+640",
-        "home": "-950"
+        "away": "+630",
+        "home": "-930"
       },
       "detail": "11/29 - 1:00 PM EST",
       "final": false,
@@ -1547,12 +1562,12 @@
       "clock": null,
       "weather": {
         "text": "Intermittent clouds",
-        "tempF": 72,
-        "tempC": 22
+        "tempF": 73,
+        "tempC": 23
       },
       "moneyline": {
-        "away": "-139",
-        "home": "+117"
+        "away": "-150",
+        "home": "+127"
       },
       "detail": "11/29 - 4:05 PM EST",
       "final": false,
@@ -1572,8 +1587,8 @@
         "winner": null,
         "record": "5-5"
       },
-      "line": "NE -2.5",
-      "overUnder": 35.5,
+      "line": "NE -3",
+      "overUnder": 34.5,
       "venue": "SoFi Stadium",
       "city": "Inglewood",
       "tv": [
@@ -1595,8 +1610,8 @@
         "tempC": 24
       },
       "moneyline": {
-        "away": "-349",
-        "home": "+280"
+        "away": "-343",
+        "home": "+276"
       },
       "detail": "11/29 - 4:25 PM EST",
       "final": false,
@@ -1639,8 +1654,8 @@
         "tempC": 20
       },
       "moneyline": {
-        "away": "+128",
-        "home": "-152"
+        "away": "-121",
+        "home": "+102"
       },
       "detail": "11/29 - 4:25 PM EST",
       "final": false,
@@ -1660,8 +1675,8 @@
         "winner": null,
         "record": "6-4"
       },
-      "line": "SF -3",
-      "overUnder": 43.5,
+      "line": "SEA -1.5",
+      "overUnder": 42.5,
       "venue": "Levi's Stadium",
       "city": "Santa Clara",
       "tv": [
@@ -1679,12 +1694,12 @@
       "clock": null,
       "weather": {
         "text": "Cloudy",
-        "tempF": 50,
-        "tempC": 10
+        "tempF": 49,
+        "tempC": 9
       },
       "moneyline": {
-        "away": "+196",
-        "home": "-238"
+        "away": "+199",
+        "home": "-241"
       },
       "detail": "11/29 - 8:20 PM EST",
       "final": false,
